@@ -1,0 +1,24 @@
+[book]
+authors = ["安竹 洋平"]
+language = "ja"
+multilingual = false
+src = "src"
+title = "安竹の一般質問・委員会活動・スタンス等"
+description = "小平市議会議員 安竹洋平の、一般質問、委員会活動、スタンス等についてまとめています。"
+
+[output.html]
+theme = "src/theme"
+git-repository-url="https://github.com/yasutakeyohei/yasutake"
+google-analytics="UA-144705402-1"
+additional-js=["medium-zoom.js"]
+
+[output.html.fold]
+enable = true
+level = 0
+
+[output.html.search]
+enable = false
+
+[output.z]
+command = "python ../../postprocess.py"
+optional = true
