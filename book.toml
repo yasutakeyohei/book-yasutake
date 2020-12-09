@@ -3,7 +3,7 @@ authors = ["安竹 洋平"]
 language = "ja"
 multilingual = false
 src = "src"
-title = "安竹の一般質問・委員会活動・スタンス等"
+title = "小平市議会議員 安竹洋平の主張等まとめ"
 description = "小平市議会議員 安竹洋平の、一般質問、委員会活動、スタンス等についてまとめています。"
 
 [output.html]
