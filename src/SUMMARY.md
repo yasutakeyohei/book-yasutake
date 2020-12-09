@@ -1,5 +1,19 @@
 # Summary
 
-[小平市議・安竹洋平の一般質問等まとめ](./index.md)
-- [一般質問](./ippan.md)
-  - [令和元年6月 ]
+[小平市議会議員 安竹洋平の主張等まとめ](./index.md)
+- [一般質問](./ippan/index.md)
+  - [令和2年12月](./ippan/r2/12-gatu.md)
+  - [令和2年9月](./ippan/r2/9-gatu.md)
+  - [令和2年6月](./ippan/r2/6-gatu.md)
+  - [令和2年3月](./ippan/r2/3-gatu.md)
+  - [令和元年12月](./ippan/r1/12-gatu.md)
+  - [令和元年9月](./ippan/r1/9-gatu.md)
+  - [令和元年6月](./ippan/r1/6-gatu.md)
+- [その他 作成資料等](./sonota/index.md)
+  - [厚生委員会](./sonota/kousei/index.md)
+    - [令和2年度 ひとり親家庭の実態調査を](./sonota/kousei/r2/hitorioya.md)
+    - [令和2年度 子ども条例反対意見](./sonota/kousei/r2/kodomojorei-hantai.md)
+  - [広聴広報委員会](./sonota/koutyou-koho/index.md)
+    - [令和2年度 提案](./sonota/koutyou-koho/r2/teian.md)
+- [スタンス](./stance.md)
+- [小平市の問題点一覧](./kodaira-mondai.md)
