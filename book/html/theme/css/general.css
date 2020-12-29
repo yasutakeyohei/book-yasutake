@@ -238,6 +238,7 @@ fieldset.touben {
     border-radius: 1rem;
     line-height: 1.8em;
     margin-bottom:3rem;
+    min-width: 0; /* overflow-x:autoを効かせるため */
 }
 fieldset.touben legend {
     font-weight: bold;
@@ -279,25 +280,46 @@ div.tips ul {
     position: relative;
     border:1px solid gray;
     background-color:#fafafa
-  }
-  .letter:before, .letter:after {
+}
+.letter:before, .letter:after {
     content: "";
     height: 98%;
     position: absolute;
     width: 100%;
     z-index: -1;
-  }
-  .letter:before {
+}
+.letter:before {
     background: #fafafa;
     box-shadow: 0 0 8px rgba(0,0,0,0.2);
     left: -5px;
     top: 4px;
     transform: rotate(-1deg);
-  }
-  .letter:after {
+}
+.letter:after {
     background: #f6f6f6;
     box-shadow: 0 0 3px rgba(0,0,0,0.2);
     right: -3px;
     top: 1px;
     transform: rotate(0.4deg);
-  }
+}
+
+div.table-wrapper {
+    overflow-x:auto;
+    margin:2rem 0;
+}
+
+table.simple {
+    border: 1px solid rgb(189, 189, 189);
+    padding: 0;
+    background-color: var(--bg);
+}
+
+table.simple th,
+table.simple td {
+    border: 1px solid rgb(189, 189, 189);
+    padding: 0.8rem;
+    line-height: 2rem;
+}
+table.simple th {
+    white-space:nowrap;
+}
