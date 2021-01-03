@@ -260,11 +260,11 @@ div.tips {
     padding: 1rem 2rem;
     border: 2px dashed #174894;
 }
-div.tips p:last-of-type {
-    margin-bottom:0;
-}
 div.tips p:first-of-type {
     margin:1rem 0;
+}
+div.tips p:last-of-type {
+    margin-bottom:0;
 }
 div.tips:before {
     font-weight: bold;
