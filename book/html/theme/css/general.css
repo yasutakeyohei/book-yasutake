@@ -232,8 +232,7 @@ fieldset.point {
 }
 
 fieldset.touben {
-    background-color: #f0ffff;
-    border-color: #f0f8ff;
+    background-color: #faf0e6;
     padding: 0.5rem 1.5rem 1rem 1.5rem;
     border-radius: 1rem;
     line-height: 1.8em;
@@ -245,6 +244,9 @@ fieldset.touben legend {
 }
 fieldset.touben p:last-of-type {
     margin-bottom:0;
+}
+fieldset.touben span {
+    color: red;
 }
 
 p.read-kaigiroku {
