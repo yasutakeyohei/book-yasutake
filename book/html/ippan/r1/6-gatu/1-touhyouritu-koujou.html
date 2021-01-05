@@ -373,6 +373,21 @@ h4 {
         </div>
 
         
+        <!-- Livereload script (if served using the cli tool) -->
+        <script type="text/javascript">
+            var socket = new WebSocket("ws://localhost:3000/__livereload");
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
+        
 
         
         <!-- Google Analytics Tag -->
@@ -413,6 +428,9 @@ h4 {
         
         <script type="text/javascript" src="../../../medium-zoom.js"></script>
         
+        <script type="text/javascript">
+            mediumZoom('[data-zoomable]');
+        </script>
 
         
 
