@@ -268,7 +268,7 @@ h4 {
 <tr><td>A</td><td>100万円</td><td>20万円</td><td>80万円</td><td>大きい方</td></tr>
 <tr><td>B</td><td>150万円</td><td>100万円</td><td>50万円</td><td>小さい方</td></tr>
 </table>
-<div>
+</div>
 
 <fieldset class="touben">
 <legend><span class="q-a">A.</span> 企画政策部長（津嶋 陽彦）</legend>
