@@ -18,19 +18,19 @@ h4 {
   <legend>
     <h2 class="point"> まとめ </h2>
   </legend>
-  <p class="point">✔ </p>
-  <p class="point">✔ </p>
-  <p class="point">✔ </p>
+  <p class="point">✔ <span> → </span></p>
+  <p class="point">✔ <span> → </span></p>
+  <p class="point">✔ <span> → </span></p>
 </fieldset>
 
 <h3 style="margin-top:0"> 初回質問・初回答弁</h3>
 
 <div class="letter">
 
-**Q1.** 
+<span class="q-a">Q1.</span> 
 
 <fieldset class="touben">
-<legend>A: xx長（xx）</legend>
+<legend><span class="q-a">A.</span> xx長（xx）</legend>
 
 </fieldset>
 
