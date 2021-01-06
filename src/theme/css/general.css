@@ -245,8 +245,14 @@ fieldset.touben legend {
 fieldset.touben p:last-of-type {
     margin-bottom:0;
 }
+fieldset.touben p:first-of-type {
+    margin-top:0;
+}
 fieldset.touben span {
     color: red;
+}
+fieldset.touben span.q-a {
+    color: inherit;
 }
 
 p.read-kaigiroku {
@@ -324,4 +330,28 @@ table.simple td {
 }
 table.simple th {
     white-space:nowrap;
+}
+
+fieldset.tosyokan {
+    border: 1px dashed gray;
+    border-radius: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+fieldset.tosyokan img {
+    padding: 1rem 2rem 1rem 1rem;
+    max-width: none;
+}
+fieldset.tosyokan p {
+    margin: 0;
+}
+
+figure {
+    text-align:center;
+}
+
+span.q-a {
+    font-family: "Trebuchet MS";
+    font-weight: bold;
 }
