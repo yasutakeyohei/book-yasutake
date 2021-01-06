@@ -14,6 +14,10 @@ h4 {
 
 # （１）小平市内の事業者でできることを第一に考えよ
 
+<figure style="margin:1rem 0 4rem 0">
+<img src="./images/tudura.jpg" alt="大きなつづらと小さなつづら" data-zoomable="" style="z-index:999">
+</figure>
+
 <p style="text-align:right"><a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">📄会議録を見る（まだ公開されていません）</a></p>
 
 <fieldset class="point">
