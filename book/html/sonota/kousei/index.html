@@ -7,15 +7,22 @@
         
         
 
-
         <!-- Custom HTML head -->
         
 
 
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <meta name="description" content="小平市議会議員 安竹洋平の、一般質問、委員会活動、スタンス等についてまとめています。">
+        <!-- yield meta description here -->
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff" />
+
+        <!-- OGP -->
+        <meta property="og:site_name" content="小平市議会議員 安竹洋平の主張等まとめ" />
+        <meta property="og:title" content="厚生委員会" />
+        <meta property="og:type" content="article" />
+        <!-- yield og:image:* here -->
+        <!-- yield og:description here -->
+        <meta property="og:locale" content="ja_JP" />
 
         
         <link rel="icon" href="../../favicon.svg">
@@ -191,21 +198,6 @@
 
         </div>
 
-        
-        <!-- Livereload script (if served using the cli tool) -->
-        <script type="text/javascript">
-            var socket = new WebSocket("ws://localhost:3000/__livereload");
-            socket.onmessage = function (event) {
-                if (event.data === "reload") {
-                    socket.close();
-                    location.reload();
-                }
-            };
-
-            window.onbeforeunload = function() {
-                socket.close();
-            }
-        </script>
         
 
         

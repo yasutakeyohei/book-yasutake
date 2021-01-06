@@ -251,6 +251,9 @@ fieldset.touben p:first-of-type {
 fieldset.touben span {
     color: red;
 }
+fieldset.touben span.q-a {
+    color: inherit;
+}
 
 p.read-kaigiroku {
     text-align: right;
@@ -346,4 +349,9 @@ fieldset.tosyokan p {
 
 figure {
     text-align:center;
+}
+
+span.q-a {
+    font-family: "Trebuchet MS";
+    font-weight: bold;
 }
