@@ -6,10 +6,10 @@ import datetime
 
 from datetime import datetime as dt
 
-description =""
-def cutDesc(match):
-    global description
-    description = match.groups()[0]
+matchedStr =""
+def getMatched(match):
+    global matchedStr
+    matchedStr = match.groups()[0]
     return ""
 
 removeIndexRe1 = r"(href\s*?\=\s*?\")index\.html(.*?\")"
@@ -30,7 +30,7 @@ for filepath in glob.iglob('../../book/**/*.html', recursive=True):
         fp = re.sub(r"..\\..\\book\\html\\(.+)\.html", "\\1.md", filepath, 0)
         fp = fp.replace("\\", "/")
 
-    githubp = "https://github.com/yasutakeyohei/Reiwa2/commits/master/src/" + fp
+    githubp = "https://github.com/yasutakeyohei/book-yasutake/commits/master/src/" + fp
     fp = "../../src/" + fp
     # print(fp)
     # print(githubp)
@@ -47,11 +47,24 @@ for filepath in glob.iglob('../../book/**/*.html', recursive=True):
     s = re.sub(removeIndexRe1, subst1, s, 0) #"index.html"の削除
     s = re.sub(removeIndexRe2, subst2, s, 0) #"~/~/index.html"の削除
 
-    description = ""
-    s = re.sub(r"<p>.*{{description:(.*)}}.*</p>", cutDesc, s, 0)
-    if (description != "") :
-        meta = f'<meta name="description" content="{description}">'
+    matchedStr = ""
+    s = re.sub(r"<p>.*{{description:(.*)}}.*</p>", getMatched, s, 0)
+    if (matchedStr != "") :
+        meta = f'<meta name="description" content="{matchedStr}">'
         s = s.replace("<!-- yield meta description here -->", meta, 1)
+        meta = f'<meta property="og:description" content="{matchedStr}" />'
+        s = s.replace("<!-- yield og:description here -->", meta, 1)
+
+    matchedStr = ""
+    s = re.sub(r"<p>.*{{og-image:\s*(.*)}}.*</p>", getMatched, s, 0)
+
+    if (matchedStr != "") :
+        imageURL, w, h = [x.strip() for x in matchedStr.split(',')]
+        meta = '''<meta property="og:image" content="{imageURL}" />
+        <meta property="og:image:secure_url" content="{imageURL}" />
+        <meta property="og:image:width" content="{w}" />
+        <meta property="og:image:height" content="{h}" />'''.format(imageURL = imageURL, w = w, h = h)
+        s = s.replace("<!-- yield og:image:* here -->", meta, 1)
 
     if key != "" :
         replace = '''
