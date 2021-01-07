@@ -12,11 +12,11 @@ h4 {
 }
 </style>
 
+# （１）小平市内の事業者でできることを第一に考えよ
+
 <figure style="margin:1rem 0 4rem 0">
 <img src="./images/tudura.jpg" alt="大きなつづらと小さなつづら" data-zoomable="" style="z-index:999">
 </figure>
-
-# （１）小平市内の事業者でできることを第一に考えよ
 
 <p style="text-align:right"><a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">📄会議録を見る（まだ公開されていません）</a></p>
 
@@ -313,7 +313,9 @@ h4 {
 
 <div class="tips">
 <strong style="color:red">😅 なぜか答弁でははっきり言えないようです</strong>
+
 事前の確認では「計算は間違えていた、経済波及効果は普段使う分は含まない。おっしゃる計算方法が正しい」と言っていました。このあたりの答弁、まぁ仕方ないですね・・・。
+
 </div>
 
 なぜビシッと言えないのか分からないが。だれも「予算消化率、新規需要率を正確に出せる」とは思っていない。ただ、ある程度の推測はできる。たとえば以下のように。

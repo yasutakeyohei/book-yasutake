@@ -12,11 +12,11 @@ h4 {
 }
 </style>
 
+# （２）公共施設予約システム改修の内容は
+
 <figure style="margin:4rem 0">
 <img src="./images/kiosk.jpg" alt="キオスク" data-zoomable="" style="z-index:999">
 </figure>
-
-# （２）公共施設予約システム改修の内容は
 
 <p style="text-align:right"><a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">📄会議録を見る（まだ公開されていません）</a></p>
 
