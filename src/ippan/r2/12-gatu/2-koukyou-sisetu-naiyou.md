@@ -1,4 +1,4 @@
-<p class="breadcrumbs"><a href="../../../index.md">安竹洋平の主張等</a> > <a href="../../index.md">一般質問</a> > <a href="./index.md">令和2年12月定例会一般質問</a> > 
+<p class="breadcrumbs"><a href="../../../index.md">小平市議 安竹洋平の主張等</a> > <a href="../../index.md">一般質問</a> > <a href="./index.md">令和2年12月定例会</a> > 2件目
 
 {{first:2020-12-28}}
 
@@ -12,11 +12,11 @@ h4 {
 }
 </style>
 
-# （２）公共施設予約システム改修の内容は
-
 <figure style="margin:4rem 0">
 <img src="./images/kiosk.jpg" alt="キオスク" data-zoomable="" style="z-index:999">
 </figure>
+
+# （２）公共施設予約システム改修の内容は
 
 <p style="text-align:right"><a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">📄会議録を見る（まだ公開されていません）</a></p>
 

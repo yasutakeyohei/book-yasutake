@@ -1,4 +1,4 @@
-<p class="breadcrumbs"><a href="../../../index.md">安竹洋平の主張等</a> > <a href="../../index.md">一般質問</a> > <a href="./index.md">令和2年9月定例会一般質問</a> > 
+<p class="breadcrumbs"><a href="../../../index.md">小平市議 安竹洋平の主張等</a> > <a href="../../index.md">一般質問</a> > <a href="./index.md">令和2年9月定例会</a> > 1件目
 
 {{first:2020-12-28}}
 
