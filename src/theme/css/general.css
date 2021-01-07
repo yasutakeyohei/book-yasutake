@@ -175,6 +175,19 @@ blockquote {
 
 /* custom */
 
+div.back-to-main-site {
+    background-color: #fff;
+    border: 1px solid gray;
+    box-shadow: 2px 2px 1px 1px rgba(0, 0, 0, .1);
+}
+
+div.back-to-main-site a {
+    display: block;
+    padding: 10px 0 8px 8px;
+    text-decoration: none;
+    width: 100%;
+}
+
 /* チャプター番号を非表示に */
 li.chapter-item {
     white-space: nowrap;
