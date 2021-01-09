@@ -23,6 +23,7 @@
         <!-- yield og:image:* here -->
         <!-- yield og:description here -->
         <meta property="og:locale" content="ja_JP" />
+        <meta property="og:favicon" content="https://yasutakeyohei.com/books/yasutake/favicon.svg" />
 
         
         <link rel="icon" href="../../favicon.svg">
@@ -200,21 +201,6 @@
 
         </div>
 
-        
-        <!-- Livereload script (if served using the cli tool) -->
-        <script type="text/javascript">
-            var socket = new WebSocket("ws://localhost:3000/__livereload");
-            socket.onmessage = function (event) {
-                if (event.data === "reload") {
-                    socket.close();
-                    location.reload();
-                }
-            };
-
-            window.onbeforeunload = function() {
-                socket.close();
-            }
-        </script>
         
 
         
