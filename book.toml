@@ -8,7 +8,7 @@ description = "小平市議会議員 安竹洋平の、一般質問、委員会�
 
 [output.html]
 theme = "src/theme"
-git-repository-url="https://github.com/yasutakeyohei/yasutake"
+git-repository-url="https://github.com/yasutakeyohei/book-yasutake"
 google-analytics="UA-144705402-1"
 additional-js=["medium-zoom.js"]
 
