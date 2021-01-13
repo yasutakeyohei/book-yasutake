@@ -175,6 +175,10 @@ blockquote {
 
 /* custom */
 
+h5 {
+    font-size:1.6rem;
+}
+
 div.back-to-main-site {
     background-color: #fff;
     border: 1px solid gray;
