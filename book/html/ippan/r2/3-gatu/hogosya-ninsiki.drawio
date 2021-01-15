@@ -1,0 +1,85 @@
+<mxfile host="65bd71144e" modified="2021-01-15T11:53:19.132Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.52.1 Chrome/83.0.4103.122 Electron/9.3.5 Safari/537.36" etag="5_IQV_2q_wG7U2reqMBP" version="13.10.0" type="embed">
+    <diagram id="98MlvppFi8SI1YbXKH2F" name="ページ1">
+        <mxGraphModel dx="1100" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=UD デジタル 教科書体 N-R;" parent="1" source="2" target="3" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="スタート" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontFamily=UD デジタル 教科書体 N-R;fontSize=13;" parent="1" vertex="1">
+                    <mxGeometry x="70" y="10" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=UD デジタル 教科書体 N-R;" parent="1" source="3" target="6" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=UD デジタル 教科書体 N-R;" parent="7" vertex="1" connectable="0">
+                    <mxGeometry x="0.125" y="2" relative="1" as="geometry">
+                        <mxPoint x="-35" y="-8" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="16" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=UD デジタル 教科書体 N-R;" parent="7" vertex="1" connectable="0">
+                    <mxGeometry x="0.125" y="2" relative="1" as="geometry">
+                        <mxPoint x="115" y="72" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;entryPerimeter=0;fontFamily=UD デジタル 教科書体 N-R;" parent="1" source="3" target="22" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="110" y="430" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="27" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=UD デジタル 教科書体 N-R;" parent="17" vertex="1" connectable="0">
+                    <mxGeometry x="-0.6333" y="1" relative="1" as="geometry">
+                        <mxPoint x="9" y="-23" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="3" value="&lt;p style=&quot;line-height: 170% ; font-size: 13px&quot;&gt;保護者が&lt;br style=&quot;font-size: 13px&quot;&gt;「子どもに障害がある？」&lt;br style=&quot;font-size: 13px&quot;&gt;と気づいた&lt;/p&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;spacing=2;spacingBottom=0;fontFamily=UD デジタル 教科書体 N-R;fontSize=13;" parent="1" vertex="1">
+                    <mxGeometry x="10" y="80" width="200" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=UD デジタル 教科書体 N-R;" parent="1" source="6" target="9" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;entryPerimeter=0;fontFamily=UD デジタル 教科書体 N-R;" parent="1" source="6" target="22" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="110" y="430" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="260" y="310"/>
+                            <mxPoint x="110" y="310"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="28" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=UD デジタル 教科書体 N-R;" parent="18" vertex="1" connectable="0">
+                    <mxGeometry x="-0.912" y="1" relative="1" as="geometry">
+                        <mxPoint x="9" y="-1" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="6" value="&lt;p style=&quot;line-height: 160%; font-size: 13px;&quot;&gt;保護者が&lt;br style=&quot;font-size: 13px;&quot;&gt;特別支援教室や&lt;br style=&quot;font-size: 13px;&quot;&gt;通級指導への申込み&lt;br style=&quot;font-size: 13px;&quot;&gt;を決心した&lt;/p&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontFamily=UD デジタル 教科書体 N-R;fontSize=13;" parent="1" vertex="1">
+                    <mxGeometry x="160" y="160" width="200" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=UD デジタル 教科書体 N-R;" parent="1" source="9" target="10" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="発達検査" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=UD デジタル 教科書体 N-R;fontSize=13;" parent="1" vertex="1">
+                    <mxGeometry x="340" y="230" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;fontFamily=UD デジタル 教科書体 N-R;" parent="1" source="10" target="23" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="390" y="430" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="10" value="行動観察" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=UD デジタル 教科書体 N-R;fontSize=13;" parent="1" vertex="1">
+                    <mxGeometry x="340" y="290" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="判明しない" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=13;fontFamily=UD デジタル 教科書体 N-R;" parent="1" vertex="1">
+                    <mxGeometry x="60" y="360" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="判明？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;fontColor=#1A1A1A;fontFamily=UD デジタル 教科書体 N-R;" parent="1" vertex="1">
+                    <mxGeometry x="340" y="360" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="ハードルが&lt;br style=&quot;font-size: 23px;&quot;&gt;高い！" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.loud_callout;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=23;fontColor=#1A1A1A;fontFamily=UD デジタル 教科書体 N-R;" vertex="1" parent="1">
+                    <mxGeometry x="310" y="30" width="176" height="100" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
