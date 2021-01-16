@@ -56,9 +56,9 @@ h4 {
 <div class="table-wrapper">
   <table class="simple">
     <tr><th>根拠</th><th>公表時期</th><th>人口ピーク<br>時期推計</th><th>← 前回公表<br>値との差</th><th>ピーク人口<br>推計（人）</th><th>← 前回公表<br>値との差</th></tr>
-    <tr><th>平成22年<br>国勢調査結果</th><td stlye="white-space:nowrap">平成24年<br>6月</td><td>平成27年</td><td></td><td>188,832</td><td></td></tr>
-    <tr><th>平成27年<br>国勢調査結果</th><td stlye="white-space:nowrap">平成29年<br>12月</b></td><td>令和2年</td><td>+5年</td><td>191,443</td><td>+2,611人</td></tr>
-    <tr><th>平成27年<br>国勢調査補足版</th><td stlye="white-space:nowrap">令和元年<br>8月</td><td>令和7年</td><td>+5年</td><td>197,231</td><td>+5,788人</td></tr>
+    <tr><th stlye="white-space:nowrap">平成22年<br>国勢調査結果</th><td stlye="white-space:nowrap">平成24年<br>6月</td><td>平成27年</td><td></td><td>188,832</td><td></td></tr>
+    <tr><th stlye="white-space:nowrap">平成27年<br>国勢調査結果</th><td stlye="white-space:nowrap">平成29年<br>12月</b></td><td>令和2年</td><td>+5年</td><td>191,443</td><td>+2,611人</td></tr>
+    <tr><th stlye="white-space:nowrap">平成27年<br>国勢調査補足版</th><td stlye="white-space:nowrap">令和元年<br>8月</td><td>令和7年</td><td>+5年</td><td>197,231</td><td>+5,788人</td></tr>
   </table>
 </div>
 
