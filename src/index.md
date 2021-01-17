@@ -7,5 +7,7 @@
 
 私の主張・活動などをまとめております。以下リンクよりご覧ください。
 
-[🎤 一般質問](./ippan/index.md)
+<a href="./ippan/index.md" style="text-decoration:none">
+<div style="font-size:4rem;border:1px solid gray;text-align:center;border-radius:4rem;padding:1rem;background-color:var(--links);color:var(--bg);">一般質問</div>
+</a>
 
