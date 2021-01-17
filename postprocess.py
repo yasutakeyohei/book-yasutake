@@ -79,9 +79,9 @@ for filepath in glob.iglob('../../book/**/*.html', recursive=True):
         file.write(s)
 
 # 個別ページ用javascriptディレクトリのコピー
-shutil.copytree('../../js-each/','../../book/html/js-each/')
+#shutil.copytree('../../js-each/','../../book/html/js-each/')
 
 #個別ページ用CSSディレクトリのコピー
-shutil.copytree('../../css-each/','../../book/html/css-each/')
+#shutil.copytree('../../css-each/','../../book/html/css-each/')
 
 
