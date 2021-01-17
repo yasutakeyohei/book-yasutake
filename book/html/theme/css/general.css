@@ -236,12 +236,12 @@ fieldset.point {
     margin:0 0 40px 0;
 }
 .point h2 {
-    color: #000094;
+    color: var(--fg);
     margin: 0;
     padding: 0;
 }
 .point p {
-    color: #000094;
+    color: var(--fg);
     padding: 0 20px;
 }
 .point span {
@@ -249,7 +249,7 @@ fieldset.point {
 }
 
 fieldset.touben {
-    background-color: #faf0e6;
+    background-color: var(--quote-bg);
     padding: 0.5rem 1.5rem 1rem 1.5rem;
     border-radius: 1rem;
     line-height: 1.8em;
@@ -298,13 +298,12 @@ div.tips ul {
 }
 
 .letter {
-    background: #fff;
     box-shadow: 0 0 10px rgba(0,0,0,0.3);
     margin: 0 auto 4rem auto;
     padding: 2rem;
     position: relative;
     border:1px solid gray;
-    background-color:#fafafa
+    background-color: var(--bg);
 }
 .letter:before, .letter:after {
     content: "";
