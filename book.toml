@@ -12,7 +12,6 @@ git-repository-url="https://github.com/yasutakeyohei/book-yasutake"
 google-analytics="UA-144705402-1"
 additional-js=["medium-zoom.js"]
 site-url = "/books/yasutake/"
-input-404 = "404.md"
 
 [output.html.fold]
 enable = true
