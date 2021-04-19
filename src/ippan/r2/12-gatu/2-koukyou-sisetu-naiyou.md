@@ -18,7 +18,7 @@ h4 {
 <img src="./images/kiosk.jpg" alt="キオスク" data-zoomable="" style="z-index:999">
 </figure>
 
-<p style="text-align:right"><a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">📄会議録を見る（まだ公開されていません）</a></p>
+<p class="read-kaigiroku"><a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1175&schedule_id=5&minute_id=128&is_search=true">📄会議録を見る</a></p>
 
 <fieldset class="point">
   <legend>
