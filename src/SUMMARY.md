@@ -24,7 +24,7 @@
     - [（1）市議会議員選挙の投票率向上に向けて](./ippan/r1/6-gatu/1-touhyouritu-koujou.md)
     - [（2）小平市の顔ともいえるホームページで市民参加・協働の推進を](./ippan/r1/6-gatu/2-homepage-siminsanka.md)
 - [その他 作成資料等](./sonota/index.md)
-  - [国分寺市まちづくり条例勉強会](./sonota/machizukuri.md)
+  - [まちづくり条例勉強会](./sonota/machizukuri.md)
   - [厚生委員会](./sonota/kousei/index.md)
     - [令和2年度 ひとり親家庭の実態調査を](./sonota/kousei/r2/hitorioya.md)
     - [令和2年度 子ども条例反対意見](./sonota/kousei/r2/kodomojorei-hantai.md)
