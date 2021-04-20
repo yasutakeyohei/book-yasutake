@@ -13,12 +13,23 @@
 
 - 大正8年：（旧）都市計画法、市街地建築物法（現在の建築基準法の前身）成立
 
-<div class="sortable-wrapper">
-<table class="sortable">
+<table class="nenpyou">
 <thead>
-<tr><th>市</th><th>条例</th><th>地区計画制度</th></tr>
+<tr><th>年</th><th>条例</th></tr>
 </thead>
 <tbody>
+<tr><td>明治21年</td><td>
+
+#### [東京市区改正条例](http://www.archives.go.jp/exhibition/digital/henbou/contents/32.html)制定
+- 東京の道路整備に重点を置いた条例
+- 大正7年に5大市（大阪、名古屋、京都、横浜、神戸）にも準用
+
+</td></tr>
+<tr><td>大正8年</td><td>
+
+#### [（旧）都市計画法]()、[市街地建築物法成立](https://www.digital.archives.go.jp/img/140806)
+- 市街地建築物法＝建築基準法の前身
+</td></tr>
 </tbody>
 </table>
 
