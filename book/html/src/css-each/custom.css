@@ -708,3 +708,14 @@ span.q-a {
   font-family: "Trebuchet MS";
   font-weight: bold;
 }
+
+/* nenpyou */
+table.nenpyou td:first-of-type {
+  white-space:nowrap;
+}
+table.nenpyou td h4 {
+  margin: 0;
+}
+table.nenpyou td ul {
+  margin: 0;
+}
