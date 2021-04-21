@@ -712,10 +712,16 @@ span.q-a {
 /* nenpyou */
 table.nenpyou td:first-of-type {
   white-space:nowrap;
+  vertical-align: top;
 }
-table.nenpyou td h4 {
+table.nenpyou td p:first-of-type {
   margin: 0;
 }
 table.nenpyou td ul {
   margin: 0;
+}
+
+object.svgimage {
+  width: 100%;
+  border: 1px solid var(--fg);
 }
