@@ -725,3 +725,8 @@ object.svgimage {
   width: 100%;
   border: 1px solid var(--fg);
 }
+
+table.bordered thead th {
+  white-space:nowrap;
+  border: 1px solid var(--fg);
+}
