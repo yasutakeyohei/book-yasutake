@@ -730,3 +730,11 @@ table.bordered thead th {
   white-space:nowrap;
   border: 1px solid var(--fg);
 }
+table.bordered th,
+table.bordered td {
+  border: 1px solid var(--fg);
+}
+table.slim th,
+table.slim td {
+  line-height:inherit;
+}

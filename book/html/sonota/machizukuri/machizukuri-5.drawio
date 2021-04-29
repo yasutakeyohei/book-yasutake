@@ -1,0 +1,112 @@
+<mxfile host="65bd71144e" scale="1.7" border="0" linkTarget="_blank">
+    <diagram id="kBzm4qLrVskWUIARYmRl" name="ページ1">
+        <mxGraphModel dx="759" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="72" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;align=left;fillColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+                    <mxGeometry width="640" height="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="70" value="&lt;a href=&quot;https://elaws.e-gov.go.jp/document?lawid=343AC0000000100#Mp-At_18&quot;&gt;第18条&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
+                    <mxGeometry x="490" y="150" width="40" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="&lt;a href=&quot;https://elaws.e-gov.go.jp/document?lawid=343AC0000000100#Mp-At_17&quot;&gt;第17条第2項&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="20" width="70" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="66" value="&lt;a href=&quot;https://elaws.e-gov.go.jp/document?lawid=343AC0000000100#Mp-At_18&quot;&gt;第18条&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
+                    <mxGeometry x="390" y="150" width="40" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="&lt;a href=&quot;https://elaws.e-gov.go.jp/document?lawid=343AC0000000100#Mp-At_16&quot;&gt;第16条&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
+                    <mxGeometry x="170" y="10" width="40" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="&lt;a href=&quot;https://elaws.e-gov.go.jp/document?lawid=343AC0000000100#Mp-At_15_2&quot;&gt;第15条の2&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
+                    <mxGeometry x="210" y="70" width="60" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" value="&lt;a href=&quot;https://elaws.e-gov.go.jp/document?lawid=343AC0000000100#Mp-At_18&quot;&gt;第18条第2項&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
+                    <mxGeometry x="330" y="100" width="60" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="57" value="意見書の要旨&lt;br&gt;を提出" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=0;fontSize=10;align=center;base=10;size=30;position=0.4;position2=0.44;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="310" y="110" width="80" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="住民等" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="10" y="28.75" width="60" height="22.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="東京都" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="10" y="90" width="60" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="市区町村" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="10" y="170" width="60" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;fillColor=#76608a;strokeColor=#432D57;" parent="1" source="27" target="7" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="160" y="175" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#76608a;strokeColor=#432D57;" parent="1" source="7" target="8" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="案の&lt;br&gt;作成" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="180" y="160" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;strokeColor=#432D57;fillColor=#76608a;" parent="1" source="8" target="9" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;strokeColor=#432D57;fillColor=#76608a;" parent="1" source="9" target="10" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="市区町村&lt;br&gt;都市計画審議会＊" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="160" width="70" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;startFill=0;strokeColor=#432D57;fontSize=11;fontColor=#FF0000;fillColor=#76608a;" parent="1" source="10" target="34" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="都市計画の決定" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="460" y="160" width="70" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#0050ef;strokeColor=#001DBC;" parent="1" source="20" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="160" y="180" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="20" value="公聴会等による&lt;br&gt;住民意見の反映" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="20" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="22" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="230" y="180" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="22" value="市区町村の&lt;br&gt;意見聴取" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="190" y="80" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="原案&lt;br&gt;の作成" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="90" y="160" width="60" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;strokeColor=#001DBC;fillColor=#0050ef;" parent="1" source="28" target="8" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="意見書の提出" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="250" y="30" width="80" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="告示縦覧" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;rounded=0;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="550" y="160" width="70" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="&lt;a href=&quot;https://elaws.e-gov.go.jp/document?lawid=343AC0000000100#Mp-At_17&quot;&gt;第17条&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
+                    <mxGeometry x="295" y="151.25" width="35" height="7.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="START" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#FF0000;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="95" y="140" width="50" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="END" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#FF0000;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="560" y="140" width="50" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="71" value="&lt;a href=&quot;https://elaws.e-gov.go.jp/document?lawid=343AC0000000100#Mp-At_20&quot;&gt;第20条、&lt;br&gt;第2項、第3項&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
+                    <mxGeometry x="560" y="200" width="75" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="公告・縦覧&lt;br&gt;（２週間）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="250" y="160" width="80" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
