@@ -738,3 +738,13 @@ table.slim th,
 table.slim td {
   line-height:inherit;
 }
+table.slim {
+  margin: 3rem auto;
+}
+table.slim caption {
+  margin-bottom:1rem;
+}
+
+figure {
+  margin:2rem 0 4rem 0;
+}
