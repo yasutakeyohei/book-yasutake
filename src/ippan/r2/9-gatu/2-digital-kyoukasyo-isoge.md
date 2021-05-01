@@ -4,32 +4,28 @@
 
 {{description:小平市議会議員 安竹洋平の令和2年度9月定例会における一般質問の2件目についてまとめています。}}
 
-<style type="text/css">
-h4 {
-  text-decoration: underline;
-}
-</style>
-
 # （2）タブレットはそろった。デジタル教科書と教材へ投資の英断を
 
 <p style="text-align:right"><a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1151&schedule_id=5&minute_id=56&is_search=true">📄会議録を見る</a></p>
 
 <fieldset class="point">
-  <legend>
-    <h2 class="point"> まとめ </h2>
-  </legend>
-  <p class="point" style="text-decoration:underline">デジタル教科書について</p>
-  <p class="point">✔ 全教科分、市立小・中学校の全児童・生徒に購入する費用は<span> → 約1.7億円</span></p>
-  <p class="point">✔ 国語1教科分ではいくらになるか<span> → 約1.7千万円</span></p>
-  <p class="point" style="text-decoration:underline">デジタル教科書および教材について</p>
-  <p class="point">✔ 検討状況は<span> → 学習効果を高めるために有益と認識</span></p>
-  <p class="point">✔ 課題は<span> → 多くの経費が必要、一部の発行者がデジタル教科書に対応していない</span></p>
-  <p class="point">✔ 解決策は<span> → 無償のデジタルコンテンツを積極的に活用、各学校で必要に応じ選択・活用</span><p>
-  <p class="point">✔ 導入に臨時交付金の活用を<span> → 制度的には可能だが、端末整備後に導入の検討が望ましい</span></p>
-  <p class="point">✔ 無償化に向けた国の動きは<span> → 文科省に設置の検討会議で、本格導入に向け検討が進む</span></p>
+  <legend><h2> まとめ </h2></legend>
+
+<ul>
+  <li class="chk" style="text-decoration:underline">デジタル教科書について</li>
+  <li class="chk">全教科分、市立小・中学校の全児童・生徒に購入する費用は<span> → 約1.7億円</span></li>
+  <li class="chk">国語1教科分ではいくらになるか<span> → 約1.7千万円</span></li>
+  <li class="chk" style="text-decoration:underline">デジタル教科書および教材について</li>
+  <li class="chk">検討状況は<span> → 学習効果を高めるために有益と認識</span></li>
+  <li class="chk">課題は<span> → 多くの経費が必要、一部の発行者がデジタル教科書に対応していない</span></li>
+  <li class="chk">解決策は<span> → 無償のデジタルコンテンツを積極的に活用、各学校で必要に応じ選択・活用</span><li>
+  <li class="chk">導入に臨時交付金の活用を<span> → 制度的には可能だが、端末整備後に導入の検討が望ましい</span></li>
+  <li class="chk">無償化に向けた国の動きは<span> → 文科省に設置の検討会議で、本格導入に向け検討が進む</span></li>
+</ul>
+
 </fieldset>
 
-<h3 style="margin-top:0"> 初回質問・初回答弁</h3>
+<h3> 初回質問・初回答弁</h3>
 
 <div class="letter">
 
