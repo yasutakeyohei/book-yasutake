@@ -103,7 +103,7 @@
                 <mxCell id="71" value="&lt;a href=&quot;https://elaws.e-gov.go.jp/document?lawid=343AC0000000100#Mp-At_20&quot;&gt;第20条、&lt;br&gt;第2項、第3項&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
                     <mxGeometry x="560" y="200" width="75" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="8" value="公告・縦覧&lt;br&gt;（２週間）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+                <mxCell id="8" value="公告・縦覧&lt;br&gt;（2週間）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
                     <mxGeometry x="250" y="160" width="80" height="40" as="geometry"/>
                 </mxCell>
             </root>

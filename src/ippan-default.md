@@ -10,7 +10,7 @@ h4 {
 }
 </style>
 
-# （１）xx
+# （1）xx
 
 <p style="text-align:right"><a href="xx">📄会議録を見る</a></p>
 
