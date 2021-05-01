@@ -140,7 +140,7 @@ CalilRender.prototype =  {
 
 	showSearchProgress : function(){
 		//適切な数の検索途中結果だけ表示する
-		//常に３つだけにする
+		//常に3つだけにする
 		i = 0
 		$(".calil_searching").each(function(){
 			$(this).show();

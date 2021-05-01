@@ -117,7 +117,7 @@
                 <mxCell id="12" value="国への協議&lt;br&gt;・同意" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" parent="1" vertex="1">
                     <mxGeometry x="400" y="220" width="80" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="8" value="公告・縦覧&lt;br&gt;（２週間）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" parent="1" vertex="1">
+                <mxCell id="8" value="公告・縦覧&lt;br&gt;（2週間）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" parent="1" vertex="1">
                     <mxGeometry x="250" y="160" width="80" height="40" as="geometry"/>
                 </mxCell>
             </root>
