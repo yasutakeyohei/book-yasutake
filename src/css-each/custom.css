@@ -79,9 +79,9 @@ fieldset.summary {
 .point li,
 .sanpi li,
 .summary li {
-  text-indent: -1.5rem;
+  text-indent: -1.6rem;
   color: var(--point-fg);
-  padding: 1rem 3.5rem;
+  padding: 1rem 2rem 1rem 3.5rem;
 }
 .point li:not([class]),
 .sanpi li:not([class]),
