@@ -10,7 +10,7 @@
     - [（1）市長責任でビジョン構築を急げ。ICT整備の好機を逃すな](./ippan/r2/9-gatu/1-sityou-vision-isoge.md)
     - [（2）タブレットはそろった。デジタル教科書と教材へ投資の英断を](./ippan/r2/9-gatu/2-digital-kyoukasyo-isoge.md)
   - [令和2年6月](./ippan/r2/6-gatu/index.md)
-    - [（1）不登校やディスレクシアの子どもたちも活用できるＧＩＧＡスクール構想を](./ippan/r2/6-gatu/1-giga-school-dyslexia.md)
+    - [（1）不登校やディスレクシアの子どもたちも活用できるGIGAスクール構想を](./ippan/r2/6-gatu/1-giga-school-dyslexia.md)
     - [（2）緊急事態を前に、市のビジョンは](./ippan/r2/6-gatu/2-kinkyu-vision.md)
   - [令和2年3月](./ippan/r2/3-gatu/index.md)
     - [（1）ディスレクシアの子どもをひとりも見過ごさず成長できる環境整備を、いますぐに](./ippan/r2/3-gatu/1-dyslexia-kankyo.md)
