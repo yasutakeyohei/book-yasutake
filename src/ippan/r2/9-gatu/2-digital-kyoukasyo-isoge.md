@@ -6,7 +6,7 @@
 
 # （2）タブレットはそろった。デジタル教科書と教材へ投資の英断を
 
-<p style="text-align:right"><a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1151&schedule_id=5&minute_id=56&is_search=true">📄会議録を見る</a></p>
+<p class="read-kaigiroku"><a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1151&schedule_id=5&minute_id=56&is_search=true">📄会議録を見る</a></p>
 
 <fieldset class="point">
   <legend><h2> まとめ </h2></legend>
@@ -25,7 +25,7 @@
 
 </fieldset>
 
-<h3> 初回質問・初回答弁</h3>
+<h3>初回質問・初回答弁</h3>
 
 <div class="letter">
 

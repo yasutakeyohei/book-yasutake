@@ -7,7 +7,7 @@
 
 # （1）不登校やディスレクシアの子どもたちも活用できるGIGAスクール構想を
 
-<p style="text-align:right"><a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1133&schedule_id=4&minute_id=167&is_search=true">📄会議録を見る</a></p>
+<p class="read-kaigiroku"><a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1133&schedule_id=4&minute_id=167&is_search=true">📄会議録を見る</a></p>
 
 <fieldset class="point">
   <legend><h2> まとめ </h2></legend>
@@ -30,7 +30,7 @@ GIGAスクール構想が国の方針で急遽進むことになり、全校児�
 
 </fieldset>
 
-<h3> 初回質問・初回答弁</h3>
+<h3>初回質問・初回答弁</h3>
 
 <div class="letter">
 
@@ -97,7 +97,7 @@ GIGAスクール構想が国の方針で急遽進むことになり、全校児�
 情報端末の導入に伴う積極的な活用を検討する。
 </fieldset>
 
-<span class="q-a">Q9.</span> GIGAスクール構想が進む先には個別最適化がある。個別最適化は、よい面もある一方、学び合い、助け合うという互助の精神育成の面で懸念があるが、これをどうとらえているか。
+<span class="q-a">Q9.</span> GIGAスクール構想が進む先には個別最適化がある。個別最適化は、よい面もある一方、学び合い、助け合うという互助の精神育成の面で懸念があるが、これをどう捉えているか。
 
 <fieldset class="touben">
 <legend><span class="q-a">A.</span> 教育長（古川 正之）</legend>
@@ -143,7 +143,7 @@ ICT環境が整備されることにより、個々の学習者の理解度に�
 
 <fieldset class="touben">
 <legend><span class="q-a">A.</span> 教育長（古川 正之）</legend>
-授業を録画し、いつでも再生できるようにすることの有用性は認識しているが、一方で、教員は、授業準備に加えて、動画の撮影、確認、調整、配信など、業務が増加することから、実施には課題があるととらえている。
+授業を録画し、いつでも再生できるようにすることの有用性は認識しているが、一方で、教員は、授業準備に加えて、動画の撮影、確認、調整、配信など、業務が増加することから、実施には課題があると捉えている。
 </fieldset>
 
 </div>
