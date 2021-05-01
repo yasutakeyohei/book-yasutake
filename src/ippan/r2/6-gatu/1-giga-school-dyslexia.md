@@ -5,12 +5,6 @@
 
 {{description:小平市議会議員 安竹洋平の令和2年度6月定例会における一般質問の1件目についてまとめています。}}
 
-<style type="text/css">
-h4 {
-  text-decoration: underline;
-}
-</style>
-
 # （1）不登校やディスレクシアの子どもたちも活用できるGIGAスクール構想を
 
 <p style="text-align:right"><a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1133&schedule_id=4&minute_id=167&is_search=true">📄会議録を見る</a></p>
