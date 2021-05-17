@@ -79,11 +79,11 @@ for filepath in glob.iglob('../../book/**/*.html', recursive=True):
     with open(filepath, "w", encoding="utf8") as file:
         file.write(s)
 
+# sitemap作成
 sitemap = []
 sitemap.append('<?xml version="1.0" encoding="UTF-8"?>\n')
 sitemap.append('<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">\n\n')
 
-# sitemap作成
 for filepath in glob.iglob('../../book/**/*', recursive=True):
     filepath = os.path.normpath(filepath)
     if(not re.match(r".*\.(html|docx|xlsx|txt|svg)$", filepath)) :
