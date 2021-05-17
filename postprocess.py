@@ -72,6 +72,7 @@ for filepath in glob.iglob('../../book/**/*.html', recursive=True):
                 <li><a href="{githubp}"><i class="fa fa-refresh" aria-hidden="true" title="更新日"></i> <time datetime="{keyGTM}" timeprop="modified" title="更新日">{key}</a></time></li>
                 <li><i class="fa fa-file-text-o" aria-hidden="true" title="公開日"></i> <time datetime="\\1" timeprop="datepublished" title="公開日">\\1</time></li>
             </ul>
+            <!-- <lastmod>{keyGTM}</lastmod> -->
         '''.format(keyGTM = keyGTM, key = key, githubp = githubp)
         s = re.sub(r"<p>.*{{first:(.*)}}.*</p>", replace, s, 0)
     
