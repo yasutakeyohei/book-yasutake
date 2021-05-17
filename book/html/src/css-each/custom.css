@@ -741,6 +741,9 @@ table.slim td {
 table.slim {
   margin: 3rem auto;
 }
+table.slim ol {
+  margin: 0;
+}
 table.slim caption {
   margin-bottom:1rem;
 }
