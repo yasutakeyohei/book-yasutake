@@ -14,6 +14,9 @@ additional-css=["./src/css-each/custom.css"]
 additional-js=["./src/js-each/medium-zoom.js"]
 site-url = "/books/yasutake/"
 
+[output.html.print]
+enable = false
+
 [output.html.fold]
 enable = true
 level = 0
