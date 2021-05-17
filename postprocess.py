@@ -20,7 +20,7 @@ subst2 = "\\1\\2/\\3"
 
 descriptionRe = r"<p>.*?{{description:(.*)}}.*?</p>"
 
-# index.htmlの削除
+# index.htmlの削除、更新時間等置き換え
 for filepath in glob.iglob('../../book/**/*.html', recursive=True):
     filepath = os.path.normpath(filepath)
 
@@ -79,10 +79,43 @@ for filepath in glob.iglob('../../book/**/*.html', recursive=True):
     with open(filepath, "w", encoding="utf8") as file:
         file.write(s)
 
+sitemap = []
+sitemap.append('<?xml version="1.0" encoding="UTF-8"?>\n')
+sitemap.append('<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">\n\n')
+
+# sitemap作成
+for filepath in glob.iglob('../../book/**/*', recursive=True):
+    filepath = os.path.normpath(filepath)
+    if(not re.match(r".*\.(html|docx|xlsx|txt|svg)$", filepath)) :
+        continue
+    if(re.match(r"..(/|\\)..(/|\\)book(/|\\)html(/|\\)(src(/|\\)|fonts(/|\\)|FontAwesome(/|\\)|theme|404\.html$|favicon\.svg$)", filepath)) :
+        continue
+    if(os.sep == "/") :
+        fp = re.sub(r"../../book/html/(.+)", "\\1", filepath, 0)
+    else :
+        fp = re.sub(r"..\\..\\book\\html\\(.+)", "\\1", filepath, 0)
+        fp = fp.replace("\\", "/")
+    srcfp = "../../src/" + fp.replace(".html", ".md")
+
+    url = "https://yasutakeyohei.com/books/yasutake/" + fp.replace("index.html", "")
+
+    key = ""
+    if os.path.exists(srcfp) :
+        dt = datetime.datetime.fromtimestamp(os.stat(srcfp).st_mtime)
+        keyGTM = dt.strftime('%Y-%m-%dT%H:%M:%S+09:00')
+        # key = dt.strftime('%Y-%m-%d')
+
+        sitemap.append("<url>\n")
+        sitemap.append("<loc>" + url + "</loc>\n")
+        sitemap.append("<lastmod>" + keyGTM + "</lastmod>\n")
+        sitemap.append("</url>\n")
+
+sitemap.append("</urlset>")
+with open("../html/sitemap.xml", "w", encoding="utf8") as file: # zからの相対パス指定
+    file.writelines(sitemap)
+
 # 個別ページ用javascriptディレクトリのコピー
 #shutil.copytree('../../js-each/','../../book/html/js-each/')
 
 #個別ページ用CSSディレクトリのコピー
 #shutil.copytree('../../css-each/','../../book/html/css-each/')
-
-
