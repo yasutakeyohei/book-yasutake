@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html lang="ja" class="sidebar-visible no-js light">
+<html lang="ja" class="sidebar-visible no-js light font-family-ud line-height-0 letter-spacing-0 font-size-0"> <!-- CUSTOM: 念のためデフォルトクラスを追加-->
     <head>
         <!-- Book generated using mdBook -->
         <meta charset="UTF-8">
@@ -46,10 +46,14 @@
 
         <!-- Custom theme stylesheets -->
         
-        <link rel="stylesheet" href="../../.././src/css-each/custom.css">
+        <link rel="stylesheet" href="../../../custom.css">
         
 
         
+
+        <!-- typesquare -->
+        <script type="text/javascript" src="//typesquare.com/3/tsst/script/ja/typesquare.js?60267d718df44b799ec17594ac1e02e5" charset="utf-8"></script>
+
     </head>
     <body>
         <!-- Provide site root to javascript -->
@@ -114,10 +118,13 @@
                 <div id="menu-bar-hover-placeholder"></div>
                 <div id="menu-bar" class="menu-bar sticky bordered">
                     <div class="left-buttons">
+
                         <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
-                            <i class="fa fa-bars"></i>
+                            <i class="fa fa-chevron-circle-right" aria-hidden="true" id="sidebar-toggle-icon"></i><!-- CUSTOM アイコンを変更 -->
                         </button>
-                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+
+                        <!-- CUSTOM: このボタンとリストは非表示に。消すとbook.jsでエラーが出る。-->
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list" style="display:none;">
                             <i class="fa fa-paint-brush"></i>
                         </button>
                         <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
@@ -127,6 +134,61 @@
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
                         </ul>
+
+                        <!-- CUSTOM: 次を追加-->
+                        <button id="a11y-toggle" class="icon-button a11y" type="button" title="Change theme"
+                            aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-universal-access" aria-hidden="true"></i> <!-- CUSTOM: idを追加 -->
+                        </button>
+                        <div id="a11y-list" class="a11y-popup-div" aria-label="Accessibility Tools" role="menu">
+                            <div><i class="icon-invert_colors_on label" aria-hidden="true"></i><span class="screen-reader-only">テーマ</span></div>
+                            <div><button role="menuitem" data-key="theme" data-val="light" data-default="true">1</button></div>
+                            <div><button role="menuitem" data-key="theme" data-val="rust">2</button></div>
+                            <div><button role="menuitem" data-key="theme" data-val="coal">3</button></div>
+                            <div><button role="menuitem" data-key="theme" data-val="navy">4</button></div>
+                            <div><button role="menuitem" data-key="theme" data-val="ayu">5</button></div>
+                            <div><i class="icon-font label" aria-hidden="true"></i><span class="screen-reader-only">フォント</span></div>
+                            <div><button role="menuitem" data-key="fontFamily" data-val="font-family-ud1" data-default="true">UD1</button></div>
+                            <div><button role="menuitem" data-key="fontFamily" data-val="font-family-ud2">UD2</button></div>
+                            <div><button role="menuitem" data-key="fontFamily" data-val="font-family-gothic">ゴ</button></div>
+                            <div><button role="menuitem" data-key="fontFamily" data-val="font-family-mincho">明</button></div>
+                            <div><button role="menuitem" data-key="fontFamily" data-val="font-family-uiprop">P</button></div>
+                            <div><i class="icon-format_line_spacing label" aria-hidden="true"></i><span class="screen-reader-only">行間隔</span></div>
+                            <div><button role="menuitem" data-key="lineHeight" data-val="line-height-0" data-default="true">0</button></div>
+                            <div><button role="menuitem" data-key="lineHeight" data-val="line-height-1">1</button></div>
+                            <div><button role="menuitem" data-key="lineHeight" data-val="line-height-2">2</button></div>
+                            <div><button role="menuitem" data-key="lineHeight" data-val="line-height-3">3</button></div>
+                            <div><button role="menuitem" data-key="lineHeight" data-val="line-height-4">4</button></div>
+                            <div><i class="fa fa-arrows-h label" aria-hidden="true"></i><span class="screen-reader-only">文字間隔</span></div>
+                            <div><button role="menuitem" data-key="letterSpacing" data-val="letter-spacing-0" data-default="true">0</button></div>
+                            <div><button role="menuitem" data-key="letterSpacing" data-val="letter-spacing-1">1</button></div>
+                            <div><button role="menuitem" data-key="letterSpacing" data-val="letter-spacing-2">2</button></div>
+                            <div><button role="menuitem" data-key="letterSpacing" data-val="letter-spacing-3">3</button></div>
+                            <div><button role="menuitem" data-key="letterSpacing" data-val="letter-spacing-4">4</button></div>
+                            <div><i class="icon-text_fields label" aria-hidden="true"></i><span class="screen-reader-only">文字サイズ</span></div>
+                            <div><button role="menuitem" data-key="fontSize" data-val="font-size-0" data-default="true">0</button></div>
+                            <div><button role="menuitem" data-key="fontSize" data-val="font-size-1">1</button></div>
+                            <div><button role="menuitem" data-key="fontSize" data-val="font-size-2">2</button></div>
+                            <div><button role="menuitem" data-key="fontSize" data-val="font-size-3">3</button></div>
+                            <div><button role="menuitem" data-key="fontSize" data-val="font-size-4">4</button></div>
+                            <div><i class="fa fa-cc" aria-hidden="true"></i><span class="screen-reader-only">ルビ</span></div>
+                            <div class="ruby-on">
+                                <button role="menuitem" data-key="ruby" data-val="ruby-on" disabled="disabled">（ON）</button>
+                            </div>
+                            <div class="ruby-off">
+                                <button role="menuitem" data-key="ruby" data-val="ruby-off" data-default="true" disabled="disabled">（OFF）</button>
+                            </div>
+                            <div></div>
+                            <div class="reset">
+                                <button role="menuitem" data-key="reset" data-val="action"><i class="fa fa-refresh" aria-hidden="true"></i>RESET</button>
+                            </div>
+                            <div></div>
+                            <div class="help">
+                                <button role="menuitem" data-key="help" data-val="action"><i class="fa fa-question-circle" aria-hidden="true"></i><span class="screen-reader-only">使い方</span></button>
+                            </div>
+                        </div>
+
+
                         
                     </div>
 
@@ -285,7 +347,9 @@
 
         <!-- Custom JS scripts -->
         
-        <script type="text/javascript" src="../../.././src/js-each/medium-zoom.js"></script>
+        <script type="text/javascript" src="../../../medium-zoom.js"></script>
+        
+        <script type="text/javascript" src="../../../a11y.js"></script>
         
         <script type="text/javascript">
             mediumZoom('[data-zoomable]');
