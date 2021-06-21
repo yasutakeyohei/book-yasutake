@@ -1,0 +1,13 @@
+<mxfile>
+    <diagram id="1smpsdsJGcfWe0crwlro" name="ページ1">
+        <mxGraphModel dx="667" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="特別支援学校&lt;br&gt;障害の程度が比較的重い子供を対象として、専門性の高い教育を実施&lt;br&gt;&lt;a href=&quot;https://elaws.e-gov.go.jp/document?lawid=322AC0000000026#Mp-At_72&quot;&gt;学校教育法第72条&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="20" width="220" height="100" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
