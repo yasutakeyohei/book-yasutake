@@ -56,6 +56,10 @@
         <link rel="stylesheet" href="{{ ../path_to_root }}{{ this }}">
         {{/each}}
 
+        <!-- CUSTOM: CSSの読み込み（直書き） -->
+        <link rel="stylesheet" href="{{ ../path_to_root }}mdbook-shared/custom.css">
+
+
         {{#if mathjax_support}}
         <!-- MathJax -->
         <script async type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
@@ -354,6 +358,11 @@
         {{#each additional_js}}
         <script type="text/javascript" src="{{ ../path_to_root }}{{this}}"></script>
         {{/each}}
+
+        <!-- CUSTOM: JSの読み込み（直書き） -->
+        <script type="text/javascript" src="{{ ../path_to_root }}mdbook-shared/medium-zoom.js"></script>
+        <script type="text/javascript" src="{{ ../path_to_root }}mdbook-shared/a11y.js"></script>
+
         <script type="text/javascript">
             mediumZoom('[data-zoomable]');
         </script>
