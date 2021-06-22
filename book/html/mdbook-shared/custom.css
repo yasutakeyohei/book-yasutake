@@ -113,6 +113,7 @@ table tbody td {
 /* point, nittei, sanpi, summary */
 fieldset.point {
   margin-top: 0;
+  padding: 0rem 3rem;
 }
 
 fieldset.nittei,
@@ -148,14 +149,14 @@ fieldset.summary {
 .summary li {
   text-indent: -1.5rem;
   color: var(--point-fg);
-  padding: 1rem 3.5rem;
+  padding: 1rem 1.5rem;
 }
 
 .point li:not([class]),
 .sanpi li:not([class]),
 .summary li:not([class]) {
   text-indent: 0;
-  padding: 1rem 2rem;
+  padding: 1rem 1.5rem;
 }
 
 .point li.chk::before,
@@ -921,8 +922,12 @@ blockquote > h2 {
 
 /* a11y用 */
 h1, h2, h3, h4, h5, h6,
-li, .back-to-main-site {
+.back-to-main-site {
   line-height: calc( var(--line-height)*1.5);
+  letter-spacing: var(--letter-spacing);
+}
+li {
+  line-height: calc( var(--line-height)*1.2);
   letter-spacing: var(--letter-spacing);
 }
 .chapter li.chapter-item {
@@ -974,19 +979,25 @@ li, .back-to-main-site {
 }
 
 .letter h3,
-.saisitumon h3 {
+.saisitumon h3,
+.situgi h3 {
   font-size: var(--font-size);
   line-height: var(--line-height);
   background: var(--situgi-q-bg);
   font-weight: bold;
   text-align: center;
   margin: 2rem 0;
-  padding: 1rem 0;
+  padding: 2rem 0;
 }
 
 h3 + div.balloon,
 div.tips + div.balloon {
-  margin-top: 0 !important;
+  margin-top: 2rem !important;
+}
+
+div.balloon.bl-left + div.balloon.bl-left,
+div.balloon.bl-right + div.balloon.bl-right {
+  margin-top: 0 !important;  
 }
 
 .point h3 {
