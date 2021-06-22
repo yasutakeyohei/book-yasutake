@@ -545,7 +545,6 @@ p.img-wrapper {
   vertical-align: top;
   box-sizing: border-box;
 }
-
 .balloon>div {
   display: inline-block;
   padding: 2rem;
@@ -558,11 +557,9 @@ p.img-wrapper {
 .balloon>div>ul:first-child {
   margin-top: 0;
 }
-
 .balloon>div p:last-of-type {
   margin-bottom: 0;
 }
-
 .balloon>div:after {
   content: '';
   position: absolute;
@@ -571,27 +568,21 @@ p.img-wrapper {
   border-style: solid;
   top: 30px;
 }
-
-div.balloon.hitori {
+.balloon.hitori {
   font-weight: bold;
 }
-
-div.balloon.hitori>div {
+.balloon.hitori>div {
   font-weight: normal;
 }
-
 .balloon.bl-left {
   margin: 3rem 26% 3rem 4%;
 }
-
 .balloon.bl-left>div {
   background-color: var(--situgi-q-bg);
 }
-
 blockquote .balloon.bl-left>div {
   background-color: var(--bg);
 }
-
 .balloon.bl-left>div:after {
   border-width: 7px 15px 7px 0;
   border-color: transparent var(--situgi-q-bg) transparent transparent;
@@ -606,12 +597,10 @@ blockquote .balloon.bl-left>div:after {
   margin: 1rem 4% 1rem 26%;
   text-align: right;
 }
-
 .balloon.bl-right>div {
   text-align: left;
   background-color: var(--situgi-a-bg);
 }
-
 .balloon.bl-right>div:after {
   border-width: 7px 0 7px 15px;
   border-color: transparent transparent transparent var(--situgi-a-bg);
@@ -622,7 +611,6 @@ blockquote .balloon.bl-left>div:after {
   background-color: unset;
   border: 6px solid var(--situgi-q-bg);
 }
-
 .balloon.bl-right.bl-tips>div {
   background-color: unset;
   border: 6px solid var(--situgi-a-bg);
@@ -799,11 +787,11 @@ blockquote > h2 {
 /* custom fonts */
 @font-face {
   font-family: 'icomoon';
-  src:  url('custom-fonts/icomoon.eot?vb0x3d');
-  src:  url('custom-fonts/icomoon.eot?vb0x3d#iefix') format('embedded-opentype'),
-    url('custom-fonts/icomoon.ttf?vb0x3d') format('truetype'),
-    url('custom-fonts/icomoon.woff?vb0x3d') format('woff'),
-    url('custom-fonts/icomoon.svg?vb0x3d#icomoon') format('svg');
+  src:  url('./custom-fonts/icomoon.eot?vb0x3d');
+  src:  url('./custom-fonts/icomoon.eot?vb0x3d#iefix') format('embedded-opentype'),
+    url('./custom-fonts/icomoon.ttf?vb0x3d') format('truetype'),
+    url('./custom-fonts/icomoon.woff?vb0x3d') format('woff'),
+    url('./custom-fonts/icomoon.svg?vb0x3d#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -972,4 +960,41 @@ li, .back-to-main-site {
   right: -3px;
   top: 1px;
   transform: rotate(0.4deg);
+}
+.letter p.heading,
+.saisitumon p.heading {
+  background: var(--situgi-q-bg);
+  font-weight: bold;
+  text-align: center;
+  margin: 2rem 0;
+  padding: 2rem 0;
+}
+.saisitumon p.heading {
+  padding: 1rem 0;
+}
+
+.letter h3,
+.saisitumon h3 {
+  font-size: var(--font-size);
+  line-height: var(--line-height);
+  background: var(--situgi-q-bg);
+  font-weight: bold;
+  text-align: center;
+  margin: 2rem 0;
+  padding: 1rem 0;
+}
+
+h3 + div.balloon,
+div.tips + div.balloon {
+  margin-top: 0 !important;
+}
+
+.point h3 {
+  font-size: var(--font-size);
+  line-height: var(--line-height);
+  background: var(--situgi-q-bg);
+  font-weight: bold;
+  text-align: left;
+  margin: 2rem 0;
+  padding: 1rem;
 }
