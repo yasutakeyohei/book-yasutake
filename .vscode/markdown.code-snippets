@@ -1,0 +1,72 @@
+{
+	// Place your Reiwa3 ワークスペース snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and 
+	// description. Add comma separated ids of the languages where the snippet is applicable in the scope field. If scope 
+	// is left empty or omitted, the snippet gets applied to all languages. The prefix is what is 
+	// used to trigger the snippet and the body will be expanded and inserted. Possible variables are: 
+	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. 
+	// Placeholders with the same ids are connected.
+	// Example:
+	"安竹洋平議員の質問タグ": {
+		"scope": "markdown",
+		"prefix": "yasu",
+		"body": [
+			"<div class=\"balloon bl-left\">安竹<br><div>",
+			"",
+			"$1",
+			"",
+			"</div></div>$2"
+		],
+	},
+	"イイね": {
+		"scope": "markdown",
+		"prefix": "iine",
+		"body": "👍",
+	},
+	"他会派議員の質問タグ": {
+		"scope": "markdown",
+		"prefix": "tasitu",
+		"body": [
+			"<div class=\"balloon bl-left\">他会派の議員<br><div>",
+			"",
+			"$1",
+			"",
+			"</div></div>$2"
+		],
+	},
+	"答弁タグ": {
+		"scope": "markdown",
+		"prefix": "touben",
+		"body": [
+			"<div class=\"balloon bl-right\">$1<br><div>",
+			"",
+			"$2",
+			"",
+			"</div></div>$3"
+		],
+	},
+	"選管答弁": {
+		"scope": "markdown",
+		"prefix": "senkan",
+		"body": [
+			"<div class=\"balloon bl-right\">選挙管理委員会事務局長<br><div>",
+			"",
+			"$2",
+			"",
+			"</div></div>$3"
+		],
+	},
+	"tipsタグ": {
+		"scope": "markdown",
+		"prefix": "tips",
+		"body": [
+			"<div class=\"balloon bl-left bl-tips\"><div>",
+			"",
+			"🕵 $1",
+			"",
+			"$2",
+			"",
+			"</div></div>$3"
+		],
+	},
+
+}
