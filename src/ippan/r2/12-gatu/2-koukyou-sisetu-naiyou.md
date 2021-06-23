@@ -44,7 +44,7 @@
 <legend><span class="q-a">A.</span> 市長（小林 正則）</legend>
 システムの構築費としては次のとおり。
 
-<table class="simple">
+<table class="bordered slim">
 <thead><tr>
 <th>項目</th>
 <th>費用（約）</th>
