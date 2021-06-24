@@ -21,11 +21,11 @@
         <label for="tab-3-6"><span>6月定例会まとめ（作成中）</span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
         <div class="acd-sub-content">
           <ol>
-            <li><a href="./ippan/r3/6-gatu/">防災に対し、市長は本気で取り組むのか</a></li>
-            <li><a href="./ippan/r3/6-gatu/">行き場のない子どもたちを見過ごすな</a></li>
-            <li><a href="./ippan/r3/6-gatu/">ふるさと納税制度の活用について</a></li>
-            <li><a href="./ippan/r3/6-gatu/">ひとり親家庭の実態調査を</a></li>
-            <li><a href="./ippan/r3/6-gatu/">血管年齢等を健診時や常時測定できるようにしては</a></li>
+            <li><a href="./ippan/r3/6-gatu/1-sityou-bousai-honkijanaidesyo.md">防災に対し、市長は本気で取り組むのか</a></li>
+            <li><a href="./ippan/r3/6-gatu/2-ikibanonai-kodomotachi.md">行き場のない子どもたちを見過ごすな</a></li>
+            <li><a href="./ippan/r3/6-gatu/3-furusato-nouzei.md">ふるさと納税制度の活用について</a></li>
+            <li><a href="./ippan/r3/6-gatu/4-hitorioya-katei-jittai-chousa.md">ひとり親家庭の実態調査を</a></li>
+            <li><a href="./ippan/r3/6-gatu/5-kekkan-nenrei.md">血管年齢等を健診時や常時測定できるようにしては</a></li>
           </ol>
         </div>
       </div>
@@ -35,8 +35,8 @@
         <label for="tab-3-3"><span>3月定例会まとめ（作成中）</span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
         <div class="acd-sub-content">
           <ol>
-            <li><a href="./ippan/r3/3-gatu/">カーボンニュートラルの虚実を、まず科学的に捉えよ</a></li>
-            <li><a href="./ippan/r3/3-gatu/">選挙を良くするため、再度問う</a></li>
+            <li><a href="./ippan/r3/3-gatu/1-carbon-neutral-giman.md">カーボンニュートラルの虚実を、まず科学的に捉えよ</a></li>
+            <li><a href="./ippan/r3/3-gatu/2-senkyo-yokusuru-again.md">選挙を良くするため、再度問う</a></li>
           </ol>
         </div>
       </div>
