@@ -1036,3 +1036,104 @@ span.q-a {
   font-family: "Trebuchet MS";
   font-weight: bold;
 }
+
+
+
+
+/* top page accordion */
+/* https://www.codingnepalweb.com/responsive-accordion-menu-html-css/ */
+/* another https://www.cssscript.com/multilevel-accordion-menu-with-plain-html-css/ */
+.acd-wrapper{
+  max-width: 600px;
+  padding: 0 20px;
+}
+.acd-wrapper .parent-tab,
+.acd-wrapper .child-tab{
+  margin-bottom: 8px;
+  border-radius: 3px;
+  box-shadow: 0px 0px 15px rgba(0,0,0,0.18);
+}
+.acd-wrapper .parent-tab label,
+.acd-wrapper .child-tab label{
+  background: var(--links);
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+  border-radius: 3px;
+  position: relative;
+  z-index: 99;
+  transition: all 0.3s ease;
+}
+.acd-wrapper .parent-tab label:hover{
+  background: var(--links);
+}
+.parent-tab input:checked ~ label,
+.child-tab input:checked ~ label{
+  border-radius: 3px 3px 0 0;
+  background: var(--links);
+}
+.acd-wrapper label span{
+  color: var(--bg);
+  font-size: calc(var(--font-size)*1.1);
+  font-weight: 500;
+  text-shadow: 0 -1px 1px var(--links);
+}
+.acd-wrapper .child-tab label span{
+  font-size: calc(var(--font-size)*1.05);
+}
+.parent-tab label .icon{
+  position: relative;
+  height: calc(var(--font-size)*1.6);
+  width:  calc(var(--font-size)*1.6);
+  font-size: var(--font-size);
+  color: var(--links);
+  display: block;
+  background: var(--bg);
+  border-radius: 50%;
+  text-shadow: 0 -1px 1px var(--links);
+}
+.acd-wrapper .child-tab label .icon{
+  height: 27px;
+  width: 27px;
+}
+.parent-tab label .icon i{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.parent-tab input:checked ~ label .icon i:before,
+.child-tab input:checked ~ label .icon i:before{
+  content: '\f068';
+}
+.acd-wrapper .parent-tab .acd-content,
+.acd-wrapper .child-tab .acd-sub-content{
+  max-height: 0px;
+  overflow: hidden;
+  background: var(--bg);
+  border-radius: 0 0 3px 3px;
+  transition: all 0.4s ease;
+}
+.parent-tab input:checked ~ .acd-content,
+.child-tab input:checked ~ .acd-sub-content{
+  max-height: 200vh;
+}
+.tab-3 input:checked ~ .acd-content,
+.tab-2 input:checked ~ .acd-content,
+.tab-1 input:checked ~ .acd-content {
+  padding: 15px 20px;
+}
+.parent-tab .acd-content p,
+.child-tab .acd-sub-content p{
+  padding: 15px 20px;
+  font-size: var(--font-size);
+}
+.child-tab .acd-sub-content p{
+  font-size: var(--font-size);
+}
+input[type="radio"],
+input[type="checkbox"]{
+  display: none;
+}
