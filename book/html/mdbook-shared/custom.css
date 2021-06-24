@@ -1139,6 +1139,7 @@ input[type="checkbox"]{
 }
 
 
-.adobe-dc-view {
+.adobe-pdf {
+  width: 100%;
   border: 1px solid var(--fg);
 }
