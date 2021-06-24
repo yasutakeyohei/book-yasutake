@@ -18,7 +18,7 @@
       <!-- Sub -->
       <div class="child-tab">
         <input type="checkbox" name="sub-tab" id="tab-3-6" checked>
-        <label for="tab-3-6"><span>6月定例会まとめ（作成中）</span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
+        <label for="tab-3-6"><span>6月定例会（まとめ作成中）</span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
         <div class="acd-sub-content">
           <ol>
             <li><a href="./ippan/r3/6-gatu/1-sityou-bousai-honkijanaidesyo.md">防災に対し、市長は本気で取り組むのか</a></li>
@@ -32,7 +32,7 @@
       <!-- Sub -->
       <div class="child-tab">
         <input type="checkbox" name="sub-tab" id="tab-3-3">
-        <label for="tab-3-3"><span>3月定例会まとめ（作成中）</span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
+        <label for="tab-3-3"><span>3月定例会（まとめ作成中）</span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
         <div class="acd-sub-content">
           <ol>
             <li><a href="./ippan/r3/3-gatu/1-carbon-neutral-giman.md">カーボンニュートラルの虚実を、まず科学的に捉えよ</a></li>
