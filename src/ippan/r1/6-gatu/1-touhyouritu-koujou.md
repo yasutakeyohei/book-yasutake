@@ -36,7 +36,7 @@
 
 ## 一般質問通告書
 
-<div id="adobe-dc-view" style="width: 100%;"></div>
+<div id="adobe-dc-view" style="width: 100%;" class="adobe-pdf"></div>
 <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
 <script type="text/javascript">
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
