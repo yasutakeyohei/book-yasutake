@@ -1137,3 +1137,8 @@ input[type="radio"],
 input[type="checkbox"]{
   display: none;
 }
+
+
+.adobe-dc-view {
+  border: 1px solid var(--fg);
+}
