@@ -41,3 +41,4 @@
     - [令和2年度 提案](./sonota/koutyou-koho/r2/teian.md)
 - [スタンス](./stance.md)
 - [小平市の問題点一覧](./kodaira-mondai.md)
+- [このサイトのアクセシビリティツールについて](./about-a11y.md)
