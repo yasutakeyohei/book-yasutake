@@ -35,13 +35,11 @@
 </fieldset>
 
 ## 一般質問通告書
-
 <script src="https://documentcloud.adobe.com/view-sdk/main.js" defer></script>
 <script type="text/javascript">
 const showPDF = (url) => {
     const adobeDCView = new AdobeDC.View({clientId: "897dee58a3dd4a01b1de491cc8e563c3", locale: "ja-JP"});
     const fileName = (url.match(/^(?:[^:\/?#]+:)?(?:\/\/[^\/?#]*)?(?:([^?#]*\/)([^\/?#]*))?(\?[^#]*)?(?:#.*)?$/) ?? [])[2];
-    console.log(fileName);
     adobeDCView.previewFile({
         content:   {location: {url: url}},
         metaData: {fileName: fileName}
@@ -50,7 +48,6 @@ const showPDF = (url) => {
 </script>
 
 <button onclick='showPDF("./201906-ippan-situmon-yasutake-1.pdf")' class="pdf-view-button">PDFで見る</button>
-
 
 ## 質疑
 
