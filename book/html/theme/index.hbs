@@ -41,7 +41,12 @@
         {{/if}}
 
         <!-- Fonts -->
+        <!--
         <link rel="stylesheet" href="{{ path_to_root }}FontAwesome/css/font-awesome.css">
+        -->
+        <link rel="preload" href="{{ ../path_to_root }}FontAwesome/css/font-awesome.css" as="style">
+        <link rel="stylesheet" href="{{ ../path_to_root }}FontAwesome/css/font-awesome.css" media="print" onload="this.media='all'">
+
         {{#if copy_fonts}}
         <link rel="stylesheet" href="{{ path_to_root }}fonts/fonts.css">
         {{/if}}
@@ -57,8 +62,11 @@
         {{/each}}
 
         <!-- CUSTOM: CSSの読み込み（直書き） -->
+        <!--
         <link rel="stylesheet" href="{{ ../path_to_root }}mdbook-shared/custom.css">
-
+        -->
+        <link rel="preload" href="{{ ../path_to_root }}mdbook-shared/custom.css" as="style">
+        <link rel="stylesheet" href="{{ ../path_to_root }}mdbook-shared/custom.css" media="print" onload="this.media='all'">
 
         {{#if mathjax_support}}
         <!-- MathJax -->
@@ -66,7 +74,7 @@
         {{/if}}
 
         <!-- typesquare -->
-        <script type="text/javascript" src="//typesquare.com/3/tsst/script/ja/typesquare.js?60267d718df44b799ec17594ac1e02e5" charset="utf-8"></script>
+        <script type="text/javascript" src="//typesquare.com/3/tsst/script/ja/typesquare.js?60267d718df44b799ec17594ac1e02e5" charset="utf-8" defer></script>
 
     </head>
     <body>
