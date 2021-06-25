@@ -36,17 +36,20 @@
 
 ## 一般質問通告書
 
-<div id="adobe-dc-view" style="width: 100%;" class="adobe-pdf"></div>
-<script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+<script src="https://documentcloud.adobe.com/view-sdk/main.js" defer></script>
 <script type="text/javascript">
-	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
-		var adobeDCView = new AdobeDC.View({clientId: "897dee58a3dd4a01b1de491cc8e563c3", divId: "adobe-dc-view"});
-		adobeDCView.previewFile({
-      content:   {location: {url: "./201906-ippan-situmon-yasutake-1.pdf"}},
-      metaData: {fileName: "201906-ippan-situmon-yasutake-1.pdf"}
-		}, {embedMode: "IN_LINE"});
-	});
+const showPDF = (url) => {
+    const adobeDCView = new AdobeDC.View({clientId: "897dee58a3dd4a01b1de491cc8e563c3", locale: "ja-JP"});
+    const fileName = (url.match(/^(?:[^:\/?#]+:)?(?:\/\/[^\/?#]*)?(?:([^?#]*\/)([^\/?#]*))?(\?[^#]*)?(?:#.*)?$/) ?? [])[2];
+    console.log(fileName);
+    adobeDCView.previewFile({
+        content:   {location: {url: url}},
+        metaData: {fileName: fileName}
+    }, {embedMode: "LIGHT_BOX"});
+}
 </script>
+
+<button onclick='showPDF("./201906-ippan-situmon-yasutake-1.pdf")' class="pdf-view-button">PDFで見る</button>
 
 
 ## 質疑
