@@ -1,5 +1,6 @@
 <!DOCTYPE HTML>
 <html lang="{{ language }}" class="sidebar-visible no-js {{ default_theme }} font-family-ud line-height-0 letter-spacing-0 font-size-0"> <!-- CUSTOM: 念のためデフォルトクラスを追加-->
+
     <head>
         <!-- Book generated using mdBook -->
         <meta charset="UTF-8">
@@ -65,8 +66,8 @@
         <!--
         <link rel="stylesheet" href="{{ ../path_to_root }}mdbook-shared/custom.css">
         -->
-        <link rel="preload" href="{{ ../path_to_root }}mdbook-shared/custom.css" as="style">
-        <link rel="stylesheet" href="{{ ../path_to_root }}mdbook-shared/custom.css" media="print" onload="this.media='all'">
+        <link rel="preload" href="{{ ../path_to_root }}mdbook-shared/custom.css?20210706" as="style">
+        <link rel="stylesheet" href="{{ ../path_to_root }}mdbook-shared/custom.css?20210706" media="print" onload="this.media='all'">
 
         {{#if mathjax_support}}
         <!-- MathJax -->
@@ -171,12 +172,13 @@
                             <div><button role="menuitem" data-key="theme" data-val="coal">3</button></div>
                             <div><button role="menuitem" data-key="theme" data-val="navy">4</button></div>
                             <div><button role="menuitem" data-key="theme" data-val="ayu">5</button></div>
-                            <div><i class="icon-font label" aria-hidden="true"></i><span class="screen-reader-only">フォント</span></div>
+                            <div class="font-icon"><div><i class="icon-font label" aria-hidden="true"></i><span class="screen-reader-only">フォント</span></div></div>
                             <div><button role="menuitem" data-key="fontFamily" data-val="font-family-ud1" data-default="true">UD1</button></div>
                             <div><button role="menuitem" data-key="fontFamily" data-val="font-family-ud2">UD2</button></div>
                             <div><button role="menuitem" data-key="fontFamily" data-val="font-family-gothic">ゴ</button></div>
                             <div><button role="menuitem" data-key="fontFamily" data-val="font-family-mincho">明</button></div>
                             <div><button role="menuitem" data-key="fontFamily" data-val="font-family-uiprop">P</button></div>
+                            <div class="font-family"><div><input type="text" role="menuitem" id="a11y-font-family-name" data-key="fontFamily" data-val="font-family-input" placeholder="フォント名を指定できます"></div></div>
                             <div><i class="icon-format_line_spacing label" aria-hidden="true"></i><span class="screen-reader-only">行間隔</span></div>
                             <div><button role="menuitem" data-key="lineHeight" data-val="line-height-0" data-default="true">0</button></div>
                             <div><button role="menuitem" data-key="lineHeight" data-val="line-height-1">1</button></div>
@@ -204,11 +206,11 @@
                             </div>
                             <div></div>
                             <div class="reset">
-                                <button role="menuitem" data-key="reset" data-val="action"><i class="fa fa-refresh" aria-hidden="true"></i>RESET</button>
+                                <button role="menuitem" data-key="reset" data-val="action"><i class="fa fa-refresh" aria-hidden="true"></i>リセット</button>
                             </div>
                             <div></div>
                             <div class="help">
-                                <button role="menuitem" data-key="help" data-val="action"><i class="fa fa-question-circle" aria-hidden="true"></i><span class="screen-reader-only">使い方</span></button>
+                                <button role="menuitem" data-key="help" data-val="action"><i class="fa fa-question-circle-o" aria-hidden="true"></i><span class="screen-reader-only">使い方</span></button>
                             </div>
                         </div>
 
@@ -260,6 +262,7 @@
 
                 <div id="content" class="content">
                     <main>
+                        <!-- breadcrumbs -->
                         {{{ content }}}
                     </main>
 
