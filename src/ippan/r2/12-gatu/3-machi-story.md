@@ -1,5 +1,3 @@
-<p class="breadcrumbs"><a href="../../../index.md">小平市議 安竹洋平の主張等</a> > <a href="../../index.md">一般質問</a> > <a href="./index.md">令和2年12月定例会</a> > 3件目
-
 {{first:2020-12-28}}
 
 {{description:小平市議会議員 安竹洋平の令和2年度12月定例会における一般質問の3件目についてまとめています。}}
