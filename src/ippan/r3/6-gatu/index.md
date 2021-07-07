@@ -4,14 +4,14 @@
 
 # 令和3年6月定例会
 
-令和3年2月26日に2件の一般質問をしました。次のリンクから詳細に飛びます。
+令和3年6月10日に5件の一般質問をしました。次のリンクから詳細に飛びます。
 
-### [（1）防災に対し、市長は本気で取り組むのか](./1-sityou-bousai-honkijanaidesyo.md)
+1. **[防災に対し、市長は本気で取り組むのか](./1-sityou-bousai-honkijanaidesyo.md)**
 
-### [（2）行き場のない子どもたちを見過ごすな](./2-ikibanonai-kodomotachi.md)
+1. **[行き場のない子どもたちを見過ごすな](./2-ikibanonai-kodomotachi.md)**
 
-### [（3）ふるさと納税制度の活用について](./3-furusato-nouzei.md)
+1. **[ふるさと納税制度の活用について](./3-furusato-nouzei.md)**
 
-### [（4）ひとり親家庭の実態調査を](./4-hitorioya-katei-jittai-chousa.md)
+1. **[ひとり親家庭の実態調査を](./4-hitorioya-katei-jittai-chousa.md)**
 
-### [（5）血管年齢等を健診時や常時測定できるようにしては](./5-kekkan-nenrei.md)
+1. **[血管年齢等を健診時や常時測定できるようにしては](./5-kekkan-nenrei.md)**
