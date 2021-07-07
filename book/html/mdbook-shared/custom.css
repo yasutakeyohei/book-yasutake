@@ -1,11 +1,11 @@
 /* a11y */
-.font-family-ud1     { font-family: "UD デジタル 教科書体 N-R", "BIZ UDゴシック Regular", "BIZ UDGothic", "BIZ UDMincho", "a-otf-ud-shin-maru-go-pr6n", "UDデジタル教科書体 R"; }
-.font-family-ud2     { font-family: "a-otf-ud-shin-maru-go-pr6n", "BIZ UDゴシック Regular", "BIZ UDGothic", "BIZ UDMincho", "UDデジタル教科書体 R"; }
+.font-family-ud1    { font-family: "UD デジタル 教科書体 N-R", "BIZ UDゴシック Regular", "BIZ UDGothic", "BIZ UDMincho", "a-otf-ud-shin-maru-go-pr6n"; }
+.font-family-ud2    { font-family: "UDデジタル教科書体 R", "a-otf-ud-shin-maru-go-pr6n", "BIZ UDゴシック Regular", "BIZ UDGothic", "BIZ UDMincho"; }
 .font-family-gothic { font-family: "Helvetica Neue", "Helvetica", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Arial", "Yu Gothic", "Meiryo", "sans-serif"; }
 .font-family-mincho { font-family: "Times New Roman", "YuMincho", "Hiragino Mincho ProN", "Yu Mincho", "MS PMincho", "serif"; }
 .font-family-uiprop { font-family: "Meiryo UI", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic UI", "MS PGothic", "sans-serif"; }
 
-.line-height-0 { --line-height: 2.6rem; --line-height-chapter: 1.5em; }
+.line-height-0 { --line-height: 3.0rem; --line-height-chapter: 1.5em; }
 .line-height-1 { --line-height: 3.5rem; --line-height-chapter: 3.5rem; }
 .line-height-2 { --line-height: 4.5rem; --line-height-chapter: 4.5rem; }
 .line-height-3 { --line-height: 5.5rem; --line-height-chapter: 5.5rem; }
@@ -61,6 +61,12 @@ h6 {
   font-size: 0.9em;
 }
 
+button {
+  line-height: unset;
+  letter-spacing: unset;
+  font: unset;
+  font-size: calc(var(--font-size)*0.79);
+}
 .content {
   letter-spacing: var(--letter-spacing);
 }
@@ -345,7 +351,7 @@ ul.published-at-updated-at {
   display: flex;
   justify-content: flex-end;
   flex-wrap: wrap;
-  gap: 0 2rem;
+  /* gap: 0 2rem; safari does not support this yet */
   margin: 0 0 2px 0;
   list-style-type: none;
   font-size: 1.5rem;
@@ -353,6 +359,9 @@ ul.published-at-updated-at {
 }
 ul.published-at-updated-at li {
   white-space: nowrap;
+}
+ul.published-at-updated-at li:last-of-type {
+  margin-left:2rem;
 }
 
 /* sortable */
@@ -825,7 +834,7 @@ blockquote > h2 {
 }
 #menu-bar i {
   font-size:24px;
-  transition: all 5s linear;
+  transition: color 5s linear;
 }
 #menu-bar i.label{
   cursor: unset;
@@ -857,13 +866,14 @@ blockquote > h2 {
   gap: 3px 0px; 
   grid-template-areas: 
     ". . . . . ."
-    ". . . . . ."
+    "font-icon . . . . ."
+    "font-icon font-family font-family font-family font-family font-family" 
     ". . . . . ."
     ". . . . . ."
     ". . . . . ."
     ". ruby-on ruby-on ruby-off ruby-off ." 
     "reset reset reset help help help"; 
-}
+  }
 .a11y-popup-div .default {
   color: var(--icons);
 }
@@ -887,9 +897,9 @@ blockquote > h2 {
   cursor: pointer;
   color: inherit;
   background: inherit;
-  font-size: inherit;
 }
-.a11y-popup-div button.selected {
+.a11y-popup-div button.selected,
+.a11y-popup-div input.selected {
   border: 2px solid var(--sidebar-active);
 }
 .a11y-popup-div button:hover {
@@ -900,11 +910,21 @@ blockquote > h2 {
   border-top-left-radius: inherit;
   border-top-right-radius: inherit;
 }
+.font-icon { grid-area: font-icon; }
+.font-family { grid-area: font-family; }
 .ruby-on { grid-area: ruby-on; }
 .ruby-off { grid-area: ruby-off; }
 .reset { grid-area: reset; }
 .help { grid-area: help; }
-
+.font-icon > div,
+.font-family > div {
+  height:100%;
+  display:grid;
+  align-items:center;
+}
+.font-family input {
+  margin: 0 5px;
+}
 /* スクリーンリーダーだけ読み上げるテキスト用 */
 .screen-reader-only { 
   border: 0;
@@ -927,12 +947,18 @@ h1, h2, h3, h4, h5, h6,
   letter-spacing: var(--letter-spacing);
 }
 li {
-  line-height: calc( var(--line-height)*1.2);
+  line-height: var(--line-height);
   letter-spacing: var(--letter-spacing);
+  margin-bottom: calc(var(--line-height)*0.5);
 }
+li:last-child {
+  margin-bottom: 0;
+}
+.chapter li,
 .chapter li.chapter-item {
-  line-height: var(--line-height-chapter);
+  line-height: var(--line-height);
   letter-spacing: var(--letter-spacing);
+  margin-bottom:0;
 }
 
 
@@ -1080,6 +1106,9 @@ span.q-a {
   font-weight: 500;
   text-shadow: 0 -1px 1px var(--links);
 }
+.acd-wrapper label span a {
+  color: var(--bg);
+}
 .acd-wrapper .child-tab label span{
   font-size: calc(var(--font-size)*1.05);
 }
@@ -1164,4 +1193,29 @@ input[type="checkbox"]{
 .pdf-view-button:hover {
   background-color: #4CAF50;
   color: white;
+}
+
+
+div.recent-updated {
+  overflow-x: auto;
+  white-space: nowrap;
+  height: 15rem;
+  border: 1px solid var(--fg);
+}
+
+div.recent-updated ul {
+  list-style-type: none;
+  padding: 0 0 0 1rem;
+  margin: 0;
+}
+div.recent-updated ul li {
+  margin-bottom:0;
+}
+
+
+#sidebar-toggle {
+  color: var(--links);
+}
+#menu-bar i, #menu-bar .icon-button {
+  transition: unset;
 }

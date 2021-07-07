@@ -30,8 +30,10 @@
   const html = document.querySelector('html');
   const a11yToggleButton = document.getElementById('a11y-toggle');
   const a11yPopup = document.getElementById('a11y-list');
+  const a11yFontFamilyInput = document.getElementById('a11y-font-family-name');
 
    /* 利用可能ステートとデフォルトステートをindex.hbsから取得 */
+   /* fontFamilyNameだけ別扱い */
   let availableStates = {};
   let defaultState = {};
   [...a11yPopup.querySelectorAll("[role='menuitem']")].forEach((elm) => {
@@ -62,9 +64,23 @@
     });
     Object.keys(defaultState).forEach((key) => {
       a11yPopup.querySelector(`[data-key='${key}'][data-val='${state[key]}']`).classList.add("selected");
+      if (state[key] === "font-family-input") {
+        a11yFontFamilyInput.value = state["fontFamilyName"];
+      }
     });
   }
 
+  /*
+    {
+      fontFamily: "font-family-input",
+      fontFamilyName: "（ユーザーが指定）",
+      fontSize: "font-size-2",
+      letterSpacing: "letter-spacing-2",
+      lineHeight: "line-height-2",
+      ruby: "ruby-off",
+      theme: "light"
+    }
+  */
   const setState = (newState, store = true) => {
     /* 一旦全クラス削除 */
     for (const v of Object.values(availableStates)) {
@@ -74,9 +90,29 @@
     }
 
     state = {...state, ...newState}; //merge state
+
     /* ステートにもとづいてクラスを設定 */
-    for (const cls of Object.values(state)) {
-      html.classList.add(cls);
+    for (const [key, val] of Object.entries(state)) {
+      if (key !== "fontFamilyName") {
+        html.classList.add(val);
+      }
+    }
+
+    /* 任意のfont-familyを設定している場合 */
+    if (state.fontFamily === "font-family-input") {
+      html.style.fontFamily = state.fontFamilyName;
+    } else {
+      html.style.removeProperty("font-family");
+    }
+
+    /* type squre の動的ロード */
+    if (state.fontFamily === "font-family-ud2") {
+      if (!document.body.contains(document.getElementById('typesquare-script'))) {
+        const script = document.createElement('script');
+        script.id = "typesquare-script";
+        script.src = "//typesquare.com/3/tsst/script/ja/typesquare.js?60267d718df44b799ec17594ac1e02e5";
+        document.body.appendChild(script);
+      }
     }
  
     if (store) {
@@ -86,11 +122,17 @@
     }
     updatePopup();
   }
+
+  /* stateが有効か確認。fontFamilyNameだけ別扱い */
   const validateState = (newState) => {
     const s = {...defaultState};
     for (const [k, v] of Object.entries(newState)) {
-      if (k in availableStates) {
-        s[k] = availableStates[k].includes(v) ? newState[k] : defaultState[k];
+      if (k === "fontFamilyName") {
+        s[k] = newState[k];
+      } else {
+        if (k in availableStates) {
+          s[k] = availableStates[k].includes(v) ? newState[k] : defaultState[k];
+        }
       }
     }
     return s;
@@ -123,6 +165,13 @@
     }
   });
 
+  a11yFontFamilyInput.addEventListener('keyup', (e) => {
+    const id = e.target.id;
+    if (id == "a11y-font-family-name") {
+      setState({fontFamilyName: e.target.value})
+    }
+  })
+
   a11yPopup.addEventListener('focusout', (e) => {
     // e.relatedTarget is null in Safari and Firefox on macOS (see workaround below)
     if (!!e.relatedTarget && !a11yToggleButton.contains(e.relatedTarget) && !a11yPopup.contains(e.relatedTarget)) {
@@ -138,3 +187,11 @@
   });
 
 })();
+
+/* click to set font-family */
+const a11ySetFontFamily = (fontFamily) => {
+  const a11yFontFamilyInput = document.getElementById('a11y-font-family-name');
+  a11yFontFamilyInput.value = fontFamily;
+  a11yFontFamilyInput.dispatchEvent(new Event("keyup", {bubbles:true}));
+  a11yFontFamilyInput.dispatchEvent(new MouseEvent("click", {bubbles:true}));
+}
