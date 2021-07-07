@@ -11,8 +11,9 @@
 
 その他のまとめは[こちら](https://yasutakeyohei.com/books/)をご覧ください。
 
-## [一般質問](./ippan/index.md)
-## [その他](./sonota/index.md)
+**[一般質問](./ippan/index.md)**
+
+**[その他](./sonota/index.md)**
 
 ## 最近の更新
-<!-- recent update -->
+<!-- recent updates -->
