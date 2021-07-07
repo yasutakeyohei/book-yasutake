@@ -1107,7 +1107,7 @@ span.q-a {
   text-shadow: 0 -1px 1px var(--links);
 }
 .acd-wrapper label span a {
-  color: var(--bg);
+  color: var(--bg) !important;
 }
 .acd-wrapper .child-tab label span{
   font-size: calc(var(--font-size)*1.05);
