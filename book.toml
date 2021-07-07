@@ -25,5 +25,5 @@ level = 0
 enable = false
 
 [output.z]
-command = "python ../../src/mdbook-shared/postprocess.py"
+command = "python -B ../../src/mdbook-shared/postprocess.py"
 optional = true
