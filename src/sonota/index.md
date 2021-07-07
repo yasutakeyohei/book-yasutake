@@ -1,5 +1,3 @@
-<p class="breadcrumbs"><a href="../index.md">小平市議 安竹洋平の主張等</a> > その他
-
 {{first:2020-12-09}}
 
 # その他

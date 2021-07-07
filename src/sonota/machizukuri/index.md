@@ -1,5 +1,3 @@
-<p class="breadcrumbs"><a href="../../index.md">小平市議 安竹洋平の主張等</a> > <a href="../index.md">その他</a> > まちづくり条例勉強会
-
 {{first:2021-04-19}}
 
 （🔨作成中）
