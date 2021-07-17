@@ -11,10 +11,7 @@
 <fieldset class="point">
   <legend><h2> まとめ </h2></legend>
 
-**（質問の概要）**
-
-
-それぞれ主な質疑を下にまとめました。詳細は<a href="">会議録</a>をご参照ください。
+＊作成中です。
 
 </fieldset>
 
