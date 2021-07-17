@@ -140,7 +140,7 @@ for filePath in glob.iglob('../../book/**/*.html', recursive=True):
         if os.path.exists(fp) :
             dt = datetime.datetime.fromtimestamp(os.stat(fp).st_mtime)
             keyJST8601 = dt.strftime('%Y/%m/%d %H:%M:%S+09:00')
-            y = str(int(dt.strftime('%Y')) - 2019)
+            y = str(int(dt.strftime('%Y')) - 2018)
             mon = str(int(dt.strftime('%m')))
             d = str(int(dt.strftime('%d')))
             with open(filePath, encoding="utf8") as file:

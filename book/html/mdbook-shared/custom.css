@@ -116,6 +116,10 @@ table tbody td {
   line-height: var(--line-height);
 }
 
+table {
+  background-color: var(--bg);
+}
+
 /* point, nittei, sanpi, summary */
 fieldset.point {
   margin-top: 0;
@@ -338,6 +342,12 @@ div.tips>p:first-child {
   font-weight:bold;
 }
 
+div.note {
+  border: 1px dashed var(--fg);
+  padding: 0 3rem;
+  margin-bottom: 4rem;
+}
+
 p.situgi-comment {
   color: red;
 }
@@ -550,7 +560,7 @@ p.img-wrapper {
 .balloon {
   font-size: calc(var(--font-size)*0.77);
   position: relative;
-  width: 70%;
+  width: 80%;
   display: inline-block;
   vertical-align: top;
   box-sizing: border-box;
@@ -585,7 +595,7 @@ p.img-wrapper {
   font-weight: normal;
 }
 .balloon.bl-left {
-  margin: 3rem 26% 3rem 4%;
+  margin: 3rem 16% 3rem 4%;
 }
 .balloon.bl-left>div {
   background-color: var(--situgi-q-bg);
@@ -604,7 +614,7 @@ blockquote .balloon.bl-left>div:after {
 }
 
 .balloon.bl-right {
-  margin: 1rem 4% 1rem 26%;
+  margin: 1rem 4% 1rem 16%;
   text-align: right;
 }
 .balloon.bl-right>div {
@@ -645,24 +655,21 @@ hr.balloon-divider {
   margin: 3rem 1rem;
 }
 
+/* table bordered */
 table.bordered thead th {
   white-space: nowrap;
   border: 1px solid var(--fg);
 }
-
 table.bordered th,
 table.bordered td {
   border: 1px solid var(--fg);
 }
-
 table.slim {
   margin: 3rem auto;
 }
-
 table.slim ol {
   margin: 0;
 }
-
 table.slim caption {
   margin-bottom: 1rem;
 }
@@ -1004,11 +1011,12 @@ li:last-child {
 .situgi h4 {
   font-size: var(--font-size);
   line-height: var(--line-height);
-  background: var(--situgi-q-bg);
+  border: 1px solid var(--fg);
+  border-radius: 10px;
   font-weight: bold;
   text-align: center;
   margin: 2rem 0;
-  padding: 2rem 0;
+  padding: 1rem 0;
 }
 .situgi h4 {
   padding: 0;
@@ -1184,15 +1192,22 @@ input[type="checkbox"]{
   text-decoration: none;
   display: inline-block;
   font-size: var(--font-size);
-  margin: 4px 2px;
+  margin: 3rem 2px 0;
   transition-duration: 0.4s;
   cursor: pointer;
-  border: 2px solid var(--fg);
+  border: 1px solid var(--fg);
+  border-radius: 5px;
 }
-
+.pdf-view-button i {
+  color: red;
+  transition-duration: 0.4s;
+}
 .pdf-view-button:hover {
-  background-color: #4CAF50;
-  color: white;
+  background-color: var(--links);
+  color: var(--bg);
+}
+.pdf-view-button:hover i {
+  color: var(--bg);
 }
 
 
@@ -1218,4 +1233,29 @@ div.recent-updated ul li {
 }
 #menu-bar i, #menu-bar .icon-button {
   transition: unset;
+}
+
+
+#toc {
+  background: #f9f9f9 none repeat scroll 0 0;
+  border: 1px solid #aaa;
+  display: table;
+  font-size: 95%;
+  margin: 0 auto 3rem;
+  padding: 2rem;
+  width: auto;
+}
+.toc-title {
+  font-weight: bold;
+  text-align: center;
+}
+#toc>p {
+  margin: 0;
+}
+#toc>ul {
+  padding: 0 2rem;
+}
+#toc li, #toc ul, #toc ul li{
+  list-style: outside none none !important;
+  margin-bottom:0;
 }
