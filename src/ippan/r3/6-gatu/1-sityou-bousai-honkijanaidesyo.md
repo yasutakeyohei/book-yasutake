@@ -15,7 +15,6 @@
 
 </fieldset>
 
-## 一般質問通告書
 <script src="https://documentcloud.adobe.com/view-sdk/main.js" defer></script>
 <script type="text/javascript">
 const showPDF = (url) => {
@@ -28,44 +27,50 @@ const showPDF = (url) => {
 }
 </script>
 
-<button onclick='showPDF("./202106-ippan-situmon-yasutake-1.pdf")' class="pdf-view-button">PDFで見る</button>
+<button onclick='showPDF("./20210610-ippan-situmon-yasutake-1.pdf")' class="pdf-view-button">
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i> 一般質問通告書
+</button>
 
-## 質疑
+## 主な質疑
 
 <div class="situgi">
 
-以下は、読みやすさを考え、
+<div id="toc">
+<p class="toc-title">目次</p>
 
-- 初回の質疑（壇上で通告書を読み上げて行う質問と、それに対する答弁）
-- 再質問の質疑（自席に戻ってから行う再質問と答弁）
+＊作成中です。
 
-を合わせて記載しています。
+</div>
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+{{#include ../../../partials/ippan-situgi-note.md}}
+
+### 今回質問する理由
+
+<div class="balloon bl-left">安竹（初）<br><div>
 
 市長は、政策の三本柱のひとつに、防災・減災（災害に強い小平市をさらに安心安全なまちへ）を挙げている。
 
 </div></div>
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+<div class="balloon bl-left">安竹（初）<br><div>
 
 しかし、今後一年間の主要な施策を決める肉付け予算としての一般会計補正予算第4号には、防災・減災関連の目立った新規施策がない。
 
 </div></div>
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+<div class="balloon bl-left">安竹（初）<br><div>
 
 また、本年5月15日に総合水防演習が行われた際、市長は「自宅で過ごす」とSNSで投稿し、多くの市民から批判を受けている。
 
 </div></div>
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+<div class="balloon bl-left">安竹（初）<br><div>
 
 当事者意識の著しい欠如が感じられ、市長の防災に対する姿勢を疑わざるを得ない。市長の防災・減災に対する本気度を確認する意図をもって、次の質問を行う。
 
 </div></div>
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+<div class="balloon bl-left">安竹（初）<br><div>
 
 新市長として、小平市の防災をどのように変えていく予定か。
 
@@ -89,7 +94,7 @@ const showPDF = (url) => {
 
 </div></div>
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+<div class="balloon bl-left">安竹（初）<br><div>
 
 市長の87の政策8項に、防災・減災に関して「障がい者、独居・日中独居の高齢者等要配慮者の支援体制を拡充します」とあるが、具体的なプランは。
 
@@ -109,7 +114,7 @@ const showPDF = (url) => {
 </div></div>
 
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+<div class="balloon bl-left">安竹（初）<br><div>
 
 市の自主防災組織が抱えている課題とその対策は。
 
@@ -128,7 +133,7 @@ const showPDF = (url) => {
 </div></div>
 
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+<div class="balloon bl-left">安竹（初）<br><div>
 
 市は、自主防災組織との間で、普段からどういう関係づくりをしているか。
 
@@ -153,7 +158,7 @@ const showPDF = (url) => {
 </div></div>
 
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+<div class="balloon bl-left">安竹（初）<br><div>
 
 災害発生時、市と自主防災組織の間で、情報伝達はどう行われるか。
 
@@ -174,7 +179,7 @@ const showPDF = (url) => {
 </div></div>
 
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+<div class="balloon bl-left">安竹（初）<br><div>
 
 楽しみながらできるような在宅避難訓練を、市として推奨・推進してはどうか。
 
@@ -205,7 +210,7 @@ const showPDF = (url) => {
 </div></div>
 
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+<div class="balloon bl-left">安竹（初）<br><div>
 
 市内の地区防災計画策定状況、それに対する市の評価と、市の地域防災計画で地区防災計画の作成の推進に取り組むとしているその内容は。
 
@@ -230,7 +235,7 @@ const showPDF = (url) => {
 </div></div>
 
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+<div class="balloon bl-left">安竹（初）<br><div>
 
 若い世代の方々に、市や社会福祉協議会（社協）が資金を提供し、地区防災計画策定を担ってもらうというアイデアがあるが、どう考えるか。
 
@@ -248,13 +253,13 @@ const showPDF = (url) => {
 
 </div></div>
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+<div class="balloon bl-left">安竹（初）<br><div>
 
 多様な防災リーダーを育成することに関しては、たとえば内閣府が育成用研修テキストを出しており、あきる野市、中野区などの取組み事例もある。
 
 </div></div>
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+<div class="balloon bl-left">安竹（初）<br><div>
 
 そういったものを参考にしつつ、より多くの方が参加できるような仕組みとして、たとえば、市や社協の主催で、防災に関する講習会を定期的に実施し、その修了者に認定書を出し、その認定書をもつ方に、防災訓練等において役割を担ってもらい、普段から活躍の場を持ってもらうというアイデアがあるが、どう考えるか。
 
@@ -272,7 +277,7 @@ const showPDF = (url) => {
 
 </div></div>
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+<div class="balloon bl-left">安竹（初）<br><div>
 
 自主防災組織等が行う、市民が参加する防災訓練の日程を、市のホームページや市報に記載し、各防災訓練に参加する地域ボランティアを募集するというアイデアがあるが、どう考えるか。
 

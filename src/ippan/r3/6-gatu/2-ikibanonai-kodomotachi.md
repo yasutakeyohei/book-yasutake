@@ -15,7 +15,6 @@
 
 </fieldset>
 
-## 一般質問通告書
 <script src="https://documentcloud.adobe.com/view-sdk/main.js" defer></script>
 <script type="text/javascript">
 const showPDF = (url) => {
@@ -28,38 +27,44 @@ const showPDF = (url) => {
 }
 </script>
 
-<button onclick='showPDF("./202106-ippan-situmon-yasutake-2.pdf")' class="pdf-view-button">PDFで見る</button>
+<button onclick='showPDF("./20210610-ippan-situmon-yasutake-2.pdf")' class="pdf-view-button">
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i> 一般質問通告書
+</button>
 
-## 質疑
+## 主な質疑
 
 <div class="situgi">
 
-以下は、読みやすさを考え、
+<div id="toc">
+<p class="toc-title">目次</p>
 
-- 初回の質疑（壇上で通告書を読み上げて行う質問と、それに対する答弁）
-- 再質問の質疑（自席に戻ってから行う再質問と答弁）
+＊作成中です。
 
-を合わせて記載しています。
+</div>
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+{{#include ../../../partials/ippan-situgi-note.md}}
+
+### 今回質問する理由
+
+<div class="balloon bl-left">安竹（初）<br><div>
 
 一般質問等でこれまで幾度かテーマとして取り上げる中で、ディスレクシアについての社会的な認知不足を痛感した。そこで、私なりにできることを考え、ディスレクシアの周知と議員活動レポートを兼ねたパンフレットを作成し、市民の方にもご協力いただきながら市内を配り歩いている。これまでに4万部強を配り、ご覧になった複数の保護者からご相談いただいている。
 
 </div></div>
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+<div class="balloon bl-left">安竹（初）<br><div>
 
 ご相談いただく中で、現状の学校の仕組みの中では行き場がなく、学校生活が嫌になってしまう子どもが想像以上にいることが分かってきた。主な原因は、学習の機会が極端に限られてしまうこと、周りから正しく理解が得られていないことであり、また、教員との関係が破綻するケースもある。パンフレットをご覧になり、勇気をもって直接ご相談いただくに至る確率を考えれば、私に届く複数の声は氷山の一角だ。誰一人取り残さないという約束もしているのであるから、いますぐに対応が必要な子どもたちの存在を、けっして見過ごすことがあってはならない。
 
 </div></div>
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+<div class="balloon bl-left">安竹（初）<br><div>
 
 市長は87の政策第40項で「障がいのある子もない子も共に学ぶインクルーシブ教育を推進します」とし、同第41項で「精神疾患の正しい知識や情報について、本人や家族の生きやすさにつながるよう、学校教育の中で伝える場を作ります」としているため、期待を込めて、市の特別支援教育のあり方について問う。
 
 </div></div>
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+<div class="balloon bl-left">安竹（初）<br><div>
 
 「二度と相談したくなくなるような対応だった」という声が複数あるが、就学相談員はどういう基準で選定され、具体的に何をするか、またサービス改善の対象ではないのか。
 
@@ -84,7 +89,7 @@ const showPDF = (url) => {
 </div></div>
 
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+<div class="balloon bl-left">安竹（初）<br><div>
 
 市は、特別支援教室（通級）申し込みの際に必要な「医師診察記録」の作成が可能な医療機関や医師を、児童・生徒の状況に応じて適切に把握し、紹介できているか。
 
@@ -97,7 +102,7 @@ const showPDF = (url) => {
 </div></div>
 
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+<div class="balloon bl-left">安竹（初）<br><div>
 
 平成30年度からの3年度それぞれで、本人や保護者が特別支援教室（以下、通級と呼ぶ）の利用を希望しながら、通級の指導を受けることが適当ではないと判断された児童・生徒数と、その主な判断理由、その後の行き先は。
 
@@ -124,7 +129,7 @@ const showPDF = (url) => {
 
 </div></div>
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+<div class="balloon bl-left">安竹（初）<br><div>
 
 「通級の指導を受けることが適当ではない（通級指導が不適当）」と判断する際の客観性はどう確保しているか。
 
@@ -148,7 +153,7 @@ const showPDF = (url) => {
 
 </div></div>
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+<div class="balloon bl-left">安竹（初）<br><div>
 
 通級指導が不適当と判断され、特別に配慮をしてもらいながら通常学級に通っている児童・生徒数は。
 
@@ -160,7 +165,7 @@ const showPDF = (url) => {
 
 </div></div>
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+<div class="balloon bl-left">安竹（初）<br><div>
 
 これまでのたとえば10年間で、特別支援学級（以下、支援級と呼ぶ）に通っていた児童・生徒が、通常学級や通級での指導に移行を希望した累計数と、実際に移行した児童・生徒の累計数は。
 
@@ -173,7 +178,7 @@ const showPDF = (url) => {
 </div></div>
 
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+<div class="balloon bl-left">安竹（初）<br><div>
 
 支援級や通級で指導を受け、不登校ではなかった生徒が、チャレンジ校やエンカレッジ校に進学するケースはあるか。
 
@@ -185,13 +190,13 @@ const showPDF = (url) => {
 
 </div></div>
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+<div class="balloon bl-left">安竹（初）<br><div>
 
 中学校の支援級は、卒業後の進路が限られているのではないかと心配する声がある。
 
 </div></div>
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+<div class="balloon bl-left">安竹（初）<br><div>
 
 「小平市の特別支援学級のご案内」に書かれているように、卒業後の進路は特別支援学校に限られるのか。
 
@@ -203,13 +208,13 @@ const showPDF = (url) => {
 
 </div></div>
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+<div class="balloon bl-left">安竹（初）<br><div>
 
 小平市特別支援教育総合推進計画（第二期）前期計画や、過去の答弁等において、市は、「自閉症・情緒障がい特別支援学級（情緒固定級）の設置については、他自治体の実践例等の研究を進める」としている。
 
 </div></div>
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+<div class="balloon bl-left">安竹（初）<br><div>
 
 すべての隣接市がすでに小・中学校のどちらか、もしくは両方に情緒固定級を設けている中、小平市がこれをすぐに設置しない理由は
 
@@ -227,7 +232,7 @@ const showPDF = (url) => {
 
 </div></div>
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+<div class="balloon bl-left">安竹（初）<br><div>
 
 文部科学省が活用を依頼している「児童生徒理解・支援シート」を小平市は活用しているか。していないなら、理由は。
 
@@ -239,19 +244,19 @@ const showPDF = (url) => {
 
 </div></div>
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+<div class="balloon bl-left">安竹（初）<br><div>
 
 令和2年度小平市特別支援教育専門家委員会の複数委員も指摘しているように、特にグレーゾーンや知的ボーダーに区分されるような児童・生徒は、知的障害の支援級では学力差が大きく、一方、通級では学ぶ機会が限定的になることから、行き場のない状況がある。
 
 </div></div>
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+<div class="balloon bl-left">安竹（初）<br><div>
 
 対策として、情緒固定級の設置はひとつのアイデアではあるが、いま困っている児童・生徒には遅すぎる。
 
 </div></div>
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+<div class="balloon bl-left">安竹（初）<br><div>
 
 そこで、すぐに開始できるであろうひとつのアイデアとして、支援級に通いながら、通常学級で行われる授業のうち受けたいものを選び、授業開始時に最後部の席に座って授業を受けるというものがあるが、どう考えるか 
 
@@ -263,13 +268,13 @@ const showPDF = (url) => {
 
 </div></div>
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+<div class="balloon bl-left">安竹（初）<br><div>
 
 また、別のアイデアとして、インターネットで、通常学級の授業のライブ配信や録画配信を行い、支援級や通級の児童・生徒や不登校児が視聴できるようにするというものがあるがどうか。
 
 </div></div>
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+<div class="balloon bl-left">安竹（初）<br><div>
 
 コロナ禍で共同学習の機会が減っていることからも、新型コロナウイルス感染症対応地方創生臨時交付金が財源として活用できるはずだが、どう考えるか。
 
@@ -288,7 +293,7 @@ const showPDF = (url) => {
 </div></div>
 
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+<div class="balloon bl-left">安竹（初）<br><div>
 
 11、12のアイデア以外に、グレーゾーンや知的ボーダーに区分されるような、行き場のない児童・生徒が、現状で学ぶ機会を失わないようにする仕組みとしてはどういったことが考えられるか。
 

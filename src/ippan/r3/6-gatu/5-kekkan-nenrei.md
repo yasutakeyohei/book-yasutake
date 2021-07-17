@@ -15,7 +15,6 @@
 
 </fieldset>
 
-## 一般質問通告書
 <script src="https://documentcloud.adobe.com/view-sdk/main.js" defer></script>
 <script type="text/javascript">
 const showPDF = (url) => {
@@ -28,27 +27,33 @@ const showPDF = (url) => {
 }
 </script>
 
-<button onclick='showPDF("./202106-ippan-situmon-yasutake-5.pdf")' class="pdf-view-button">PDFで見る</button>
+<button onclick='showPDF("./20210610-ippan-situmon-yasutake-5.pdf")' class="pdf-view-button">
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i> 一般質問通告書
+</button>
 
-## 質疑
+## 主な質疑
 
 <div class="situgi">
 
-以下は、読みやすさを考え、
+<div id="toc">
+<p class="toc-title">目次</p>
 
-- 初回の質疑（壇上で通告書を読み上げて行う質問と、それに対する答弁）
-- 再質問の質疑（自席に戻ってから行う再質問と答弁）
+＊作成中です。
 
-を合わせて記載しています。
+</div>
+
+{{#include ../../../partials/ippan-situgi-note.md}}
+
+### 今回質問する理由
 
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+<div class="balloon bl-left">安竹（初）<br><div>
 
 市は、親子で楽しむ健康教室や、女性のためのセルフケア教室などの事業において、血管年齢、骨重量、体内年齢を測定している。これらの測定を健診項目に参考情報として加えたり、どこかに装置を定常設置してセルフ測定できる環境を整えたりしてはどうかという市民の声があるため、以下問う。
 
 </div></div>
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+<div class="balloon bl-left">安竹（初）<br><div>
 
 血管年齢、骨重量（骨密度）、体内年齢を、参考情報として健診項目に加えたり、装置を定常設置してセルフ測定したりできるようにしてはどうか。
 
@@ -65,7 +70,7 @@ const showPDF = (url) => {
 
 </div></div>
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+<div class="balloon bl-left">安竹（初）<br><div>
 
 これらの測定値は、簡易的なものでは誤差が大きいと思われるが、たとえば血管年齢について、医学的に正確な検査（CABIやABIなど）を、健診項目に含めることについてはどう考えるか。
 

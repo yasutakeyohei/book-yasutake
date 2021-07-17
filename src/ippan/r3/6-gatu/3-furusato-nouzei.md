@@ -15,7 +15,6 @@
 
 </fieldset>
 
-## 一般質問通告書
 <script src="https://documentcloud.adobe.com/view-sdk/main.js" defer></script>
 <script type="text/javascript">
 const showPDF = (url) => {
@@ -28,44 +27,50 @@ const showPDF = (url) => {
 }
 </script>
 
-<button onclick='showPDF("./202106-ippan-situmon-yasutake-3.pdf")' class="pdf-view-button">PDFで見る</button>
+<button onclick='showPDF("./20210610-ippan-situmon-yasutake-3.pdf")' class="pdf-view-button">
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i> 一般質問通告書
+</button>
 
-## 質疑
+## 主な質疑
 
 <div class="situgi">
 
-以下は、読みやすさを考え、
+<div id="toc">
+<p class="toc-title">目次</p>
 
-- 初回の質疑（壇上で通告書を読み上げて行う質問と、それに対する答弁）
-- 再質問の質疑（自席に戻ってから行う再質問と答弁）
+＊作成中です。
 
-を合わせて記載しています。
+</div>
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+{{#include ../../../partials/ippan-situgi-note.md}}
+
+### 今回質問する理由
+
+<div class="balloon bl-left">安竹（初）<br><div>
 
 市長の87の政策84項には「ふるさと納税やガバメントクラウドファンディングで市内企業やNPO等のプロジェクトを応援できる仕組みを検討します」とある。
 
 </div></div>
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+<div class="balloon bl-left">安竹（初）<br><div>
 
 また、第１期小平市経営方針推進プログラム（素案）には、現状の課題に「限られた財源においても、公共サービスを維持・充実させていくためには、ふるさと納税制度による税の流出を防ぐとともに、新たな手法により市民が市政に参加するきっかけづくりが必要です」とあり、検討の方向性に「市の持つ魅力を存分にいかし、これまで進めてきた「ふるさと納税」を更に充実させるとともに、クラウドファンディングの可能性についての検討を進めます」と記されている。
 
 </div></div>
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+<div class="balloon bl-left">安竹（初）<br><div>
 
 さらに、3月定例会では、ふるさと納税活用について、市民から具体的な提案も記載された請願第5号が採択されている。
 
 </div></div>
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+<div class="balloon bl-left">安竹（初）<br><div>
 
 こうした背景から、新市長のもと、ふるさと納税制度の活用が進むものと期待し、以下質問する。
 
 </div></div>
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+<div class="balloon bl-left">安竹（初）<br><div>
 
 明らかな限界が見えているこれまでの手法以外に、どうやってふるさと納税制度による税の流出を防ぎ、また、流入を増やしていくか
 
@@ -83,19 +88,19 @@ const showPDF = (url) => {
 
 </div></div>
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+<div class="balloon bl-left">安竹（初）<br><div>
 
 市の持つ魅力を生かすという観点で考えれば、たとえばFC東京に協力していただく方法もある。
 
 </div></div>
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+<div class="balloon bl-left">安竹（初）<br><div>
 
 市民の方から、「FC東京の選手からプライベートレッスンを受けられる権利」を返礼品にしてはどうかというアイデアがある。
 
 </div></div>
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+<div class="balloon bl-left">安竹（初）<br><div>
 
 市へのふるさと納税を増やすという視点を含めて、市長の考えやアイデアをお聞かせ願いたい。
 

@@ -15,7 +15,6 @@
 
 </fieldset>
 
-## 一般質問通告書
 <script src="https://documentcloud.adobe.com/view-sdk/main.js" defer></script>
 <script type="text/javascript">
 const showPDF = (url) => {
@@ -28,32 +27,38 @@ const showPDF = (url) => {
 }
 </script>
 
-<button onclick='showPDF("./202106-ippan-situmon-yasutake-4.pdf")' class="pdf-view-button">PDFで見る</button>
+<button onclick='showPDF("./20210610-ippan-situmon-yasutake-4.pdf")' class="pdf-view-button">
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i> 一般質問通告書
+</button>
 
-## 質疑
+## 主な質疑
 
 <div class="situgi">
 
-以下は、読みやすさを考え、
+<div id="toc">
+<p class="toc-title">目次</p>
 
-- 初回の質疑（壇上で通告書を読み上げて行う質問と、それに対する答弁）
-- 再質問の質疑（自席に戻ってから行う再質問と答弁）
+＊作成中です。
 
-を合わせて記載しています。
+</div>
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+{{#include ../../../partials/ippan-situgi-note.md}}
+
+### 今回質問する理由
+
+<div class="balloon bl-left">安竹（初）<br><div>
 
 度重なる緊急事態宣言による店舗閉鎖等の影響により、若い世代の就労事情が厳しくなっていることが予想される。
 
 </div></div>
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+<div class="balloon bl-left">安竹（初）<br><div>
 
 このコロナ禍において、特に、ひとり親家庭へしわ寄せが来ている可能性もあり、早急に実態を確認する必要があると考えるため、以下質問する。
 
 </div></div>
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+<div class="balloon bl-left">安竹（初）<br><div>
 
 コロナ禍における、ひとり親家庭の就労・経済状況や悩みごとは、適切に把握できているか。
 
@@ -66,7 +71,7 @@ const showPDF = (url) => {
 
 </div></div>
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+<div class="balloon bl-left">安竹（初）<br><div>
 
 厚生委員として政策提言でも提案したが、ほかの多くの自治体が定常的に行っている、ひとり親家庭の匿名アンケート実態調査を、市が行わない理由は。
 
@@ -84,7 +89,7 @@ const showPDF = (url) => {
 
 </div></div>
 
-<div class="balloon bl-left">安竹（初回質問時）<br><div>
+<div class="balloon bl-left">安竹（初）<br><div>
 
 コロナ禍での影響を調べるため、臨時的にでも、ひとり親家庭の匿名アンケート実態調査を行ってはどうか。
 
