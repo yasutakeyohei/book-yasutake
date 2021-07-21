@@ -1,0 +1,1261 @@
+/* a11y */
+.font-family-ud1    { font-family: "UD デジタル 教科書体 N-R", "BIZ UDゴシック Regular", "BIZ UDGothic", "BIZ UDMincho", "a-otf-ud-shin-maru-go-pr6n"; }
+.font-family-ud2    { font-family: "UDデジタル教科書体 R", "a-otf-ud-shin-maru-go-pr6n", "BIZ UDゴシック Regular", "BIZ UDGothic", "BIZ UDMincho"; }
+.font-family-gothic { font-family: "Helvetica Neue", "Helvetica", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Arial", "Yu Gothic", "Meiryo", "sans-serif"; }
+.font-family-mincho { font-family: "Times New Roman", "YuMincho", "Hiragino Mincho ProN", "Yu Mincho", "MS PMincho", "serif"; }
+.font-family-uiprop { font-family: "Meiryo UI", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic UI", "MS PGothic", "sans-serif"; }
+
+.line-height-0 { --line-height: 3.0rem; --line-height-chapter: 1.5em; }
+.line-height-1 { --line-height: 3.5rem; --line-height-chapter: 3.5rem; }
+.line-height-2 { --line-height: 4.5rem; --line-height-chapter: 4.5rem; }
+.line-height-3 { --line-height: 5.5rem; --line-height-chapter: 5.5rem; }
+.line-height-4 { --line-height: 6.5rem; --line-height-chapter: 6.5rem; }
+
+.letter-spacing-0 { --letter-spacing: 0rem; }
+.letter-spacing-1 { --letter-spacing: 0.4rem; }
+.letter-spacing-2 { --letter-spacing: 0.8rem; }
+.letter-spacing-3 { --letter-spacing: 1.0rem; }
+.letter-spacing-4 { --letter-spacing: 1.2rem; }
+
+.font-size-0 { --font-size: 1.7rem; }
+.font-size-1 { --font-size: 1.9rem; }
+.font-size-2 { --font-size: 2.1rem; }
+.font-size-3 { --font-size: 2.3rem; }
+.font-size-4 { --font-size: 2.5rem; }
+
+html {
+  font-family: "UD デジタル 教科書体 N-R", "UDデジタル教科書体 R", "BIZ UDゴシック Regular", "Hiragino Kaku Gothic ProN", "ascii";
+}
+
+body {
+  -webkit-text-size-adjust: 100%;
+  /* iPhoneでフォントサイズが勝手に変わるのを阻止 */
+  font-size: var(--font-size);
+}
+
+h1 {
+  font-size: 1.8em; /*1.8em*/
+}
+
+main h1 {
+  margin-top: 0;
+}
+
+h2 {
+  font-size: 1.6em;
+}
+
+h3 {
+  font-size: 1.4em;
+}
+
+h4 {
+  font-size: 1.2em;
+}
+
+h5 {
+  font-size: 1em;
+}
+
+h6 {
+  font-size: 0.9em;
+}
+
+button {
+  line-height: unset;
+  letter-spacing: unset;
+  font: unset;
+  font-size: calc(var(--font-size)*0.79);
+}
+.content {
+  letter-spacing: var(--letter-spacing);
+}
+
+.content p {
+  line-height: var(--line-height);
+}
+.content ol {
+  line-height: var(--line-height);
+}
+.content ul {
+  line-height: var(--line-height);
+}
+
+div.back-to-main-site {
+  background-color: var(--sidebar-fg);
+  border: 1px solid var(--sidebar-bg);
+  box-shadow: 2px 2px 1px 1px rgba(0, 0, 0, .1);
+}
+
+div.back-to-main-site a {
+  color: var(--sidebar-bg);
+  display: block;
+  padding: 10px 0 8px 8px;
+  text-decoration: none;
+  width: 100%;
+}
+
+/* breadcrumbs */
+p.breadcrumbs {
+  margin: 0;
+  background-color: var(--sidebar-bg);
+  color: var(--sidebar-fg);
+  font-size: 1.5rem;
+}
+
+p.breadcrumbs a {
+  color: var(--sidebar-fg);
+}
+
+/* table */
+table thead th,
+table thead td,
+table tbody th,
+table tbody td {
+  padding: 10px;
+  line-height: var(--line-height);
+}
+
+table {
+  background-color: var(--bg);
+}
+
+/* point, nittei, sanpi, summary */
+fieldset.point {
+  margin-top: 0;
+  padding: 0rem 3rem;
+}
+
+fieldset.nittei,
+fieldset.sanpi,
+fieldset.summary {
+  margin-top: 4rem;
+}
+
+fieldset.sanpi,
+fieldset.summary {
+  border-color: var(--point-fg);
+  box-shadow: 4px 4px 4px 0 rgba(1, 1, 1, 0.4);
+}
+
+.point h2,
+.sanpi h2,
+.summary h2 {
+  color: var(--point-fg);
+  margin: 0;
+  padding: 0;
+}
+
+.point ul,
+.sanpi ul,
+.summary ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.point li,
+.sanpi li,
+.summary li {
+  text-indent: -1.5rem;
+  color: var(--point-fg);
+  padding: 1rem 1.5rem;
+}
+
+.point li:not([class]),
+.sanpi li:not([class]),
+.summary li:not([class]) {
+  text-indent: 0;
+  padding: 1rem 1.5rem;
+}
+
+.point li.chk::before,
+.sanpi li.chk::before,
+.summary li.chk::before {
+  content: "✔ ";
+}
+
+.point li.ng::before,
+.sanpi li.ng::before,
+.summary li.ng::before {
+  content: "⚠️ ";
+}
+
+.point li.good::before,
+.sanpi li.good::before,
+.summary li.good::before {
+  content: "⭕️ ";
+}
+
+.point li.bad::before,
+.sanpi li.bad::before,
+.summary li.bad::before {
+  content: "❌ ";
+}
+
+.summary li.play::before {
+  content: "\f04b ";
+  font-family: FontAwesome;
+  margin-right: 1rem;
+}
+
+fieldset.nittei {
+  min-width: auto;
+  white-space: nowrap;
+  overflow-x: auto;
+}
+
+.nittei h2 {
+  margin: 0;
+  padding: 0;
+}
+
+.nittei p {
+  margin-block-end: 0;
+}
+
+.nittei ol {
+  list-style-type: none;
+  padding-left: 2rem;
+  line-height: 2em;
+}
+
+.nittei-wrapper {
+  overflow-x: auto;
+  border-radius: 6px;
+  white-space: nowrap;
+}
+
+p.read-kaigiroku {
+  text-align: right;
+  margin: 0;
+}
+
+li.chapter-item {
+  white-space: nowrap;
+}
+
+li.chapter-item strong {
+  display: none;
+}
+
+ol.section li.chapter-item {
+  list-style: none;
+}
+
+ol.section li.chapter-item:before {
+  content: "-";
+  padding-right: 5px;
+}
+
+/* gridjs */
+table.gridjs-table {
+  border: '3px solid #ccc';
+  table-layout: auto;
+}
+
+table.gridjs-table th,
+table.gridjs-table td {
+  color: #333;
+  padding: 2px;
+  line-height: inherit;
+}
+
+table.gridjs-table th {
+  background-color: #f1f6f9;
+  text-align: center;
+}
+
+table.gridjs-table th:hover {
+  background-color: #c8e4f5;
+}
+
+table.gridjs-table tr:nth-child(odd) td {
+  background: #f3f3f3;
+}
+
+table.gridjs-table td:nth-of-type(1),
+table.gridjs-table td:nth-of-type(2),
+table.gridjs-table td:nth-of-type(3),
+table.gridjs-table td:nth-of-type(4),
+table.gridjs-table th:nth-of-type(1),
+table.gridjs-table th:nth-of-type(2),
+table.gridjs-table th:nth-of-type(3),
+table.gridjs-table th:nth-of-type(4) {
+  font-size: 1.2rem;
+}
+
+.gridjs-wrapper,
+.gridjs-footer {
+  border-radius: 0;
+}
+
+button.gridjs-sort {
+  background-color: #0000;
+  border-width: 0;
+}
+
+#saisyutu-detail table.gridjs-table td:nth-of-type(7) {
+  text-align: right;
+}
+
+input.gridjs-input {
+  border-radius: 0;
+}
+
+#gridjs-kan-select {
+  padding: 10px 14px;
+  font-size: 1.4rem;
+  font-family: inherit;
+}
+
+
+div.redbox,
+div.tips {
+  border-radius: 1rem;
+  margin: calc(var(--line-height)*1.5) 0;
+  padding: 1rem 2rem;
+}
+div.redbox:before,
+div.tips:before {
+  font-weight: bold;
+  display: block;
+}
+div.redbox ul,
+div.tips ul {
+  margin-bottom: 0;
+}
+div.redbox {
+  border: 1px dashed red;
+}
+div.redbox:before {
+  content: "🤔気になるコト（要確認事項）";
+}
+div.tips {
+  border: 1px dashed var(--fg);
+}
+div.tips p:last-of-type {
+  margin-bottom:0;
+}
+div.tips>p:first-child {
+  margin-top:0;
+  font-weight:bold;
+}
+
+div.note {
+  border: 1px dashed var(--fg);
+  padding: 0 3rem;
+  margin-bottom: 4rem;
+}
+
+p.situgi-comment {
+  color: red;
+}
+
+p.situgi-comment span {
+  font-size: 3rem;
+}
+
+/* published at, updated at */
+ul.published-at-updated-at {
+  display: flex;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+  /* gap: 0 2rem; safari does not support this yet */
+  margin: 0 0 2px 0;
+  list-style-type: none;
+  font-size: 1.5rem;
+  color: gray;
+}
+ul.published-at-updated-at li {
+  white-space: nowrap;
+}
+ul.published-at-updated-at li:last-of-type {
+  margin-left:2rem;
+}
+
+/* sortable */
+div.sortable-wrapper {
+  overflow-x: auto;
+  border-radius: 6px;
+  border: 1px solid var(--scrollbar);
+}
+
+.sortable {
+  border-spacing: 0;
+}
+
+/* thead */
+.sortable thead td {
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.sortable thead th {
+  padding: 5px 0 0 10px;
+}
+
+.sortable thead th.no-sort {
+  background-color: var(--table-header-bg);
+}
+
+/* thead, tbody */
+.sortable td,
+.sortable th {
+  padding: 10px;
+}
+
+.sortable td:first-child,
+.sortable th:first-child {
+  border-top-left-radius: 4px;
+}
+
+.sortable td:last-child,
+.sortable th:last-child {
+  border-top-right-radius: 4px;
+}
+
+.sortable th {
+  cursor: pointer;
+  font-weight: normal;
+  text-align: left;
+  text-transform: capitalize;
+  vertical-align: baseline;
+  white-space: nowrap;
+  border: 1px solid var(--fg);
+}
+
+.sortable th:hover::after {
+  color: inherit;
+  font-size: 1.2em;
+  content: " \025B8";
+}
+
+.sortable th.no-sort2:hover::after {
+  content: none;
+}
+
+.sortable th::after {
+  font-size: 1.2em;
+  color: transparent;
+  content: " \025B8";
+}
+
+.sortable th.dir-d,
+.sortable th.dir-u {
+  color: var(--fg);
+}
+
+.sortable th.dir-d::after {
+  color: inherit;
+  content: " \025BE";
+}
+
+.sortable th.dir-u::after {
+  color: inherit;
+  content: " \025B4";
+}
+
+.sortable th.sticky {
+  position: sticky;
+  left: 0;
+  z-index: 100;
+}
+
+.sortable th.no-sort {
+  pointer-events: none;
+}
+
+.sortable th.no-sort2 {
+  font-size: small;
+}
+
+.sortable th.no-sort2 summary {
+  font-size: medium;
+}
+
+.sortable th.no-sort:after,
+.sortable th.no-sort2:after {
+  content: none;
+}
+
+/* tbody */
+.sortable tbody tr.yasutake {
+  border: 2px solid red;
+}
+
+.sortable tbody tr:nth-child(2n+1) th {
+  background-color: var(--bg);
+}
+
+.sortable tbody tr:nth-child(2n) th {
+  background-color: var(--table-alternate-bg);
+}
+
+.sortable tbody tr:nth-last-child(-n+2) th {
+  background-color: var(--table-header-bg);
+}
+
+.sortable tbody th.hitori {
+  line-height: 1em;
+}
+
+.sortable tbody th.hitori span {
+  font-size: 0.8em;
+}
+
+.sortable tbody th.machi {
+  line-height: 1em;
+}
+
+.sortable tbody th.machi span {
+  font-size: 0.6em;
+}
+
+.sortable tbody td {
+  white-space: nowrap;
+  border-color: var(--fg);
+  border-style: solid dashed;
+}
+
+.sortable.sanpi td {
+  text-align: center;
+}
+
+table.gian-ichiran th,
+table.gian-ichiran td {
+  line-height: 1em;
+}
+
+table.gian-ichiran thead th {
+  padding: 5px 0 5px 5px;
+}
+
+table.gian-ichiran tbody td:nth-of-type(6) {
+  text-align: left;
+}
+
+.reigetu-chart {
+  width: 100%;
+  height: 450px;
+  border: 1px solid var(--fg);
+}
+
+.reigetu-control {
+  width: 100%;
+  height: 50px;
+  border: 1px solid var(--fg);
+  border-top: none;
+}
+
+p.img-wrapper {
+  text-align: center;
+  padding: 2rem 0;
+}
+
+/* fukidasi */
+/* https://blog.n-ista.org/2019/01/csslineblogger.html */
+
+.balloon {
+  font-size: calc(var(--font-size)*0.77);
+  position: relative;
+  width: 80%;
+  display: inline-block;
+  vertical-align: top;
+  box-sizing: border-box;
+}
+.balloon>div {
+  display: inline-block;
+  padding: 2rem;
+  border-radius: 10px;
+  font-size: calc(var(--font-size)*0.94);
+}
+.balloon>div p:first-of-type {
+  margin-top: 0;
+}
+.balloon>div>ul:first-child {
+  margin-top: 0;
+}
+.balloon>div p:last-of-type {
+  margin-bottom: 0;
+}
+.balloon>div:after {
+  content: '';
+  position: absolute;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  top: 30px;
+}
+.balloon.hitori {
+  font-weight: bold;
+}
+.balloon.hitori>div {
+  font-weight: normal;
+}
+.balloon.bl-left {
+  margin: 3rem 16% 3rem 4%;
+}
+.balloon.bl-left>div {
+  background-color: var(--situgi-q-bg);
+}
+blockquote .balloon.bl-left>div {
+  background-color: var(--bg);
+}
+.balloon.bl-left>div:after {
+  border-width: 7px 15px 7px 0;
+  border-color: transparent var(--situgi-q-bg) transparent transparent;
+  left: -15px;
+}
+
+blockquote .balloon.bl-left>div:after {
+  border-color: transparent var(--bg) transparent transparent;
+}
+
+.balloon.bl-right {
+  margin: 1rem 4% 1rem 16%;
+  text-align: right;
+}
+.balloon.bl-right>div {
+  text-align: left;
+  background-color: var(--situgi-a-bg);
+}
+.balloon.bl-right>div:after {
+  border-width: 7px 0 7px 15px;
+  border-color: transparent transparent transparent var(--situgi-a-bg);
+  right: -15px;
+}
+
+.balloon.bl-left.bl-tips>div {
+  background-color: unset;
+  border: 6px solid var(--situgi-q-bg);
+}
+.balloon.bl-right.bl-tips>div {
+  background-color: unset;
+  border: 6px solid var(--situgi-a-bg);
+}
+
+.balloon.bl-left.bl-tips>div:after,
+.balloon.bl-right.bl-tips>div:after {
+  border: none;
+}
+
+.balloon.bl-tips>div p:first-of-type {
+  margin-top: 2rem;
+}
+
+.balloon span.yasutake {
+  font-size: var(--font-size);
+  font-weight: bold;
+  color: red;
+}
+
+hr.balloon-divider {
+  margin: 3rem 1rem;
+}
+
+/* table bordered */
+table.bordered thead th {
+  white-space: nowrap;
+  border: 1px solid var(--fg);
+}
+table.bordered th,
+table.bordered td {
+  border: 1px solid var(--fg);
+}
+table.slim {
+  margin: 3rem auto;
+}
+table.slim ol {
+  margin: 0;
+}
+table.slim caption {
+  margin-bottom: 1rem;
+}
+
+th.aleft,
+td.aleft {
+  text-align: left;
+}
+
+th.aright,
+td.aright {
+  text-align: right;
+}
+
+/* variables */
+.light {
+  --point-fg: #000094;
+  --situgi-q-bg: #ffefd5;
+  --situgi-a-bg: #E7F7EE;
+  --a11y-icon-fg: mediumseagreen;
+}
+
+.light div.back-to-main-site {
+  background-color: #fff;
+  border: 1px solid #f00;
+}
+
+.light div.back-to-main-site a {
+  color: #f00;
+}
+
+.rust {
+  --situgi-q-bg: var(--quote-bg);
+  --situgi-a-bg: var(--quote-bg);
+  --a11y-icon-fg: green;
+}
+
+.coal {
+  --situgi-q-bg: var(--quote-bg);
+  --situgi-a-bg: var(--quote-bg);
+  --a11y-icon-fg: yellowgreen;
+}
+
+.navy {
+  --situgi-q-bg: var(--quote-bg);
+  --situgi-a-bg: var(--quote-bg);
+  --a11y-icon-fg: aquamarine;
+}
+
+.ayu {
+  --point-fg: #fff;
+  --situgi-q-bg: var(--quote-bg);
+  --situgi-a-bg: var(--quote-bg);
+  --a11y-icon-fg: aquamarine;
+}
+
+
+/* dyslexia CUSTOM */
+figure {
+  margin: 3rem 0;
+  text-align: center;
+  padding: 1rem;
+}
+figure figcaption {
+  padding: 1rem;
+  font-size: calc(var(--font-size) * 0.8);
+  line-height: calc(var(--line-height) * 0.8);
+  text-align: center;
+}
+figure.bordered {
+  border: 1px solid var(--fg);
+}
+figure.shadowed {
+  box-shadow: 0 1rem 1rem 0 var(--scrollbar);
+}
+
+div.mokuji ul {
+  line-height: 1.2em;
+  list-style-type:none;
+}
+div.mokuji li {
+  margin-bottom: 0.5em;
+}
+
+pre.tree {
+  border: 1px solid #ccc;
+  box-shadow: 2px 2px 1px 1px rgba(0, 0, 0, .1);
+  font-family: inherit;
+  padding: 20px;
+}
+
+table.td-center td {
+  text-align:center;
+}
+table.tbody-th-left tbody th {
+  text-align:left;
+}
+table.th-wrap th {
+  white-space: initial;
+}
+
+div.table-wrapper {
+  overflow-x: auto;
+  white-space: nowrap;
+}
+
+table.book {
+  width: 100%;
+  margin: 4rem 0;
+}
+table.book thead th {
+  white-space: normal;
+  text-align:left;
+}
+table.book thead th a {
+  color: var(--fg) !important;
+}
+table.book tbody tr:first-of-type td:first-of-type {
+  width: 40%;
+  text-align: center;
+}
+
+span.highlight {
+  border-bottom: 1px dotted var(--fg);
+}
+
+blockquote > h2 {
+  font-size:1.2em;
+  margin:1.2em 0;
+}
+
+/* custom fonts */
+@font-face {
+  font-family: 'icomoon';
+  src:  url('./custom-fonts/icomoon.eot?vb0x3d');
+  src:  url('./custom-fonts/icomoon.eot?vb0x3d#iefix') format('embedded-opentype'),
+    url('./custom-fonts/icomoon.ttf?vb0x3d') format('truetype'),
+    url('./custom-fonts/icomoon.woff?vb0x3d') format('woff'),
+    url('./custom-fonts/icomoon.svg?vb0x3d#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-format_line_spacing:before {
+  content: "\e900";
+}
+.icon-text_fields:before {
+  content: "\e901";
+}
+.icon-invert_colors_on:before {
+  content: "\e902";
+}
+.icon-font:before {
+  content: "\ea5c";
+}
+#menu-bar i {
+  font-size:24px;
+  transition: color 5s linear;
+}
+#menu-bar i.label{
+  cursor: unset;
+}
+#menu-bar .icon-button {
+  line-height: 1 !important;
+}
+#menu-bar .icon-button.a11y,
+.icon-a11y-wrapper {
+  color: var(--a11y-icon-fg);
+}
+
+.a11y-popup-div {
+  position: absolute;
+  left: 10px;
+  top: var(--menu-bar-height);
+  z-index: 1000;
+  border-radius: 4px;
+  font-size: 0.7em;
+  color: var(--fg);
+  background: var(--searchbar-border-color);
+  border: 1px solid var(--theme-popup-border);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: none; 
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr; 
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  gap: 3px 0px; 
+  grid-template-areas: 
+    ". . . . . ."
+    "font-icon . . . . ."
+    "font-icon font-family font-family font-family font-family font-family" 
+    ". . . . . ."
+    ". . . . . ."
+    ". . . . . ."
+    ". ruby-on ruby-on ruby-off ruby-off ." 
+    "reset reset reset help help help"; 
+  }
+.a11y-popup-div .default {
+  color: var(--icons);
+}
+.a11y-popup-div div {
+  background: var(--theme-popup-bg);
+  text-align: center;
+}
+.a11y-popup-div div i {
+  line-height: 1.8 !important;
+  padding: 0px 5px !important;
+}
+.a11y-popup-div button {
+  width: 100%;
+  height: 100%;
+  border: 0;
+  margin: 0;
+  padding: 2px 5px;
+  line-height: 25px;
+  white-space: nowrap;
+  text-align: center;
+  cursor: pointer;
+  color: inherit;
+  background: inherit;
+}
+.a11y-popup-div button.selected,
+.a11y-popup-div input.selected {
+  border: 2px solid var(--sidebar-active);
+}
+.a11y-popup-div button:hover {
+  background-color: var(--theme-hover);
+}
+.a11y-popup-div button:hover:first-child,
+.a11y-popup-div button:hover:last-child {
+  border-top-left-radius: inherit;
+  border-top-right-radius: inherit;
+}
+.font-icon { grid-area: font-icon; }
+.font-family { grid-area: font-family; }
+.ruby-on { grid-area: ruby-on; }
+.ruby-off { grid-area: ruby-off; }
+.reset { grid-area: reset; }
+.help { grid-area: help; }
+.font-icon > div,
+.font-family > div {
+  height:100%;
+  display:grid;
+  align-items:center;
+}
+.font-family input {
+  margin: 0 5px;
+}
+/* スクリーンリーダーだけ読み上げるテキスト用 */
+.screen-reader-only { 
+  border: 0;
+  padding: 0;
+  margin: 0;
+  position: absolute !important;
+  height: 1px; 
+  width: 1px;
+  overflow: hidden;
+  clip: rect(1px 1px 1px 1px); /* IE6, IE7 - a 0 height clip, off to the bottom right of the visible 1px box */
+  clip: rect(1px, 1px, 1px, 1px); /*maybe deprecated but we need to support legacy browsers */
+  clip-path: inset(50%); /*modern browsers, clip-path works inwards from each corner*/
+  white-space: nowrap; /* added line to stop words getting smushed together (as they go onto seperate lines and some screen readers do not understand line feeds as a space */
+}
+
+/* a11y用 */
+h1, h2, h3, h4, h5, h6,
+.back-to-main-site {
+  line-height: calc( var(--line-height)*1.5);
+  letter-spacing: var(--letter-spacing);
+}
+li {
+  line-height: var(--line-height);
+  letter-spacing: var(--letter-spacing);
+  margin-bottom: calc(var(--line-height)*0.5);
+}
+li:last-child {
+  margin-bottom: 0;
+}
+.chapter li,
+.chapter li.chapter-item {
+  line-height: var(--line-height);
+  letter-spacing: var(--letter-spacing);
+  margin-bottom:0;
+}
+
+
+/* 一般質問 */
+.letter {
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+  margin: 0 auto 4rem auto;
+  padding: 2rem;
+  position: relative;
+  border:1px solid gray;
+  background-color: var(--bg);
+}
+.letter:before, .letter:after {
+  content: "";
+  height: 98%;
+  position: absolute;
+  width: 100%;
+  z-index: -1;
+}
+.letter:before {
+  background: #fafafa;
+  box-shadow: 0 0 8px rgba(0,0,0,0.2);
+  left: -5px;
+  top: 4px;
+  transform: rotate(-1deg);
+}
+.letter:after {
+  background: #f6f6f6;
+  box-shadow: 0 0 3px rgba(0,0,0,0.2);
+  right: -3px;
+  top: 1px;
+  transform: rotate(0.4deg);
+}
+.letter p.heading {
+  background: var(--situgi-q-bg);
+  font-weight: bold;
+  text-align: center;
+  margin: 2rem 0;
+  padding: 2rem 0;
+}
+
+.situgi h3,
+.situgi h4 {
+  font-size: var(--font-size);
+  line-height: var(--line-height);
+  border: 1px solid var(--fg);
+  border-radius: 10px;
+  font-weight: bold;
+  text-align: center;
+  margin: 2rem 0;
+  padding: 1rem 0;
+}
+.situgi h4 {
+  padding: 0;
+}
+
+h3 + div.balloon,
+div.tips + div.balloon {
+  margin-top: 2rem !important;
+}
+
+div.balloon.bl-left + div.balloon.bl-left,
+div.balloon.bl-right + div.balloon.bl-right {
+  margin-top: 0 !important;  
+}
+
+.point h3 {
+  font-size: var(--font-size);
+  line-height: var(--line-height);
+  background: var(--situgi-q-bg);
+  font-weight: bold;
+  text-align: left;
+  margin: 2rem 0;
+  padding: 1rem;
+}
+
+/* 暫定 */
+fieldset.touben {
+  background-color: var(--quote-bg);
+  padding: 0.5rem 1.5rem 1rem 1.5rem;
+  border-radius: 1rem;
+  line-height: 1.8em;
+  margin-bottom:3rem;
+  min-width: 0; /* overflow-x:autoを効かせるため */
+}
+fieldset.touben legend {
+  font-weight: bold;
+}
+fieldset.touben p:last-of-type {
+  margin-bottom:0;
+}
+fieldset.touben p:first-of-type {
+  margin-top:0;
+}
+fieldset.touben span {
+  color: red;
+}
+fieldset.touben span.q-a {
+  color: inherit;
+}
+span.q-a {
+  font-family: "Trebuchet MS";
+  font-weight: bold;
+}
+
+
+
+
+/* top page accordion */
+/* https://www.codingnepalweb.com/responsive-accordion-menu-html-css/ */
+/* another https://www.cssscript.com/multilevel-accordion-menu-with-plain-html-css/ */
+.acd-wrapper{
+  max-width: 600px;
+  padding: 0 20px;
+}
+.acd-wrapper .parent-tab,
+.acd-wrapper .child-tab{
+  margin-bottom: 8px;
+  border-radius: 3px;
+  box-shadow: 0px 0px 15px rgba(0,0,0,0.18);
+}
+.acd-wrapper .parent-tab label,
+.acd-wrapper .child-tab label{
+  background: var(--links);
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+  border-radius: 3px;
+  position: relative;
+  z-index: 99;
+  transition: all 0.3s ease;
+}
+.acd-wrapper .parent-tab label:hover{
+  background: var(--links);
+}
+.parent-tab input:checked ~ label,
+.child-tab input:checked ~ label{
+  border-radius: 3px 3px 0 0;
+  background: var(--links);
+}
+.acd-wrapper label span{
+  color: var(--bg);
+  font-size: calc(var(--font-size)*1.1);
+  font-weight: 500;
+  text-shadow: 0 -1px 1px var(--links);
+}
+.acd-wrapper label span a {
+  color: var(--bg) !important;
+}
+.acd-wrapper .child-tab label span{
+  font-size: calc(var(--font-size)*1.05);
+}
+.parent-tab label .icon{
+  position: relative;
+  height: calc(var(--font-size)*1.6);
+  width:  calc(var(--font-size)*1.6);
+  font-size: var(--font-size);
+  color: var(--links);
+  display: block;
+  background: var(--bg);
+  border-radius: 50%;
+  text-shadow: 0 -1px 1px var(--links);
+}
+.acd-wrapper .child-tab label .icon{
+  height: 27px;
+  width: 27px;
+}
+.parent-tab label .icon i{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.parent-tab input:checked ~ label .icon i:before,
+.child-tab input:checked ~ label .icon i:before{
+  content: '\f068';
+}
+.acd-wrapper .parent-tab .acd-content,
+.acd-wrapper .child-tab .acd-sub-content{
+  max-height: 0px;
+  overflow: hidden;
+  background: var(--bg);
+  border-radius: 0 0 3px 3px;
+  transition: all 0.4s ease;
+}
+.parent-tab input:checked ~ .acd-content,
+.child-tab input:checked ~ .acd-sub-content{
+  max-height: 200vh;
+}
+.tab-3 input:checked ~ .acd-content,
+.tab-2 input:checked ~ .acd-content,
+.tab-1 input:checked ~ .acd-content {
+  padding: 15px 20px;
+}
+.parent-tab .acd-content p,
+.child-tab .acd-sub-content p{
+  padding: 15px 20px;
+  font-size: var(--font-size);
+}
+.child-tab .acd-sub-content p{
+  font-size: var(--font-size);
+}
+input[type="radio"],
+input[type="checkbox"]{
+  display: none;
+}
+
+/* Adobe PDF viewer */
+.adobe-pdf {
+  width: 100%;
+  border: 1px solid var(--fg);
+}
+
+
+/* button */
+.pdf-view-button {
+  background-color: var(--bg); /* Green */
+  border: none;
+  color: var(--fg);
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: var(--font-size);
+  margin: 3rem 2px 0;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border: 1px solid var(--fg);
+  border-radius: 5px;
+}
+.pdf-view-button i {
+  color: red;
+  transition-duration: 0.4s;
+}
+.pdf-view-button:hover {
+  background-color: var(--links);
+  color: var(--bg);
+}
+.pdf-view-button:hover i {
+  color: var(--bg);
+}
+
+
+div.recent-updated {
+  overflow-x: auto;
+  white-space: nowrap;
+  height: 15rem;
+  border: 1px solid var(--fg);
+}
+
+div.recent-updated ul {
+  list-style-type: none;
+  padding: 0 0 0 1rem;
+  margin: 0;
+}
+div.recent-updated ul li {
+  margin-bottom:0;
+}
+
+
+#sidebar-toggle {
+  color: var(--links);
+}
+#menu-bar i, #menu-bar .icon-button {
+  transition: unset;
+}
+
+
+#toc {
+  background: #f9f9f9 none repeat scroll 0 0;
+  border: 1px solid #aaa;
+  display: table;
+  font-size: 95%;
+  margin: 0 auto 3rem;
+  padding: 2rem;
+  width: auto;
+}
+.toc-title {
+  font-weight: bold;
+  text-align: center;
+}
+#toc>p {
+  margin: 0;
+}
+#toc>ul {
+  padding: 0 2rem;
+}
+#toc li, #toc ul, #toc ul li{
+  list-style: outside none none !important;
+  margin-bottom:0;
+}
