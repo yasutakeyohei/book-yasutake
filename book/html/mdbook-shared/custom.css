@@ -121,7 +121,8 @@ table {
 }
 
 /* point, nittei, sanpi, summary */
-fieldset.point {
+fieldset.point,
+fieldset.pnt {
   margin-top: 0;
   padding: 0rem 3rem;
 }
@@ -139,6 +140,7 @@ fieldset.summary {
 }
 
 .point h2,
+.pnt h2,
 .sanpi h2,
 .summary h2 {
   color: var(--point-fg);
@@ -153,6 +155,10 @@ fieldset.summary {
   padding: 0;
   margin: 0;
 }
+.pnt ul {
+  list-style: none;
+  padding: 0 1rem;
+}
 
 .point li,
 .sanpi li,
@@ -160,6 +166,10 @@ fieldset.summary {
   text-indent: -1.5rem;
   color: var(--point-fg);
   padding: 1rem 1.5rem;
+}
+.pnt li {
+  text-indent: -2.6rem;
+  padding-left: 1.5rem;
 }
 
 .point li:not([class]),
@@ -173,6 +183,11 @@ fieldset.summary {
 .sanpi li.chk::before,
 .summary li.chk::before {
   content: "✔ ";
+}
+.pnt li::before {
+  content: "✔️";
+  margin-right: 1rem;
+  color: var(--links);
 }
 
 .point li.ng::before,
@@ -642,7 +657,7 @@ blockquote .balloon.bl-left>div:after {
 }
 
 .balloon.bl-tips>div p:first-of-type {
-  margin-top: 2rem;
+  margin-top: 0;
 }
 
 .balloon span.yasutake {
