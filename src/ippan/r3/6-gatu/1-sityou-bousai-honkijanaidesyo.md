@@ -900,7 +900,7 @@ const showPDF = (url) => {
 
 <div class="tips">
 
-その他の参考サイト
+そのほかの参考サイト
 
 - [内閣府：みんなでつくる地区防災計画](http://www.bousai.go.jp/kyoiku/chikubousai/index.html)
 - [内閣府：防災白書](http://www.bousai.go.jp/kaigirep/hakusho/)
