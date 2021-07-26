@@ -285,13 +285,13 @@ const showPDF = (url) => {
 >
 > また、<span class="highlight">平常時から避難行動要支援者と避難支援等関係者が、避難支援等の具体的な支援方法について入念に打合せるよう、避難支援等関係者に協力を求めること。</span>
 >
-> <p style="text-align:right"><a href="http://www.bousai.go.jp/taisaku/hisaisyagyousei/youengosya/">避難行動要支援者の避難行動支援に関する取組指針　第II部第4</a></p>
+> <p class="ref"><a href="http://www.bousai.go.jp/taisaku/hisaisyagyousei/youengosya/">避難行動要支援者の避難行動支援に関する取組指針　第II部第4</a></p>
 
 しかし、小平市は、次の質疑で明らかなように、指針に書かれているような個別の避難計画を定めていません。代わりに「個別支援計画」というものを定め、それを個別計画に位置づけている、と答弁しています。
 
 > （名簿）登録の申込書の裏が、今御説明したとおり（避難行動要支援者）情報カードになってございます。この情報カードにつきましては、市としては個別支援計画というふうに位置づけておりまして、これをもって、避難行動要支援者を避難支援してくれる方ですとか、あとは緊急時の家族対応、また、今どんな介護サービス、障害サービスを使っているかといったところを把握することで、個別計画ということで位置づけているところでございます。
 >
-> <p style="text-align:right"><a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1175&schedule_id=3&minute_id=126&is_search=true">令和2年12月定例会の答弁</a></p>
+> <p class="ref"><a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1175&schedule_id=3&minute_id=126&is_search=true">令和2年12月定例会の答弁</a></p>
 
 情報カードは次のようなものです。
 
@@ -429,7 +429,7 @@ const showPDF = (url) => {
 
 > 定期使用住宅は、原則 10 年間入居できる期限付きの住宅です。期間満了に伴い住宅を返還していただきます。ただし、入居から 5 年経過した後、入居資格にあてはまる場合は、その住宅に居住しながら都営住宅公募に申込みできます。 
 >
-> <p style="text-align:right"><a href="https://www.to-kousya.or.jp/opencms/export/sites/default/www_to-kousya_or_jp/toeibosyu/teiki/sikaku5-11/jyakunen_kosodate.pdf">若年夫婦・子育て世帯向（定期使用住宅）の入居資格</a></p>
+> <p class="ref"><a href="https://www.to-kousya.or.jp/opencms/export/sites/default/www_to-kousya_or_jp/toeibosyu/teiki/sikaku5-11/jyakunen_kosodate.pdf">若年夫婦・子育て世帯向（定期使用住宅）の入居資格</a></p>
 
 </div>
 
@@ -683,7 +683,7 @@ const showPDF = (url) => {
 >
 > このため、自主防災組織は、防災計画により、情報班をおき、伝達係、収集係の責任者を明確にする必要がある。
 >
-> <p style="text-align:right"><a href="">消防庁・自主防災組織の手引：第2説 1. 情報の収集及び伝達</a></p>
+> <p class="ref"><a href="">消防庁・自主防災組織の手引：第2説 1. 情報の収集及び伝達</a></p>
 
 </div>
 
