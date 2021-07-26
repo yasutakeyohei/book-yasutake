@@ -349,7 +349,7 @@ div.redbox:before {
 div.tips {
   border: 1px dashed var(--fg);
 }
-div.tips p:last-of-type {
+div.tips>p:last-of-type {
   margin-bottom:0;
 }
 div.tips>p:first-child {
