@@ -356,6 +356,10 @@ div.tips>p:first-child {
   margin-top:0;
   font-weight:bold;
 }
+div.tips p.ref {
+  text-align:right;
+  font-size:calc( var(--font-size) * 0.9);
+}
 
 div.note {
   border: 1px dashed var(--fg);
