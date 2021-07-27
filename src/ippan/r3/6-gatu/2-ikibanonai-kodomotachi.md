@@ -39,10 +39,13 @@ const showPDF = (url) => {
 <p class="toc-title">目次</p>
 
 - **[用語について](#用語について)**
+- **[今回質問する理由](#今回質問する理由)**
 - **[就学相談員の問題について](#就学相談員の問題について)**
   - [就学相談員の任用に関する規則がない？](#就学相談員の任用に関する規則がない)
   - [就学相談員が作成する報告書とは](#就学相談員が作成する報告書とは)
+  - [電話対応はすぐに改善してくれたようです](#電話対応はすぐに改善してくれたようです)
 - **[医師診察記録を出せる医師を把握し、紹介できているか](#医師診察記録を出せる医師を把握し紹介できているか)**
+  - [なぜ医師診察記録が必須とされているのか](#なぜ医師診察記録が必須とされているのか)
 - **[通級での指導が不適当の場合](#通級での指導が不適当の場合)**
   - [通級指導が途中から不適当と判断された人数、理由、行き先は](#通級指導が途中から不適当と判断された人数理由行き先は)
   - [通級による指導が不適当とされる理由](#通級による指導が不適当とされる理由)
@@ -50,7 +53,9 @@ const showPDF = (url) => {
   - [通級指導が不適当と判断され、特別な配慮を受けながら通常学級に通っている人数は](#通級指導が不適当と判断され特別な配慮を受けながら通常学級に通っている人数は)
 - **[特別支援学級を選ぶ場合](#特別支援学級を選ぶ場合)**
   - [特別支援学級に通うと、通常学級や特別支援教室へは移行できないのか](#特別支援学級に通うと通常学級や特別支援教室へは移行できないのか)
+  - [就学指導から教育支援に](#就学指導から教育支援に)
   - [チャレンジ校やエンカレッジ校に通えるのは不登校児だけなのか](#チャレンジ校やエンカレッジ校に通えるのは不登校児だけなのか)
+  - [チャレンジスクールとは](#チャレンジスクールとは)
   - [特別支援学級に通うと、卒業後の進路が限られるのか](#特別支援学級に通うと卒業後の進路が限られるのか)
 - **[自閉症・情緒障がい特別支援学級（情緒固定級）をすぐに設置しない理由は](#自閉症情緒障がい特別支援学級情緒固定級をすぐに設置しない理由は)**
 - **[長期欠席児童・生徒支援シートの内容は](#長期欠席児童生徒支援シートの内容は)**
@@ -129,7 +134,7 @@ const showPDF = (url) => {
 
 </div></div>
 
-<div class="tips" id="任用に関する規則がない">
+<div class="tips" id="就学相談員の任用に関する規則がない">
 
 🤔 就学相談員の任用に関する規則がない？
 
@@ -189,7 +194,7 @@ const showPDF = (url) => {
 
 </div></div>
 
-<div class="tips">
+<div class="tips" id="電話対応はすぐに改善してくれたようです">
 
 👍 電話対応はすぐに改善してくれたようです
 
@@ -239,7 +244,7 @@ const showPDF = (url) => {
 
 </div></div>
 
-<div class="tips">
+<div class="tips" id="なぜ医師診察記録が必須とされているのか">
 
 🕵 なぜ医師診察記録が必須とされているのか
 
@@ -626,7 +631,7 @@ const showPDF = (url) => {
 <tr><th><a href="https://web.archive.org/web/20210727144732/https://www.kyoiku.metro.tokyo.lg.jp/admission/high_school/past/first_application/files/release20190214_06/04_31.pdf">R1年度</a></th><th><a href="https://web.archive.org/web/20210727144522/https://www.kyoiku.metro.tokyo.lg.jp/admission/high_school/past/first_application/files/release20200213/04_r2.pdf">R2年度</a></th><th><a href="https://web.archive.org/web/20210727144207/https://www.kyoiku.metro.tokyo.lg.jp/admission/high_school/past/first_application/files/release20210215/doc_4.pdf">R3年度</a></th></tr>
 </thead>
 <tbody>
-<tr><th><a href="http://www.roppongi-h.metro.tokyo.jp/site/tei/">六本木高等学校</a></th><th rowspan=4>180名</th><th>港区</th><th>1.63</th><th>1.75</th><th>1.34</th></tr>
+<tr><th><a href="http://www.roppongi-h.metro.tokyo.jp/site/tei/">六本木高等学校</a></th><th>港区</th><th rowspan=4>180名</th><th>1.63</th><th>1.75</th><th>1.34</th></tr>
 <tr><th><a href="https://www.metro.ed.jp/oedo-he/">大江戸高等学校</a></th><th>江東区</th><th>1.31</th><th>1.52</th><th>1.16</th></tr>
 <tr><th><a href="http://www.setagayaizumi-h.metro.tokyo.jp/site/tei/">世田谷泉高等学校</a></th><th>世田谷区</th><th>1.28</th><th>1.26</th><th>1.02</th></tr>
 <tr><th><a href="https://www.metro.ed.jp/kirigaoka-he/">桐ヶ丘高等学校</a></th><th>北区</th><th>1.16</th><th>1.21</th><th>0.97</th></tr>
