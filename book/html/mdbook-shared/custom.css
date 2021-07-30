@@ -121,7 +121,8 @@ table {
 }
 
 /* point, nittei, sanpi, summary */
-fieldset.point {
+fieldset.point,
+fieldset.pnt {
   margin-top: 0;
   padding: 0rem 3rem;
 }
@@ -139,6 +140,7 @@ fieldset.summary {
 }
 
 .point h2,
+.pnt h2,
 .sanpi h2,
 .summary h2 {
   color: var(--point-fg);
@@ -153,6 +155,10 @@ fieldset.summary {
   padding: 0;
   margin: 0;
 }
+.pnt ul {
+  list-style: none;
+  padding: 0 1rem;
+}
 
 .point li,
 .sanpi li,
@@ -160,6 +166,10 @@ fieldset.summary {
   text-indent: -1.5rem;
   color: var(--point-fg);
   padding: 1rem 1.5rem;
+}
+.pnt li {
+  text-indent: -2.6rem;
+  padding-left: 1.5rem;
 }
 
 .point li:not([class]),
@@ -173,6 +183,11 @@ fieldset.summary {
 .sanpi li.chk::before,
 .summary li.chk::before {
   content: "✔ ";
+}
+.pnt li::before {
+  content: "✔️";
+  margin-right: 1rem;
+  color: var(--links);
 }
 
 .point li.ng::before,
@@ -334,12 +349,16 @@ div.redbox:before {
 div.tips {
   border: 1px dashed var(--fg);
 }
-div.tips p:last-of-type {
+div.tips>p:last-of-type {
   margin-bottom:0;
 }
 div.tips>p:first-child {
   margin-top:0;
   font-weight:bold;
+}
+div.tips p.ref {
+  text-align:right;
+  font-size:calc( var(--font-size) * 0.9);
 }
 
 div.note {
@@ -642,7 +661,7 @@ blockquote .balloon.bl-left>div:after {
 }
 
 .balloon.bl-tips>div p:first-of-type {
-  margin-top: 2rem;
+  margin-top: 0;
 }
 
 .balloon span.yasutake {
@@ -1016,10 +1035,10 @@ li:last-child {
   font-weight: bold;
   text-align: center;
   margin: 2rem 0;
-  padding: 1rem 0;
+  padding: 2rem;
 }
 .situgi h4 {
-  padding: 0;
+  padding: 1rem;
 }
 
 h3 + div.balloon,
@@ -1253,9 +1272,17 @@ div.recent-updated ul li {
   margin: 0;
 }
 #toc>ul {
-  padding: 0 2rem;
+  padding: 0 1rem 0 2rem;
 }
 #toc li, #toc ul, #toc ul li{
-  list-style: outside none none !important;
-  margin-bottom:0;
+  margin-bottom:1rem;
+}
+
+.gc-wrapper {
+  overflow-x:auto;
+  padding:10px 10px 10px 0;
+}
+.gc-wrapper>div {
+  width:700px;
+  height:450px;
 }
