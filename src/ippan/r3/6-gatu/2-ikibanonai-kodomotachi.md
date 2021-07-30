@@ -948,17 +948,25 @@ const showPDF = (url) => {
 
 **4. 全国の「自閉症・情緒障害特別支援学級」設置・通級状況（令和2年度）**
 
-令和2年度のデータを使って、全国都道府県別の「自閉症・情緒障害特別支援学級」の設置状況と、児童・生徒の通級状況をチャートにしました。東京都は、いずれも全国最低であり、ほかの自治体と比べても著しく低い数値となっています。
+全国都道府県別の、自閉症・情緒障害特別支援学級の「設置状況」と、「児童・生徒の通級状況」をチャートにしました（[学校基本調査](https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00400001&tstat=000001011528)の編制方式別学級数・学級編制方式別児童数、令和2年度データより）
+。
+
+東京都はいずれも全国最低であり、ほかの自治体と比べて著しく低い数値です。
+
 
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 
 **4-1. 小学校**
 
-まず、各都道府県での「自閉症・情緒障害特別支援学級数（A）」を、「A＋その都道府県内の単式学級数」で割ったものを示します。つまり、その自治体（都道府県）内で、（ほかの特別支援学級を除いた）学級数の総数に対し、どれくらいの割合で自閉症・情緒障害特別支援学級が設置されているか、という指標となります。
+**4-1-1. 学級数の割合**
 
-ほかの自治体は約5%以上の割合で学級を設置しており、東京都は全国で最低の0.5%という著しく低い値です（チャート上は赤い四角で示しました）。10%を超える自治体が11あることから、少なくともそれだけの設置割合が必要なのかもしれません。
+まず、各都道府県での「自閉症・情緒障害特別支援学級の数（A）」を、「A＋その都道府県内の単式学級の数」で割ったものを示します。つまり、その自治体（都道府県）内で、（ほかの特別支援学級を除いた）学級数の総数に対し、どれくらいの割合で自閉症・情緒障害特別支援学級が設置されているか、という指標となります。
 
-<div id="joucho-shogaku" style="width:100%;height: 450px;"></div>
+ほかの自治体は約5%以上の割合で学級を設置しています。10%を超える自治体が11あることから、少なくともそれだけの設置割合が必要なのかもしれません。しかし、チャート上に（赤い）中抜きの四角で示した東京都は、全国で最低の0.5%と、ほかの低い自治体と比べても一桁低い数値となっています。
+
+<div class="gc-wrapper">
+  <div id="joucho-shogaku"></div>
+</div>
 <script type="text/javascript">
   google.charts.load('current', {'packages':['corechart']});
   google.charts.setOnLoadCallback(drawChart);
@@ -1037,20 +1045,24 @@ const showPDF = (url) => {
   }
 </script>
 
-次に、各都道府県での「自閉症・情緒障害特別支援学級に通う児童数（A）」を、「A＋その都道府県内の単式学級数」で割ったものを示します。つまり、その自治体で、ほかの特別支援学級に通う児童数を除いた児童数総数に対し、どれくらいの割合で自閉症・情緒障害特別支援学級が設置されているか、という指標となります。この数値が、「通級指導の対象となる潜在的な児童の存在割合」に近いほど、好ましい状況とも言えるかと思います。
+**4-1-2. 児童数の割合**
 
-ほかの自治体は約1%以上で、トップの岡山は3.9%です。
+次に、各都道府県での「自閉症・情緒障害特別支援学級に通う児童数（A）」を、「A＋その都道府県内の単式学級数」で割ったものを示します。つまり、その自治体で、ほかの特別支援学級に通う児童数を除いた児童数総数に対し、どれくらいの割合で自閉症・情緒障害特別支援学級が設置されているか、という指標となります。この数値が「通級指導の対象となる潜在的な児童の存在割合」に近いほど、好ましい状況と言えると思います。
+
+トップの岡山は3.9%で、東京都以外の自治体は、約1%以上です。それに対し、東京都はやはり1桁低い0.1%です。
 
 [平成14年](https://web.archive.org/web/20060502195659/https:/www.mext.go.jp/b_menu/shingi/chousa/shotou/018/toushin/030301i.htm)と[平成24年](https://www.mext.go.jp/a_menu/shotou/tokubetu/material/__icsFiles/afieldfile/2012/12/10/1328729_01.pdf)に文部科学省が行った大規模な調査では、「学習面か行動面で著しい困難を示す児童・生徒の割合」は約6%でした。調査方法に課題があるため、6%は最低の数値と捉えるべきものですが、その数値に近いところまでは設置を進めることが好ましいと思います。
 
-<div id="joucho-shogaku-seitosu" style="width:100%;height: 450px;"></div>
+<div class="gc-wrapper">
+  <div id="joucho-shogaku-seitosu"></div>
+</div>
 <script type="text/javascript">
   google.charts.load('current', {'packages':['corechart']});
   google.charts.setOnLoadCallback(drawChart);
   function drawChart() {
     const data = new google.visualization.DataTable();
     data.addColumn('string', '年月');
-    data.addColumn('number', '情緒固定級に通う生徒の割合（小学校）');
+    data.addColumn('number', '自閉症・情緒障害特別支援学級に通う児童の割合（小学校）');
     data.addColumn({type: 'string', role: 'style'});
     data.addRows([
       ["岡山", 0.0417, ""],
@@ -1122,65 +1134,69 @@ const showPDF = (url) => {
   }
 </script>
 
-参考として、知的障害支援学級の、学級数設置割合も示します。やはり東京都は最低。
+**4-1-3. なぜ東京は最低なのか**
 
-<div id="chiteki-shogaku" style="width:100%;height: 450px;"></div>
+参考として、知的障害支援学級に通う児童数の割合も示します。東京都は最低ですから、本来自閉症・情緒障害特別支援学級に行くべき児童が知的障害支援学級に来ている、という状況でもないようです。
+
+<div class="gc-wrapper">
+  <div id="chiteki-shogaku-seitosu"></div>
+</div>
 <script type="text/javascript">
   google.charts.load('current', {'packages':['corechart']});
   google.charts.setOnLoadCallback(drawChart);
   function drawChart() {
     const data = new google.visualization.DataTable();
     data.addColumn('string', '年月');
-    data.addColumn('number', '知的障害支援学級の割合（小学校）');
+    data.addColumn('number', '知的障害支援学級に通う児童の割合（小学校）');
     data.addColumn({type: 'string', role: 'style'});
     data.addRows([
-      ["徳島", 0.1008, ""],
-      ["鹿児島", 0.0927, ""],
-      ["和歌山", 0.0918, ""],
-      ["福岡", 0.0885, ""],
-      ["大阪", 0.0882, ""],
-      ["滋賀", 0.0836, ""],
-      ["新潟", 0.0816, ""],
-      ["奈良", 0.0807, ""],
-      ["茨城", 0.0805, ""],
-      ["大分", 0.0803, ""],
-      ["岩手", 0.0786, ""],
-      ["佐賀", 0.0784, ""],
-      ["熊本", 0.0783, ""],
-      ["山形", 0.0770, ""],
-      ["岐阜", 0.0766, ""],
-      ["秋田", 0.0764, ""],
-      ["富山", 0.0761, ""],
-      ["北海道", 0.0759, ""],
-      ["三重", 0.0759, ""],
-      ["青森", 0.0751, ""],
-      ["沖縄", 0.0748, ""],
-      ["栃木", 0.0745, ""],
-      ["長崎", 0.0739, ""],
-      ["島根", 0.0739, ""],
-      ["香川", 0.0736, ""],
-      ["鳥取", 0.0733, ""],
-      ["福島", 0.0725, ""],
-      ["広島", 0.0713, ""],
-      ["京都", 0.0713, ""],
-      ["岡山", 0.0709, ""],
-      ["山梨", 0.0699, ""],
-      ["福井", 0.0697, ""],
-      ["千葉", 0.0689, ""],
-      ["長野", 0.0684, ""],
-      ["静岡", 0.0677, ""],
-      ["石川", 0.0672, ""],
-      ["群馬", 0.0668, ""],
-      ["山口", 0.0665, ""],
-      ["神奈川", 0.0663, ""],
-      ["宮城", 0.0655, ""],
-      ["兵庫", 0.0648, ""],
-      ["高知", 0.0636, ""],
-      ["愛媛", 0.0633, ""],
-      ["愛知", 0.0605, ""],
-      ["宮崎", 0.0596, ""],
-      ["埼玉", 0.0564, ""],
-      ["東京", 0.0480, "color:#fff; stroke-color: #f00; stroke-width: 2"],
+["徳島", 0.0325, ""],
+["鹿児島", 0.0274, ""],
+["大阪", 0.0264, ""],
+["和歌山", 0.0232, ""],
+["滋賀", 0.0232, ""],
+["新潟", 0.0230, ""],
+["福岡", 0.0224, ""],
+["沖縄", 0.0218, ""],
+["茨城", 0.0211, ""],
+["福島", 0.0198, ""],
+["佐賀", 0.0198, ""],
+["三重", 0.0195, ""],
+["熊本", 0.0194, ""],
+["大分", 0.0188, ""],
+["栃木", 0.0186, ""],
+["岡山", 0.0178, ""],
+["岐阜", 0.0178, ""],
+["奈良", 0.0175, ""],
+["北海道", 0.0170, ""],
+["香川", 0.0169, ""],
+["静岡", 0.0168, ""],
+["鳥取", 0.0164, ""],
+["岩手", 0.0164, ""],
+["長野", 0.0163, ""],
+["広島", 0.0152, ""],
+["千葉", 0.0149, ""],
+["神奈川", 0.0145, ""],
+["富山", 0.0141, ""],
+["島根", 0.0140, ""],
+["山口", 0.0139, ""],
+["山形", 0.0135, ""],
+["青森", 0.0135, ""],
+["福井", 0.0134, ""],
+["山梨", 0.0133, ""],
+["群馬", 0.0133, ""],
+["京都", 0.0132, ""],
+["長崎", 0.0130, ""],
+["兵庫", 0.0129, ""],
+["東京", 0.0117, "color:#fff; stroke-color: #f00; stroke-width: 2"],
+["高知", 0.0113, ""],
+["秋田", 0.0113, ""],
+["愛媛", 0.0110, ""],
+["宮城", 0.0108, ""],
+["石川", 0.0104, ""],
+["宮崎", 0.0104, ""],
+["愛知", 0.0102, ""],
+["埼玉", 0.0095, ""],
     ]);
     var options = {
       fontName: "UD デジタル 教科書体 N-R",
@@ -1198,14 +1214,99 @@ const showPDF = (url) => {
       width: '100%',
       seriesType: 'bars'
     };
-    var chart = new google.visualization.ComboChart(document.getElementById('chiteki-shogaku'));
+    var chart = new google.visualization.ComboChart(document.getElementById('chiteki-shogaku-seitosu'));
     chart.draw(data, options);
   }
 </script>
 
+
+<div class="gc-wrapper">
+  <div id="tuukyu-shogaku-seitosu"></div>
+</div>
+<script type="text/javascript">
+  google.charts.load('current', {'packages':['corechart']});
+  google.charts.setOnLoadCallback(drawChart);
+  function drawChart() {
+    const data = new google.visualization.DataTable();
+    data.addColumn('string', '年月');
+    data.addColumn('number', '通級に通う児童の割合（小学校）');
+    data.addColumn({type: 'string', role: 'style'});
+    data.addRows([
+["富山県", 0.0431, ""],
+["東京都", 0.0396, "color:#fff; stroke-color: #f00; stroke-width: 2"],
+["岐阜県", 0.0387, ""],
+["山形県", 0.0364, ""],
+["京都府", 0.0342, ""],
+["群馬県", 0.0336, ""],
+["山口県", 0.0329, ""],
+["長崎県", 0.0311, ""],
+["宮城県", 0.0266, ""],
+["岩手県", 0.0260, ""],
+["新潟県", 0.0248, ""],
+["北海道", 0.0247, ""],
+["栃木県", 0.0243, ""],
+["愛媛県", 0.0241, ""],
+["島根県", 0.0240, ""],
+["山梨県", 0.0236, ""],
+["佐賀県", 0.0235, ""],
+["岡山県", 0.0227, ""],
+["石川県", 0.0201, ""],
+["千葉県", 0.0194, ""],
+["鳥取県", 0.0194, ""],
+["和歌山県", 0.0189, ""],
+["宮崎県", 0.0186, ""],
+["徳島県", 0.0179, ""],
+["滋賀県", 0.0174, ""],
+["鹿児島県", 0.0155, ""],
+["広島県", 0.0154, ""],
+["福井県", 0.0152, ""],
+["福島県", 0.0150, ""],
+["神奈川県", 0.0144, ""],
+["静岡県", 0.0143, ""],
+["秋田県", 0.0142, ""],
+["愛知県", 0.0139, ""],
+["熊本県", 0.0131, ""],
+["長野県", 0.0131, ""],
+["沖縄県", 0.0129, ""],
+["奈良県", 0.0126, ""],
+["青森県", 0.0126, ""],
+["福岡県", 0.0118, ""],
+["茨城県", 0.0111, ""],
+["大阪府", 0.0109, ""],
+["埼玉県", 0.0105, ""],
+["三重県", 0.0100, ""],
+["兵庫県", 0.0086, ""],
+["香川県", 0.0079, ""],
+["大分県", 0.0075, ""],
+["高知県", 0.0056, ""],
+    ]);
+    var options = {
+      fontName: "UD デジタル 教科書体 N-R",
+      fontSize: 14,
+      vAxis: {
+        textStyle: {
+          fontSize: 16,
+        },
+        format: '#%',
+      },
+      chartArea:{top:30, left:80, height:'75%', width: '85%'},
+      legend: {
+        position: 'top',
+      },
+      width: '100%',
+      seriesType: 'bars'
+    };
+    var chart = new google.visualization.ComboChart(document.getElementById('tuukyu-shogaku-seitosu'));
+    chart.draw(data, options);
+  }
+</script>
+
+
 **4-2. 中学校**
 
-<div id="joucho-chugaku" style="width:100%;height: 450px;"></div>
+<div class="gc-wrapper">
+  <div id="joucho-chugaku"></div>
+</div>
 <script type="text/javascript">
   google.charts.load('current', {'packages':['corechart']});
   google.charts.setOnLoadCallback(drawChart);
@@ -1284,7 +1385,9 @@ const showPDF = (url) => {
   }
 </script>
 
-<div id="joucho-chugaku-seitosu" style="width:100%;height: 450px;"></div>
+<div class="gc-wrapper">
+  <div id="joucho-chugaku-seitosu"></div>
+</div>
 <script type="text/javascript">
   google.charts.load('current', {'packages':['corechart']});
   google.charts.setOnLoadCallback(drawChart);
@@ -1363,7 +1466,9 @@ const showPDF = (url) => {
   }
 </script>
 
-<div id="chiteki-chugaku" style="width:100%;height: 450px;"></div>
+<div class="gc-wrapper">
+  <div id="chiteki-chugaku"></div>
+</div>
 <script type="text/javascript">
   google.charts.load('current', {'packages':['corechart']});
   google.charts.setOnLoadCallback(drawChart);
