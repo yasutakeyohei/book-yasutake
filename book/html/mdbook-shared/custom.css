@@ -1277,3 +1277,12 @@ div.recent-updated ul li {
 #toc li, #toc ul, #toc ul li{
   margin-bottom:1rem;
 }
+
+.gc-wrapper {
+  overflow-x:auto;
+  padding:10px 10px 10px 0;
+}
+.gc-wrapper>div {
+  width:700px;
+  height:450px;
+}
