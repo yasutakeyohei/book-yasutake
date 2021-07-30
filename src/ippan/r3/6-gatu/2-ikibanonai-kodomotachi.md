@@ -972,7 +972,7 @@ const showPDF = (url) => {
   google.charts.setOnLoadCallback(drawChart);
   function drawChart() {
     const data = new google.visualization.DataTable();
-    data.addColumn('string', '年月');
+    data.addColumn('string', '都道府県');
     data.addColumn('number', '自閉症・情緒障害特別支援学数の設置割合（小学校）');
     data.addColumn({type: 'string', role: 'style'});
     data.addRows([
@@ -1061,7 +1061,7 @@ const showPDF = (url) => {
   google.charts.setOnLoadCallback(drawChart);
   function drawChart() {
     const data = new google.visualization.DataTable();
-    data.addColumn('string', '年月');
+    data.addColumn('string', '都道府県');
     data.addColumn('number', '自閉症・情緒障害特別支援学級に通う児童の割合（小学校）');
     data.addColumn({type: 'string', role: 'style'});
     data.addRows([
@@ -1146,7 +1146,7 @@ const showPDF = (url) => {
   google.charts.setOnLoadCallback(drawChart);
   function drawChart() {
     const data = new google.visualization.DataTable();
-    data.addColumn('string', '年月');
+    data.addColumn('string', '都道府県');
     data.addColumn('number', '知的障害支援学級に通う児童の割合（小学校）');
     data.addColumn({type: 'string', role: 'style'});
     data.addRows([
@@ -1228,7 +1228,7 @@ const showPDF = (url) => {
   google.charts.setOnLoadCallback(drawChart);
   function drawChart() {
     const data = new google.visualization.DataTable();
-    data.addColumn('string', '年月');
+    data.addColumn('string', '都道府県');
     data.addColumn('number', '通級に通う児童の割合（小学校）');
     data.addColumn({type: 'string', role: 'style'});
     data.addRows([
@@ -1312,7 +1312,7 @@ const showPDF = (url) => {
   google.charts.setOnLoadCallback(drawChart);
   function drawChart() {
     const data = new google.visualization.DataTable();
-    data.addColumn('string', '年月');
+    data.addColumn('string', '都道府県');
     data.addColumn('number', '情緒固定級数の割合（中学校）');
     data.addColumn({type: 'string', role: 'style'});
     data.addRows([
@@ -1393,7 +1393,7 @@ const showPDF = (url) => {
   google.charts.setOnLoadCallback(drawChart);
   function drawChart() {
     const data = new google.visualization.DataTable();
-    data.addColumn('string', '年月');
+    data.addColumn('string', '都道府県');
     data.addColumn('number', '情緒固定級に通う生徒の割合（中学校）');
     data.addColumn({type: 'string', role: 'style'});
     data.addRows([
@@ -1474,7 +1474,7 @@ const showPDF = (url) => {
   google.charts.setOnLoadCallback(drawChart);
   function drawChart() {
     const data = new google.visualization.DataTable();
-    data.addColumn('string', '年月');
+    data.addColumn('string', '都道府県');
     data.addColumn('number', '知的障害支援学級の割合（中学校）');
     data.addColumn({type: 'string', role: 'style'});
     data.addRows([
