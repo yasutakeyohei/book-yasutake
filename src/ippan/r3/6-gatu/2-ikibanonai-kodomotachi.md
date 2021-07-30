@@ -1864,9 +1864,9 @@ const showPDF = (url) => {
 >
 > <p class="ref"><a href="https://www.kyoiku.metro.tokyo.lg.jp/administration/action_and_budget/plan/special_needs_school/promotion_plan3.html">東京都特別支援教育推進計画　第三次実施計画</a><br><a href="https://web.archive.org/web/20210730094745/https://www.kyoiku.metro.tokyo.lg.jp/administration/action_and_budget/plan/special_needs_school/files/promotion_plan3/09.pdf">第3章・区市町村における特別支援教育推進体制の整備</a></p>
 
-10年以上も前に実施計画で直接指摘されているにもかかわらず、「通級に極端に偏重したまま」の状況には驚かされます。市区町村の教育委員会は機能しているのでしょうか。これは、市長や教育長の責任です。
+10年以上も前に実施計画で直接指摘されているにもかかわらず、通級に極端に偏重している状況には驚きます。市区町村の教育委員会は機能しているのでしょうか。これは、市長や教育長の責任です。
 
-東京都は、速やかに、ほかの自治体を参考にしながら、少なくとも同様の割合まで、自閉症・情緒障害特別支援学級を設けるべきではないでしょうか。
+東京都は、速やかに、ほかの自治体を参考にしながら、少なくとも同様の割合まで、自閉症・情緒障害特別支援学級の設置を進めるべきではないでしょうか。
 
 
 **都内の状況を詳しくみる**
