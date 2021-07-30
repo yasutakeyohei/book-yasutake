@@ -1286,3 +1286,23 @@ div.recent-updated ul li {
   width:700px;
   height:450px;
 }
+
+/* 分数 */
+.frac {
+  display: inline-block;
+  position: relative;
+  vertical-align: middle;
+  letter-spacing: var(--letter-spacing);
+  text-align: center;
+  margin: 3rem auto;
+}
+.frac > span {
+  display: block;
+  padding: calc(var(--line-height)*0.4);
+}
+.frac span.bottom {
+  border-top: thin solid black;
+}
+.frac span.symbol {
+  display: none;
+} 
