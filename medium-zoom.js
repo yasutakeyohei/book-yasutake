@@ -1,1 +1,0 @@
-../mdbook-shared/medium-zoom.js
