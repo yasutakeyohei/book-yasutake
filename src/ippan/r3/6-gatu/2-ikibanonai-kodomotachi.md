@@ -1899,9 +1899,6 @@ const showPDF = (url) => {
 
 </div>
 
-
-</div>
-
 ### 長期欠席児童・生徒支援シートの内容は
 
 <div class="balloon bl-left">安竹（初）<br><div>
