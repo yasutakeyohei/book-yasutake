@@ -16,7 +16,7 @@
 </fieldset>
 
 <script src="https://documentcloud.adobe.com/view-sdk/main.js" defer></script>
-<script type="text/javascript">
+<script type="text/javascript" defer>
 const showPDF = (url) => {
     const adobeDCView = new AdobeDC.View({clientId: "897dee58a3dd4a01b1de491cc8e563c3", locale: "ja-JP"});
     const fileName = (url.match(/^(?:[^:\/?#]+:)?(?:\/\/[^\/?#]*)?(?:([^?#]*\/)([^\/?#]*))?(\?[^#]*)?(?:#.*)?$/) ?? [])[2];
@@ -951,7 +951,7 @@ const showPDF = (url) => {
 
 次に、全国でどれくらいの自治体が自閉症・情緒障害特別支援学級を設置し、どれくらいの児童・生徒が実際に通っているかを調べるため、都道府県別の、同学級の「設置状況」と、「児童・生徒の通級状況」を調べました。
 
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js" async></script>
 
 **4-1. 小学校**
 
@@ -971,14 +971,15 @@ const showPDF = (url) => {
   <div id="joucho-shogaku"></div>
 </div>
 <script type="text/javascript">
-  google.charts.load('current', {'packages':['corechart']});
-  google.charts.setOnLoadCallback(drawChart);
-  function drawChart() {
-    const data = new google.visualization.DataTable();
-    data.addColumn('string', '都道府県');
-    data.addColumn('number', '自閉症・情緒障害特別支援学数の設置割合（小学校）・令和2年度');
-    data.addColumn({type: 'string', role: 'style'});
-    data.addRows([
+  window.addEventListener("load", () => {
+    google.charts.load('current', {'packages':['corechart']});
+    google.charts.setOnLoadCallback(drawChart);
+    function drawChart() {
+      const data = new google.visualization.DataTable();
+      data.addColumn('string', '都道府県');
+      data.addColumn('number', '自閉症・情緒障害特別支援学数の設置割合（小学校）・令和2年度');
+      data.addColumn({type: 'string', role: 'style'});
+      data.addRows([
 ["岡山", 0.1199, ""],
 ["佐賀", 0.1071, ""],
 ["長野", 0.1028, ""],
@@ -1026,26 +1027,27 @@ const showPDF = (url) => {
 ["京都", 0.0524, ""],
 ["静岡", 0.0434, ""],
 ["東京", 0.0047, "color:#fff; stroke-color: #f00; stroke-width: 2"],
-    ]);
-    var options = {
-      fontName: "UD デジタル 教科書体 N-R",
-      fontSize: 14,
-      vAxis: {
-        textStyle: {
-          fontSize: 16,
+      ]);
+      var options = {
+        fontName: "UD デジタル 教科書体 N-R",
+        fontSize: 14,
+        vAxis: {
+          textStyle: {
+            fontSize: 16,
+          },
+          format: '#%',
         },
-        format: '#%',
-      },
-      chartArea:{top:30, left:80, height:'75%', width: '85%'},
-      legend: {
-        position: 'top',
-      },
-      width: '100%',
-      seriesType: 'bars'
-    };
-    var chart = new google.visualization.ComboChart(document.getElementById('joucho-shogaku'));
-    chart.draw(data, options);
-  }
+        chartArea:{top:30, left:80, height:'75%', width: '85%'},
+        legend: {
+          position: 'top',
+        },
+        width: '100%',
+        seriesType: 'bars'
+      };
+      var chart = new google.visualization.ComboChart(document.getElementById('joucho-shogaku'));
+      chart.draw(data, options);
+    }
+  });
 </script>
 
 東京都は、（赤い）中抜きの四角で示しました。
@@ -1066,14 +1068,15 @@ const showPDF = (url) => {
   <div id="joucho-shogaku-seitosu"></div>
 </div>
 <script type="text/javascript">
-  google.charts.load('current', {'packages':['corechart']});
-  google.charts.setOnLoadCallback(drawChart);
-  function drawChart() {
-    const data = new google.visualization.DataTable();
-    data.addColumn('string', '都道府県');
-    data.addColumn('number', '自閉症・情緒障害特別支援学級に通う児童の割合（小学校）・令和2年度');
-    data.addColumn({type: 'string', role: 'style'});
-    data.addRows([
+  window.addEventListener("load", () => {
+    google.charts.load('current', {'packages':['corechart']});
+    google.charts.setOnLoadCallback(drawChart);
+    function drawChart() {
+      const data = new google.visualization.DataTable();
+      data.addColumn('string', '都道府県');
+      data.addColumn('number', '自閉症・情緒障害特別支援学級に通う児童の割合（小学校）・令和2年度');
+      data.addColumn({type: 'string', role: 'style'});
+      data.addRows([
 ["岡山", 0.0410, ""],
 ["佐賀", 0.0378, ""],
 ["大阪", 0.0356, ""],
@@ -1121,26 +1124,27 @@ const showPDF = (url) => {
 ["京都", 0.0094, ""],
 ["秋田", 0.0085, ""],
 ["東京", 0.0011, "color:#fff; stroke-color: #f00; stroke-width: 2"],
-    ]);
-    var options = {
-      fontName: "UD デジタル 教科書体 N-R",
-      fontSize: 14,
-      vAxis: {
-        textStyle: {
-          fontSize: 16,
+      ]);
+      var options = {
+        fontName: "UD デジタル 教科書体 N-R",
+        fontSize: 14,
+        vAxis: {
+          textStyle: {
+            fontSize: 16,
+          },
+          format: '#%',
         },
-        format: '#%',
-      },
-      chartArea:{top:30, left:80, height:'75%', width: '85%'},
-      legend: {
-        position: 'top',
-      },
-      width: '100%',
-      seriesType: 'bars'
-    };
-    var chart = new google.visualization.ComboChart(document.getElementById('joucho-shogaku-seitosu'));
-    chart.draw(data, options);
-  }
+        chartArea:{top:30, left:80, height:'75%', width: '85%'},
+        legend: {
+          position: 'top',
+        },
+        width: '100%',
+        seriesType: 'bars'
+      };
+      var chart = new google.visualization.ComboChart(document.getElementById('joucho-shogaku-seitosu'));
+      chart.draw(data, options);
+    }
+  });
 </script>
 
 トップの岡山は4.1%、東京都はほかの自治体より1桁以上低い0.1%です。
@@ -1161,14 +1165,15 @@ const showPDF = (url) => {
 <div id="chiteki-shogaku-seitosu"></div>
 </div>
 <script type="text/javascript">
-  google.charts.load('current', {'packages':['corechart']});
-  google.charts.setOnLoadCallback(drawChart);
-  function drawChart() {
-    const data = new google.visualization.DataTable();
-    data.addColumn('string', '都道府県');
-    data.addColumn('number', '知的障害特別支援学級に通う児童の割合（小学校）・令和2年度');
-    data.addColumn({type: 'string', role: 'style'});
-    data.addRows([
+  window.addEventListener("load", () => {
+    google.charts.load('current', {'packages':['corechart']});
+    google.charts.setOnLoadCallback(drawChart);
+    function drawChart() {
+      const data = new google.visualization.DataTable();
+      data.addColumn('string', '都道府県');
+      data.addColumn('number', '知的障害特別支援学級に通う児童の割合（小学校）・令和2年度');
+      data.addColumn({type: 'string', role: 'style'});
+      data.addRows([
 ["徳島", 0.0315, ""],
 ["鹿児島", 0.0265, ""],
 ["大阪", 0.0253, ""],
@@ -1216,26 +1221,27 @@ const showPDF = (url) => {
 ["宮崎", 0.0101, ""],
 ["愛知", 0.0100, ""],
 ["埼玉", 0.0094, ""],
-    ]);
-    var options = {
-      fontName: "UD デジタル 教科書体 N-R",
-      fontSize: 14,
-      vAxis: {
-        textStyle: {
-          fontSize: 16,
+      ]);
+      var options = {
+        fontName: "UD デジタル 教科書体 N-R",
+        fontSize: 14,
+        vAxis: {
+          textStyle: {
+            fontSize: 16,
+          },
+          format: '#%',
         },
-        format: '#%',
-      },
-      chartArea:{top:30, left:80, height:'75%', width: '85%'},
-      legend: {
-        position: 'top',
-      },
-      width: '100%',
-      seriesType: 'bars'
-    };
-    var chart = new google.visualization.ComboChart(document.getElementById('chiteki-shogaku-seitosu'));
-    chart.draw(data, options);
-  }
+        chartArea:{top:30, left:80, height:'75%', width: '85%'},
+        legend: {
+          position: 'top',
+        },
+        width: '100%',
+        seriesType: 'bars'
+      };
+      var chart = new google.visualization.ComboChart(document.getElementById('chiteki-shogaku-seitosu'));
+      chart.draw(data, options);
+    }
+  });
 </script>
 
 しかし、こちらも東京都は低位にあります。つまり「知的障害特別支援学級が肩代わりをしているわけではない」ということになります。
@@ -1252,14 +1258,15 @@ const showPDF = (url) => {
   <div id="tuukyu-shogaku-seitosu"></div>
 </div>
 <script type="text/javascript">
-  google.charts.load('current', {'packages':['corechart']});
-  google.charts.setOnLoadCallback(drawChart);
-  function drawChart() {
-    const data = new google.visualization.DataTable();
-    data.addColumn('string', '都道府県');
-    data.addColumn('number', '通級に通う児童の割合（小学校）・令和元年度');
-    data.addColumn({type: 'string', role: 'style'});
-    data.addRows([
+  window.addEventListener("load", () => {
+    google.charts.load('current', {'packages':['corechart']});
+    google.charts.setOnLoadCallback(drawChart);
+    function drawChart() {
+      const data = new google.visualization.DataTable();
+      data.addColumn('string', '都道府県');
+      data.addColumn('number', '通級に通う児童の割合（小学校）・令和元年度');
+      data.addColumn({type: 'string', role: 'style'});
+      data.addRows([
 ["富山県", 0.0420, ""],
 ["東京都", 0.0391, "color:#fff; stroke-color: #f00; stroke-width: 2"],
 ["岐阜県", 0.0376, ""],
@@ -1307,26 +1314,27 @@ const showPDF = (url) => {
 ["香川県", 0.0077, ""],
 ["大分県", 0.0073, ""],
 ["高知県", 0.0054, ""],
-    ]);
-    var options = {
-      fontName: "UD デジタル 教科書体 N-R",
-      fontSize: 14,
-      vAxis: {
-        textStyle: {
-          fontSize: 16,
+      ]);
+      var options = {
+        fontName: "UD デジタル 教科書体 N-R",
+        fontSize: 14,
+        vAxis: {
+          textStyle: {
+            fontSize: 16,
+          },
+          format: '#%',
         },
-        format: '#%',
-      },
-      chartArea:{top:30, left:80, height:'75%', width: '85%'},
-      legend: {
-        position: 'top',
-      },
-      width: '100%',
-      seriesType: 'bars'
-    };
-    var chart = new google.visualization.ComboChart(document.getElementById('tuukyu-shogaku-seitosu'));
-    chart.draw(data, options);
-  }
+        chartArea:{top:30, left:80, height:'75%', width: '85%'},
+        legend: {
+          position: 'top',
+        },
+        width: '100%',
+        seriesType: 'bars'
+      };
+      var chart = new google.visualization.ComboChart(document.getElementById('tuukyu-shogaku-seitosu'));
+      chart.draw(data, options);
+    }
+  });
 </script>
 
 予想はドンピシャで、東京都は2位の約4%となり、「どうも東京都は、自閉症・情緒障害特別支援学級が担う役割を、通級に担わせているようだ」ということになります。
@@ -1337,16 +1345,17 @@ const showPDF = (url) => {
 <div id="goukei-shogaku"></div>
 </div>
 <script type="text/javascript">
-  google.charts.load('current', {'packages':['corechart']});
-  google.charts.setOnLoadCallback(drawChart);
-  function drawChart() {
-    const data = new google.visualization.DataTable();
-    data.addColumn('string', '都道府県');
-    data.addColumn('number', '知的障害特別支援学級');
-    data.addColumn('number', '自閉症・情緒障害特別支援学級');
-    data.addColumn('number', '通級');
-    data.addColumn({type: 'string', role: 'annotation'});
-    data.addRows([
+  window.addEventListener("load", () => {
+    google.charts.load('current', {'packages':['corechart']});
+    google.charts.setOnLoadCallback(drawChart);
+    function drawChart() {
+      const data = new google.visualization.DataTable();
+      data.addColumn('string', '都道府県');
+      data.addColumn('number', '知的障害特別支援学級');
+      data.addColumn('number', '自閉症・情緒障害特別支援学級');
+      data.addColumn('number', '通級');
+      data.addColumn({type: 'string', role: 'annotation'});
+      data.addRows([
 ["岡山", 0.0167, 0.0386, 0.021393285, ""],
 ["佐賀", 0.0175, 0.0316, 0.022262989, ""],
 ["新潟", 0.0203, 0.0271, 0.023553747, ""],
@@ -1394,26 +1403,27 @@ const showPDF = (url) => {
 ["兵庫", 0.0117, 0.0134, 0.008417604, ""],
 ["秋田", 0.0105, 0.0080, 0.013867527, ""],
 ["埼玉", 0.0087, 0.0090, 0.01026768, ""],
-    ]);
-    var options = {
-      fontName: "UD デジタル 教科書体 N-R",
-      fontSize: 14,
-      vAxis: {
-        format: '#%',
-        textStyle: {
-          fontSize: 16,
-        }
-      },
-      chartArea:{top:30, left:80, height:'75%', width: '85%'},
-      legend: {
-        position: 'top',
-      },
-      width: '100%',
-      isStacked: true
-    };
-    var chart = new google.visualization.ColumnChart(document.getElementById('goukei-shogaku'));
-    chart.draw(data, options);
-  }
+      ]);
+      var options = {
+        fontName: "UD デジタル 教科書体 N-R",
+        fontSize: 14,
+        vAxis: {
+          format: '#%',
+          textStyle: {
+            fontSize: 16,
+          }
+        },
+        chartArea:{top:30, left:80, height:'75%', width: '85%'},
+        legend: {
+          position: 'top',
+        },
+        width: '100%',
+        isStacked: true
+      };
+      var chart = new google.visualization.ColumnChart(document.getElementById('goukei-shogaku'));
+      chart.draw(data, options);
+    }
+  });
 </script>
 
 合計では、ほかの自治体と似通ったものになりましたが、東京都だけ極端に「通級に偏重している」ことが分かります。
@@ -1428,14 +1438,15 @@ const showPDF = (url) => {
   <div id="joucho-chugaku"></div>
 </div>
 <script type="text/javascript">
-  google.charts.load('current', {'packages':['corechart']});
-  google.charts.setOnLoadCallback(drawChart);
-  function drawChart() {
-    const data = new google.visualization.DataTable();
-    data.addColumn('string', '都道府県');
-    data.addColumn('number', '情緒固定級数の割合（中学校）・令和2年度');
-    data.addColumn({type: 'string', role: 'style'});
-    data.addRows([
+  window.addEventListener("load", () => {
+    google.charts.load('current', {'packages':['corechart']});
+    google.charts.setOnLoadCallback(drawChart);
+    function drawChart() {
+      const data = new google.visualization.DataTable();
+      data.addColumn('string', '都道府県');
+      data.addColumn('number', '情緒固定級数の割合（中学校）・令和2年度');
+      data.addColumn({type: 'string', role: 'style'});
+      data.addRows([
 ["長野", 0.1398, ""],
 ["鳥取", 0.1280, ""],
 ["佐賀", 0.1253, ""],
@@ -1483,40 +1494,42 @@ const showPDF = (url) => {
 ["大分", 0.0621, ""],
 ["静岡", 0.0480, ""],
 ["東京", 0.0078, "color:#fff; stroke-color: #f00; stroke-width: 2"],
-    ]);
-    var options = {
-      fontName: "UD デジタル 教科書体 N-R",
-      fontSize: 14,
-      vAxis: {
-        textStyle: {
-          fontSize: 16,
+      ]);
+      var options = {
+        fontName: "UD デジタル 教科書体 N-R",
+        fontSize: 14,
+        vAxis: {
+          textStyle: {
+            fontSize: 16,
+          },
+          format: '#%',
         },
-        format: '#%',
-      },
-      chartArea:{top:30, left:80, height:'75%', width: '85%'},
-      legend: {
-        position: 'top',
-      },
-      width: '100%',
-      seriesType: 'bars'
-    };
-    var chart = new google.visualization.ComboChart(document.getElementById('joucho-chugaku'));
-    chart.draw(data, options);
-  }
+        chartArea:{top:30, left:80, height:'75%', width: '85%'},
+        legend: {
+          position: 'top',
+        },
+        width: '100%',
+        seriesType: 'bars'
+      };
+      var chart = new google.visualization.ComboChart(document.getElementById('joucho-chugaku'));
+      chart.draw(data, options);
+    }
+  });
 </script>
 
 <div class="gc-wrapper">
 <div id="joucho-chugaku-seitosu"></div>
 </div>
 <script type="text/javascript">
-  google.charts.load('current', {'packages':['corechart']});
-  google.charts.setOnLoadCallback(drawChart);
-  function drawChart() {
-    const data = new google.visualization.DataTable();
-    data.addColumn('string', '都道府県');
-    data.addColumn('number', '情緒固定級に通う生徒の割合（中学校）・令和2年度');
-    data.addColumn({type: 'string', role: 'style'});
-    data.addRows([
+  window.addEventListener("load", () => {
+    google.charts.load('current', {'packages':['corechart']});
+    google.charts.setOnLoadCallback(drawChart);
+    function drawChart() {
+      const data = new google.visualization.DataTable();
+      data.addColumn('string', '都道府県');
+      data.addColumn('number', '情緒固定級に通う生徒の割合（中学校）・令和2年度');
+      data.addColumn({type: 'string', role: 'style'});
+      data.addRows([
 ["長野", 0.0349, ""],
 ["佐賀", 0.0259, ""],
 ["鳥取", 0.0257, ""],
@@ -1564,26 +1577,27 @@ const showPDF = (url) => {
 ["石川", 0.0073, ""],
 ["富山", 0.0072, ""],
 ["東京", 0.0016, "color:#fff; stroke-color: #f00; stroke-width: 2"],
-    ]);
-    var options = {
-      fontName: "UD デジタル 教科書体 N-R",
-      fontSize: 14,
-      vAxis: {
-        textStyle: {
-          fontSize: 16,
+      ]);
+      var options = {
+        fontName: "UD デジタル 教科書体 N-R",
+        fontSize: 14,
+        vAxis: {
+          textStyle: {
+            fontSize: 16,
+          },
+          format: '#%',
         },
-        format: '#%',
-      },
-      chartArea:{top:30, left:80, height:'75%', width: '85%'},
-      legend: {
-        position: 'top',
-      },
-      width: '100%',
-      seriesType: 'bars'
-    };
-    var chart = new google.visualization.ComboChart(document.getElementById('joucho-chugaku-seitosu'));
-    chart.draw(data, options);
-  }
+        chartArea:{top:30, left:80, height:'75%', width: '85%'},
+        legend: {
+          position: 'top',
+        },
+        width: '100%',
+        seriesType: 'bars'
+      };
+      var chart = new google.visualization.ComboChart(document.getElementById('joucho-chugaku-seitosu'));
+      chart.draw(data, options);
+    }
+  });
 </script>
 
 次に、知的障害特別支援学級に通う生徒の割合です。
@@ -1592,14 +1606,15 @@ const showPDF = (url) => {
   <div id="chiteki-chugaku-seitosu"></div>
 </div>
 <script type="text/javascript">
-  google.charts.load('current', {'packages':['corechart']});
-  google.charts.setOnLoadCallback(drawChart);
-  function drawChart() {
-    const data = new google.visualization.DataTable();
-    data.addColumn('string', '都道府県');
-    data.addColumn('number', '知的障害特別支援学級に通う生徒の割合（中学校）・令和2年度');
-    data.addColumn({type: 'string', role: 'style'});
-    data.addRows([
+  window.addEventListener("load", () => {
+    google.charts.load('current', {'packages':['corechart']});
+    google.charts.setOnLoadCallback(drawChart);
+    function drawChart() {
+      const data = new google.visualization.DataTable();
+      data.addColumn('string', '都道府県');
+      data.addColumn('number', '知的障害特別支援学級に通う生徒の割合（中学校）・令和2年度');
+      data.addColumn({type: 'string', role: 'style'});
+      data.addRows([
 ["大阪", 0.0202, ""],
 ["茨城", 0.0197, ""],
 ["徳島", 0.0195, ""],
@@ -1647,26 +1662,27 @@ const showPDF = (url) => {
 ["埼玉", 0.0092, ""],
 ["宮崎", 0.0089, ""],
 ["石川", 0.0066, ""],
-    ]);
-    var options = {
-      fontName: "UD デジタル 教科書体 N-R",
-      fontSize: 14,
-      vAxis: {
-        textStyle: {
-          fontSize: 16,
+      ]);
+      var options = {
+        fontName: "UD デジタル 教科書体 N-R",
+        fontSize: 14,
+        vAxis: {
+          textStyle: {
+            fontSize: 16,
+          },
+          format: '#%',
         },
-        format: '#%',
-      },
-      chartArea:{top:30, left:80, height:'75%', width: '85%'},
-      legend: {
-        position: 'top',
-      },
-      width: '100%',
-      seriesType: 'bars'
-    };
-    var chart = new google.visualization.ComboChart(document.getElementById('chiteki-chugaku-seitosu'));
-    chart.draw(data, options);
-  }
+        chartArea:{top:30, left:80, height:'75%', width: '85%'},
+        legend: {
+          position: 'top',
+        },
+        width: '100%',
+        seriesType: 'bars'
+      };
+      var chart = new google.visualization.ComboChart(document.getElementById('chiteki-chugaku-seitosu'));
+      chart.draw(data, options);
+    }
+  });
 </script>
 
 小学校が1.2%だったのが中学校では1.6%となります。
@@ -1677,14 +1693,15 @@ const showPDF = (url) => {
   <div id="tuukyu-chugaku-seitosu"></div>
 </div>
 <script type="text/javascript">
-  google.charts.load('current', {'packages':['corechart']});
-  google.charts.setOnLoadCallback(drawChart);
-  function drawChart() {
-    const data = new google.visualization.DataTable();
-    data.addColumn('string', '都道府県');
-    data.addColumn('number', '通級に通う生徒の割合（中学校）・令和元年度');
-    data.addColumn({type: 'string', role: 'style'});
-    data.addRows([
+  window.addEventListener("load", () => {
+    google.charts.load('current', {'packages':['corechart']});
+    google.charts.setOnLoadCallback(drawChart);
+    function drawChart() {
+      const data = new google.visualization.DataTable();
+      data.addColumn('string', '都道府県');
+      data.addColumn('number', '通級に通う生徒の割合（中学校）・令和元年度');
+      data.addColumn({type: 'string', role: 'style'});
+      data.addRows([
 ["島根県", 0.0198, ""],
 ["東京都", 0.0156, "color:#fff; stroke-color: #f00; stroke-width: 2"],
 ["京都府", 0.0151, ""],
@@ -1732,26 +1749,27 @@ const showPDF = (url) => {
 ["香川県", 0.0016, ""],
 ["徳島県", 0.0016, ""],
 ["鹿児島県", 0.0011, ""],
-    ]);
-    var options = {
-      fontName: "UD デジタル 教科書体 N-R",
-      fontSize: 14,
-      vAxis: {
-        textStyle: {
-          fontSize: 16,
+      ]);
+      var options = {
+        fontName: "UD デジタル 教科書体 N-R",
+        fontSize: 14,
+        vAxis: {
+          textStyle: {
+            fontSize: 16,
+          },
+          format: '#%',
         },
-        format: '#%',
-      },
-      chartArea:{top:30, left:80, height:'75%', width: '85%'},
-      legend: {
-        position: 'top',
-      },
-      width: '100%',
-      seriesType: 'bars'
-    };
-    var chart = new google.visualization.ComboChart(document.getElementById('tuukyu-chugaku-seitosu'));
-    chart.draw(data, options);
-  }
+        chartArea:{top:30, left:80, height:'75%', width: '85%'},
+        legend: {
+          position: 'top',
+        },
+        width: '100%',
+        seriesType: 'bars'
+      };
+      var chart = new google.visualization.ComboChart(document.getElementById('tuukyu-chugaku-seitosu'));
+      chart.draw(data, options);
+    }
+  });
 </script>
 
 次に全体の状況です。
@@ -1760,16 +1778,17 @@ const showPDF = (url) => {
 <div id="goukei-chugaku"></div>
 </div>
 <script type="text/javascript">
-  google.charts.load('current', {'packages':['corechart']});
-  google.charts.setOnLoadCallback(drawChart);
-  function drawChart() {
-    const data = new google.visualization.DataTable();
-    data.addColumn('string', '都道府県');
-    data.addColumn('number', '知的障害特別支援学級');
-    data.addColumn('number', '自閉症・情緒障害特別支援学級');
-    data.addColumn('number', '通級');
-    data.addColumn({type: 'string', role: 'annotation'});
-    data.addRows([
+  window.addEventListener("load", () => {
+    google.charts.load('current', {'packages':['corechart']});
+    google.charts.setOnLoadCallback(drawChart);
+    function drawChart() {
+      const data = new google.visualization.DataTable();
+      data.addColumn('string', '都道府県');
+      data.addColumn('number', '知的障害特別支援学級');
+      data.addColumn('number', '自閉症・情緒障害特別支援学級');
+      data.addColumn('number', '通級');
+      data.addColumn({type: 'string', role: 'annotation'});
+      data.addRows([
 ["長野", 0.0141, 0.0316, 0.0024, ""],
 ["島根", 0.0118, 0.0152, 0.0198, ""],
 ["鳥取", 0.0142, 0.0220, 0.0078, ""],
@@ -1817,26 +1836,27 @@ const showPDF = (url) => {
 ["秋田", 0.0086, 0.0067, 0.0041, ""],
 ["埼玉", 0.0086, 0.0072, 0.0025, ""],
 ["石川", 0.0062, 0.0068, 0.0039, ""],
-    ]);
-    var options = {
-      fontName: "UD デジタル 教科書体 N-R",
-      fontSize: 14,
-      vAxis: {
-        format: '#%',
-        textStyle: {
-          fontSize: 16,
-        }
-      },
-      chartArea:{top:30, left:80, height:'75%', width: '85%'},
-      legend: {
-        position: 'top',
-      },
-      width: '100%',
-      isStacked: true
-    };
-    var chart = new google.visualization.ColumnChart(document.getElementById('goukei-chugaku'));
-    chart.draw(data, options);
-  }
+      ]);
+      var options = {
+        fontName: "UD デジタル 教科書体 N-R",
+        fontSize: 14,
+        vAxis: {
+          format: '#%',
+          textStyle: {
+            fontSize: 16,
+          }
+        },
+        chartArea:{top:30, left:80, height:'75%', width: '85%'},
+        legend: {
+          position: 'top',
+        },
+        width: '100%',
+        isStacked: true
+      };
+      var chart = new google.visualization.ColumnChart(document.getElementById('goukei-chugaku'));
+      chart.draw(data, options);
+    }
+  });
 </script>
 
 中学校も、小学校と同様に通級に偏重していることが分かります。
