@@ -412,8 +412,6 @@ const showPDF = (url) => {
 
 </div></div>
 
-</div>
-
 <p style="text-align:right">以上</p>
 
 </div>
