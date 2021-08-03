@@ -18,7 +18,7 @@
       <!-- Sub -->
       <div class="child-tab">
         <input type="checkbox" name="sub-tab" id="tab-3-6" checked>
-        <label for="tab-3-6"><span><a href="./r3/6-gatu/index.md">6月定例会<br>（まとめ作成中）</a></span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
+        <label for="tab-3-6"><span><a href="./r3/6-gatu/index.md">6月定例会</a></span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
         <div class="acd-sub-content">
           <ol>
             <li><a href="./r3/6-gatu/1-sityou-bousai-honkijanaidesyo.md">防災に対し、市長は本気で取り組むのか</a></li>
