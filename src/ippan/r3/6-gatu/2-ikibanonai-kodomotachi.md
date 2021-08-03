@@ -1901,10 +1901,12 @@ const showPDF = (url) => {
 
 **都内の状況を詳しくみる**
 
+**学級数について：多摩26市の状況**
 
-<!--
+多摩26市の、令和3年度における、自閉症・情緒障害支援学級の設置状況を、[東京都教育委員会のデータ集](https://www.kyoiku.metro.tokyo.lg.jp/administration/statistics_and_research/academic_report/report2020.html)、自治体サイト、電話での聞き取りにより集め、プロットしました。間違いがあるかもしれませんので、正確な数値が必要な場合は直接教育委員会にお問い合わせください。
+
 <div class="gc-wrapper">
-<div id="si-bu"></div>
+<div id="tama26-joucho-gakkyusu"></div>
 </div>
 <script type="text/javascript">
   window.addEventListener("load", () => {
@@ -1912,36 +1914,37 @@ const showPDF = (url) => {
     google.charts.setOnLoadCallback(drawChart);
     function drawChart() {
       const data = new google.visualization.DataTable();
-      data.addColumn('string', '区');
-      data.addColumn('number', '小学校学級数・令和3年度');
-      data.addColumn('number', '中学校学級数・令和3年度');
-      data.addColumn('number', '令和4年度予定学校数（小学校）');
-      data.addColumn('number', '令和4年度予定学校数（中学校）');
+      data.addColumn('string', '東京26市');
+      data.addColumn('number', '自閉症・情緒障害支援学級数（小学校）令和3年度');
+      data.addColumn('number', '自閉症・情緒障害支援学級数（中学校）令和3年度');
       data.addColumn({type: 'string', role: 'annotation'});
       data.addRows([
-["文京区", 6, 1, 0, 0, ""],
-["世田谷区", 3, 4, 0, 0, ""],
-["品川区", 0, 3, 0, 2, ""],
-["目黒区", 1, 3, 0, 0, ""],
-["葛飾区", 1, 1, 1, 1, ""],
-["北区", 2, 1, 0, 0, ""],
-["港区", 0, 2, 0, 0, ""],
-["江東区", 1, 1, 0, 0, ""],
-["豊島区", 1, 0, 0, 0, ""],
-["千代田区", 0, 0, 0, 0, ""],
-["中央区", 0, 0, 0, 0, ""],
-["新宿区", 0, 0, 0, 0, ""],
-["台東区", 0, 0, 0, 0, ""],
-["墨田区", 0, 0, 0, 0, ""],
-["大田区", 0, 0, 0, 0, ""],
-["渋谷区", 0, 0, 0, 0, ""],
-["中野区", 0, 0, 0, 0, ""],
-["杉並区", 0, 0, 0, 0, ""],
-["荒川区", 0, 0, 0, 0, ""],
-["板橋区", 0, 0, 0, 0, ""],
-["練馬区", 0, 0, 0, 0, ""],
-["足立区", 0, 0, 0, 0, ""],
-["江戸川区", 0, 0, 0, 0, ""],
+["青梅市", 21, 10, ""],
+["多摩市", 16, 9, ""],
+["町田市", 12, 0, ""],
+["西東京市", 7, 4, ""],
+["日野市", 0, 7, ""],
+["国分寺市", 4, 3, ""],
+["国立市", 5, 2, ""],
+["東久留米市", 7, 0, ""],
+["清瀬市", 3, 2, ""],
+["昭島市", 2, 2, ""],
+["福生市", 3, 1, ""],
+["武蔵村山市", 4, 0, ""],
+["羽村市", 4, 0, ""],
+["小金井市", 0, 3, ""],
+["あきる野市", 0, 3, ""],
+["立川市", 2, 0, ""],
+["狛江市", 1, 1, ""],
+["東大和市", 0, 2, ""],
+["東村山市", 1, 0, ""],
+["八王子市", 0, 0, ""],
+["武蔵野市", 0, 0, ""],
+["三鷹市", 0, 0, ""],
+["府中市", 0, 0, ""],
+["調布市", 0, 0, ""],
+["小平市", 0, 0, "小平市"],
+["稲城市", 0, 0, ""],
       ]);
       var options = {
         fontName: "UD デジタル 教科書体 N-R",
@@ -1958,16 +1961,36 @@ const showPDF = (url) => {
         width: '100%',
         isStacked: true
       };
-      var chart = new google.visualization.ColumnChart(document.getElementById('si-bu'));
+      var chart = new google.visualization.ColumnChart(document.getElementById('tama26-joucho-gakkyusu'));
       chart.draw(data, options);
     }
   });
 </script>
 
+多摩26市では、7割超となる19の自治体が、小・中どちらか、もしくは両方に、すでに設置しています。設置していない市は、小平市以外に、八王子市、武蔵野市、三鷹市、府中市、調布市、稲城市の6市です。このうち三鷹市は、設置を前向きに検討すると議会で答弁しています。
 
+<table class="slim bordered">
+<caption>多摩26市・今後の状況</caption>
+<thead>
+<tr><th>市</th><th>メモ</th></tr>
+</thead>
+<tbody>
+<tr><th>三鷹市</th><td>現状設置0なものの、議会では、設置に前向きに検討と答弁。</td></tr>
+<tr><th>町田市</th><td><a href="https://www.city.machida.tokyo.jp/kodomo/kyoiku/kaigitou/kaigi/teireikairinjikai/kyoukai/2021kaigiroku/20211kaikaigiroku.files/13.pdf">令和4年4月、中学校に設置予定</a>。級数は未定。</td></tr>
+<tr><th>東村山市</th><td><a href="https://www.city.higashimurayama.tokyo.jp/shisei/keikaku/shingikai/kyoiku/kyoikushien20190917.html">令和4年4月、中学校に設置予定</a>。級数は未定。</td></tr>
+<tr><th>清瀬市</th><td>小学校の学級を移設予定、最終的に学級数の増減予定なし。</td></tr>
+<tr><th>羽村市</th><td><a href="https://www.city.hamura.tokyo.jp/0000005778.html">令和4年4月、中学校に設置予定</a>。級数は未定。</td></tr>
+<tr><th>あきる野市</th><td><a href="https://www.city.hamura.tokyo.jp/0000005778.html">令和5年4月、小学校に設置予定</a>。級数は未定。</td></tr>
+<tr><th>西東京市</th><td><a href="http://www.city.nishitokyo.lg.jp/siseizyoho/sesaku_keikaku/shingikaikaigiroku/bunka/jh_tokubetushien_kondankai/tokubetsushiengakkyuukonndannkai.files/siryou3.pdf">令和4年4月、中学校に設置予定</a>。級数は未定。</td></tr>
+</tbody>
+</table>
+
+**学級数について：東京23区の状況**
+
+23区は26市よりも設置が進んでおらず、4割に当たる9区だけが導入しています（練馬区は東京都のデータで2学級設置されていることになっていますが、データが間違えており、実際はまだ設置されていません）。
 
 <div class="gc-wrapper">
-<div id="ku-bu"></div>
+<div id="tokyo23-joucho-gakkyusu"></div>
 </div>
 <script type="text/javascript">
   window.addEventListener("load", () => {
@@ -1975,36 +1998,34 @@ const showPDF = (url) => {
     google.charts.setOnLoadCallback(drawChart);
     function drawChart() {
       const data = new google.visualization.DataTable();
-      data.addColumn('string', '区');
-      data.addColumn('number', '小学校学級数・令和3年度');
-      data.addColumn('number', '中学校学級数・令和3年度');
-      data.addColumn('number', '令和4年度予定学校数（小学校）');
-      data.addColumn('number', '令和4年度予定学校数（中学校）');
+      data.addColumn('string', '東京23区');
+      data.addColumn('number', '自閉症・情緒障害支援学級数（小学校）令和3年度');
+      data.addColumn('number', '自閉症・情緒障害支援学級数（中学校）令和3年度');
       data.addColumn({type: 'string', role: 'annotation'});
       data.addRows([
-["文京区", 6, 1, 0, 0, ""],
-["世田谷区", 3, 4, 0, 0, ""],
-["品川区", 0, 3, 0, 2, ""],
-["目黒区", 1, 3, 0, 0, ""],
-["葛飾区", 1, 1, 1, 1, ""],
-["北区", 2, 1, 0, 0, ""],
-["港区", 0, 2, 0, 0, ""],
-["江東区", 1, 1, 0, 0, ""],
-["豊島区", 1, 0, 0, 0, ""],
-["千代田区", 0, 0, 0, 0, ""],
-["中央区", 0, 0, 0, 0, ""],
-["新宿区", 0, 0, 0, 0, ""],
-["台東区", 0, 0, 0, 0, ""],
-["墨田区", 0, 0, 0, 0, ""],
-["大田区", 0, 0, 0, 0, ""],
-["渋谷区", 0, 0, 0, 0, ""],
-["中野区", 0, 0, 0, 0, ""],
-["杉並区", 0, 0, 0, 0, ""],
-["荒川区", 0, 0, 0, 0, ""],
-["板橋区", 0, 0, 0, 0, ""],
-["練馬区", 0, 0, 0, 0, ""],
-["足立区", 0, 0, 0, 0, ""],
-["江戸川区", 0, 0, 0, 0, ""],
+["文京区", 6, 1, ""],
+["世田谷区", 3, 4, ""],
+["目黒区", 1, 3, ""],
+["品川区", 0, 3, ""],
+["北区", 2, 1, ""],
+["港区", 0, 2, ""],
+["江東区", 1, 1, ""],
+["葛飾区", 1, 1, ""],
+["豊島区", 1, 0, ""],
+["千代田区", 0, 0, ""],
+["中央区", 0, 0, ""],
+["新宿区", 0, 0, ""],
+["台東区", 0, 0, ""],
+["墨田区", 0, 0, ""],
+["大田区", 0, 0, ""],
+["渋谷区", 0, 0, ""],
+["中野区", 0, 0, ""],
+["杉並区", 0, 0, ""],
+["荒川区", 0, 0, ""],
+["板橋区", 0, 0, ""],
+["練馬区", 0, 0, ""],
+["足立区", 0, 0, ""],
+["江戸川区", 0, 0, ""],
       ]);
       var options = {
         fontName: "UD デジタル 教科書体 N-R",
@@ -2021,15 +2042,300 @@ const showPDF = (url) => {
         width: '100%',
         isStacked: true
       };
-      var chart = new google.visualization.ColumnChart(document.getElementById('ku-bu'));
+      var chart = new google.visualization.ColumnChart(document.getElementById('tokyo23-joucho-gakkyusu'));
       chart.draw(data, options);
     }
   });
 </script>
 
--->
+<table class="slim bordered">
+<caption>東京23区・今後の状況</caption>
+<thead>
+<tr><th>市</th><th>メモ</th></tr>
+</thead>
+<tbody>
+<tr><th>品川区</th><td><a href="https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-gakkou/kodomo-gakkou-nyugaku/R3hitorihitori.pdf">令和4年4月、2つの中学校に設置予定</a>。級数は未定。</td></tr>
+<tr><th>葛飾区</th><td><a href="https://www.city.katsushika.lg.jp/_res/projects/default_project/_page_/001/026/163/030505go/515-5.pdf">令和4年4月、小・中学校に設置予定</a>。級数は未定。</td></tr>
+</tbody>
+</table>
 
-（作成中です）
+
+次に、令和2年度の、自閉症・情緒障害支援学級（固定級）に通う児童・生徒数の割合と、通級で情緒障害等として指導を受ける児童・生徒数の割合を比較してみます。（今までのチャートと同じく、すべての学級に通う児童数もしくは生徒数で割った割合です）。
+
+**児童・生徒数について：多摩26市の状況**
+
+多摩26市については次のようになりました。
+
+なお、各自治体の「規模感」を把握するために、全児童・生徒数を、正規化したマイナスの数値で示しました。最も児童・生徒数が多いのは八王子市で、小学校の全児童数は26,109人いますが、これが0.04となるように正規化しています。たとえば、町田市は21,573人いるので、0.04/26109 x 21573 = 0.033となります。
+
+<div class="gc-wrapper">
+<div id="ninzu3"></div>
+</div>
+<script type="text/javascript">
+  window.addEventListener("load", () => {
+    google.charts.load('current', {'packages':['corechart']});
+    google.charts.setOnLoadCallback(drawChart);
+    function drawChart() {
+      const data = new google.visualization.DataTable();
+      data.addColumn('string', '多摩26市');
+      data.addColumn('number', '児童数規模');
+      data.addColumn('number', '「通級」に通う児童数割合（小学校）');
+      data.addColumn('number', '「固定級」に通う児童数割合（小学校）');
+      data.addColumn({type: 'string', role: 'annotation'});
+      data.addRows([
+["多摩市", -0.0107, 0.0751, 0.01613, ""],
+["青梅市", -0.0090, 0.0448, 0.02648, ""],
+["国立市", -0.0048, 0.0614, 0.00668, ""],
+["福生市", -0.0036, 0.0592, 0.00725, ""],
+["清瀬市", -0.0056, 0.0618, 0.00354, ""],
+["狛江市", -0.0055, 0.0566, 0.00193, ""],
+["町田市", -0.0330, 0.0530, 0.00366, ""],
+["武蔵村山市", -0.0062, 0.0481, 0.00715, ""],
+["あきる野市", -0.0064, 0.0532, 0.00000, ""],
+["日野市", -0.0143, 0.0520, 0.00000, ""],
+["調布市", -0.0171, 0.0498, 0.00000, ""],
+["東久留米市", -0.0085, 0.0417, 0.00758, ""],
+["昭島市", -0.0086, 0.0435, 0.00267, ""],
+["八王子市", -0.0399, 0.0450, 0.00000, ""],
+["稲城市", -0.0081, 0.0439, 0.00000, ""],
+["羽村市", -0.0043, 0.0359, 0.00703, ""],
+["東大和市", -0.0068, 0.0427, 0.00000, ""],
+["立川市", -0.0132, 0.0398, 0.00000, ""],
+["東村山市", -0.0112, 0.0394, 0.00000, ""],
+["武蔵野市", -0.0093, 0.0391, 0.00000, ""],
+["小平市", -0.0154, 0.0376, 0.00000, "小平市"],
+["三鷹市", -0.0142, 0.0335, 0.00000, ""],
+["国分寺市", -0.0087, 0.0269, 0.00490, ""],
+["府中市", -0.0207, 0.0301, 0.00000, ""],
+["西東京市", -0.0152, 0.0246, 0.00414, ""],
+["小金井市", -0.0086, 0.0253, 0.00000, ""],
+      ]);
+      var options = {
+        fontName: "UD デジタル 教科書体 N-R",
+        fontSize: 14,
+        vAxis: {
+          format: '#%',
+          textStyle: {
+            fontSize: 16,
+          }
+        },
+        chartArea:{top:30, left:80, height:'75%', width: '85%'},
+        legend: {
+          position: 'top',
+        },
+        width: '100%',
+        isStacked: true
+      };
+      var chart = new google.visualization.ColumnChart(document.getElementById('ninzu3'));
+      chart.draw(data, options);
+    }
+  });
+</script>
+
+多摩市が、情緒障害の子どもたちにとって比較的手厚い（居場所がある）環境であることが伺えます。
+
+また、児童・生徒数の規模によっても設置状況が変わるかと思いましたが、特に関係がないようです。
+
+<div class="gc-wrapper">
+<div id="ninzu4"></div>
+</div>
+<script type="text/javascript">
+  window.addEventListener("load", () => {
+    google.charts.load('current', {'packages':['corechart']});
+    google.charts.setOnLoadCallback(drawChart);
+    function drawChart() {
+      const data = new google.visualization.DataTable();
+      data.addColumn('string', '多摩26市');
+      data.addColumn('number', '生徒数規模');
+      data.addColumn('number', '通級に通う生徒数割合（中学校）');
+      data.addColumn('number', '固定級に通う生徒数割合（中学校）');
+      data.addColumn({type: 'string', role: 'annotation'});
+      data.addRows([
+["青梅市", -0.0098, 0.0262, 0.0240, ""],
+["福生市", -0.0033, 0.0411, 0.0057, ""],
+["狛江市", -0.0040, 0.0372, 0.0000, ""],
+["国立市", -0.0042, 0.0304, 0.0059, ""],
+["東大和市", -0.0064, 0.0318, 0.0044, ""],
+["あきる野市", -0.0066, 0.0249, 0.0089, ""],
+["日野市", -0.0131, 0.0215, 0.0112, ""],
+["清瀬市", -0.0056, 0.0270, 0.0051, ""],
+["立川市", -0.0118, 0.0267, 0.0000, ""],
+["稲城市", -0.0074, 0.0257, 0.0000, ""],
+["三鷹市", -0.0105, 0.0249, 0.0000, ""],
+["多摩市", -0.0096, 0.0075, 0.0173, ""],
+["羽村市", -0.0043, 0.0242, 0.0000, ""],
+["東久留米市", -0.0079, 0.0221, 0.0000, ""],
+["八王子市", -0.0399, 0.0216, 0.0000, ""],
+["調布市", -0.0132, 0.0197, 0.0000, ""],
+["町田市", -0.0323, 0.0195, 0.0000, ""],
+["西東京市", -0.0127, 0.0126, 0.0069, ""],
+["小金井市", -0.0065, 0.0057, 0.0105, ""],
+["小平市", -0.0128, 0.0162, 0.0000, "小平市"],
+["武蔵野市", -0.0071, 0.0149, 0.0000, ""],
+["東村山市", -0.0109, 0.0149, 0.0000, ""],
+["府中市", -0.0181, 0.0147, 0.0000, ""],
+["昭島市", -0.0078, 0.0076, 0.0064, ""],
+["武蔵村山市", -0.0068, 0.0133, 0.0000, ""],
+["国分寺市", -0.0073, 0.0069, 0.0060, ""],
+      ]);
+      var options = {
+        fontName: "UD デジタル 教科書体 N-R",
+        fontSize: 14,
+        vAxis: {
+          format: '#%',
+          textStyle: {
+            fontSize: 16,
+          }
+        },
+        chartArea:{top:30, left:80, height:'75%', width: '85%'},
+        legend: {
+          position: 'top',
+        },
+        width: '100%',
+        isStacked: true
+      };
+      var chart = new google.visualization.ColumnChart(document.getElementById('ninzu4'));
+      chart.draw(data, options);
+    }
+  });
+</script>
+
+中学校については、青梅市が手厚い状況です。
+
+**児童数について：東京23区の状況**
+
+東京23区では、世田谷区が最も児童・生徒数が多い状況です。令和2年度時点は固定級の設置数が少ない状況です。通級に通う児童・生徒数も、多摩26市と比べると少ないです。小平市はどちらかというと多摩26市ではなく、東京23区と同様の状況となっています。
+
+<div class="gc-wrapper">
+<div id="ninzu"></div>
+</div>
+<script type="text/javascript">
+  window.addEventListener("load", () => {
+    google.charts.load('current', {'packages':['corechart']});
+    google.charts.setOnLoadCallback(drawChart);
+    function drawChart() {
+      const data = new google.visualization.DataTable();
+      data.addColumn('string', '区');
+      data.addColumn('number', '児童数規模');
+      data.addColumn('number', '通級に通う児童数割合（小学校）');
+      data.addColumn('number', '固定級に通う児童数割合（小学校）');
+      data.addColumn({type: 'string', role: 'annotation'});
+      data.addRows([
+["足立区", -0.0328, 0.0580, 0.00000, ""],
+["墨田区", -0.0107, 0.0537, 0.00000, ""],
+["北区", -0.0137, 0.0440, 0.00092, ""],
+["千代田区", -0.0032, 0.0441, 0.00000, ""],
+["豊島区", -0.0093, 0.0428, 0.00090, ""],
+["葛飾区", -0.0217, 0.0432, 0.00024, ""],
+["新宿区", -0.0102, 0.0412, 0.00000, ""],
+["港区", -0.0104, 0.0396, 0.00000, ""],
+["中央区", -0.0080, 0.0386, 0.00000, ""],
+["品川区", -0.0138, 0.0372, 0.00000, ""],
+["世田谷区", -0.0400, 0.0352, 0.00000, ""],
+["台東区", -0.0073, 0.0350, 0.00000, ""],
+["荒川区", -0.0095, 0.0341, 0.00000, ""],
+["目黒区", -0.0105, 0.0339, 0.00000, ""],
+["文京区", -0.0103, 0.0276, 0.00418, ""],
+["渋谷区", -0.0073, 0.0318, 0.00000, ""],
+["大田区", -0.0311, 0.0284, 0.00000, ""],
+["杉並区", -0.0223, 0.0269, 0.00000, ""],
+["板橋区", -0.0246, 0.0253, 0.00000, ""],
+["中野区", -0.0106, 0.0242, 0.00000, ""],
+["江戸川区", -0.0359, 0.0210, 0.00000, ""],
+["練馬区", -0.0352, 0.0181, 0.00012, ""],
+["江東区", -0.0255, 0.0176, 0.00016, ""],
+      ]);
+      var options = {
+        fontName: "UD デジタル 教科書体 N-R",
+        fontSize: 14,
+        vAxis: {
+          format: '#%',
+          textStyle: {
+            fontSize: 16,
+          }
+        },
+        chartArea:{top:30, left:80, height:'75%', width: '85%'},
+        legend: {
+          position: 'top',
+        },
+        width: '100%',
+        isStacked: true
+      };
+      var chart = new google.visualization.ColumnChart(document.getElementById('ninzu'));
+      chart.draw(data, options);
+    }
+  });
+</script>
+
+
+<div class="gc-wrapper">
+<div id="ninzu2"></div>
+</div>
+<script type="text/javascript">
+  window.addEventListener("load", () => {
+    google.charts.load('current', {'packages':['corechart']});
+    google.charts.setOnLoadCallback(drawChart);
+    function drawChart() {
+      const data = new google.visualization.DataTable();
+      data.addColumn('string', '東京23区');
+      data.addColumn('number', '生徒数規模');
+      data.addColumn('number', '通級に通う生徒数割合（中学校）');
+      data.addColumn('number', '固定級に通う生徒数割合（中学校）');
+      data.addColumn({type: 'string', role: 'annotation'});
+      data.addRows([
+["港区", -0.0055, 0.0381, 0.00525, ""], 
+["品川区", -0.0075, 0.0305, 0.00631, ""], 
+["北区", -0.0115, 0.0346, 0.00000, ""], 
+["目黒区", -0.0072, 0.0240, 0.00835, ""], 
+["豊島区", -0.0068, 0.0304, 0.00000, ""], 
+["千代田区", -0.0020, 0.0296, 0.00000, ""], 
+["足立区", -0.0353, 0.0287, 0.00000, ""], 
+["新宿区", -0.0072, 0.0282, 0.00000, ""], 
+["葛飾区", -0.0227, 0.0261, 0.00070, ""], 
+["世田谷区", -0.0290, 0.0253, 0.00000, ""], 
+["杉並区", -0.0173, 0.0243, 0.00000, ""], 
+["文京区", -0.0057, 0.0199, 0.00000, ""], 
+["渋谷区", -0.0048, 0.0198, 0.00000, ""], 
+["板橋区", -0.0240, 0.0170, 0.00000, ""], 
+["台東区", -0.0073, 0.0158, 0.00000, ""], 
+["中央区", -0.0040, 0.0157, 0.00000, ""], 
+["荒川区", -0.0085, 0.0139, 0.00000, ""], 
+["練馬区", -0.0356, 0.0133, 0.00000, ""], 
+["大田区", -0.0288, 0.0126, 0.00000, ""], 
+["墨田区", -0.0114, 0.0122, 0.00000, ""], 
+["中野区", -0.0094, 0.0118, 0.00000, ""], 
+["江東区", -0.0207, 0.0098, 0.00076, ""], 
+["江戸川区", -0.0399, 0.0089, 0.00000, ""], 
+      ]);
+      var options = {
+        fontName: "UD デジタル 教科書体 N-R",
+        fontSize: 14,
+        vAxis: {
+          format: '#%',
+          textStyle: {
+            fontSize: 16,
+          }
+        },
+        chartArea:{top:30, left:80, height:'75%', width: '85%'},
+        legend: {
+          position: 'top',
+        },
+        width: '100%',
+        isStacked: true
+      };
+      var chart = new google.visualization.ColumnChart(document.getElementById('ninzu2'));
+      chart.draw(data, options);
+    }
+  });
+</script>
+
+**人数割合は変わらないはずなので、小平市にも1校からでも導入を**
+
+各自治体とも、「固定級の設置はニーズに応じて行っている」ということでした。しかし、固定級を必要とする人数の割合は、どの自治体でも大きく変わらないはずです。
+
+そのため、たとえば青梅市にならえば、小平市にも、全児童・生徒数に対して2.6%程度、固定級に対する潜在的な需要があるようにも思います。
+
+また、通級も含めて考えるのであれば、手厚い市と比べ、小平市は、まだ倍くらい特別支援の対応を増やす余地があるともいえます。
 
 <!--
 
