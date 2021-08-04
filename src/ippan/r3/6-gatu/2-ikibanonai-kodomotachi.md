@@ -103,7 +103,7 @@ const showPDF = (url) => {
 <tr><th>ここでの表記</th><th>→</th><th>別の表記</th><th>メモ</th></tr>
 </thead>
 <tbody>
-<tr><th>通級</th><th>→</th><th>通室</th><td>通級には「通級指導教室」と「特別支援教室」<br>があります（<a href="https://www.kyoiku.metro.tokyo.lg.jp/consulting/window/special_needs_consultation/files/school_counseling_leaflet/leaflet.pdf">東京都の資料</a>）。<br>特別支援教室へ通うことを「通室」と表現する<br>こともあります。</td></tr>
+<tr><th>通級</th><th>→</th><th>通室</th><td>通級には「通級指導学級」と「特別支援教室」<br>があります（<a href="https://www.kyoiku.metro.tokyo.lg.jp/consulting/window/special_needs_consultation/files/school_counseling_leaflet/leaflet.pdf">東京都の資料</a>）。<br>特別支援教室へ通うことを「通室」と表現する<br>こともあります。</td></tr>
 <tr><th>支援級</th><th>→</th><th>特別支援学級</th><td></td></tr>
 <tr><th>チャレンジ校</th><th>→</th><th>チャレンジ<br>スクール</th><td></td></tr>
 <tr><th>エンカレッジ校</th><th>→</th><th>エンカレッジ<br>スクール</th><td></td></tr>
