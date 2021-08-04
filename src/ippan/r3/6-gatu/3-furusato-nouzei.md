@@ -6,7 +6,7 @@
 
 <p class="read-kaigiroku"><a href="">📄会議録を見る（まだ公開されていません）</a></p>
 
-<fieldset class="point">
+<fieldset class="pnt">
   <legend><h2> まとめ </h2></legend>
 
 市民の方から、ふるさと納税の活用策について、「FC東京の選手からプライベートレッスンを受けられる権利」というステキなご提案をいただいたため、質問しました。
