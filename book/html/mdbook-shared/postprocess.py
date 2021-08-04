@@ -175,8 +175,11 @@ for ud in updatesSorted :
 recentUpdateHtmls.append("</ul></div>")
 recentUpdateHtml = "\n".join(recentUpdateHtmls)
 
+# 最新の更新ファイルの日時
+mostRecentUpdateDT = updatesSorted[0]["JST8601"]
 
 # index.htmlの削除、作成日・更新日の置換、パンくずリスト変換、sitemap作成
+# <!-- recent updates -->のあるページは、更新日をrecent updates中の最新日付にする
 for filePath in glob.iglob('../../book/**/*.html', recursive=True):
     filePath = os.path.normpath(filePath)
     fileName = os.path.basename(filePath)
@@ -223,8 +226,10 @@ for filePath in glob.iglob('../../book/**/*.html', recursive=True):
     if (breadcrumbsHtml != "") :
         s = s.replace("<!-- breadcrumbs -->", breadcrumbsHtml, 1)
 
+    hasRecentUpdates = re.search(r"<!-- recent updates -->", s)
     # <!-- recent updates -->を最近の更新日に変換
-    s = s.replace("<!-- recent updates -->", recentUpdateHtml, 1)
+    if(hasRecentUpdates) :
+        s = s.replace("<!-- recent updates -->", recentUpdateHtml, 1)
 
     matchedStr = ""
     s = re.sub(r"<p>.*{{description:(.*)}}.*</p>", getMatched, s, 0)
@@ -246,13 +251,19 @@ for filePath in glob.iglob('../../book/**/*.html', recursive=True):
         s = s.replace("<!-- yield og:image:* here -->", meta, 1)
 
     if key != "" :
+        if(hasRecentUpdates) :
+            dt = mostRecentUpdateDT
+            ymd = datetime.datetime.strptime(mostRecentUpdateDT, "%Y/%m/%d %H:%M:%S+09:00").strftime('%Y-%m-%d')
+        else :
+            dt = keyJST8601
+            ymd = key
         replace = '''
             <ul class="published-at-updated-at">
-                <li><a href="{githubp}"><i class="fa fa-refresh" aria-hidden="true" title="更新日" alt="更新日"></i> <span class="screen-reader-only">更新日</span><time datetime="{keyJST8601}" timeprop="modified" title="更新日">{key}</time></a></li>
+                <li><a href="{githubp}"><i class="fa fa-refresh" aria-hidden="true" title="更新日" alt="更新日"></i> <span class="screen-reader-only">更新日</span><time datetime="{dt}" timeprop="modified" title="更新日">{ymd}</time></a></li>
                 <li><i class="fa fa-file-text-o" aria-hidden="true" title="公開日" alt="公開日"></i> <span class="screen-reader-only">公開日</span><time datetime="\\1" timeprop="datepublished" title="公開日">\\1</time></li>
             </ul>
-            <!-- <lastmod>{keyJST8601}</lastmod> -->
-        '''.format(keyJST8601 = keyJST8601, key = key, githubp = githubp)
+            <!-- <lastmod>{dt}</lastmod> -->
+        '''.format(dt = dt, ymd = ymd, githubp = githubp)
         s = re.sub(r"<p>.*{{first:(.*)}}.*</p>", replace, s, 0)
     
     with open(filePath, "w", encoding="utf8") as file:

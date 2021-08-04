@@ -1027,7 +1027,8 @@ li:last-child {
 }
 
 .situgi h3,
-.situgi h4 {
+.situgi h4,
+.situgi h5 {
   font-size: var(--font-size);
   line-height: var(--line-height);
   border: 1px solid var(--fg);
@@ -1039,7 +1040,14 @@ li:last-child {
 }
 .situgi h4 {
   padding: 1rem;
+  border-style: dashed;
 }
+.situgi h5 {
+  padding: 1rem;
+  border-style: none;
+  border-bottom-style: dashed;
+}
+
 
 h3 + div.balloon,
 div.tips + div.balloon {
@@ -1233,7 +1241,7 @@ input[type="checkbox"]{
 div.recent-updated {
   overflow-x: auto;
   white-space: nowrap;
-  height: 15rem;
+  height: 28rem;
   border: 1px solid var(--fg);
 }
 
