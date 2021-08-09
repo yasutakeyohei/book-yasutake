@@ -237,10 +237,10 @@
             
                         
             <ul class="published-at-updated-at">
-                <li><a href="https://github.com/yasutakeyohei/book-yasutake/commits/master/src/about-a11y.md"><i class="fa fa-refresh" aria-hidden="true" title="更新日" alt="更新日"></i> <span class="screen-reader-only">更新日</span><time datetime="2021-07-08T17:21:48+09:00" timeprop="modified" title="更新日">2021-07-08</time></a></li>
+                <li><a href="https://github.com/yasutakeyohei/book-yasutake/commits/master/src/about-a11y.md"><i class="fa fa-refresh" aria-hidden="true" title="更新日" alt="更新日"></i> <span class="screen-reader-only">更新日</span><time datetime="2021-07-18T01:10:48+09:00" timeprop="modified" title="更新日">2021-07-18</time></a></li>
                 <li><i class="fa fa-file-text-o" aria-hidden="true" title="公開日" alt="公開日"></i> <span class="screen-reader-only">公開日</span><time datetime="2021-06-24" timeprop="datepublished" title="公開日">2021-06-24</time></li>
             </ul>
-            <!-- <lastmod>2021-07-08T17:21:48+09:00</lastmod> -->
+            <!-- <lastmod>2021-07-18T01:10:48+09:00</lastmod> -->
         
 <h1 id="このサイトのアクセシビリティツールについて"><a class="header" href="#このサイトのアクセシビリティツールについて">このサイトのアクセシビリティツールについて</a></h1>
 <p>このサイト左上にあるアクセシビリティアイコン（<span class="icon-a11y-wrapper"><i class="fa fa-universal-access" aria-hidden="true"></i></span>）を押すと、次のようなパネルが開きます。</p>
@@ -418,6 +418,20 @@
 
         </div>
 
+                <!-- Livereload script (if served using the cli tool) -->
+        <script type="text/javascript">
+            var socket = new WebSocket("ws://localhost:3000/__livereload");
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
         
                 <!-- Google Analytics Tag -->
         <script type="text/javascript">
