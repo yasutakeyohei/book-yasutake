@@ -231,6 +231,9 @@ for filePath in glob.iglob('../../book/**/*.html', recursive=True):
     if(hasRecentUpdates) :
         s = s.replace("<!-- recent updates -->", recentUpdateHtml, 1)
 
+    #<li>hitori:～</li>を<li class="hitori">～</li>に変換、tips, good, badも同様
+    s = re.sub(r"<li>(hitori|tips|good|ng|bad)\:(.*?)(</li>|<ul>)", '<li class="\\1">\\2\\3', s, flags=re.DOTALL)
+
     matchedStr = ""
     s = re.sub(r"<p>.*{{description:(.*)}}.*</p>", getMatched, s, 0)
     if (matchedStr != "") :

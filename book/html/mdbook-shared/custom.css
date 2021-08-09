@@ -69,6 +69,7 @@ button {
 }
 .content {
   letter-spacing: var(--letter-spacing);
+  text-align: justify;
 }
 
 .content p {
@@ -126,9 +127,12 @@ fieldset.pnt {
   margin-top: 0;
   padding: 0rem 3rem;
 }
+fieldset.sanpi {
+  margin-top: 4rem;
+  padding: 0rem 3rem;
+}
 
 fieldset.nittei,
-fieldset.sanpi,
 fieldset.summary {
   margin-top: 4rem;
 }
@@ -149,19 +153,18 @@ fieldset.summary {
 }
 
 .point ul,
-.sanpi ul,
 .summary ul {
   list-style: none;
   padding: 0;
   margin: 0;
 }
-.pnt ul {
+.pnt ul,
+.sanpi ul {
   list-style: none;
   padding: 0 1rem;
 }
 
 .point li,
-.sanpi li,
 .summary li {
   text-indent: -1.5rem;
   color: var(--point-fg);
@@ -169,6 +172,10 @@ fieldset.summary {
 }
 .pnt li {
   text-indent: -2.6rem;
+  padding-left: 1.5rem;
+}
+.sanpi li {
+  text-indent: -3.5rem;
   padding-left: 1.5rem;
 }
 
@@ -189,23 +196,32 @@ fieldset.summary {
   margin-right: 1rem;
   color: var(--links);
 }
+.sanpi li.ng::before {
+  content: "⚠️";
+  margin-right: 1rem;
+}
+.sanpi li.good::before {
+  content: "⭕️";
+  margin-right: 1rem;
+}
+.sanpi li.bad::before {
+  content: "❌";
+  margin-right: 1rem;
+}
 
 .point li.ng::before,
-.sanpi li.ng::before,
 .summary li.ng::before {
-  content: "⚠️ ";
+  content: "⚠️";
 }
 
 .point li.good::before,
-.sanpi li.good::before,
 .summary li.good::before {
-  content: "⭕️ ";
+  content: "⭕️";
 }
 
 .point li.bad::before,
-.sanpi li.bad::before,
 .summary li.bad::before {
-  content: "❌ ";
+  content: "❌";
 }
 
 .summary li.play::before {
@@ -213,6 +229,15 @@ fieldset.summary {
   font-family: FontAwesome;
   margin-right: 1rem;
 }
+
+.sanpi-note {
+  border-top: 1px solid var(--links);
+  margin-top: 3rem;
+  color: var(--links);
+  font-size: calc(var(--font-size)*0.8);
+  text-align: left;
+}
+
 
 fieldset.nittei {
   min-width: auto;
@@ -637,7 +662,7 @@ blockquote .balloon.bl-left>div:after {
   text-align: right;
 }
 .balloon.bl-right>div {
-  text-align: left;
+  text-align: justify;
   background-color: var(--situgi-a-bg);
 }
 .balloon.bl-right>div:after {
@@ -659,9 +684,9 @@ blockquote .balloon.bl-left>div:after {
 .balloon.bl-right.bl-tips>div:after {
   border: none;
 }
-
 .balloon.bl-tips>div p:first-of-type {
   margin-top: 0;
+  font-weight: bold;
 }
 
 .balloon span.yasutake {
@@ -709,6 +734,7 @@ td.aright {
   --situgi-q-bg: #ffefd5;
   --situgi-a-bg: #E7F7EE;
   --a11y-icon-fg: mediumseagreen;
+  --toc-bg: #f9f9f9;
 }
 
 .light div.back-to-main-site {
@@ -724,18 +750,21 @@ td.aright {
   --situgi-q-bg: var(--quote-bg);
   --situgi-a-bg: var(--quote-bg);
   --a11y-icon-fg: green;
+  --toc-bg: #eaeae3;
 }
 
 .coal {
   --situgi-q-bg: var(--quote-bg);
   --situgi-a-bg: var(--quote-bg);
   --a11y-icon-fg: yellowgreen;
+  --toc-bg: #000;
 }
 
 .navy {
   --situgi-q-bg: var(--quote-bg);
   --situgi-a-bg: var(--quote-bg);
   --a11y-icon-fg: aquamarine;
+  --toc-bg: #000;
 }
 
 .ayu {
@@ -743,6 +772,7 @@ td.aright {
   --situgi-q-bg: var(--quote-bg);
   --situgi-a-bg: var(--quote-bg);
   --a11y-icon-fg: aquamarine;
+  --toc-bg: #000;
 }
 
 
@@ -1026,9 +1056,10 @@ li:last-child {
   padding: 2rem 0;
 }
 
-.situgi h3,
-.situgi h4,
-.situgi h5 {
+/* 一般質問での質疑 */
+.ippan-situgi h3,
+.ippan-situgi h4,
+.ippan-situgi h5 {
   font-size: var(--font-size);
   line-height: var(--line-height);
   border: 1px solid var(--fg);
@@ -1038,15 +1069,40 @@ li:last-child {
   margin: 2rem 0;
   padding: 2rem;
 }
-.situgi h4 {
+.ippan-situgi h4 {
   padding: 1rem;
   border-style: dashed;
 }
-.situgi h5 {
+.ippan-situgi h5 {
   padding: 1rem;
   border-style: none;
   border-bottom-style: dashed;
 }
+
+/* 通常の質疑（本会議、委員会で分けているため、一段下げる） */
+.situgi h4,
+.situgi h5,
+.situgi h6 {
+  font-size: var(--font-size);
+  line-height: var(--line-height);
+  border: 1px solid var(--fg);
+  border-radius: 10px;
+  font-weight: bold;
+  text-align: center;
+  margin: 2rem 0;
+  padding: 2rem;
+}
+.situgi h5 {
+  padding: 1rem;
+  border-style: dashed;
+}
+.situgi h6 {
+  padding: 1rem;
+  border-style: none;
+  border-bottom-style: dashed;
+}
+
+
 
 
 h3 + div.balloon,
@@ -1264,7 +1320,7 @@ div.recent-updated ul li {
 
 
 #toc {
-  background: #f9f9f9 none repeat scroll 0 0;
+  background: var(--toc-bg) none repeat scroll 0 0;
   border: 1px solid #aaa;
   display: table;
   font-size: 95%;
@@ -1272,7 +1328,7 @@ div.recent-updated ul li {
   padding: 2rem;
   width: auto;
 }
-.toc-title {
+#toc>p:first-of-type {
   font-weight: bold;
   text-align: center;
 }
@@ -1284,6 +1340,39 @@ div.recent-updated ul li {
 }
 #toc li, #toc ul, #toc ul li{
   margin-bottom:1rem;
+}
+#toc li.hitori,
+#toc li.tips {
+  list-style: none;
+}
+#toc li.hitori::before {
+  content: "\f005";
+  font-family: FontAwesome;
+  margin-right: 1rem;
+  margin-left: -2rem;
+  font-size: 1.2rem;
+  color: royalblue;
+}
+#toc li.tips::before {
+  content: "\f06a";
+  font-family: FontAwesome;
+  margin-right: 1rem;
+  margin-left: -2.2rem;
+  color: royalblue;
+}
+#toc hr {
+  border: 1px dotted;
+  margin: 3rem 0;
+  color: var(--links);
+}
+#toc>p.toc-note {
+  border-top: 1px solid var(--links);
+  margin-top: 3rem;
+  color: var(--links);
+  font-size: calc(var(--font-size)*0.8);
+}
+#toc>p.toc-note i {
+  color: royalblue;
 }
 
 .gc-wrapper {
