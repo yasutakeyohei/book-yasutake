@@ -53,7 +53,7 @@ const showPDF = (url) => {
 
 ## 主な質疑
 
-<div class="situgi">
+<div class="ippan-situgi">
 
 <div id="toc">
 <p class="toc-title">目次</p>
