@@ -35,7 +35,7 @@ const showPDF = (url) => {
 
 ## 主な質疑
 
-<div class="situgi">
+<div class="ippan-situgi">
 
 <div id="toc">
 <p class="toc-title">目次</p>
@@ -411,8 +411,6 @@ const showPDF = (url) => {
 そういったことが、気付かないところで政治の停滞につながる。結果として投票率も下がっていく。市長という立場で推薦しているので今回質問したが、答弁もらえず残念。そのあたりは市長に考え直していただきたい。
 
 </div></div>
-
-</div>
 
 <p style="text-align:right">以上</p>
 

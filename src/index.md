@@ -16,6 +16,7 @@
 **[その他](./sonota/index.md)**
 
 
-## 最近の更新
+## 最近の更新 
+
 
 <!-- recent updates -->

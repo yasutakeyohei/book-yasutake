@@ -18,7 +18,7 @@
       <!-- Sub -->
       <div class="child-tab">
         <input type="checkbox" name="sub-tab" id="tab-3-6" checked>
-        <label for="tab-3-6"><span><a href="./r3/6-gatu/index.md">6月定例会<br>（まとめ作成中）</a></span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
+        <label for="tab-3-6"><span><a href="./r3/6-gatu/index.md">6月定例会</a></span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
         <div class="acd-sub-content">
           <ol>
             <li><a href="./r3/6-gatu/1-sityou-bousai-honkijanaidesyo.md">防災に対し、市長は本気で取り組むのか</a></li>
@@ -88,7 +88,7 @@
         <div class="acd-sub-content">
           <ol>
             <li><a href="./r2/3-gatu/1-dyslexia-kankyo.md">ディスレクシアの子どもをひとりも見過ごさず成長できる環境整備を、いますぐに</a></li>
-            <li><a href="./r2/3-gatu/2^jinkou-suikei-kagaku.md">人口推計のひとり歩きを防ぐため、より科学的な提示を</a></li>
+            <li><a href="./r2/3-gatu/2-jinkou-suikei-kagaku.md">人口推計のひとり歩きを防ぐため、より科学的な提示を</a></li>
           </ol>
         </div>
       </div>
@@ -106,7 +106,7 @@
         <div class="acd-sub-content">
           <ol>
             <li><a href="./r1/12-gatu/1-furusato-nouzei-kakuju.md">ふるさと納税の健全な活用と、指定寄附制度の拡充で市民参加の推進を</a></li>
-            <li><a href="./r1/12-gatu2-gomi-sisetu-jouhou.md">巨費を投じるごみ処理施設の、より丁寧な情報提供等を</a></li>
+            <li><a href="./r1/12-gatu/2-gomi-sisetu-jouhou.md">巨費を投じるごみ処理施設の、より丁寧な情報提供等を</a></li>
           </ol>
         </div>
       </div>
