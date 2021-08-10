@@ -129,6 +129,7 @@ fieldset.pnt {
 }
 fieldset.sanpi {
   margin-top: 4rem;
+  margin-bottom: 4rem;
   padding: 0rem 3rem;
 }
 
@@ -1319,7 +1320,7 @@ div.recent-updated ul li {
 }
 
 
-#toc {
+.toc {
   background: var(--toc-bg) none repeat scroll 0 0;
   border: 1px solid #aaa;
   display: table;
@@ -1328,24 +1329,29 @@ div.recent-updated ul li {
   padding: 2rem;
   width: auto;
 }
-#toc>p:first-of-type {
+.toc>p:first-of-type {
   font-weight: bold;
   text-align: center;
 }
-#toc>p {
+.toc>p {
   margin: 0;
 }
-#toc>ul {
+.toc>p:not(:first-of-type) {
+  border-bottom:1px solid var(--links);
+  font-weight:bold;
+  margin-top: 3rem;
+}
+.toc>ul {
   padding: 0 1rem 0 2rem;
 }
-#toc li, #toc ul, #toc ul li{
+.toc li, .toc ul, .toc ul li{
   margin-bottom:1rem;
 }
-#toc li.hitori,
-#toc li.tips {
+.toc li.hitori,
+.toc li.tips {
   list-style: none;
 }
-#toc li.hitori::before {
+.toc li.hitori::before {
   content: "\f005";
   font-family: FontAwesome;
   margin-right: 1rem;
@@ -1353,27 +1359,28 @@ div.recent-updated ul li {
   font-size: 1.2rem;
   color: royalblue;
 }
-#toc li.tips::before {
+.toc li.tips::before {
   content: "\f06a";
   font-family: FontAwesome;
   margin-right: 1rem;
   margin-left: -2.2rem;
   color: royalblue;
 }
-#toc hr {
+.toc hr {
   border: 1px dotted;
   margin: 3rem 0;
   color: var(--links);
 }
-#toc>p.toc-note {
+.toc>p.toc-note {
   border-top: 1px solid var(--links);
-  margin-top: 3rem;
+  border-bottom: none;
   color: var(--links);
   font-size: calc(var(--font-size)*0.8);
 }
-#toc>p.toc-note i {
+.toc>p.toc-note i {
   color: royalblue;
 }
+
 
 .gc-wrapper {
   overflow-x:auto;
