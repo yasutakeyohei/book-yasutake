@@ -31,8 +31,6 @@
 <li>改善することは多いため、市長が少し何かをすれば、大きな実績になるはずだが…</li>
 </ul>
 
-
-
 </fieldset>
 
 <script src="https://documentcloud.adobe.com/view-sdk/main.js" defer></script>
@@ -55,8 +53,9 @@ const showPDF = (url) => {
 
 <div class="ippan-situgi">
 
-<div id="toc">
-<p class="toc-title">目次</p>
+<div class="toc">
+
+目次
 
 - **[今回質問する理由](#今回質問する理由)**
 - **[新市長は小平市の防災をどう変えるのか](#新市長は小平市の防災をどう変えるのか)**

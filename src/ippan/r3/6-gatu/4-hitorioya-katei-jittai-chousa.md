@@ -48,8 +48,9 @@ const showPDF = (url) => {
 
 <div class="ippan-situgi">
 
-<div id="toc">
-<p class="toc-title">目次</p>
+<div class="toc">
+
+目次
 
 - **[今回質問する理由](#今回質問する理由)**
 - **[ひとり親家庭の悩みごと等は適切に把握できているのか](#ひとり親家庭の悩みごと等は適切に把握できているのか)**

@@ -41,8 +41,9 @@ const showPDF = (url) => {
 
 <div class="ippan-situgi">
 
-<div id="toc">
-<p class="toc-title">目次</p>
+<div class="toc">
+
+目次
 
 - **[今回質問する理由](#今回質問する理由)**
 - **[血管年齢などを検診項目に入れたりセルフ測定できるようにしては](#血管年齢などを検診項目に入れたりセルフ測定できるようにしては)**

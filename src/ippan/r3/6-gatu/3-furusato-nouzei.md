@@ -37,8 +37,9 @@ const showPDF = (url) => {
 
 <div class="ippan-situgi">
 
-<div id="toc">
-<p class="toc-title">目次</p>
+<div class="toc">
+
+目次
 
 - **[今回質問する理由](#今回質問する理由)**
 - **[ふるさと納税の流出をどう防ぎ、どう流入を増やすか](#ふるさと納税の流出をどう防ぎどう流入を増やすか)**

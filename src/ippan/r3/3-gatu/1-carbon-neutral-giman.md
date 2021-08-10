@@ -35,8 +35,9 @@ const showPDF = (url) => {
 
 <div class="ippan-situgi">
 
-<div id="toc">
-<p class="toc-title">目次</p>
+<div class="toc">
+
+目次
 
 - **[用語について](#用語について)**
 - **[今回質問する理由](#今回質問する理由)**
