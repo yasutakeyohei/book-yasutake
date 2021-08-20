@@ -122,7 +122,6 @@ table {
 }
 
 /* point, nittei, sanpi, summary */
-fieldset.point,
 fieldset.pnt {
   margin-top: 0;
   padding: 0rem 3rem;
@@ -144,7 +143,6 @@ fieldset.summary {
   box-shadow: 4px 4px 4px 0 rgba(1, 1, 1, 0.4);
 }
 
-.point h2,
 .pnt h2,
 .sanpi h2,
 .summary h2 {
@@ -153,7 +151,6 @@ fieldset.summary {
   padding: 0;
 }
 
-.point ul,
 .summary ul {
   list-style: none;
   padding: 0;
@@ -165,11 +162,10 @@ fieldset.summary {
   padding: 0 1rem;
 }
 
-.point li,
 .summary li {
-  text-indent: -1.5rem;
   color: var(--point-fg);
-  padding: 1rem 1.5rem;
+  text-indent: -2.5rem;
+  padding-left: 4rem;
 }
 .pnt li {
   text-indent: -2.6rem;
@@ -180,14 +176,11 @@ fieldset.summary {
   padding-left: 1.5rem;
 }
 
-.point li:not([class]),
-.sanpi li:not([class]),
-.summary li:not([class]) {
+.sanpi li:not([class]) {
   text-indent: 0;
   padding: 1rem 1.5rem;
 }
 
-.point li.chk::before,
 .sanpi li.chk::before,
 .summary li.chk::before {
   content: "✔ ";
@@ -210,23 +203,8 @@ fieldset.summary {
   margin-right: 1rem;
 }
 
-.point li.ng::before,
-.summary li.ng::before {
-  content: "⚠️";
-}
-
-.point li.good::before,
-.summary li.good::before {
-  content: "⭕️";
-}
-
-.point li.bad::before,
-.summary li.bad::before {
-  content: "❌";
-}
-
-.summary li.play::before {
-  content: "\f04b ";
+.summary li::before {
+  content: "\f135 ";
   font-family: FontAwesome;
   margin-right: 1rem;
 }
