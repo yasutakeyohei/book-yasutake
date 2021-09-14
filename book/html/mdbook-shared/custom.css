@@ -245,7 +245,7 @@ fieldset.nittei {
   white-space: nowrap;
 }
 
-p.read-kaigiroku {
+#read-kaigiroku {
   text-align: right;
   margin: 0;
 }
