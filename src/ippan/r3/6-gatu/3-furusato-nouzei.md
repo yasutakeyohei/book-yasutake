@@ -4,7 +4,8 @@
 
 # （3）ふるさと納税制度の活用について
 
-<p class="read-kaigiroku"><a href="">📄会議録を見る（まだ公開されていません）</a></p>
+<p id="read-kaigiroku"><a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1225&schedule_id=4&minute_id=270&is_search=true">📄会議録を見る</a></p>
+
 
 <fieldset class="pnt">
   <legend><h2> まとめ </h2></legend>
