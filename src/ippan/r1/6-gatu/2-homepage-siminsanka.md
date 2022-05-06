@@ -4,7 +4,7 @@
 
 # （2）小平市の顔ともいえるホームページで市民参加・協働の推進を
 
-<p class="read-kaigiroku"><a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1066&schedule_id=17&minute_id=251&is_search=true">📄会議録を見る</a></p>
+<p id="read-kaigiroku"><a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1066&schedule_id=17&minute_id=251&is_search=true">📄会議録を見る</a></p>
 
 <fieldset class="point">
   <legend><h2> まとめ </h2></legend>

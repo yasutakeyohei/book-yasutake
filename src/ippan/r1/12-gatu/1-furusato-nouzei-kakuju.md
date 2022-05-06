@@ -4,7 +4,7 @@
 
 # （1）ふるさと納税の健全な活用と、指定寄附制度の拡充で市民参加の推進を
 
-<p class="read-kaigiroku"><a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1101&schedule_id=17&minute_id=176&is_search=true">📄会議録を見る</a></p>
+<p id="read-kaigiroku"><a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1101&schedule_id=17&minute_id=176&is_search=true">📄会議録を見る</a></p>
 
 <fieldset class="point">
   <legend><h2> まとめ </h2></legend>

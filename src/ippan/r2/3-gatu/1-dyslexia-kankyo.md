@@ -10,7 +10,7 @@
 <img src="./images/eyecatch-dyslexia.png" alt="ディスレクシアのアイキャッチ画像" data-zoomable="" style="z-index:999">
 </figure>
 
-<p class="read-kaigiroku"><a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1116&schedule_id=4&minute_id=211&is_search=true">📄会議録を見る</a></p>
+<p id="read-kaigiroku"><a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1116&schedule_id=4&minute_id=211&is_search=true">📄会議録を見る</a></p>
 
 <fieldset class="point">
   <legend><h2> まとめ </h2></legend>

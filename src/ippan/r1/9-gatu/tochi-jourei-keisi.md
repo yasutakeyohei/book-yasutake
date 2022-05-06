@@ -4,7 +4,7 @@
 
 # 土地取引、土地利用における条例軽視は、まちづくりの根幹を揺るがす大問題
 
-<p class="read-kaigiroku"><a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1078&schedule_id=17&minute_id=169&is_search=true">📄会議録を見る</a></p>
+<p id="read-kaigiroku"><a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1078&schedule_id=17&minute_id=169&is_search=true">📄会議録を見る</a></p>
 
 <fieldset class="point">
   <legend><h2> まとめ </h2></legend>

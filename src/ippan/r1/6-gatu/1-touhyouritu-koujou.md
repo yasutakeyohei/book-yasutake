@@ -4,7 +4,7 @@
 
 # （1）市議会議員選挙の投票率向上に向けて
 
-<p class="read-kaigiroku" id="kaigiroku"><a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1066&schedule_id=17&minute_id=251&is_search=true">📄会議録を見る</a></p>
+<p id="read-kaigiroku" id="kaigiroku"><a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1066&schedule_id=17&minute_id=251&is_search=true">📄会議録を見る</a></p>
 
 <fieldset class="point">
   <legend><h2> まとめ </h2></legend>

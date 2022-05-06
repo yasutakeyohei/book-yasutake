@@ -5,7 +5,7 @@
 
 # （1）不登校やディスレクシアの子どもたちも活用できるGIGAスクール構想を
 
-<p class="read-kaigiroku"><a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1133&schedule_id=4&minute_id=167&is_search=true">📄会議録を見る</a></p>
+<p id="read-kaigiroku"><a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1133&schedule_id=4&minute_id=167&is_search=true">📄会議録を見る</a></p>
 
 <fieldset class="point">
   <legend><h2> まとめ </h2></legend>
