@@ -1,44 +1,47 @@
-<p class="breadcrumbs"><a href="../../../index.md">小平市議 安竹洋平の主張等</a> > <a href="../../index.md">一般質問</a> > <a href="./index.md">令和xx年xx月定例会</a> > 
-
-{{first:2020-}}
+{{first:2022-}}
 
 {{description:小平市議会議員 安竹洋平の令和xx年度xx月定例会における一般質問のxx件目についてまとめています。}}
 
-<style type="text/css">
-h4 {
-  text-decoration: underline;
-}
-</style>
-
 # （1）xx
 
-<p style="text-align:right"><a href="xx">📄会議録を見る</a></p>
+<p id="read-kaigiroku"><a href="">📄会議録を見る（まだ公開されていません）</a></p>
 
-<fieldset class="point">
-  <legend>
-    <h2 class="point"> まとめ </h2>
-  </legend>
-  <p class="point">✔ <span> → </span></p>
-  <p class="point">✔ <span> → </span></p>
-  <p class="point">✔ <span> → </span></p>
-</fieldset>
+<fieldset class="pnt">
+<legend><h2> まとめ </h2></legend>
 
-<h3 style="margin-top:0"> 初回質問・初回答弁</h3>
-
-<div class="letter">
-
-<span class="q-a">Q1.</span> 
-
-<fieldset class="touben">
-<legend><span class="q-a">A.</span> xx長（xx）</legend>
+- 
+- 
+- 
 
 </fieldset>
 
-<div class="tips">
-<strong style="color:red">😲 xx</strong>
+<script src="https://documentcloud.adobe.com/view-sdk/main.js" defer></script>
+<script type="text/javascript">
+const showPDF = (url) => {
+    const adobeDCView = new AdobeDC.View({clientId: "897dee58a3dd4a01b1de491cc8e563c3", locale: "ja-JP"});
+    const fileName = (url.match(/^(?:[^:\/?#]+:)?(?:\/\/[^\/?#]*)?(?:([^?#]*\/)([^\/?#]*))?(\?[^#]*)?(?:#.*)?$/) ?? [])[2];
+    adobeDCView.previewFile({
+        content:   {location: {url: url}},
+        metaData: {fileName: fileName}
+    }, {embedMode: "LIGHT_BOX"});
+}
+</script>
+
+<button onclick='showPDF("./20210610-ippan-situmon-yasutake-1.pdf")' class="pdf-view-button">
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i> 一般質問通告書
+</button>
+
+
+## 主な質疑
+
+<div class="ippan-situgi">
+
+<div class="toc">
+
+目次
 
 </div>
 
 </div>
 
-### 再質問・答弁
+<p style="text-align:right">以上</p>
