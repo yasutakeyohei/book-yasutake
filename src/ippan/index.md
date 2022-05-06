@@ -8,17 +8,61 @@
 <img src="./ippan-situmon.png" alt="一般質問しているイラスト">
 </figure>
 
+令和元年6月定例会から令和4年3月定例会までで、合計30件の質問を行っています。
 
 <div class="acd-wrapper">
   <!-- Main -->
-  <div class="parent-tab tab-3">
-    <input type="checkbox" name="tab" id="tab-3" checked>
-    <label for="tab-3" class="tab-3"><span><a href="./r3/index.md">令和3年</a></span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
+  <div class="parent-tab tab-4">
+    <input type="checkbox" name="tab" id="tab-4" checked>
+    <label for="tab-4" class="tab-4"><span><a href="./r4/index.md">令和4年</a></span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
     <div class="acd-content">
       <!-- Sub -->
       <div class="child-tab">
-        <input type="checkbox" name="sub-tab" id="tab-3-6" checked>
-        <label for="tab-3-6"><span><a href="./r3/6-gatu/index.md">6月定例会</a></span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
+        <input type="checkbox" name="sub-tab" id="tab-4-3" checked>
+        <label for="tab-4-3"><span><a href="./r4/3-gatu/index.md">3月定例会（3件）<br>（まとめ作成中）</a></span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
+        <div class="acd-sub-content">
+          <ol>
+            <li><a href="./r4/3-gatu/1-mizukara-rissuru-sikumi.md">市民のため、そして職員のためにも、自らを律する仕組みを</a></li>
+            <li><a href="./r4/3-gatu/2-ijime-taiou-minaosi.md">いじめの対応を見直し、教育長への手紙を設けよう</a></li>
+            <li><a href="./r4/3-gatu/3-hoiku-youchien-mask-kyosei-sinai.md">保育施設、幼稚園においても請願第12号に倣った対応を</a></li>
+          </ol>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Main -->
+  <div class="parent-tab tab-3">
+    <input type="checkbox" name="tab" id="tab-3">
+    <label for="tab-3" class="tab-3"><span><a href="./r3/index.md">令和3年（13件）</a></span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
+    <div class="acd-content">
+      <!-- Sub -->
+      <div class="child-tab">
+        <input type="checkbox" name="sub-tab" id="tab-3-12">
+        <label for="tab-3-12"><span><a href="./r3/12-gatu/index.md">12月定例会（3件）<br>（まとめ作成中）</a></span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
+        <div class="acd-sub-content">
+          <ol>
+            <li><a href="./r3/12-gatu/1-manabu-kikai-sonsitu.md">学ぶ機会の喪失をできる限り減らすために</a></li>
+            <li><a href="./r3/12-gatu/2-tokyo-vaction-kenpou-ihan.md">即刻中止すべきTOKYOワクションに市はどう対応するか</a></li>
+            <li><a href="./r3/12-gatu/3-kokyo-toire-kyouryokuten.md">公共トイレの重要性を認識し、協力店事業を行ってはどうか</a></li>
+          </ol>
+        </div>
+      </div>
+      <!-- Sub -->
+      <div class="child-tab">
+        <input type="checkbox" name="sub-tab" id="tab-3-9">
+        <label for="tab-3-9"><span><a href="./r3/9-gatu/index.md">9月定例会（3件）<br>（まとめ作成中）</a></span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
+        <div class="acd-sub-content">
+          <ol>
+            <li><a href="./r3/9-gatu/1-cashless-point-gamble.md">防災に対し、市長は本気で取り組むのか</a></li>
+            <li><a href="./r3/9-gatu/2-corona-kodomo-nitijo.md">データに基づき、コロナ禍の子どもたちを日常生活に</a></li>
+            <li><a href="./r3/9-gatu/3-vaccine-sabetu-jinkensingai.md">ワクチン接種・非接種での差別は人権侵害である</a></li>
+          </ol>
+        </div>
+      </div>
+      <!-- Sub -->
+      <div class="child-tab">
+        <input type="checkbox" name="sub-tab" id="tab-3-6">
+        <label for="tab-3-6"><span><a href="./r3/6-gatu/index.md">6月定例会（5件）</a></span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
         <div class="acd-sub-content">
           <ol>
             <li><a href="./r3/6-gatu/1-sityou-bousai-honkijanaidesyo.md">防災に対し、市長は本気で取り組むのか</a></li>
@@ -32,7 +76,7 @@
       <!-- Sub -->
       <div class="child-tab">
         <input type="checkbox" name="sub-tab" id="tab-3-3">
-        <label for="tab-3-3"><span><a href="./r3/3-gatu/index.md">3月定例会<br>（まとめ作成中）</a></span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
+        <label for="tab-3-3"><span><a href="./r3/3-gatu/index.md">3月定例会（2件）<br>（まとめ作成中）</a></span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
         <div class="acd-sub-content">
           <ol>
             <li><a href="./r3/3-gatu/1-carbon-neutral-giman.md">カーボンニュートラルの虚実を、まず科学的に捉えよ</a></li>
@@ -45,12 +89,12 @@
   <!-- Main -->
   <div class="parent-tab tab-2">
     <input type="checkbox" name="tab" id="tab-2">
-    <label for="tab-2" class="tab-2"><span><a href="./r2/index.md">令和2年</a></span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
+    <label for="tab-2" class="tab-2"><span><a href="./r2/index.md">令和2年（9件）</a></span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
     <div class="acd-content">
       <!-- Sub -->
       <div class="child-tab">
         <input type="checkbox" name="sub-tab" id="tab-2-12">
-        <label for="tab-2-12"><span><a href="./r2/12-gatu/index.md">12月定例会</a></span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
+        <label for="tab-2-12"><span><a href="./r2/12-gatu/index.md">12月定例会（3件）</a></span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
         <div class="acd-sub-content">
           <ol>
             <li><a href="./r2/12-gatu/1-kodaira-first.md">小平市内の事業者でできることを第一に考えよ</a></li>
@@ -62,7 +106,7 @@
       <!-- Sub -->
       <div class="child-tab">
         <input type="checkbox" name="sub-tab" id="tab-2-9">
-        <label for="tab-2-9"><span><a href="./r2/9-gatu/index.md">9月定例会</a></span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
+        <label for="tab-2-9"><span><a href="./r2/9-gatu/index.md">9月定例会（2件）</a></span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
         <div class="acd-sub-content">
           <ol>
             <li><a href="./r2/9-gatu/1-sityou-vision-isoge.md">市長責任でビジョン構築を急げ。ICT整備の好機を逃すな</a></li>
@@ -73,7 +117,7 @@
       <!-- Sub -->
       <div class="child-tab">
         <input type="checkbox" name="sub-tab" id="tab-2-6">
-        <label for="tab-2-6"><span><a href="./r2/6-gatu/index.md">6月定例会</a></span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
+        <label for="tab-2-6"><span><a href="./r2/6-gatu/index.md">6月定例会（2件）</a></span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
         <div class="acd-sub-content">
           <ol>
             <li><a href="./r2/6-gatu/1-giga-school-dyslexia.md">不登校やディスレクシアの子どもたちも活用できるGIGAスクール構想を</a></li>
@@ -84,7 +128,7 @@
       <!-- Sub -->
       <div class="child-tab">
         <input type="checkbox" name="sub-tab" id="tab-2-3">
-        <label for="tab-2-3"><span><a href="./r2/3-gatu/index.md">3月定例会</a></span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
+        <label for="tab-2-3"><span><a href="./r2/3-gatu/index.md">3月定例会（2件）</a></span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
         <div class="acd-sub-content">
           <ol>
             <li><a href="./r2/3-gatu/1-dyslexia-kankyo.md">ディスレクシアの子どもをひとりも見過ごさず成長できる環境整備を、いますぐに</a></li>
@@ -97,12 +141,12 @@
   <!-- Main -->
   <div class="parent-tab tab-1">
     <input type="checkbox" name="tab" id="tab-1">
-    <label for="tab-1" class="tab-1"><span><a href="./r1/index.md">令和元年</a></span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
+    <label for="tab-1" class="tab-1"><span><a href="./r1/index.md">令和元年（5件）</a></span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
     <div class="acd-content">
       <!-- Sub -->
       <div class="child-tab">
         <input type="checkbox" name="sub-tab" id="tab-1-12">
-        <label for="tab-1-12"><span><a href="./r1/12-gatu/index.md">12月定例会</a></span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
+        <label for="tab-1-12"><span><a href="./r1/12-gatu/index.md">12月定例会（2件）</a></span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
         <div class="acd-sub-content">
           <ol>
             <li><a href="./r1/12-gatu/1-furusato-nouzei-kakuju.md">ふるさと納税の健全な活用と、指定寄附制度の拡充で市民参加の推進を</a></li>
@@ -113,7 +157,7 @@
       <!-- Sub -->
       <div class="child-tab">
         <input type="checkbox" name="sub-tab" id="tab-1-9">
-        <label for="tab-1-9"><span><a href="./r1/9-gatu/index.md">9月定例会</a></span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
+        <label for="tab-1-9"><span><a href="./r1/9-gatu/index.md">9月定例会（1件）</a></span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
         <div class="acd-sub-content">
           <p><a href="./r1/9-gatu/tochi-jourei-keisi.md">土地取引、土地利用における条例軽視は、まちづくりの根幹を揺るがす大問題</a></p>
         </div>
@@ -121,7 +165,7 @@
       <!-- Sub -->
       <div class="child-tab">
         <input type="checkbox" name="sub-tab" id="tab-1-6">
-        <label for="tab-1-6"><span><a href="./r1/6-gatu/index.md">6月定例会</a></span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
+        <label for="tab-1-6"><span><a href="./r1/6-gatu/index.md">6月定例会（2件）</a></span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
         <div class="acd-sub-content">
           <ol>
             <li><a href="./r1/6-gatu/1-touhyouritu-koujou.md">市議会議員選挙の投票率向上に向けて</a></li>
