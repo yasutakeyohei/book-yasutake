@@ -257,10 +257,10 @@
             
                         
             <ul class="published-at-updated-at">
-                <li><a href="https://github.com/yasutakeyohei/book-yasutake/commits/master/src/ippan/r2/12-gatu/2-koukyou-sisetu-naiyou.md"><i class="fa fa-refresh" aria-hidden="true" title="更新日" alt="更新日"></i> <span class="screen-reader-only">更新日</span><time datetime="2021-09-18T17:27:00+09:00" timeprop="modified" title="更新日">2021-09-18</time></a></li>
+                <li><a href="https://github.com/yasutakeyohei/book-yasutake/commits/master/src/ippan/r2/12-gatu/2-koukyou-sisetu-naiyou.md"><i class="fa fa-refresh" aria-hidden="true" title="更新日" alt="更新日"></i> <span class="screen-reader-only">更新日</span><time datetime="2022-05-08T00:00:39+09:00" timeprop="modified" title="更新日">2022-05-08</time></a></li>
                 <li><i class="fa fa-file-text-o" aria-hidden="true" title="公開日" alt="公開日"></i> <span class="screen-reader-only">公開日</span><time datetime="2020-12-28" timeprop="datepublished" title="公開日">2020-12-28</time></li>
             </ul>
-            <!-- <lastmod>2021-09-18T17:27:00+09:00</lastmod> -->
+            <!-- <lastmod>2022-05-08T00:00:39+09:00</lastmod> -->
         
 
 
@@ -269,7 +269,7 @@
 <img src="./images/kiosk.jpg" alt="キオスク" data-zoomable="" style="z-index:999">
 </figure>
 <p id="read-kaigiroku"><a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1175&schedule_id=5&minute_id=128&is_search=true">📄会議録を見る</a></p>
-<fieldset class="point">
+<fieldset class="pnt">
   <legend><h2 id="まとめ"><a class="header" href="#まとめ"> まとめ </a></h2></legend>
 <p>補正予算4号で、公共システム予約システムの改修に約4,900万円が計上されました。Webサービス開発を担ってきた立場からは、信じられないほど巨額の予算です。補正予算の総務委員会では特に質問がなく、これまで詳しい説明もなかったため、質問しました。</p>
 <ul>
@@ -282,6 +282,20 @@
 </ul>
 <p>時代遅れとも言えるキオスク端末1台で300万円を5台分予定したり、システム構築費に1,800万円やデータ移行費に550万円など、驚くべき数字が次々と明らかになりました。なぜそんなに巨額になるのか、納得の行く説明は一切ありませんでした。窓口に出向かなくてよいという話とも逆行します。これは追求すべき問題です。</p>
 </fieldset>
+<script src="https://documentcloud.adobe.com/view-sdk/main.js" defer></script>
+<script type="text/javascript">
+const showPDF = (url) => {
+    const adobeDCView = new AdobeDC.View({clientId: "897dee58a3dd4a01b1de491cc8e563c3", locale: "ja-JP"});
+    const fileName = (url.match(/^(?:[^:\/?#]+:)?(?:\/\/[^\/?#]*)?(?:([^?#]*\/)([^\/?#]*))?(\?[^#]*)?(?:#.*)?$/) ?? [])[2];
+    adobeDCView.previewFile({
+        content:   {location: {url: url}},
+        metaData: {fileName: fileName}
+    }, {embedMode: "LIGHT_BOX"});
+}
+</script>
+<button onclick='showPDF("./202012-ippan-situmon-yasutake-2.pdf")' class="pdf-view-button">
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i> 一般質問通告書
+</button>
 <h3 id="初回質問初回答弁"><a class="header" href="#初回質問初回答弁">初回質問・初回答弁</a></h3>
 <div class="letter">
 <p>　一般会計補正予算（第4号）で約4,900万円が計上された「公共施設予約システム利用対象施設拡大事業」について、示された改修内容から考えると金額が異常に大きいと感じるため、以下を問う。</p>
