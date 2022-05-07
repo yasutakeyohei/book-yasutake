@@ -7,7 +7,7 @@
 
 <p id="read-kaigiroku"><a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1133&schedule_id=4&minute_id=167&is_search=true">📄会議録を見る</a></p>
 
-<fieldset class="point">
+<fieldset class="pnt">
   <legend><h2> まとめ </h2></legend>
 
 GIGAスクール構想が国の方針で急遽進むことになり、全校児童・生徒に一人一台のタブレットを購入する予算がつきました。小平市教育委員会はこれまで教育のICT化に向けた準備を進めてこなかったため、突貫的に利用を開始することとなります。最も恩恵を受ける不登校児や、ディスレクシアの児童・生徒に役立つことを中心に考えた活用を行えば、準備不足の状況であっても有効に利用できると考え、質問を通じて訴えました。

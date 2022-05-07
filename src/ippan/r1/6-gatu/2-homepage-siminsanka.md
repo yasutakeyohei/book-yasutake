@@ -6,7 +6,7 @@
 
 <p id="read-kaigiroku"><a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1066&schedule_id=17&minute_id=251&is_search=true">📄会議録を見る</a></p>
 
-<fieldset class="point">
+<fieldset class="pnt">
   <legend><h2> まとめ </h2></legend>
 
 小平市ホームページは使いにくく、情報も網羅していないなど問題があるため質問しました。

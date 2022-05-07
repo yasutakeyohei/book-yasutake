@@ -6,7 +6,7 @@
 
 <p id="read-kaigiroku"><a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1151&schedule_id=5&minute_id=56&is_search=true">📄会議録を見る</a></p>
 
-<fieldset class="point">
+<fieldset class="pnt">
   <legend><h2> まとめ </h2></legend>
 
 <ul>

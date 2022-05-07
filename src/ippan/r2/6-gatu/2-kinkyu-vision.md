@@ -6,7 +6,7 @@
 
 <p id="read-kaigiroku"><a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1133&schedule_id=4&minute_id=167&is_search=true">📄会議録を見る</a></p>
 
-<fieldset class="point">
+<fieldset class="pnt">
   <legend><h2> まとめ </h2></legend>
 
 コロナ禍により、市の財政は大きく傾きます。私の予想では、市税収入は2～3割減少し、大幅な歳出削減を余儀なくされます。公共施設の縮小が早まる可能性も高いです。市長を始め、全体的に危機感が感じられないことはたびたび訴えてきました。今回は残時間がなかったことから、再質問では一点だけ「市長のプレゼンス（存在の意義）」を問いました。

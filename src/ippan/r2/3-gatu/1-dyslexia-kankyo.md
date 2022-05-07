@@ -12,7 +12,7 @@
 
 <p id="read-kaigiroku"><a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1116&schedule_id=4&minute_id=211&is_search=true">📄会議録を見る</a></p>
 
-<fieldset class="point">
+<fieldset class="pnt">
   <legend><h2> まとめ </h2></legend>
 
 保護者の方からご相談を受けたことから、ディスレクシアに関する網羅的な質問を行いました。小平市立の小・中学校に在学する子どものうち、潜在的に約330人が読み書きに著しい困難さを抱えています。しかし、判明しているのは56人だけです。この障害は自分も周囲も気付きにくく、自信喪失から不登校や鬱につながる可能性があり、早急に対応する必要があります。しかし、事前の確認では、市職員の部課長レベルであっても、障害のことや、問題があることを把握している人は非常に少ない状況でした。そこで、今回は「職員（と議員）への周知」を質問のひとつの目的にしました。以降の一般質問でも、続けて2回（[①](http://localhost:3000/ippan/r2/6-gatu/1-giga-school-dyslexia.html)、[②](http://localhost:3000/ippan/r2/9-gatu/2-digital-kyoukasyo-isoge.html)）取り上げています。また、その過程で学んできたことを、すべて[こちらのページ](https://yasutakeyohei.com/books/dyslexia/)にまとめています。

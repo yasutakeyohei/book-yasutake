@@ -6,7 +6,7 @@
 
 <p id="read-kaigiroku"><a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1101&schedule_id=17&minute_id=176&is_search=true">📄会議録を見る</a></p>
 
-<fieldset class="point">
+<fieldset class="pnt">
   <legend><h2> まとめ </h2></legend>
 
 新ごみ処理施設整備・運営事業に、20年間で約468億円の投資が行われる。将来世代に渡り高額な負担を強いられる事業であるにもかかわらず、情報があまりにも少ないため、事業の詳細や情報公開の姿勢を問いました。小平・村山・大和衛生組合は独自に議会を持っており、小平市議会議員も派遣されています。「詳細はその組合の議会で質問せよ」という圧力があるのですが、私は参加していないですし、会議録を見ても大した質問がないため、小平市議会で質問せざるを得ません。

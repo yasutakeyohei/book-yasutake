@@ -6,7 +6,7 @@
 
 <p id="read-kaigiroku"><a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1101&schedule_id=17&minute_id=176&is_search=true">📄会議録を見る</a></p>
 
-<fieldset class="point">
+<fieldset class="pnt">
   <legend><h2> まとめ </h2></legend>
 
 小平市はふるさと納税制度を活用せず、そのため市税の流出額は、平成30年度までの累計で約6億円に上り、年々流出額は約1億円ずつ増加しています。にもかかわらず「他市の財源を奪う」ため制度を活用しないとしており、その姿勢には大きな問題があります。制度本来の趣旨で活用すれば、よいことずくめなはず。実は流出額の4分の3が交付税として戻されることなど、重要な情報も得ました。なおさら活用すべきです。また、上水南町の旧佐川邸公園にもふるさと納税が活用できるような仕組みを設けるよう訴えました。

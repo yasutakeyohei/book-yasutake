@@ -6,7 +6,7 @@
 
 <p id="read-kaigiroku"><a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1078&schedule_id=17&minute_id=169&is_search=true">📄会議録を見る</a></p>
 
-<fieldset class="point">
+<fieldset class="pnt">
   <legend><h2> まとめ </h2></legend>
 
 回田町の宅地開発に関し、周辺住民からの相談を受け、数ヵ月に渡って複数の議員で調査を行いました。私たちの会派にご相談いただいた時は、すでに時遅しのタイミングでしたが、今後、市の開発のあり方を見直す必要があることが分かりました。ほかの議員もこの件で質問しました。私の一般質問では、条例違反が起きていたことや、理念が守られていないことなどを指摘し、市の姿勢を確認しました。

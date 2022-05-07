@@ -13,7 +13,7 @@
 
 <p id="read-kaigiroku"><a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1151&schedule_id=5&minute_id=56&is_search=true">📄会議録を見る</a></p>
 
-<fieldset class="point">
+<fieldset class="pnt">
   <legend><h2> まとめ </h2></legend>
 
 コロナ禍で市税収入はどれくらい減少するか、その事態にどう対応するか、公共施設の縮小を加速することにならないか、などを確認しました。また、地域活動を維持するために、オンライン・ハイブリッド開催の推進と、[情報格差](https://ja.wikipedia.org/wiki/%E6%83%85%E5%A0%B1%E6%A0%BC%E5%B7%AE)が広がらないよう、市のサポートが必要であることを訴えました。また、市長に対しては、補正予算4号の内容があまりにもひどかった理由が、職員約千人の知恵が集結する仕組みがないこと、市長が責任を取る態度を見せないことが原因であると指摘しました。市長はこれに対し「[（発言を）撤回していただきたい](#sityou-kyouben)」という答弁をしたので、とても驚きました。市長が議員という立場を軽く見ていることが伺えました。

@@ -6,7 +6,7 @@
 
 <p id="read-kaigiroku"><a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1116&schedule_id=4&minute_id=211&is_search=true">📄会議録を見る</a></p>
 
-<fieldset class="point">
+<fieldset class="pnt">
   <legend><h2> まとめ </h2></legend>
 
 市の多くの計画で人口推計がその基礎資料として使われています。しかし、その人口推計は、ここ約7年の間に、ピーク人口は約8,400人増、ピーク期は約10年後ろにずれるなど、大幅な修正が加えられています。つまり、人口推計の算出・公表方法は見直す必要があります。しかし、国や都、市の職員に新たな発想はなく、高度経済成長期のモデルで計算を続けています。これから令和2年度国勢調査の結果を受けて人口推計が算出されます。機会を見つけ、新たな計算・公表法を提案できればと思っています。
