@@ -1,17 +1,15 @@
 {{first:2022-05-06}}
 
-{{description:小平市議会議員 安竹洋平の令和3年度9月定例会における一般質問の1件目についてまとめています。}}
+{{description:小平市議会議員 安竹洋平の令和3年度12月定例会における一般質問の2件目についてまとめています。}}
 
-# （1）キャッシュレスポイント事業に不確実性を持たせるな
+# （2）即刻中止すべきTOKYOワクションに市はどう対応するか
 
-<p id="read-kaigiroku"><a href="">📄会議録を見る（まだ公開されていません）</a></p>
+<p id="read-kaigiroku"><a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1258&schedule_id=4&minute_id=6&is_search=true">📄会議録を見る</a></p>
 
 <fieldset class="pnt">
 <legend><h2> まとめ </h2></legend>
 
-- 
-- 
-- 
+- 👷‍♂️作成中です🚧
 
 </fieldset>
 
@@ -27,12 +25,14 @@ const showPDF = (url) => {
 }
 </script>
 
-<button onclick='showPDF("./20210610-ippan-situmon-yasutake-1.pdf")' class="pdf-view-button">
+<button onclick='showPDF("./20211202-ippan-situmon-yasutake-2.pdf")' class="pdf-view-button">
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i> 一般質問通告書
 </button>
 
 
 ## 主な質疑
+
+👷‍♂️作成中です🚧
 
 <div class="ippan-situgi">
 
