@@ -9,9 +9,7 @@
 <fieldset class="pnt">
 <legend><h2> まとめ </h2></legend>
 
-- 
-- 
-- 
+- 👷‍♂️作成中です🚧
 
 </fieldset>
 
@@ -33,6 +31,8 @@ const showPDF = (url) => {
 
 
 ## 主な質疑
+
+👷‍♂️作成中です🚧
 
 <div class="ippan-situgi">
 
