@@ -28,6 +28,22 @@ GIGAスクール構想が国の方針で急遽進むことになり、全校児�
 
 </fieldset>
 
+<script src="https://documentcloud.adobe.com/view-sdk/main.js" defer></script>
+<script type="text/javascript">
+const showPDF = (url) => {
+    const adobeDCView = new AdobeDC.View({clientId: "897dee58a3dd4a01b1de491cc8e563c3", locale: "ja-JP"});
+    const fileName = (url.match(/^(?:[^:\/?#]+:)?(?:\/\/[^\/?#]*)?(?:([^?#]*\/)([^\/?#]*))?(\?[^#]*)?(?:#.*)?$/) ?? [])[2];
+    adobeDCView.previewFile({
+        content:   {location: {url: url}},
+        metaData: {fileName: fileName}
+    }, {embedMode: "LIGHT_BOX"});
+}
+</script>
+
+<button onclick='showPDF("./202006-ippan-situmon-yasutake-1.pdf")' class="pdf-view-button">
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i> 一般質問通告書
+</button>
+
 <h3>初回質問・初回答弁</h3>
 
 <div class="letter">
