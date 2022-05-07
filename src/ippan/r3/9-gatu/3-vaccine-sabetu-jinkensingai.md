@@ -6,14 +6,10 @@
 
 <p id="read-kaigiroku"><a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1240&schedule_id=5&minute_id=647&is_search=true">📄会議録を見る</a></p>
 
-（作成中です）
-
 <fieldset class="pnt">
 <legend><h2> まとめ </h2></legend>
 
-- 
-- 
-- 
+- 👷‍♂️作成中です🚧
 
 </fieldset>
 
@@ -29,12 +25,14 @@ const showPDF = (url) => {
 }
 </script>
 
-<button onclick='showPDF("./20210610-ippan-situmon-yasutake-1.pdf")' class="pdf-view-button">
+<button onclick='showPDF("./20210910-ippan-situmon-yasutake-3.pdf")' class="pdf-view-button">
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i> 一般質問通告書
 </button>
 
 
 ## 主な質疑
+
+👷‍♂️作成中です🚧
 
 <div class="ippan-situgi">
 
