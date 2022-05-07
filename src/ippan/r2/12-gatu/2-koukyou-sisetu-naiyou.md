@@ -12,7 +12,7 @@
 
 <p id="read-kaigiroku"><a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1175&schedule_id=5&minute_id=128&is_search=true">📄会議録を見る</a></p>
 
-<fieldset class="point">
+<fieldset class="pnt">
   <legend><h2> まとめ </h2></legend>
 
 補正予算4号で、公共システム予約システムの改修に約4,900万円が計上されました。Webサービス開発を担ってきた立場からは、信じられないほど巨額の予算です。補正予算の総務委員会では特に質問がなく、これまで詳しい説明もなかったため、質問しました。

@@ -12,7 +12,7 @@
 
 <p id="read-kaigiroku"><a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1175&schedule_id=5&minute_id=128&is_search=true">📄会議録を見る</a></p>
 
-<fieldset class="point">
+<fieldset class="pnt">
   <legend><h2> まとめ </h2></legend>
   
 コロナ禍を前にし、[危機感が欠如した市の補正予算](https://yasutakeyohei.com/books/reiwa2/20200803_rinjikai/gian-44.html)</a>を前にして、経済とは何かを日々考えさせられます。私は、市民が生み出した富を外部に流出させることなく、市内の経済圏を豊かにすることがまず大切と考えています（詳しくは<a href="#%E5%86%8D%E8%B3%AA%E5%95%8F%E7%AD%94%E5%BC%81">再質問・答弁</a>をご参照ください）。
