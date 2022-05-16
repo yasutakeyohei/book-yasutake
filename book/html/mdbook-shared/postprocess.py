@@ -104,6 +104,9 @@ def makeBreadcrumbs(fp, fileName, heading, onlyJson):
         print(pathDir + " not listed in breadcrumbs.csv")
         return ""
 
+# FAQ作成
+def makeFAQ(fp, fileName, heading, onlyJson):
+    return ""
 
 removeIndexRe1 = r"(href\s*?\=\s*?\")index\.html(.*?\")"
 subst1 = "\\1./\\2"
