@@ -343,7 +343,7 @@ div.redbox,
 div.tips {
   border-radius: 1rem;
   margin: calc(var(--line-height)*1.5) 0;
-  padding: 1rem 2rem;
+  padding: 2rem 4rem 3rem 4rem;
 }
 div.redbox:before,
 div.tips:before {
