@@ -678,6 +678,15 @@ blockquote .balloon.bl-left>div:after {
   font-weight: bold;
 }
 
+
+.balloon.bl-left.thought>div {
+  border: 6px dotted var(--situgi-q-bg);
+  background-color:unset;
+}
+.balloon.bl-left.thought>div:after {
+  border-width: 0;
+}
+
 .balloon span.yasutake {
   /*font-size: var(--font-size);*/
   font-size: calc(var(--font-size)*0.77);
@@ -722,6 +731,7 @@ td.aright {
 .light {
   --point-fg: #000094;
   --situgi-q-bg: #ffefd5;
+  --situgi-q-bg-dark: #fdb94c;
   --situgi-a-bg: #E7F7EE;
   --a11y-icon-fg: mediumseagreen;
   --toc-bg: #f9f9f9;
@@ -738,6 +748,7 @@ td.aright {
 
 .rust {
   --situgi-q-bg: var(--quote-bg);
+  --situgi-q-bg-dark: var(--quote-bg);
   --situgi-a-bg: var(--quote-bg);
   --a11y-icon-fg: green;
   --toc-bg: #eaeae3;
@@ -745,6 +756,7 @@ td.aright {
 
 .coal {
   --situgi-q-bg: var(--quote-bg);
+  --situgi-q-bg-dark: var(--quote-bg);
   --situgi-a-bg: var(--quote-bg);
   --a11y-icon-fg: yellowgreen;
   --toc-bg: #000;
@@ -752,6 +764,7 @@ td.aright {
 
 .navy {
   --situgi-q-bg: var(--quote-bg);
+  --situgi-q-bg-dark: var(--quote-bg);
   --situgi-a-bg: var(--quote-bg);
   --a11y-icon-fg: aquamarine;
   --toc-bg: #000;
@@ -760,6 +773,7 @@ td.aright {
 .ayu {
   --point-fg: #fff;
   --situgi-q-bg: var(--quote-bg);
+  --situgi-q-bg-dark: var(--quote-bg);
   --situgi-a-bg: var(--quote-bg);
   --a11y-icon-fg: aquamarine;
   --toc-bg: #000;
