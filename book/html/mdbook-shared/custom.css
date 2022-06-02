@@ -680,11 +680,13 @@ blockquote .balloon.bl-left>div:after {
 
 
 .balloon.bl-left.thought>div {
-  border: 6px dotted var(--situgi-q-bg);
+  border: 6px dotted var(--situgi-q-bg-dark);
   background-color:unset;
 }
 .balloon.bl-left.thought>div:after {
   border-width: 0;
+  content: "🤔";
+  left: -8px;
 }
 
 .balloon span.yasutake {
@@ -748,7 +750,7 @@ td.aright {
 
 .rust {
   --situgi-q-bg: var(--quote-bg);
-  --situgi-q-bg-dark: var(--quote-bg);
+  --situgi-q-bg-dark: #a1a19c;
   --situgi-a-bg: var(--quote-bg);
   --a11y-icon-fg: green;
   --toc-bg: #eaeae3;
@@ -756,7 +758,7 @@ td.aright {
 
 .coal {
   --situgi-q-bg: var(--quote-bg);
-  --situgi-q-bg-dark: var(--quote-bg);
+  --situgi-q-bg-dark: #6b728b;
   --situgi-a-bg: var(--quote-bg);
   --a11y-icon-fg: yellowgreen;
   --toc-bg: #000;
@@ -764,7 +766,7 @@ td.aright {
 
 .navy {
   --situgi-q-bg: var(--quote-bg);
-  --situgi-q-bg-dark: var(--quote-bg);
+  --situgi-q-bg-dark: #6b728b;
   --situgi-a-bg: var(--quote-bg);
   --a11y-icon-fg: aquamarine;
   --toc-bg: #000;
@@ -773,7 +775,7 @@ td.aright {
 .ayu {
   --point-fg: #fff;
   --situgi-q-bg: var(--quote-bg);
-  --situgi-q-bg-dark: var(--quote-bg);
+  --situgi-q-bg-dark: #6b728b;
   --situgi-a-bg: var(--quote-bg);
   --a11y-icon-fg: aquamarine;
   --toc-bg: #000;
