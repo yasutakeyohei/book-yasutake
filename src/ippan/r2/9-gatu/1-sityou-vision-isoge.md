@@ -7,10 +7,6 @@
 
 # （1）市長責任でビジョン構築を急げ。ICT整備の好機を逃すな
 
-<figure style="margin:1rem 0 4rem 0">
-<img src="./images/sityou-vision-eyecatch.png" alt="アイキャッチ" data-zoomable="" style="z-index:999">
-</figure>
-
 <p id="read-kaigiroku"><a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1151&schedule_id=5&minute_id=56&is_search=true">📄会議録を見る</a></p>
 
 <fieldset class="pnt">
