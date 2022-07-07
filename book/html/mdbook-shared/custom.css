@@ -856,6 +856,12 @@ blockquote > h2 {
   margin:1.2em 0;
 }
 
+blockquote p.ref {
+  text-align: right;
+  margin-bottom: 0;
+  font-size: 0.8em;
+}
+
 /* custom fonts */
 @font-face {
   font-family: 'icomoon';
