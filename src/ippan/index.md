@@ -19,7 +19,7 @@
       <!-- Sub -->
       <div class="child-tab">
         <input type="checkbox" name="sub-tab" id="tab-4-3" checked>
-        <label for="tab-4-3"><span><a href="./r4/3-gatu/index.md">3月定例会（3件）<br>（まとめ作成中）</a></span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
+        <label for="tab-4-3"><span><a href="./r4/3-gatu/index.md">3月定例会（3件）</a></span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
         <div class="acd-sub-content">
           <ol>
             <li><a href="./r4/3-gatu/1-mizukara-rissuru-sikumi.md">市民のため、そして職員のためにも、自らを律する仕組みを</a></li>
