@@ -675,7 +675,6 @@ blockquote .balloon.bl-left>div:after {
 }
 .balloon.bl-tips>div p:first-of-type {
   margin-top: 0;
-  font-weight: bold;
 }
 
 
@@ -1088,7 +1087,8 @@ li:last-child {
 .ippan-situgi h5 {
   padding: 1rem;
   border-style: none;
-  border-bottom-style: dashed;
+  border-bottom-style: dotted;
+  border-radius:0;
 }
 
 /* 通常の質疑（本会議、委員会で分けているため、一段下げる） */
