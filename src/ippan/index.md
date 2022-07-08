@@ -76,7 +76,7 @@
       <!-- Sub -->
       <div class="child-tab">
         <input type="checkbox" name="sub-tab" id="tab-3-3">
-        <label for="tab-3-3"><span><a href="./r3/3-gatu/index.md">3月定例会（2件）<br>（まとめ作成中）</a></span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
+        <label for="tab-3-3"><span><a href="./r3/3-gatu/index.md">3月定例会（2件）</a></span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
         <div class="acd-sub-content">
           <ol>
             <li><a href="./r3/3-gatu/1-carbon-neutral-giman.md">カーボンニュートラルの虚実を、まず科学的に捉えよ</a></li>
