@@ -50,10 +50,10 @@
       <!-- Sub -->
       <div class="child-tab">
         <input type="checkbox" name="sub-tab" id="tab-3-9">
-        <label for="tab-3-9"><span><a href="./r3/9-gatu/index.md">9月定例会（3件）<br>（まとめ作成中）</a></span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
+        <label for="tab-3-9"><span><a href="./r3/9-gatu/index.md">9月定例会（3件）</a></span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
         <div class="acd-sub-content">
           <ol>
-            <li><a href="./r3/9-gatu/1-cashless-point-gamble.md">防災に対し、市長は本気で取り組むのか</a></li>
+            <li><a href="./r3/9-gatu/1-cashless-point-gamble.md">キャッシュレスポイント事業に不確実性を持たせるな</a></li>
             <li><a href="./r3/9-gatu/2-corona-kodomo-nitijo.md">データに基づき、コロナ禍の子どもたちを日常生活に</a></li>
             <li><a href="./r3/9-gatu/3-vaccine-sabetu-jinkensingai.md">ワクチン接種・非接種での差別は人権侵害である</a></li>
           </ol>
