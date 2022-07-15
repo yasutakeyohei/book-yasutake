@@ -6,7 +6,7 @@
 
 令和3年12月2日に3件の一般質問をしました。次のリンクから詳細に飛びます。
 
-1. **[学ぶ機会の喪失をできる限り減らすために](./1-manabu-kikai-sonsitu.md)**
-1. **[即刻中止すべきTOKYOワクションに市はどう対応するか](./2-tokyo-vaction-kenpou-ihan.md)**
+1. **[即刻中止すべきTOKYOワクションに市はどう対応するか](./1-tokyo-vaction-kenpou-ihan.md)**
+1. **[学ぶ機会の喪失をできる限り減らすために](./2-manabu-kikai-sonsitu.md)**
 1. **[公共トイレの重要性を認識し、協力店事業を行ってはどうか](./3-kokyo-toire-kyouryokuten.md)**
 

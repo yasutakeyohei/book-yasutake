@@ -41,8 +41,8 @@
         <label for="tab-3-12"><span><a href="./r3/12-gatu/index.md">12月定例会（3件）<br>（まとめ作成中）</a></span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
         <div class="acd-sub-content">
           <ol>
-            <li><a href="./r3/12-gatu/1-manabu-kikai-sonsitu.md">学ぶ機会の喪失をできる限り減らすために</a></li>
-            <li><a href="./r3/12-gatu/2-tokyo-vaction-kenpou-ihan.md">即刻中止すべきTOKYOワクションに市はどう対応するか</a></li>
+            <li><a href="./r3/12-gatu/1-tokyo-vaction-kenpou-ihan.md">即刻中止すべきTOKYOワクションに市はどう対応するか</a></li>
+            <li><a href="./r3/12-gatu/2-manabu-kikai-sonsitu.md">学ぶ機会の喪失をできる限り減らすために</a></li>
             <li><a href="./r3/12-gatu/3-kokyo-toire-kyouryokuten.md">公共トイレの重要性を認識し、協力店事業を行ってはどうか</a></li>
           </ol>
         </div>

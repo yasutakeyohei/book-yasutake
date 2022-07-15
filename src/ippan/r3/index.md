@@ -4,8 +4,8 @@
 
 
 ### [12月定例会](./12-gatu/index.md)
-1. [学ぶ機会の喪失をできる限り減らすために](./12-gatu/1-manabu-kikai-sonsitu.md)
-1. [即刻中止すべきTOKYOワクションに市はどう対応するか](./12-gatu/2-tokyo-vaction-kenpou-ihan.md)
+1. [即刻中止すべきTOKYOワクションに市はどう対応するか](./12-gatu/1-tokyo-vaction-kenpou-ihan.md)
+1. [学ぶ機会の喪失をできる限り減らすために](./12-gatu/2-manabu-kikai-sonsitu.md)
 1. [公共トイレの重要性を認識し、協力店事業を行ってはどうか](./12-gatu/3-kokyo-toire-kyouryokuten.md)
 
 ### [9月定例会](./9-gatu/index.md)
