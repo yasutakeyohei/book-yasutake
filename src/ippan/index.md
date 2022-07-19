@@ -38,7 +38,7 @@
       <!-- Sub -->
       <div class="child-tab">
         <input type="checkbox" name="sub-tab" id="tab-3-12">
-        <label for="tab-3-12"><span><a href="./r3/12-gatu/index.md">12月定例会（3件）<br>（まとめ作成中）</a></span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
+        <label for="tab-3-12"><span><a href="./r3/12-gatu/index.md">12月定例会（3件）</a></span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
         <div class="acd-sub-content">
           <ol>
             <li><a href="./r3/12-gatu/1-tokyo-vaction-kenpou-ihan.md">即刻中止すべきTOKYOワクションに市はどう対応するか</a></li>
