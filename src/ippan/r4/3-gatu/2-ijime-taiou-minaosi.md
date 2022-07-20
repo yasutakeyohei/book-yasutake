@@ -428,7 +428,7 @@ const showPDF = (url) => {
 
 <div class="balloon bl-left">安竹（再）<br><div>
 
-[Protect Children](https://protectchildren-eternity.jimdofree.com/)（プロテクトチルドレン）というNPOの方を御存じと思うが、この方は、保護者の味方や教育委員会の味方という立場ではなく、子どもの味方として、子どものことを第一に考え、重大事態等の話も詳しくしていただけるようだ。そういった方と一度話す機会も設けていただきたい。
+[Protect Children（プロテクトチルドレン）](https://protectchildren-eternity.jimdofree.com/)というNPOの方を御存じと思うが、この方は、保護者の味方や教育委員会の味方という立場ではなく、子どもの味方として、子どものことを第一に考え、重大事態等の話も詳しくしていただけるようだ。そういった方と一度話す機会も設けていただきたい。
 
 </div></div>
 
