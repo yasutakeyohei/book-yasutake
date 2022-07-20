@@ -18,6 +18,17 @@
     <div class="acd-content">
       <!-- Sub -->
       <div class="child-tab">
+        <input type="checkbox" name="sub-tab" id="tab-4-6" checked>
+        <label for="tab-4-6"><span><a href="./r4/6-gatu/index.md">6月定例会（2件）<br>まとめ作成中</a></span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
+        <div class="acd-sub-content">
+          <ol>
+            <li><a href="./r4/6-gatu/1-judai-jitai-kodomo-chusin.md">「重大事態」への認識を改め、子ども中心のいじめ対応へ</a></li>
+            <li><a href="./r4/6-gatu/2-hontouno-kyouikuwo.md">管理を容易にするための制限強化ではなく、本当の教育を</a></li>
+          </ol>
+        </div>
+      </div>
+      <!-- Sub -->
+      <div class="child-tab">
         <input type="checkbox" name="sub-tab" id="tab-4-3" checked>
         <label for="tab-4-3"><span><a href="./r4/3-gatu/index.md">3月定例会（3件）</a></span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
         <div class="acd-sub-content">
