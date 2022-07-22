@@ -4,22 +4,23 @@
 
 # （2）タブレットはそろった。デジタル教科書と教材へ投資の英断を
 
+～ 読み書き困難などデジタル機器の活用で学びが進む子どもたちのために、好機を活かそう ～
+
 <p id="read-kaigiroku"><a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1151&schedule_id=5&minute_id=56&is_search=true">📄会議録を見る</a></p>
 
 <fieldset class="pnt">
   <legend><h2> まとめ </h2></legend>
 
-<ul>
-  <li class="chk" style="text-decoration:underline">デジタル教科書について</li>
-  <li class="chk">全教科分、市立小・中学校の全児童・生徒に購入する費用は<span> → 約1.7億円</span></li>
-  <li class="chk">国語1教科分ではいくらになるか<span> → 約1.7千万円</span></li>
-  <li class="chk" style="text-decoration:underline">デジタル教科書および教材について</li>
-  <li class="chk">検討状況は<span> → 学習効果を高めるために有益と認識</span></li>
-  <li class="chk">課題は<span> → 多くの経費が必要、一部の発行者がデジタル教科書に対応していない</span></li>
-  <li class="chk">解決策は<span> → 無償のデジタルコンテンツを積極的に活用、各学校で必要に応じ選択・活用</span><li>
-  <li class="chk">導入に臨時交付金の活用を<span> → 制度的には可能だが、端末整備後に導入の検討が望ましい</span></li>
-  <li class="chk">無償化に向けた国の動きは<span> → 文科省に設置の検討会議で、本格導入に向け検討が進む</span></li>
-</ul>
+**デジタル教科書について**
+- 全教科分、市立小・中学校の全児童・生徒に購入する費用は → 約1.7億円
+- 国語1教科分ではいくらになるか → 約1.7千万円
+
+**デジタル教科書および教材について**
+- 検討状況は → 学習効果を高めるために有益と認識
+- 課題は → 多くの経費が必要、一部の発行者がデジタル教科書に対応していない
+- 解決策は → 無償コンテンツを積極的に活用、各学校で必要に応じ選択・活用
+- 導入に臨時交付金の活用を → 制度的には可能、端末整備後に導入検討が望ましい
+- 無償化に向けた国の動きは → 文科省設置の検討会議で本格導入に向け検討進む
 
 </fieldset>
 
