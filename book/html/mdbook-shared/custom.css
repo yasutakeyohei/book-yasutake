@@ -41,11 +41,11 @@
   .line-height-4 { --line-height: 6.5rem; --line-height-chapter: 6.5rem; }
 }
 
-.letter-spacing-0 { --letter-spacing: 0rem; }
-.letter-spacing-1 { --letter-spacing: 0.4rem; }
-.letter-spacing-2 { --letter-spacing: 0.8rem; }
-.letter-spacing-3 { --letter-spacing: 1.0rem; }
-.letter-spacing-4 { --letter-spacing: 1.2rem; }
+.letter-spacing-0 { --letter-spacing: 0.02rem; }
+.letter-spacing-1 { --letter-spacing: 0.2rem; }
+.letter-spacing-2 { --letter-spacing: 0.4rem; }
+.letter-spacing-3 { --letter-spacing: 0.6rem; }
+.letter-spacing-4 { --letter-spacing: 1rem; }
 
 html {
   font-family: "UD デジタル 教科書体 N-R", "UDデジタル教科書体 R", "BIZ UDゴシック Regular", "Hiragino Kaku Gothic ProN", "ascii";
