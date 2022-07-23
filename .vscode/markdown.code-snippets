@@ -10,11 +10,11 @@
 		"scope": "markdown",
 		"prefix": "yasu",
 		"body": [
-			"<div class=\"balloon bl-left\">安竹（再）<br><div>",
+			"<div class=\"bln bleft\" data-speaker=\"安竹（再）\">",
 			"",
 			"$1",
 			"",
-			"</div></div>$2"
+			"</div>$2"
 		],
 	},
 	"イイね": {
@@ -26,46 +26,35 @@
 		"scope": "markdown",
 		"prefix": "tasitu",
 		"body": [
-			"<div class=\"balloon bl-left\">他会派の議員<br><div>",
+			"<div class=\"bln bleft\" data-speaker=\"他会派の議員\">",
 			"",
 			"$1",
 			"",
-			"</div></div>$2"
+			"</div>$2"
 		],
 	},
 	"答弁タグ": {
 		"scope": "markdown",
 		"prefix": "touben",
 		"body": [
-			"<div class=\"balloon bl-right\">$1<br><div>",
+			"<div class=\"bln bright\" data-speaker=\"$1\">",
 			"",
 			"$2",
 			"",
-			"</div></div>$3"
+			"</div>$3"
 		],
 	},
-	"選管答弁": {
-		"scope": "markdown",
-		"prefix": "senkan",
-		"body": [
-			"<div class=\"balloon bl-right\">選挙管理委員会事務局長<br><div>",
-			"",
-			"$2",
-			"",
-			"</div></div>$3"
-		],
-	},
-	"tipsタグ": {
+	"thoughtタグ": {
 		"scope": "markdown",
 		"prefix": "tips",
 		"body": [
-			"<div class=\"balloon bl-left bl-tips\"><div>",
+			"<div class=\"bln bleft thought\">",
 			"",
 			"🕵 $1",
 			"",
 			"$2",
 			"",
-			"</div></div>$3"
+			"</div>$3"
 		],
 	},
 
