@@ -5,23 +5,47 @@
 .font-family-mincho { font-family: "Times New Roman", "YuMincho", "Hiragino Mincho ProN", "Yu Mincho", "MS PMincho", "serif"; }
 .font-family-uiprop { font-family: "Meiryo UI", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic UI", "MS PGothic", "sans-serif"; }
 
-.line-height-0 { --line-height: 3.0rem; --line-height-chapter: 1.5em; }
-.line-height-1 { --line-height: 3.5rem; --line-height-chapter: 3.5rem; }
-.line-height-2 { --line-height: 4.5rem; --line-height-chapter: 4.5rem; }
-.line-height-3 { --line-height: 5.5rem; --line-height-chapter: 5.5rem; }
-.line-height-4 { --line-height: 6.5rem; --line-height-chapter: 6.5rem; }
+
+.font-size-0 { --font-size: 0.8rem; }
+.font-size-1 { --font-size: 1rem; }
+.font-size-2 { --font-size: 1.2rem; }
+.font-size-3 { --font-size: 1.4rem; }
+.font-size-4 { --font-size: 1.6rem; }
+.line-height-0 { --line-height: 2.2rem; --line-height-chapter: 0.9em; }
+.line-height-1 { --line-height: 2.9rem; --line-height-chapter: 2.9rem; }
+.line-height-2 { --line-height: 3.9rem; --line-height-chapter: 3.9rem; }
+.line-height-3 { --line-height: 4.9rem; --line-height-chapter: 4.9rem; }
+.line-height-4 { --line-height: 5.9rem; --line-height-chapter: 5.9rem; }
+@media only screen and (min-width: 680px) {
+  .font-size-0 { --font-size: 0.9rem; }
+  .font-size-1 { --font-size: 1.1rem; }
+  .font-size-2 { --font-size: 1.3rem; }
+  .font-size-3 { --font-size: 1.5rem; }
+  .font-size-4 { --font-size: 1.7rem; }
+  .line-height-0 { --line-height: 3.0rem; --line-height-chapter: 1.5em; }
+  .line-height-1 { --line-height: 3.5rem; --line-height-chapter: 3.5rem; }
+  .line-height-2 { --line-height: 4.5rem; --line-height-chapter: 4.5rem; }
+  .line-height-3 { --line-height: 5.5rem; --line-height-chapter: 5.5rem; }
+  .line-height-4 { --line-height: 6.5rem; --line-height-chapter: 6.5rem; }
+}
+@media only screen and (min-width: 800px) {
+  .font-size-0 { --font-size: 1rem; }
+  .font-size-1 { --font-size: 1.2rem; }
+  .font-size-2 { --font-size: 1.4rem; }
+  .font-size-3 { --font-size: 1.6rem; }
+  .font-size-4 { --font-size: 1.8rem; }
+  .line-height-0 { --line-height: 3.0rem; --line-height-chapter: 1.5em; }
+  .line-height-1 { --line-height: 3.5rem; --line-height-chapter: 3.5rem; }
+  .line-height-2 { --line-height: 4.5rem; --line-height-chapter: 4.5rem; }
+  .line-height-3 { --line-height: 5.5rem; --line-height-chapter: 5.5rem; }
+  .line-height-4 { --line-height: 6.5rem; --line-height-chapter: 6.5rem; }
+}
 
 .letter-spacing-0 { --letter-spacing: 0rem; }
 .letter-spacing-1 { --letter-spacing: 0.4rem; }
 .letter-spacing-2 { --letter-spacing: 0.8rem; }
 .letter-spacing-3 { --letter-spacing: 1.0rem; }
 .letter-spacing-4 { --letter-spacing: 1.2rem; }
-
-.font-size-0 { --font-size: 1.7rem; }
-.font-size-1 { --font-size: 1.9rem; }
-.font-size-2 { --font-size: 2.1rem; }
-.font-size-3 { --font-size: 2.3rem; }
-.font-size-4 { --font-size: 2.5rem; }
 
 html {
   font-family: "UD デジタル 教科書体 N-R", "UDデジタル教科書体 R", "BIZ UDゴシック Regular", "Hiragino Kaku Gothic ProN", "ascii";
@@ -30,46 +54,58 @@ html {
 body {
   -webkit-text-size-adjust: 100%;
   /* iPhoneでフォントサイズが勝手に変わるのを阻止 */
-  font-size: var(--font-size);
+  font-size: calc(var(--font-size)*1.7);
 }
 
-h1 {
-  font-size: 1.8em; /*1.8em*/
+h1.menu-title {
+  font-size:  calc(var(--font-size)*2);
 }
 
-main h1 {
+main h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
 }
 
-h2 {
-  font-size: 1.6em;
+main h1 {
+  font-size: calc(var(--font-size)*2.4);
+  margin-top: calc(var(--font-size)*2.5);
+  margin-bottom: calc(var(--font-size)*2);
+  line-height: calc(var(--font-size)*4);
 }
 
-h3 {
-  font-size: 1.4em;
-}
+main h2 { font-size: calc(var(--font-size)*2.2); }
+main h3 { font-size: calc(var(--font-size)*1.8); }
+main h4 { font-size: calc(var(--font-size)*1.7); }
+main h5 { font-size: calc(var(--font-size)*1.6); }
+main h6 { font-size:  calc(var(--font-size)*1.5); }
 
-h4 {
-  font-size: 1.2em;
-}
+.ippan-situgi h3+h4,
+.ippan-situgi h4+h5,
+.ippan-situgi h5+h6,
+.ippan-situgi h3+p,
+.ippan-situgi h4+p,
+.ippan-situgi h5+p { margin-top: calc(var(--font-size)*-4); }
 
-h5 {
-  font-size: 1em;
-}
-
-h6 {
-  font-size: 0.9em;
+.ippan-situgi div.bln+h3,
+.ippan-situgi div.bln+h4,
+{
+  margin-top: calc(var(--font-size));
 }
 
 button {
   line-height: unset;
   letter-spacing: unset;
   font: unset;
-  font-size: calc(var(--font-size)*0.79);
+  font-size: calc(var(--font-size)*1.7);
 }
 .content {
   letter-spacing: var(--letter-spacing);
   text-align: justify;
+  padding: 0 5px !important;
+}
+@media only screen and (min-width: 800px) {
+  .content {
+    padding: 0 15px !important;
+  } 
 }
 
 .content p {
@@ -101,7 +137,7 @@ p.breadcrumbs {
   margin: 0;
   background-color: var(--sidebar-bg);
   color: var(--sidebar-fg);
-  font-size: 1.5rem;
+  font-size: calc(var(--font-size)*1.5);
 }
 
 p.breadcrumbs a {
@@ -124,8 +160,16 @@ table {
 /* point, nittei, sanpi, summary */
 fieldset.pnt {
   margin-top: 0;
-  padding: 0rem 3rem;
+  margin-bottom: calc(var(--font-size)*2);
+  padding: 0rem 1rem;
 }
+@media only screen and (min-width: 800px) {
+  fieldset.pnt {
+    padding: 0rem 3rem;
+  }
+}
+
+
 fieldset.sanpi {
   margin-top: 4rem;
   margin-bottom: 4rem;
@@ -168,8 +212,13 @@ fieldset.summary {
   padding-left: 4rem;
 }
 .pnt li {
-  text-indent: -2.6rem;
+  text-indent: -2.0rem;
   padding-left: 1.5rem;
+  padding-bottom: calc(var(--font-size)*1.5);
+}
+.pnt li a:link,
+.pnt li a:visited {
+    color: var(--pnt-li-a-links) !important;
 }
 .sanpi li {
   text-indent: -3.5rem;
@@ -256,8 +305,17 @@ fieldset.nittei {
 }
 
 #read-kaigiroku {
+  position: relative;
+  top:1rem;
+  font-size: calc(var(--font-size)*1.2);
   text-align: right;
-  margin: 0;
+  margin: -1rem 0 0 0;
+}
+@media only screen and (min-width: 800px) {
+  #read-kaigiroku {
+    top:1.6rem;
+    font-size: calc(var(--font-size)*1.5);
+  }
 }
 
 li.chapter-item {
@@ -342,8 +400,18 @@ input.gridjs-input {
 div.redbox,
 div.tips {
   border-radius: 1rem;
-  margin: calc(var(--line-height)*1.5) 0;
-  padding: 2rem 4rem 3rem 4rem;
+}
+div.redbox,
+div.tips {
+  margin: 0 0 4rem 0;
+  padding: 2rem 1.5rem;
+}
+@media only screen and (min-width: 800px) {
+  div.redbox,
+  div.tips {
+    margin: 0 3rem 4rem 3rem;
+    padding: 2rem 4rem;
+  }
 }
 div.redbox:before,
 div.tips:before {
@@ -397,7 +465,7 @@ ul.published-at-updated-at {
   /* gap: 0 2rem; safari does not support this yet */
   margin: 0 0 2px 0;
   list-style-type: none;
-  font-size: 1.5rem;
+  font-size: calc(var(--font-size)*1.4);
   color: gray;
 }
 ul.published-at-updated-at li {
@@ -587,8 +655,95 @@ p.img-wrapper {
   padding: 2rem 0;
 }
 
-/* fukidasi */
+/* 吹き出し本体 */
 /* https://blog.n-ista.org/2019/01/csslineblogger.html */
+/* https://blog.codecamp.jp/css_balloon */
+
+.bln {
+  border-radius: 10px;
+  position: relative;
+  padding: 2rem;
+  max-width: 90%;
+}
+@media only screen and (min-width: 800px) {
+  .bln {
+      max-width: 66%;
+  }
+}
+.bln.bleft {
+  background-color: var(--situgi-q-bg);
+  margin: 0 auto 5rem 4%;
+}
+.bln.bright {
+  background-color: var(--situgi-a-bg);
+  margin: 0 4% 5rem auto;
+}
+
+/* 吹き出し三角部分 */
+.bln::before{
+  border-style: solid;
+  content: '';
+  display: block;
+  position: absolute;
+  width: 0;
+  height: 0;
+  top: 12px;
+}
+.bln.bleft::before {
+  border-color: transparent var(--situgi-q-bg) transparent transparent;
+  border-width: 7px 15px 7px 0;
+  left: -15px;
+}
+.bln.bright::before {
+  border-color: transparent transparent transparent var(--situgi-a-bg);
+  border-width: 7px 0 7px 15px;
+  right: -15px;
+}
+
+/* 吹き出し話者部分 */
+.bln::after {
+  content: attr(data-speaker);
+  font-size: calc(var(--font-size)*1.4);
+  position: absolute;
+  top: calc(var(--font-size)*-1.8);
+  white-space:nowrap;
+}
+.bln.bleft::after {
+  left: 0.5rem; 
+}
+.bln.bright::after {
+  right: -0.5rem;
+  text-align:right;
+}
+
+/* 吹き出し内部 */
+.bln p {
+  margin: 0;
+}
+
+/* 吹き出しthougt, smile　*/
+.bln.bleft.thought,
+.bln.bleft.smile {
+  border: 6px dotted var(--situgi-q-bg-dark);
+  background-color:unset;
+}
+.bln.bleft.thought::before,
+.bln.bleft.smile::before {
+  border-width: 0;
+  content: "🤔";
+  left: -2.5rem;
+  top:0;
+}
+.bln.bleft.smile::before {
+  content: "🙂";
+}
+@media only screen and (min-width: 800px) {
+  .bln.bleft.thought::before,
+  .bln.bleft.smile::before {
+    left: -3rem;
+  }
+}
+
 
 .balloon {
   font-size: calc(var(--font-size)*0.77);
@@ -698,6 +853,12 @@ blockquote .balloon.bl-left>div:after {
 hr.balloon-divider {
   margin: 3rem 1rem;
 }
+
+
+
+
+
+
 
 /* table bordered */
 table.bordered thead th {
@@ -825,10 +986,12 @@ table.th-wrap th {
   white-space: initial;
 }
 
+/*
 div.table-wrapper {
   overflow-x: auto;
   white-space: nowrap;
 }
+*/
 
 table.book {
   width: 100%;
@@ -1010,22 +1173,21 @@ blockquote p.ref {
 /* a11y用 */
 h1, h2, h3, h4, h5, h6,
 .back-to-main-site {
-  line-height: calc( var(--line-height)*1.5);
+  line-height: calc( var(--line-height));
   letter-spacing: var(--letter-spacing);
 }
 li {
   line-height: var(--line-height);
   letter-spacing: var(--letter-spacing);
-  margin-bottom: calc(var(--line-height)*0.5);
 }
 li:last-child {
   margin-bottom: 0;
 }
 .chapter li,
 .chapter li.chapter-item {
-  line-height: var(--line-height);
-  letter-spacing: var(--letter-spacing);
-  margin-bottom:0;
+  line-height: calc(var(--line-height)*0.7) !important;
+  letter-spacing: var(--letter-spacing) !important;
+  margin-bottom:0 !important;
 }
 
 
@@ -1068,17 +1230,20 @@ li:last-child {
 }
 
 /* 一般質問での質疑 */
+.ippan-situgi {
+  display: flex;
+  flex-direction: column;
+}
 .ippan-situgi h3,
 .ippan-situgi h4,
 .ippan-situgi h5 {
-  font-size: var(--font-size);
-  line-height: var(--line-height);
+/*  line-height: var(--line-height);*/
   border: 1px solid var(--fg);
   border-radius: 10px;
   font-weight: bold;
   text-align: center;
-  margin: 2rem 0;
-  padding: 2rem;
+  margin-bottom: calc(var(--font-size)*6);
+  padding: calc(var(--font-size)*1.2);
 }
 .ippan-situgi h4 {
   padding: 1rem;
@@ -1095,13 +1260,13 @@ li:last-child {
 .situgi h4,
 .situgi h5,
 .situgi h6 {
-  font-size: var(--font-size);
+  font-size: calc(var(--font-size)*1.7);
   line-height: var(--line-height);
   border: 1px solid var(--fg);
   border-radius: 10px;
   font-weight: bold;
   text-align: center;
-  margin: 2rem 0;
+  margin-bottom: 2rem;
   padding: 2rem;
 }
 .situgi h5 {
@@ -1205,7 +1370,7 @@ span.q-a {
 }
 .acd-wrapper label span{
   color: var(--bg);
-  font-size: calc(var(--font-size)*1.1);
+  font-size: calc(var(--font-size)*1.7*1.1);
   font-weight: 500;
   text-shadow: 0 -1px 1px var(--links);
 }
@@ -1213,13 +1378,13 @@ span.q-a {
   color: var(--bg) !important;
 }
 .acd-wrapper .child-tab label span{
-  font-size: calc(var(--font-size)*1.05);
+  font-size: calc(var(--font-size)*1.7*1.05);
 }
 .parent-tab label .icon{
   position: relative;
-  height: calc(var(--font-size)*1.6);
-  width:  calc(var(--font-size)*1.6);
-  font-size: var(--font-size);
+  height: calc(var(--font-size)*1.7*1.6);
+  width:  calc(var(--font-size)*1.7*1.6);
+  font-size: calc(var(--font-size)*1.7);
   color: var(--links);
   display: block;
   background: var(--bg);
@@ -1261,10 +1426,10 @@ span.q-a {
 .parent-tab .acd-content p,
 .child-tab .acd-sub-content p{
   padding: 15px 20px;
-  font-size: var(--font-size);
+  font-size: calc(var(--font-size)*1.7);
 }
 .child-tab .acd-sub-content p{
-  font-size: var(--font-size);
+  font-size: calc(var(--font-size)*1.7);
 }
 input[type="radio"],
 input[type="checkbox"]{
@@ -1287,8 +1452,8 @@ input[type="checkbox"]{
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: var(--font-size);
-  margin: 3rem 2px 0;
+  font-size: calc(var(--font-size)*1.7);
+  margin-bottom: calc(var(--font-size)*5);
   transition-duration: 0.4s;
   cursor: pointer;
   border: 1px solid var(--fg);
@@ -1336,7 +1501,7 @@ div.recent-updated ul li {
   background: var(--toc-bg) none repeat scroll 0 0;
   border: 1px solid #aaa;
   display: table;
-  font-size: 95%;
+  font-size: calc(var(--font-size)*1.6);
   margin: 0 auto 3rem;
   padding: 2rem;
   width: auto;
@@ -1387,7 +1552,7 @@ div.recent-updated ul li {
   border-top: 1px solid var(--links);
   border-bottom: none;
   color: var(--links);
-  font-size: calc(var(--font-size)*0.8);
+  font-size: calc(var(--font-size)*1.7*0.8);
 }
 .toc>p.toc-note i {
   color: royalblue;
