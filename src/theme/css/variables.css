@@ -26,6 +26,7 @@
     --icons-hover: #b7b9cc;
 
     --links: #0096cf;
+    --pnt-li-a-links: #8fbfff;
 
     --inline-code-color: #ffb454;
 
@@ -66,6 +67,7 @@
     --icons-hover: #b3c0cc;
 
     --links: #2b79a2;
+    --pnt-li-a-links: #8fbfff;
 
     --inline-code-color: #c5c8c6;;
 
@@ -106,6 +108,7 @@
     --icons-hover: #333333;
 
     --links: #4183c4;
+    --pnt-li-a-links: #5058cc;
 
     --inline-code-color: #6e6b5e;
 
@@ -146,6 +149,7 @@
     --icons-hover: #b7b9cc;
 
     --links: #2b79a2;
+    --pnt-li-a-links: #8fbfff;
 
     --inline-code-color: #c5c8c6;;
 
@@ -186,6 +190,7 @@
     --icons-hover: #262625;
 
     --links: #2b79a2;
+    --pnt-li-a-links: #5058cc;
 
     --inline-code-color: #6e6b5e;
 
@@ -227,6 +232,7 @@
         --icons-hover: #b3c0cc;
 
         --links: #2b79a2;
+        --pnt-li-a-links: #5058cc;
 
         --inline-code-color: #c5c8c6;;
 
