@@ -62,7 +62,7 @@ const showPDF = (url) => {
 これまで公表されてきた人口推計の推移を次にまとめました。
 平成24年の公表から7年2ヵ月間で、人口ピーク時期は10年後ろにずれ、ピーク人口は8,399人増える変更になっています。かなりのズレだと思います。人口推計が7年で8,000人以上も増える場合、保育所の数はすぐにどれだけ追加すればよいのでしょうか。計算方法の見直しや、幅を持たせた数値の公表などが必要です。
 
-<div class="table-wrapper">
+<div class="table-wrapper" style="white-space:nowrap">
   <table class="simple">
     <tr><th>根拠</th><th>公表時期</th><th>人口ピーク<br>時期推計</th><th>← 前回公表<br>値との差</th><th>ピーク人口<br>推計（人）</th><th>← 前回公表<br>値との差</th></tr>
     <tr><th stlye="white-space:nowrap">平成22年<br>国勢調査結果</th><td stlye="white-space:nowrap">平成24年<br>6月</td><td>平成27年</td><td></td><td>188,832</td><td></td></tr>

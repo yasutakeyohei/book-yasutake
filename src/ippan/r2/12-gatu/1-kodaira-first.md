@@ -284,7 +284,7 @@ const showPDF = (url) => {
 
 <span class="q-a">Q.</span> たとえば、事業計画策定の際、AプランとBプランが発想できたとする。単純な計算で、Aプランは100万円、Bプランは150万円のコストがかかるとする。特に考えなければAプランで行こうとなる。しかし市内還元分まで考えると、Aプランは20万円戻ってくる、Bプランは100万円戻ってくるとなった場合、実質的にはそれぞれは80万円50万円のコストになる。だったらBプランの方で計画を策定しましょう、そういういう風に、小さなつづらを選ぶための検討をする必要はないのか。
 
-<div class="table-wrapper">
+<div class="table-wrapper" style="white-space:nowrap">
 <table class="simple">
 <tr><th>プラン</th><th>単純費用</th><th>市内還元</th><th>実質的コスト</th><th>つづら</th></tr>
 <tr><td>A</td><td>100万円</td><td>20万円</td><td>80万円</td><td>大きい方</td></tr>

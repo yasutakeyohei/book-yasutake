@@ -98,7 +98,7 @@ const showPDF = (url) => {
 
 市民活動を継続し活性化するためには、可能な限り会合のオンライン化を推進するなど、何らかの対策を講じる必要があります。
 
-  <div class="table-wrapper">
+  <div class="table-wrapper" style="white-space:nowrap">
     <table class="simple" style="margin-top:1rem;">
       <thead>
         <tr><th rowspan="2">管理</th><th rowspan="2">施設</th><th colspan="3">1館当たり平均利用者数（人）</th><th rowspan="2">今後の見込み</th></tr>
@@ -134,7 +134,7 @@ const showPDF = (url) => {
 
 以上の答弁をまとめると次の表になります。ほとんどの公共施設にはWi-Fiがなく、市民活動をオンラインにシフトした際、ハイブリッド開催などがすぐに行える環境にありません。
 
-  <div class="table-wrapper">
+  <div class="table-wrapper" style="white-space:nowrap">
     <table class="simple" style="margin-top:1rem;">
       <thead>
         <tr><th>管理</th><th>施設</th><th>Wi-Fi整備状況</th><th>今後のWi-Fi整備予定</th></tr>

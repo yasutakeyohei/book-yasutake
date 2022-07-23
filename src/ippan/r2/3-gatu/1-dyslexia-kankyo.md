@@ -183,7 +183,7 @@ const showPDF = (url) => {
 
 　この調査の結果、「読む」または「書く」に著しい困難を示す子どもの割合は、10年経ってもほぼまったく同じ割合で、2.4％～2.5％であった。2.4％を使って計算すると、小平市立の小・中学校では合計約330人になる。
 
-<div class="table-wrapper">
+<div class="table-wrapper" style="white-space:nowrap">
 <table class="simple">
 <caption style="white-space:nowrap">「読む」または「書く」に<br>著しい困難を示す子どもの割合</caption>
 <tr><th>平成14年調査</th><th>2.5%</th></tr>
@@ -344,7 +344,7 @@ const showPDF = (url) => {
 
 「こだいらこれだけは」というのは、小平市が平成24年度からすべての小・中学校で「小・中連携教育」というものを展開している中で、5つ挙げられている視点のうち「特別支援教育」に対応するプログラムのことです。
 
-<div class="table-wrapper">
+<div class="table-wrapper" style="white-space:nowrap">
 <table class="simple">
 <tr><th>視点</th><th>プログラム名</th><th>内容</th></tr>
 <tr><th rowspan="2">学力向上</th><td rowspan="2">学力アップ<br>チャレンジ</td><td>読書活動の充実</td></tr>
