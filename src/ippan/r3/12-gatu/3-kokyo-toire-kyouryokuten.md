@@ -19,10 +19,10 @@
 
 ---
 
-- まちづくりの際、高齢者の歩行速度想定は → 身体状態などで変わるため基準なし
-- 配布物のユニバーサルデザインの扱いは → マニュアルがあるが見直しを検討する
-- 防災マップアプリに公共トイレも掲載を → 災害時使えない可能性あり掲載しない
-- 公共トイレ協力店事業を検討しては → 今のところ未検討だが、トイレは重要
+- まちづくりの際、高齢者の歩行速度想定は → [身体状態などで変わるため基準なし](#まちづくりを計画する際高齢者の歩行速度まで想定しているか)
+- 配布物のユニバーサルデザインの扱いは → [マニュアルがあるが見直しを検討する](#配布物におけるユニバーサルデザインをどう捉え委託先と共有しているか)
+- 防災マップアプリに公共トイレも掲載を → [災害時使えない可能性あり掲載しない](#小平市防災マップアプリに公共トイレの場所も入れてはどうか)
+- 公共トイレ協力店事業を検討しては → [今のところ未検討だが、トイレは重要](#町田市国立市が行っているような公共トイレ協力店事業を検討してはどうか)
 
 
 </fieldset>
@@ -67,51 +67,53 @@ const showPDF = (url) => {
 
 </div>
 
+{{#include ../../../partials/ippan-situgi-note.md}}
+
 ### 今回質問する理由
 
 #### 玉川上水沿いには公共トイレの空白地帯がある
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 これまで複数の議員から、玉川上水緑道沿いの公共トイレ設置に関する要望があった。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 しかし、市の答弁は、「公共トイレは一定の配置がなされており、新たに整備する予定はなく、また、こだいら観光まちづくり協会が出している[小平グリーンロード＆オープンガーデンマップ](https://www.city.kodaira.tokyo.jp/kurashi/007/007479.html)に公共トイレの場所は記載されている」といったものであった。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 たしかに、玉川上水沿いにある公共トイレの間を結べば、いずれも徒歩15分以内の距離にあり、つまり、どこにいても7分ほど歩けばトイレに到着できることになる。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 しかし、これは時速5キロメートルで計算した場合だ。歩く速度がゆっくりで（小さい字で描かれたマップを見ることにも難がある）、公共トイレの利用率が高い高齢者のことが忘れられているのではないか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 なお、最も公共トイレの設置間隔が長いのは、平櫛田中彫刻美術館の周辺である。同美術館は、入場料が必要であることや開館時間が限られていることから、入場のハードルがあり、この施設を公共トイレに含めることは不適切と考える。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 これを省いて考えると、上水本町地域センターもしくは四小東公園から西に進む場合、次はみよし公園になり、徒歩約20分の距離になる。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 つまり、このあたりでは、最長で10分ぐらいは歩く必要があり、たとえば時速2.5キロメートルで歩かれる高齢者の場合、20分程度かかることになる。さらに、どこにトイレがあるかも分からない状況では、不安で散歩ができないという話もよく分かる。
 
-</div></div>
+</div>
 
 <div class="tips" id="玉川上水周辺の公衆トイレ小平市内">
 
@@ -148,69 +150,69 @@ const showPDF = (url) => {
 
 #### 高齢化社会やコロナ禍において、散歩や、公園で過ごすことの効用が認められてきている
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 高齢化社会やコロナ禍において、安心して散歩ができることや近くの公園で過ごすことの効用が非常に大きいことは、日本だけではなく海外でも認められるようになってきている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 高齢者でも安心して散歩ができるよう、新市長のもとで、公共トイレの在り方からいま一度見直す必要があると考え、質問する。
 
-</div></div>
+</div>
 
 ### まちづくりを計画する際、高齢者の歩行速度まで想定しているか
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 市のまちづくりを計画する際、高齢者の歩行速度まで想定するような基準はあるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林洋子）（初）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）（初）">
 
 高齢者の身体の状態などにより歩行速度は異なってくることから、想定する基準はない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 歩行速度が異なるのは分かるが、高齢者になるとゆっくり歩く（人も多い）。これから高齢者は増える。私たちも高齢者になる。高齢者のことを考えたまちづくりを進めてもらいたい。
 
-</div></div>
+</div>
 
 ### 配布物におけるユニバーサルデザインをどう捉え、委託先と共有しているか
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 最も必要としている高齢者が使いにくいような小平グリーンロード＆オープンガーデンマップでは意味がない。市は、配布物におけるユニバーサルデザインをどう捉え、委託先と共有しているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林洋子）（初）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）（初）">
 
 市では、年齢等にかかわらず多様な方が利用しやすいよう、マニュアルに基づきユニバーサルデザインに配慮し、各所管課で配布物を作成している。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林洋子）（初）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）（初）">
 
 また、配布物を作成委託する際についても、マニュアル等に基づき仕様書に明記するなど、各所管課で対応している。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林洋子）（初）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）（初）">
 
 既存のマニュアルがしばらく改訂されていないことから、今後は見直しの検討を行うとともに、職員への周知を徹底し、誰に対しても見やすく分かりやすい情報を発信していけるよう努める。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 トイレは一応記載されているが、表記が非常に小さい。高齢者の方は、小さな表記を見てトイレがあるとは分からない。
 
-</div></div>
+</div>
 
 <div class="tips" id="小平グリーンロードオープンガーデンマップでは公共トイレの表記が小さい">
 
@@ -224,105 +226,105 @@ const showPDF = (url) => {
 
 </div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 こだいら観光まちづくり協会を訪れて、トイレの表記を大きくしたらどうか提案もしたので、そういう話が出てきた際には対応を。使いやすくしてもらいたい。
 
-</div></div>
+</div>
 
 ### 小平市防災マップアプリに公共トイレの場所も入れてはどうか
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 小平市防災マップアプリに公共トイレの場所も入れてはどうか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林洋子）（初）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）（初）">
 
 小平市防災マップアプリは、主に紙媒体で配布している小平市防災マップのデジタル版であり、スマートフォン端末にダウンロードして閲覧することができるサービス。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林洋子）（初）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）（初）">
 
 小平市防災マップは、防災行政無線や防災倉庫などの防災関係設備のほか、避難所やいっとき避難場所及び給水拠点に指定している施設などの災害時に拠点となる施設を掲載するものであり、災害時に使用できなくなる可能性のある公共トイレを掲載することは考えていない。
 
-</div></div>
+</div>
 
 #### 災害時に公共トイレが使えなくなる可能性について
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 災害時に公共トイレが使用できなくなる可能性があるというのは（あまり知られていないと思う）、むしろ災害時に公共トイレが使えるような状況にしていく、そういう方向もあるかと。
 
-</div></div>
+</div>
 
 #### 地図情報まちだのような地図情報を集約したアプリをつくる方法もある
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 地図情報を活用したマップが、小平市にもあればよいと思う。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 町田市には「[地図情報まちだ](https://machida.kukanjoho.jp/webgis/?bt=0&p=1)」というサイトがあり、町田市内の地図情報が集約されている。公共トイレや公園の位置、防災マップもそこに入っている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 生きもの発見レポート分布マップや、投票所、ポスター掲示所など、いろんなものが入っている。小平市も同様のマップアプリをつくってはどうかと聞きたいが、具体的事例を集めてからまた提案する。
 
-</div></div>
+</div>
 
 ### 町田市、国立市が行っているような公共トイレ協力店事業を検討してはどうか
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 町田市、国立市が行っているような公共トイレ協力店事業を検討してはどうか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林洋子）（初）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）（初）">
 
 現在のところ事業の検討はしていないが、散歩を含めた高齢者の健康維持や介護予防については、引き続き高齢者が自ら継続して取り組めるよう工夫していく。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 これはどういう事業かというと、トイレを一般の方に開放してくれる協力店を募るという事業。協力してくれた店舗にはステッカーを掲示してもらう。町田市の場合だと、ホームページや地図情報に掲載される。
 
-</div></div>
+</div>
 
 #### 補助金を出すわけではなく、ステッカーと地図上への掲載のみといったやり方だが、どうか
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 市から補助金を出しているわけではなく、ステッカーと地図上への掲載のみのようだ。飲食店は衛生面で難しいかもしれないが、薬局や大規模な食料品店などはよいと思うがどうか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康福祉部長（滝澤）<br><div>
+<div class="bln bright" data-speaker="健康福祉部長（滝澤）">
 
 高齢者の介護予防について、今、地域包括支援センターのほうで狭い地域ではあるが、外に出て運動しようということで、ウォーキングラリーを実施している。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康福祉部長（滝澤）<br><div>
+<div class="bln bright" data-speaker="健康福祉部長（滝澤）">
 
 その際にもやはり高齢者のことを考え、トイレだったり、休憩できる場所、水飲み場、そういったところは必ずそのコースの中に入れていこうといったところで取り組んでいる。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康福祉部長（滝澤）<br><div>
+<div class="bln bright" data-speaker="健康福祉部長（滝澤）">
 
 市内全体という広い範囲になると、なかなか難しいところではあるが、そういった高齢者の介護予防など実施する事業を検討する際には、トイレというところは必ず頭の中に入れながら事業を組み立てている。
 
-</div></div>
+</div>
 
 </div>
 

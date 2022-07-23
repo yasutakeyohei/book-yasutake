@@ -91,39 +91,39 @@ const showPDF = (url) => {
 
 ### 今回質問する理由
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 GIGAスクール構想の一環として、5月の一般会計補正予算（第2号）で、小平市立小・中学校児童・生徒に、1人1台のタブレット端末購入の予算が決まった。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 端末は年度末までに調達予定のため、対応の時間が短い。不備がないよう、特に最も恩恵を受けると思われるディスレクシアや不登校の児童・生徒が最大限活用できる仕組みとなることを強く要望する。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 すでに検討は進んでいるものと考え、小平市におけるGIGAスクール構想全般について質問する。
 
-</div></div>
+</div>
 
 #### GIGAスクール構想の背景
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 GIGAスクール構想の背景としては、まず国のほうで「[教育のICT化に向けた環境整備5か年計画](https://www.mext.go.jp/a_menu/shotou/zyouhou/detail/1402835.htm)」が2018年から2022年度まである。2022年度には、3クラスに1クラス分の端末整備や先生に1人1台のPCや端末を整備する計画。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 それと並行してGIGAスクール構想というのができた。昨年12月の閣議決定をもとに「令和時代のスタンダードな学校像として全国一斉のICT環境整備が急務」とされ、1人1台端末と高速大容量の通信ネットワークを一体的に整備することを主な目的に、令和元年度の補正予算が1月末に成立した。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 この時点では、まだ「令和5年度までに1人1台」とされていたが、その後、新型コロナウイルス感染症拡大の影響ということで前倒しになった。
 
@@ -131,85 +131,85 @@ GIGAスクール構想の背景としては、まず国のほうで「[教育の
 - 学校現場へのICT技術者の配置の支援
 - 在宅オンライン学習に必要な通信環境の整備を図るとともに、在宅でのPC等を用いた問題演習による学習評価が可能なプラットフォームの実現を目指す
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 今年の4月頭に閣議決定され、4月末に令和2年度の補正予算総額2,292億円が成立。小平市も急遽それに対応し、GIGAスクール構想、1人1台ということをやり始め、5月臨時会の補正予算で計上した。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 以上が背景。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 今回は導入に向けての話。一度ハードウェアやソフトウェアを決めてしまうと、基本的に5年間使うことになり、なかなか変えることができない。間違いがあったら大変なロスになる。事前に、できる限り、問題点や可能性の検証が必要。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 整備まで実質的に今回しか質問の機会がない。ほかの議員からの質問もなかったので、根掘り葉掘り、細々とした質問を行う。
 
-</div></div>
+</div>
 
 ### 端末の選定、ICT環境、運用の検討はどの程度進み、いつまでに整える予定か
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 端末の選定、ICT環境、運用の検討はどの程度進んでいるか。また、いつまでに整える予定か。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川）（初）<br><div>
+<div class="bln bright" data-speaker="教育長（古川）（初）">
 
 - 現在、情報端末の機種を検討するとともに、高速大容量の校内LAN環境整備を計画
 - 情報端末は、契約・調達を本年12月までの予定で進める
 - 来年1月からは各学校に配備し、3月には全小・中学校に配備を終える
 - 校内LAN環境は、9月に契約、調整を行い、来年2月より工事を始める
 
-</div></div>
+</div>
 
 #### 共同調達の検討はしたか
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 文部科学省の資料に「調達の際に共同調達をできる限り検討してください」とある。市は、東京都やほかの、たとえば広域連携している国分寺市等と共同調達の話はあったか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育部長（川上）<br><div>
+<div class="bln bright" data-speaker="教育部長（川上）">
 
 4月の中旬ぐらいから、国の動向、都からも強い申入れ等あり、急遽やるということで、大きく方針を変えて実施している。このようなスケジュールの中で検討しなくてはならないため、共同調達の検討は特段行わなかった。
 
-</div></div>
+</div>
 
 #### 教員用や予備分が確保されていないのはなぜか
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 台数は、ぴったり児童・生徒の人数分、約1万4,000人分と聞いた。なぜ教員の分も発注しないのか。予備の分もない。先進的に独自の財源でしている自治体では、予備分は確保している。市の予算でこういったこともやるべきでは。
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 臨時休業がもし今後また実施されれば、生徒が全員一斉に端末を使う状況も考えられる。故障も発生する。1万4,000台のうち故障率何%か分からないが、何台かは発生する。どうするのか。不足して再び発注する際には、高い金額で発注せざるを得ない状況もあるのでは。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育部長（川上）<br><div>
+<div class="bln bright" data-speaker="教育部長（川上）">
 
 まずは児童・生徒への端末を確実に届けられる予算のみ取っている。今後の課題として、教員が使用するタブレット、故障等の対応による予備の機器、保証の関係、積み残した課題がある。これらは今後必要になる認識がある。速やかに対応するよう努める。
 
-</div></div>
+</div>
 
 #### OSの選定時にデイジー教科書との相性など考慮するか 
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 OSについて、次の3つから選ぶと聞いた。
 - Apple社のiOSやiPadOS
@@ -218,79 +218,79 @@ OSについて、次の3つから選ぶと聞いた。
 
 これをどう選ぶのか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 デジタル教科書やディスレクシアの子どもたちが扱いやすいデイジー教科書等で、アプリが特定のOSにしか対応していない状況がある。そのあたりは、OS選択時に考慮されるのか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育部長（国冨）<br><div>
+<div class="bln bright" data-speaker="教育部長（国冨）">
 
 それぞれのOSに、特徴、よさ、デメリットがある。こういったことは、事務局や学校から意見を聴取しながら、デイジー教科書の使用状況（のちほど「相性」と訂正）なども踏まえて選定に当たっていきたい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 デイジー教科書の使用状況というが、前回の一般質問でもしたが、読み書き困難の潜在数は小平市立の小・中学校合わせて300人以上いる可能性がある。実際に読み書き困難と判明している生徒は、その中でも一部。
 
-</div></div>
+</div>
 
 ##### デイジー教科書の利用人数は
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 デイジー教科書は現在、何人ぐらいが使っている状況か。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育部長（国冨）<br><div>
+<div class="bln bright" data-speaker="教育部長（国冨）">
 
 私たちが把握しているのは1人。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 1人というのは（潜在数と比べると）本当に少ない。まずディスレクシアの子どもたちを見つけることが、やはり重要。
 
-</div></div>
+</div>
 
 #### 専門家に来てもらえる国の制度を活用しない理由は
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 校内LAN（学校のインターネット）に関して。ネットワークに詳しい人が（こちら側に）いないと、業者の見積りが大きく変わる。調達仕様書をつくったり、入札の検証において、専門家に入ってもらったほうがよい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 こういった場面で「ICT活用教育アドバイザー事業」や、「GIGAスクールサポーター」の制度は活用しないのか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育部長（川上）<br><div>
+<div class="bln bright" data-speaker="教育部長（川上）">
 
 GIGAスクール構想実現に向け、庁内で体制を組み、教育委員会のみならず、企画政策部の情報政策課、財政課、そういったところの職員を含め、プロジェクトチームという形で取り組んでいる。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育部長（川上）<br><div>
+<div class="bln bright" data-speaker="教育部長（川上）">
 
 見積り金額、要不要の見定め、ネットワーク構築に何が必要で、何が余分かという見定めが極めて重要。情報政策課の職員がかなり積極的に関わっており、必要な選定に向け、仕様書の対応等は図られると考えている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 専門知識を持っている方はいるかもしれないが、文部科学省が進めている「ICT活用教育アドバイザー事業」や「GIGAスクールサポーター」は、国の補助で半額など結構賄われる。交付金措置もあるのでは。その活用をしない理由は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育部長（川上）<br><div>
+<div class="bln bright" data-speaker="教育部長（川上）">
 
 段階があると考えている。今進めているのは、
 - 端末をどういうものにするか
@@ -298,9 +298,9 @@ GIGAスクール構想実現に向け、庁内で体制を組み、教育委員�
 
 というところ。これは庁内組織で対応する。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育部長（川上）<br><div>
+<div class="bln bright" data-speaker="教育部長（川上）">
 
 その後の教育活動の中で、
 - どう必要か
@@ -309,646 +309,646 @@ GIGAスクール構想実現に向け、庁内で体制を組み、教育委員�
 
 そういったところの見定めが必要。アドバイザー、サポーター等の活用も考えられるので、今後、どういう形で対応がなされるかを含めて検討する事項と整理している。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 GIGAスクールサポーターは、国から補助が半額出たり、残りの部分に関しては交付金で戻ってくるのか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育部長（川上）<br><div>
+<div class="bln bright" data-speaker="教育部長（川上）">
 
 GIGAスクールサポーターについては国の補助が2分の1、ICT支援員については4校に1校分が地方財政措置される。
 
-</div></div>
+</div>
 
 #### 校内LANは体育館にも配備されるか
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 校内LANは体育館にも導入するか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育部長（川上）<br><div>
+<div class="bln bright" data-speaker="教育部長（川上）">
 
 体育館にも校内LANが配備される見込み。
 
-</div></div>
+</div>
 
 #### デジタル教科書や教材はインストールされないのか
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 基本パッケージには、ExcelやWordのようなソフトウェアが基本的に入っていると文部科学省の説明にはある。デジタル教科書や教材関係はまったくインストールしないという理解でよいか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育部長（国冨）<br><div>
+<div class="bln bright" data-speaker="教育部長（国冨）">
 
 基本パッケージには入っていない。デイジー教科書は、今、無償供与が行われるし、新型コロナウイルス感染症対応において無償供与されている教材等もあるので、そういったものが活用できると認識している。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 デジタル教科書はどうなのか。無償で提供されている教材は、調べたが、教科書の一部。すべての教科において提供されているのか。それとも一部だけ、今回限定的に提供されているのか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育部長（国冨）<br><div>
+<div class="bln bright" data-speaker="教育部長（国冨）">
 
 現時点では一部。だんだん広がっている状況にはなっている。
 
-</div></div>
+</div>
 
 #### キーボードとユニバーサルデザインフォントの検討を
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 キーボードはぜひつけていただきたい。書くことが困難な子で、キーボードを使えば入力しやすい子が結構いる。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 ユニバーサルデザインのフォントを使うと、読みに困難を抱えている子の読むスピードが上がるという声もある。ぜひ、そのフォントのことも考えてください。
 
-</div></div>
+</div>
 
 #### 議会にも、デジタル教科書をつかった授業の概要を伝えてほしい
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 また要望として、議員はデジタル教科書等の知識がない人も多い。GIGAスクール構想で急激に仕組みが変わり、授業体系もかなり変わる。どういう授業をしているのか分かるような、動画でもよいので情報提供してもらいたい。
 
-</div></div>
+</div>
 
 ### 短期間の調達のため、低性能端末を買わざるを得なくなるリスクをどう回避するか
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 短期間で単純な入札では、低性能端末を買わざるを得なくなるリスクがある。そのリスクをどう回避するか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川）（初）<br><div>
+<div class="bln bright" data-speaker="教育長（古川）（初）">
 
 情報端末メーカー等より、GIGAスクール構想での活用を想定した情報端末が販売されている。教育委員会としては、最適な情報端末が調達できるよう、事業者や学校等への聞き取りなども行いながら、契約の方法や仕様を検討する。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 文科省の標準仕様書では「CPUはIntelのCeleron同等以上で、メモリ4ギガバイト以上」とあるが、この最低ラインだと、OSによっては、ちょっとした処理で、重くて動かなくなる可能性もある。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 子どもたちが家庭で接しているような処理速度の速い端末と比べ、教材で使うタブレットの処理が重いとストレスを感じるだろう。そのあたりは実際に動作確認するのか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育部長（川上）<br><div>
+<div class="bln bright" data-speaker="教育部長（川上）">
 
 端末を選ぶ際、どの程度の負荷に耐えられるかは重要な視点。選定に当たっては、動作も確認したうえで手続を進めていきたい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 メーカーによって故障率の多寡がある。そのあたりは考慮するか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育部長（川上）<br><div>
+<div class="bln bright" data-speaker="教育部長（川上）">
 
 故障率という対外的に出ている数字で判断というのはなかなか難しいが、子どもに負荷のかからない形で、選定手続のほうは総合的に判断をしていく。
 
-</div></div>
+</div>
 
 ### 維持管理運営等の年間費用想定と、端末更新時期の費用想定は
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 定常的に発生する維持管理運営等の年間費用と端末更新時期の費用はどう想定しているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川）（初）<br><div>
+<div class="bln bright" data-speaker="教育長（古川）（初）">
 
 機器等の保守費用、通信回線の使用料、有償の学習支援ソフトを導入した場合のライセンス料などを想定しており、金額は調査中。
 端末更新時期の費用の想定は、現時点において国の財政支援が明確に示されていないが、市の負担が著しく大きくならないよう、リース方式の導入も含め、検討する。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 通信回線というのはインターネットの接続費用のことか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育部長（川上）<br><div>
+<div class="bln bright" data-speaker="教育部長（川上）">
 
 通常のインターネットの活用、あるいはソフトウェアの動作等、そういうものも含めての回線。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 文科省の資料には「リース方式の場合は、端末購入分の相当額は国からリース業者に補助金が交付されるので、予算計上する必要はない」とある。今回、購入予算をつけているので、購入の方向で検討していると考えてよいか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育部長（川上）<br><div>
+<div class="bln bright" data-speaker="教育部長（川上）">
 
 予算計上の中では購入ということで備品計上している。ただ、購入とリースでそれぞれメリット、デメリットがある。購入の場合は、リース料がかからないため、単独の費用に関しては割安になる。一方、リースは、OSのサポート終了等の場合においても柔軟な対応ができる。そういったことも含めて検討していく。
 
-</div></div>
+</div>
 
 ### 5年ごとの更新で発生する余剰な端末を市民に提供しては
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 私の意見としては、リースではなく購入していただきたい。5年ごとに更新になるなら、その際に余る端末を、たとえば市民で希望する方々に安価で提供したり、無料で配ったりすればよいと思う。それもひとつ考慮していただきたい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 5年ごとの更新で端末をどうするかに関し、現時点で検討していることはあるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育部長（川上）<br><div>
+<div class="bln bright" data-speaker="教育部長（川上）">
 
 5年経過すると動作がスムーズにいくかどうか。今、通信環境はどんどん進化しているので、それに耐え得るものであれば、別の活用も出てくると認識している。
 
-</div></div>
+</div>
 
 ### 利用者が負担する費用は
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 今後、利用者が負担する費用発生の可能性はあるか。その内容は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川）（初）<br><div>
+<div class="bln bright" data-speaker="教育長（古川）（初）">
 
 現時点では、児童・生徒が家庭等に持ち帰って学習する場合の通信費用の負担を想定。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 分散登校は始まったが、まだ家でオンライン学習するタイミングが多い。午前中の答弁でも、保護者からの相談でオンライン学習に関する不安が結構あるという話だった。それだけ要望もある。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 家庭のインターネット環境で差が出てしまう。各家庭の（インターネット環境）調査をしたということだが、定額払えば使いたい放題の家とか、容量が何十ギガバイトまでと決まっているとか、そういうところまで把握しているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育部長（国冨）<br><div>
+<div class="bln bright" data-speaker="教育部長（国冨）">
 
 今回の調査では、通信環境の細かいところまでは調査していない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 結構これが問題になるのでは。お金がなくて通信環境を入れていないけれども、オンライン学習が始まって通信環境を入れなければならない。そうすると「うちでは学習に参加できない」という家も出てくる可能性があるのでは。生活扶助の家庭には補助が出る話もあるが。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 また、今回、臨時休校中にモバイルルーターを貸し出して使ってもらうということだが、たとえば、オンライン授業を行うことでどれぐらいの通信容量が必要になるかといった、今後に生かせるような、そういった見積り（調査）はする予定か。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育部長（国冨）<br><div>
+<div class="bln bright" data-speaker="教育部長（国冨）">
 
 見積りは細かいところまでしていないが、今回貸し出すモバイルルーターの容量は、3日間で4.5ギガバイト、30日間で45ギガバイト分であり、十分な容量と考えている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 どれぐらいの容量が実際に使われるかを測定し、効率的にどれぐらいの契約にすればよいかというのを。たとえば、一人一人の容量ではなく、全体としてこれだけの契約というやり方もあると思うので、そういったことを検討してもらいたい。
 
-</div></div>
+</div>
 
 ### なぜこれまで事前に想定して準備してこなかったのか
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 以上、今後検討することがたくさんあるという話だが、なぜこういったことを事前に想定して準備してなかったのか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 ICT化を進めている学校は、私立の学校が多いと思うが、たくさんある。自治体の研究事例も結構ある。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 GIGAスクール構想の前段にあった『フューチャースクール推進事業』は平成22年から平成25年まで行われている。子どもたちの立場から考えると、もっと早く、たとえば、研究会に参加したり、市としても実際にどこかのクラスで先進的に少し導入して、どういった課題があるのか上げておいてほしかった、そういう子どもたちもいるかもしれない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 そういった準備をするのは当然のことだと思うが、（しなかったのは）なぜか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 現場の先生たちは、なかなか普段の授業準備などで忙しく、そういった先のことまでやる時間がないと。先生たちができないことに関して、教育委員会が率先して取り組むべきでは。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育部長（国冨）<br><div>
+<div class="bln bright" data-speaker="教育部長（国冨）">
 
 もっともなこと。ただ、教育委員会の現状として、さまざまな教育課題、働き方改革等も含めて課題がある中、教育委員会で行うべき業務も増大している。そういった中、3月定例会でも答弁したが、課題のひとつに教育委員会の組織能力ということもある。その中で優先順位をつけ、必要なことをやっていくことから、今回のこのGIGAスクールについては、やはり優先順位が今の新型コロナウイルス感染症になって高くなった。教育委員会の事務局のメンバーも、新型コロナウイルス感染症の前と後だと、今のほうがはるかに業務量が増え、努力しているところ。
 
-</div></div>
+</div>
 
 #### 組織能力の問題をどう解決するのか
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 組織能力に問題があるんだったら、その組織能力をどうするのか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育部長（川上）<br><div>
+<div class="bln bright" data-speaker="教育部長（川上）">
 
 コロナ禍で、教育委員会でも在宅勤務という形で緊急的な対応を取ってきた。その中、今後の配備に向けて大きく方針転換した中で、職員は本当によく精力的に動いており、2交代制の中で、毎日、引継ぎメモを残している。かなりハードワークをしている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育部長（川上）<br><div>
+<div class="bln bright" data-speaker="教育部長（川上）">
 
 全体的な組織能力の向上においては、教育委員会、業務の特質として、単独の課で終わらないというところがあり、常に横の連携を意識して業務を行っていく必要がある。GIGAスクールに関しても、教育委員会の中でも2課が関わって対応している。組織能力の向上、GIGAスクール構想に向けてのものというのは今後の対応になるが、この中での対応ということでは精いっぱい行った。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 頑張ってらっしゃることはよく分かるが、組織能力をどうするのかは誰に聞けばよいのか。子どもたちのために、組織能力をよくしていくことを検討しなければならない。それはどこに、誰に聞けばよいのか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育部長（川上）<br><div>
+<div class="bln bright" data-speaker="教育部長（川上）">
 
 2つある。ひとつは、個々の能力を最大限に発揮できる、そのための職場環境をつくっていくこと。もうひとつは、どうしても事務量が増大していくということに関しては、これはマンパワーが必要な面もある。こういったことは課題認識として捉えている。今後、庁内の調整等を進めていきたい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 せっかく頑張っていらっしゃって、疲弊してしまうことは、子どもたちにとってもよくないこと。それは優先度をなるべく高く対応してもらいたい。
 
-</div></div>
+</div>
 
 ### ICT機器充実のためのふるさと納税を設置しては
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 子どもたちのICT機器充実のためというような、特定目的のふるさと納税を設置してはどうか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川）（初）<br><div>
+<div class="bln bright" data-speaker="教育長（古川）（初）">
 
 このたび、ふるさと納税の寄附金の使い道のひとつに、学校におけるICT環境整備の推進を設定し、寄附を募っている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 この質問（通告書）を書いた後にサイトを見たら、学校におけるICT環境整備の寄附、特定目的の寄附の話が書いてあり、市も目的を決めて寄附するようになったのかなと。これは初めてのことか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 ただ、やはり[サイト](https://www.city.kodaira.tokyo.jp/kurashi/008/008686.html)が分かりにくい。使い道に「パソコンを1人1台に配備するために使う」といったことが書いてある。GIGAスクール構想で1人1台になるのに、このお金は一体何に使われるのか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">企画政策部長（津嶋）<br><div>
+<div class="bln bright" data-speaker="企画政策部長（津嶋）">
 
 今回、予算積算は、国が示している1台4万5,000円というような基準額に基づいている。はたしてそれで実際にその購入ができるか、リースになるかもしれないが、それで整備ができるかはまだ分からない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">企画政策部長（津嶋）<br><div>
+<div class="bln bright" data-speaker="企画政策部長（津嶋）">
 
 また、先ほども話があったが、今後、入替え等のお金も必要になってくる。これだけのものを整備するに当たり、もろもろ、さまざまなところでまた必要経費が出てくるだろうということで、できればそういう支援をいただけないかということで、今回、こういう案内をつけている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 自分が寄附する立場になったときに、ちょっと分かりにくいと思う。使い道としては電子黒板など、1人1台以外のところで必要になるICT機器のところで必要になるのではないか。寄附してもらった人の名前を、ニックネームでもよいが、どこかに掲示することを考えてもよいのでは。要望として検討していただければ。
 
-</div></div>
+</div>
 
 ### ディスレクシアや不登校の児童・生徒が今後整備されるICT環境を活用できるようにどう検討しているか
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 ディスレクシアや不登校の児童・生徒が今後整備されるICT環境を活用できるよう、どう検討しているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川）（初）<br><div>
+<div class="bln bright" data-speaker="教育長（古川）（初）">
 
 ディスレクシアや不登校の児童・生徒に対し、ICT環境を整備し、活用することは重要と認識しており、GIGAスクール構想による整備を進めながら、端末導入後の活用方法も研究を進める。
 
-</div></div>
+</div>
 
 ### 運用に当たり、ディスレクシアや不登校の当事者の意見反映が不可欠だが、どう考えるか
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 運用するに当たり、ディスレクシアや不登校の当事者の意見反映が不可欠と考えるが、どうするか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川）（初）<br><div>
+<div class="bln bright" data-speaker="教育長（古川）（初）">
 
 当事者の意見は必要と考えており、情報端末導入後には、特別支援教室やあゆみ教室の教員を通し、当事者の意見を聞き取る機会をつくる。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 運用の前段階で、OSやソフトウェアに依存するところが結構大きくあるので、導入の段階でも実際に当事者の方を本当は入れてほしかった。
 
-</div></div>
+</div>
 
 ### これを機に、どの児童・生徒も自由にデイジー教科書を選択できるようにしてはどうか
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 これを機に、デイジー教科書の一括ダウンロード申請を行い、どの児童・生徒も自由にデイジー教科書を選択できるようにしてはどうか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川）（初）<br><div>
+<div class="bln bright" data-speaker="教育長（古川）（初）">
 
 情報端末の導入に伴う積極的な活用を検討する。
 
-</div></div>
+</div>
 
 #### デイジー教科書とデジタル教科書の違いは
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 デイジー教科書とデジタル教科書の違いは。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育部長（国冨）<br><div>
+<div class="bln bright" data-speaker="教育部長（国冨）">
 
 デイジー教科書は、音声でその選択した部分について視聴できたりする機能がついている。デジタル教科書も最近改良され、そういう機能が追加され似ている部分はあるが、デイジー教科書に特徴的なものがある。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育部長（国冨）<br><div>
+<div class="bln bright" data-speaker="教育部長（国冨）">
 
 大きな特徴として、デイジー教科書に関しては、ニーズがある方に無償で提供してもらえる。デジタル教科書は有償。そういったところの活用というところでは、無償のほうがやはり使いやすい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 デジタル教科書は、今のところ、市では導入や購入する予定はないということか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育部長（国冨）<br><div>
+<div class="bln bright" data-speaker="教育部長（国冨）">
 
 デジタル教科書も有用性は非常にあると考えている。限られた予算の中で、優先度は高くなっているが、各学校の中で力を入れたい教科というのがある。たとえば道徳の研究をやっているところは道徳のデジタル教科書を入れたいとか、算数とか。そういったところも踏まえていきながら、今後、検討課題。
 
-</div></div>
+</div>
 
 #### デイジー教科書の一括ダウンロード申請を行うメリットは
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 デイジー教科書の一括ダウンロード申請を行うと何かよいことがあるのか。一括と一括ではない場合とでどういう差があるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育部長（国冨）<br><div>
+<div class="bln bright" data-speaker="教育部長（国冨）">
 
 一括だと、今後、GIGAスクール構想で1人1台になった場合、ニーズがある子どもがすぐに使えるよさがある。個々それぞれがやっていくと、手続的な手間もあり、それぞれ使いたいときに使えないということもある。一括でできる環境を整えていくことが重要。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 一括ダウンロードしたとき、それは誰でも使えるものではなく、読み書きに困難さを抱えているとか、周りの人や自分が理解している方が実際に使えるということでよいか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育部長（国冨）<br><div>
+<div class="bln bright" data-speaker="教育部長（国冨）">
 
 無償提供してくれる法人の内容等を見ると、誰でもということではない。ニーズがあるということを、きちんとこちらで捉えなければならない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 前回の一般質問と重なるが、結局、誰が読み書きに困難さを抱えているかというのをまず把握してからでないとデイジー教科書がその子にとって活用できるものなのかどうか判断がつかない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 全員に一括の統一したアセスメントを行い、誰が読み書きに困難さを抱えているかを把握する必要があるのではと言った。それがまだできないということなら、デイジー教科書は誰でも使えるようにして、「デイジー教科書を使ってみたら、自分にはこっちのほうが使いやすかった」とか、そういう判断がつけばよいと思う。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 調べたら、4月28日に、改正著作権法で「[授業目的公衆送信補償金制度](https://www.bunka.go.jp/seisaku/chosakuken/92169601.html)」というのがあって、学校など営利を目的としない教育機関の授業では、一定の範囲の利用について、著作権者の許諾を得ることなく、著作物の公衆送信を行えるようにするとある。
 
-</div></div>
+</div>
 
 #### デイジー教科書についても、授業目的公衆送信補償金制度は使えるか
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 著作権の使用許諾なく、補償金を使えば使えるような話だと思う。これは令和2年度に限っては無償で使えるということだが、デイジー教科書についてもこれは使えるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育部長（国冨）<br><div>
+<div class="bln bright" data-speaker="教育部長（国冨）">
 
 デイジー教科書が適用されるかは、今存じてないが、その制度はすでに申請を終えている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 令和2年度限りだとすると時間がないが、そういったことをして、デイジー教科書のほうが使いやすい子を見つけ出す方法はないかと思う。
 
-</div></div>
+</div>
 
 ### 個別最適化は、よい面もある一方、学び合い、助け合うという互助の精神育成の面で懸念があるが、どう捉えているか
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 GIGAスクール構想が進む先には個別最適化がある。個別最適化は、よい面もある一方、学び合い、助け合うという互助の精神育成の面で懸念があるが、これをどう捉えているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川）（初）<br><div>
+<div class="bln bright" data-speaker="教育長（古川）（初）">
 
 ICT環境が整備されることにより、個々の学習者の理解度に応じた学習展開がなされると認識。一方、協働による学びも重要であることから、ICT機器を活用した協働的な学びを教科等で行う実践例も踏まえながら、各校の指導に生かせるよう環境を整える。
 
-</div></div>
+</div>
 
 ### 情報の偏りを避けるため端末にフィルタを設定する場合はオプトアウト方式が好ましいと考えるが、どうか
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 情報の偏りを避けるため、端末にフィルタを設定する場合はオプトアウト方式が好ましいと考えるが、どうか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川）（初）<br><div>
+<div class="bln bright" data-speaker="教育長（古川）（初）">
 
 情報セキュリティは、情報の偏りや事故の未然防止のために必要であると認識。今後の学校のICT環境の整備に合わせ、必要な対応が図れるよう検討する。
 
-</div></div>
+</div>
 
 ### 端末を活用し、匿名で児童・生徒から率直な意見を集めては
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 端末を携帯してもらえれば、児童・生徒から率直な意見を直接集めることができる。匿名で相談や市政に関するアンケートなど、児童・生徒の悩みごとや意見を集めるアプリを開発し、端末に導入してはどうか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川）（初）<br><div>
+<div class="bln bright" data-speaker="教育長（古川）（初）">
 
 現時点で、教育委員会でアプリの開発を行うことは困難だが、他地区の事例等を研究していく。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 1人1台端末を配るので、直接生徒にアプローチできる、よい機会でもある。虐待を受けている相談もチャットでしたらやりやすいのではないかとか、そのあたりも検討していただければ。
 
-</div></div>
+</div>
 
 ### 緊急事態宣言の再実施など登校できない状況が再発した場合にはどう対応するか
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 新型コロナウイルス感染症対策等に対応したリモート授業（以下、リモート授業と呼ぶ）の想定に関して、端末が配られる前に、緊急事態宣言の再実施など、登校できない状況が再発した場合、どう対応するか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川）（初）<br><div>
+<div class="bln bright" data-speaker="教育長（古川）（初）">
 
 リモート授業にどう対応するかは、現在、緊急的措置として、ICT環境の整っていない御家庭にタブレット端末とモバイルルータを併せて貸出しできるよう準備を進めている。再度、臨時休業を実施する状況になった場合も、東京都の補助制度の動向等を踏まえ、貸出しなどの対応を図っていく。
 
-</div></div>
+</div>
 
 ### 出席の取扱いなど、リモート授業における法律上の課題とその対応は
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 リモート授業の想定に関して、出席の取扱いなど、リモート授業における法律上の課題とその対応は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川）（初）<br><div>
+<div class="bln bright" data-speaker="教育長（古川）（初）">
 
 現在、リモート授業で行った授業は、履修として取り扱うことや出席としての取扱いもできないため、これらの課題については、文部科学省の対応指針などを注視し、対応していく。
 
-</div></div>
+</div>
 
 ### リモート授業でディスレクシアの児童・生徒はタブレット1台の端末では困難さがあるのでは
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 リモート授業の想定に関して、ディスレクシアの児童・生徒はデイジー教科書等を見ながら先生の話を聞くこともあり、紙の教科書を併用する場合と比して、1台の端末では困難さがあると予想される。どう対応するか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川）（初）<br><div>
+<div class="bln bright" data-speaker="教育長（古川）（初）">
 
 ディスレクシアの児童・生徒は、1台ではなく、複数台の情報端末の配備が望ましいと認識しているが、まずは国が示す1人1台の端末の配備を目指す。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 すでに整備済みのPCを貸与するようなことはどうか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育部長（国冨）<br><div>
+<div class="bln bright" data-speaker="教育部長（国冨）">
 
 整備済みの端末と1人1台とは大分機能が違ってくるので、今即答はできないが、そういうやり方ができるのではないかと、研究していきたい。
 
-</div></div>
+</div>
 
 ### 授業を録画していつでも再生できるようにするとよいと考えるがどうか
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 児童・生徒の利便性や回線切断への対応のため、授業は録画し、いつでも再生できるようにするとよいと思われるが、どう考えるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川）（初）<br><div>
+<div class="bln bright" data-speaker="教育長（古川）（初）">
 
 授業を録画し、いつでも再生できるようにすることの有用性は認識しているが、一方で、教員は、授業準備に加えて、動画の撮影、確認、調整、配信など、業務が増加することから、実施には課題があると捉えている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 これについて、GIGAスクールサポートのICT支援員（の活用も考えられる）。ICT支援員に関して、市として考えていない理由は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育部長（川上）<br><div>
+<div class="bln bright" data-speaker="教育部長（川上）">
 
 今回、国からの補助もかなり充実したものが出ている。運用上、何か支障が起きた場合の対応が今後考えられる。その技術的なサポートが必要な場面を、業者に委託して行うのか、あるいは何らかの形で任用して対応するのか、さまざまな検討が必要になる。今後の検討。
 
-</div></div>
+</div>
 
 ### 子どものことを一番に考え、組織的問題は全庁的な解決を
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 子どものことを一番に考えてもらいたい。誰一人見過ごさないと約束しているので、それを実行するため、前回の質問でも、300人いるかもしれない人たちを1人も見過ごさず、ちゃんと見つけ出して対応していくという姿勢がいまいち見えないところがある。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 組織上のリソースの問題は、全庁的に解消していかなければいけないこと。考えていただきたい。
 
-</div></div>
+</div>
 
 <p style="text-align:right">以上</p>
 

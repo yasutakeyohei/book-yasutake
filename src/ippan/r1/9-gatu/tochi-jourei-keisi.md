@@ -87,90 +87,90 @@ const showPDF = (url) => {
 
 ### 今回質問する理由
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 回田町218番地周辺で行われている宅地開発に関し、大規模な開発にもかかわらず公園が設置されないことや、一連の取引、開発に関する説明が十分になされていないことなどから、周辺住民の間で市に対する不信、不満の声が上がっている。特に、若い家族世帯が多く移り住んでいる状況で、子どもたちが遊ぶ公園が近隣にないことや、緑が減ることについて心配する声が大きい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 この土地は、もとの所有者が平成28年7月1日に全体で約8,000㎡の土地を3つに分割し、それぞれ3,000㎡未満の契約として3社へ売却したもの。この3社との取引（以下、当取引と呼ぶ）は、同一の者が行う合計面積5,000㎡以上の土地取引行為であったにもかかわらず、[小平市開発事業における手続及び基準等に関する条例](https://www.city.kodaira.tokyo.jp/reiki/reiki_honbun/g135RG00001187.html)（以下、条例と呼ぶ）で定められた届け出が期間内にされていない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 また、大規模な土地利用を小平市の都市計画マスタープランの方針等に照らし合わせるために規定されている小平市土地利用審議会での審査や、市長の助言プロセスも行われていない。さらには、事業面積が5,000㎡以上の開発事業で同一の事業者が開発を行う場合に必要とされる大規模開発事業のプロセスや、同様に3,000㎡以上の開発で必要とされる中規模開発事業のプロセスも踏まれておらず、先述したように、都市計画法の規定に基づいて3,000㎡以上の開発において整備すべき公園等も設置されていない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 5,000㎡を超える大規模土地取引および大規模土地開発に際し、複数業者との間で土地を分割して売買するなどの手法によって個々の土地面積を減らすことで、法や条例に定めた事項を回避できてしまうのであれば、小平市のまちづくりの根幹が崩れることになり、非常に大きな問題だ。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 そこで、当取引に関する市の対応の再検証と、東京都への働きかけも含めた条例等見直しの要望を念頭に質問する。
 
-</div></div>
+</div>
 
 ### 大規模土地取引の届け出に関する条例違反について
 
 #### 経緯、原因、対処、再発防止策は
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 大規模土地取引の届け出は取引契約の3ヵ月前に行われなければならないが、当取引は契約締結後1ヵ月での届け出と遅れたことについて、その経緯、原因、市としての対処、再発防止策は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林正則）（初）<br><div>
+<div class="bln bright" data-speaker="市長（小林正則）（初）">
 
 平成28年1月に、市は、土地所有者の仲介人から生産緑地であった土地について売買の相談があったため、大規模土地取引行為の届け出や大規模開発事業に関する公共施設の設置等について説明を行った。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林正則）（初）<br><div>
+<div class="bln bright" data-speaker="市長（小林正則）（初）">
 
 その後、同年7月に、土地を3つに分割し、取得した3社から、国土利用計画法に基づく土地取引の届け出があった。当該土地につきましては、すでに土地売買が行われていたことから、市から大規模土地取引行為についての届け出を促し、同年8月に提出された。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林正則）（初）<br><div>
+<div class="bln bright" data-speaker="市長（小林正則）（初）">
 
 本来ならば、大規模土地取引行為を行う前に市長の助言等を行う必要があるが、すでに契約が締結されていたことから、もとの土地所有者に対し、良好なまちづくりへの協力を取得した3社に伝えていただくようお願いした。届け出がおくれた原因としては、3つに分割して売却したそれぞれの土地面積が5,000㎡未満であったことから、もとの土地所有者が、大規模土地取引行為の届け出は不要であると自ら解釈をしたもの。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林正則）（初）<br><div>
+<div class="bln bright" data-speaker="市長（小林正則）（初）">
 
 今後の対応としては、大規模土地取引行為の届け出について、現在、市のホームページや窓口のチラシ等で周知をしているが、譲渡人や譲受人が届け出を行うことが原則となることから、生産緑地の買い取り申し出があった際や事業者が窓口に相談に来た際に、必要となる手続について、より一層丁寧な説明を行っていく。
 
-</div></div>
+</div>
 
 #### 条例違反があったということでよいか
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 5,000㎡以上の土地を売却する際、売り主は売却契約の3ヵ月前に届け出をしなければならないと条例で決められている。しかしこのケースでは届け出が期限内になされなかった。つまりもとの土地所有者による条例違反の行為が行われたということでよいか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">都市開発部長（村田）<br><div>
+<div class="bln bright" data-speaker="都市開発部長（村田）">
 
 ご披瀝のとおり、大規模土地取引行為は契約の3ヵ月前までに市に届け出ることが条例で義務づけられている。それが出ていなかった。条例は守られていなかった。
 
-</div></div>
+</div>
 
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 届け出がおくれた理由は、分割売却したそれぞれの土地面積が5,000㎡未満だったので、もとの土地所有者が届け出は不要であると解釈した、という答弁だった。条例を読めば分かるが、ここは分割売却は関係のない話。
 
-</div></div>
+</div>
 
 <div class="tips" id="大規模土地取引行為の届け出は分割売却であっても必要">
 
@@ -197,134 +197,134 @@ const showPDF = (url) => {
 
 </div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 土地を売る側が出す届け出なので、購入側で複数に分割されていようとまったく関係ない。この認識でよいか。また、市長が適当でないと認めたのか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">都市開発部長（村田）<br><div>
+<div class="bln bright" data-speaker="都市開発部長（村田）">
 
 その認識でよい。事前相談があったとき、市として、今後、大規模土地取引行為の届け出が必要になると指摘していた。その後、勘違いされ、分割してすでに契約してしまった。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">都市開発部長（村田）<br><div>
+<div class="bln bright" data-speaker="都市開発部長（村田）">
 
 市もそのことについては注意し、その後、要望書として出している。なお、市長が特に認めたということではない。
 
-</div></div>
+</div>
 
 #### 農協から経緯は聞いているか
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 平成28年1月に生産緑地買い取りの申請があった際、仲介人の農協に説明している。ただ、それがもとの土地所有者の方にはちゃんと伝わっていなかった。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 生産緑地の買い取り申請からだいたい半年たってから突然、国土利用計画法に基づいて、土地を買ったという届け出が3社から出た。そこで初めて市は大規模な土地の売却が行われたということを知った。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 ということは、仲介人の農協が、ちゃんともとの土地所有者に説明していなかったということになる。そのあたりの経緯は聞いているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">都市開発部長（村田）<br><div>
+<div class="bln bright" data-speaker="都市開発部長（村田）">
 
 市はそこまではタッチしていない。あくまでも事前相談のとき、今後必要になると、きちんと説明したと市は認識している。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">都市開発部長（村田）<br><div>
+<div class="bln bright" data-speaker="都市開発部長（村田）">
 
 その後、契約が行われ、国土利用計画法に基づいての届け出がなされた。そこで市は初めて知った。市は、督促ではないが連絡し、至急出してほしいということで、結果、大規模土地取引行為届出書が出された。
 
-</div></div>
+</div>
 
 #### 条例違反に対して罰則は
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 この条例違反に対し、罰則はあるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">都市開発部長（村田）<br><div>
+<div class="bln bright" data-speaker="都市開発部長（村田）">
 
 罰則はない。条例の中で大規模に関する事項については勧告という行為がある。しかし、今回、遅れてはいるが、勘違いされ、出されているので、悪意はないと思い、勧告まではいかないと考えている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 条例違反がわかった時点では何もできず、さらに問題が発覚しているのに、農協のほうに調査していない。指導どころか調査もしなかった。これは条例の著しい軽視では。
 
-</div></div>
+</div>
 
 #### 届け出が行われなかったケースはこれまで何件あるか
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 届け出が今まで行われなかったケースは、これまで何件あるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">都市開発部長（村田）<br><div>
+<div class="bln bright" data-speaker="都市開発部長（村田）">
 
 平成30年度から平成24年度までに出た届け出15件のうち、今回の回田町以外に1件あった。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 今まで1件あって、特に対処はしていなかったのか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">都市開発部長（村田）<br><div>
+<div class="bln bright" data-speaker="都市開発部長（村田）">
 
 その1件は、病院の土地で、経営が変わったことによる。病院自体はそのまま引き継がれてやっているため、市長の助言、指導等は行っていない。病院の経営が変わったところで、少し見過ごしていたこともあり遅れた。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 今回のケースが許されると「条例を無視しても大丈夫」となる可能性がある。今回の件は、農協に状況を調査して、ちゃんと報告してもらいたい。
 
-</div></div>
+</div>
 
 #### 事後の罰則が必要なのではないか
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 勧告は、届け出をしていないということが判明して初めてできる。つまり、期限が到来するまでの間に市はチェックができない。期限が過ぎてから届け出したものは、事後の罰則を与える必要があるのではないか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">都市開発部長（村田）<br><div>
+<div class="bln bright" data-speaker="都市開発部長（村田）">
 
 市の行政指導という中では、罰則まで設けるのはなかなか厳しい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">都市開発部長（村田）<br><div>
+<div class="bln bright" data-speaker="都市開発部長（村田）">
 
 今後の改善については、大規模土地取引行為の届け出をする提出者からは当然（？）相談されるので、今後は、より明確に説明するとともに、ある程度その予定日を聞き、その予定日に近づいたら、その辺は少し啓発を図るとか、そういったことはできると考えている。
 
-</div></div>
+</div>
 
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 勧告に従わなかったケースについては罰則を与えている。なぜ今回のケースで罰則が与えられない判断になるか。
 
-</div></div>
+</div>
 
 <div class="tips" id="勧告に従わない場合は罰則がある">
 
@@ -336,49 +336,49 @@ const showPDF = (url) => {
 
 </div>
 
-<div class="balloon bl-right">都市開発部長（村田）<br><div>
+<div class="bln bright" data-speaker="都市開発部長（村田）">
 
 勧告をしたにもかかわらず、たとえばそれに耳を貸さないとか、出さないとか、そういった場合に名前を公表する。次の手段があるということでの罰則。あくまで勧告→名前の公表という形で規定に設けている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 事前に出してくださいと言っているにもかかわらず期限内に出していないわけで、同じ話では。
 
-</div></div>
+</div>
 
 #### この姿勢では、都市計画マスタープランを大規模土地開発に反映させられない
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 土地取引行為の事前届け出になぜここまでこだわっているかというと、小平市の都市計画マスタープランを大規模土地開発に反映させるため。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 どういうことかというと、大規模土地取引行為の届け出が出ると小平市の土地利用審議会が審議し、その取引に関して市長から助言できる。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 なお、小平市土地利用審議会は現在5人で構成されている。議事録を見ると、土地利用構想についてはあったが、土地取引行為については見当たらない。
 
-</div></div>
+</div>
 
 
 #### 小平市土地利用審議会について
 ##### メンバー構成は
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 小平市土地利用審議会のメンバーは。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">都市開発部長（村田）<br><div>
+<div class="bln bright" data-speaker="都市開発部長（村田）">
 
 メンバーは、
 
@@ -388,17 +388,17 @@ const showPDF = (url) => {
 - 財団法人の不動産関係の仕事をされている方
 - 学校の関係者
 
-</div></div>
+</div>
 
 ##### 最近はいつ開催され、どういう助言が行われたか
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 小平市土地利用審議会は最近いつごろ土地取引行為について活動し、市長からどういう助言が行われたか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">都市開発部長（村田）<br><div>
+<div class="bln bright" data-speaker="都市開発部長（村田）">
 
 本年6月ごろに元自動車教習所跡地の大規模土地取引行為の届け出があり、本年8月上旬に小平市土地利用審議会を開催している。8月下旬に助言を交付し、主だった内容は：
 - 周辺には幼稚園や戸建て住宅、マンションの住宅があることから、周辺の住宅環境等に十分配慮した計画とすること
@@ -407,27 +407,27 @@ const showPDF = (url) => {
 - 周辺住民も含めた交流を図ることができる地域コミュニティーの創出を図ること
 - 譲受人が助言内容を遵守するよう責任を持って引き継ぐこと
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 今回は、土地取引行為の届け出が遅れ、小平市土地利用審議会から助言を与えるプロセスが省かれてしまった。大規模な土地開発において都市計画マスタープランを反映するというひとつの機会が失われてしまっている。まちづくりという観点から見ると、とても大きな問題。
 
-</div></div>
+</div>
 
 #### 条例の目的や理念が軽視されている
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 もうひとつ大きな問題は、この土地開発に関する一連の対応で「条例の目的や理念が軽視されている」と感じるところ。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 条例には目的や理念がある。この条例に関しても、第1条（目的）や第3条（市の責務）に書かれている。
 
-</div></div>
+</div>
 
 <div class="tips" id="条例の目的や理念">
 
@@ -439,65 +439,65 @@ const showPDF = (url) => {
 
 </div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 つまり、市は、開発事業が行われる際、まちづくりの理念やビジョンがその開発に反映されるように努めなくてはならないとされている。今回の条例違反は、こういった理念に反している。もし開発業者の短期的な利益追求で開発事業が行われると、理想的なまちづくりはできない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 一方、法や条例は、複数の意味に解釈できるところがある。ある程度の遊びを持たせるようにはなっていると思う。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 そのため、逆に、条例の背景にある目的や理念、町をどうしていきたいかというビジョン、そういうものが重要になる。それらに基づいて条文を解釈しなくてはならないし、条例のほうに目的や理念やビジョンにそぐわない部分があれば、改正しなければならない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 市の条例は、そういうふうに成り立っていると考えてよいか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">都市開発部長（村田）<br><div>
+<div class="bln bright" data-speaker="都市開発部長（村田）">
 
 ご披瀝のとおり、都市計画マスタープランの目指す良好な住環境の形成と、安全で快適な都市環境を備えた市街地の形成に向けて都市計画行政を進めている。その理念にかなっているものと思っている。
 
-</div></div>
+</div>
 
 ##### 条例の目的や理念の軽視（1）条例違反
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 その目的や理念、ビジョンに反することが今回複数起きている。この条例違反を筆頭に4つぐらいある。1つ目はこの条例違反。
 
-</div></div>
+</div>
 
 ##### 条例の目的や理念の軽視（2）3社に分割して販売された状況を看過
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 2つ目は、ほかの議員も指摘している「3社に分割して販売した件」について。市の調査では3社に関連性が認められなかったが、私たちのほうで調べたら3社に関連性はあった。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 仮にこの3社にまったく関連性がなかったとしても、全体として大規模な開発であることに変わりはない。条例の理念を重視すれば、そこに小平市のまちづくりを何とかして反映しなければならない、そう考えるはずではないか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">都市開発部長（村田）<br><div>
+<div class="bln bright" data-speaker="都市開発部長（村田）">
 
 ご披瀝のとおり、大規模土地取引行為について条例は守られなかったが、そのほかのことについては、市は、基本的には条例のとおりに指導もしてきたし、運用も含めて理念にかなった指導をしていると考えている。これからもそういう形で、より丁寧に指導していきたい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 条例の理念に沿って、今回何が行われたか。市長から元土地所有者の方へ、届け出が遅れた後に、市長の助言ではなく、次のような内容のお知らせを送っている。
 
@@ -505,27 +505,27 @@ const showPDF = (url) => {
 
 それだけ。先ほどの小平市土地利用審議会で出てきた市長の助言内容と、ずいぶん違う。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 市長のお知らせが送られた後は、開示された資料を読む限り、一体的な計画という話はどこかに行ってしまい、買った3社の言い分である、個別の開発ですという言葉の言いなりになってしまっている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 市は、この開発行為に関して、2段構えの論理で「一体の開発ではない」ということを固持している。1段目の守りは「関連会社」のところ。これはほかの議員の質問にあったとおり。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 2段目の守りは、「東京都が決めた区域で東京都が許可を出す開発事業であって、市は同意をする立場なので、小平市が決める区域で事業の一体性の判断をすることは運用上していない」という論理。つまり東京都に責任があるので、小平市としては介入を諦めるという態度。これはまさに小平市独自のまちづくりを進めていこうという条例の精神に反した行動。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 東京都が許可を出すと言っても、その前に調整会議があるので、その場で調整すればよい。実際、東京都に確認すると次のような回答だった。
 
@@ -533,23 +533,23 @@ const showPDF = (url) => {
 
 筋が通った話だと思うが、何か意見はあるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">都市開発部長（村田）<br><div>
+<div class="bln bright" data-speaker="都市開発部長（村田）">
 
 市は、過去から、東京都とその辺を調整しながら、東京都の考えなども把握して進めてきた。東京都の判断も仰ぎながら、都市計画法第29条という一番大きな法の中の考え方に基づき執行してきている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 なぜか私たちが調べると、関連性のことも、第29条の区域どりの話も、まったく逆の答えが出てくる。そのような根拠に基づいて、業者の論理を固持している。条例の理念に反すると思う。
 
-</div></div>
+</div>
 
 ##### 条例の目的や理念の軽視（3）「市民とともにまちづくり」がされていない
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 理念に反すると感じる3つ目は「事業者が市民とともに行うまちづくり」の項目について。条例の第5条に次のようにある。
 
@@ -557,9 +557,9 @@ const showPDF = (url) => {
 
 つまり、**事業主は市民とともにまちづくりを行う必要がある**とされている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 では、どう市民とともにまちづくりを行っているか。事業主が市民と接したところは、大規模開発ではないが、[小平市開発事業における手続及び基準等に関する条例の第18条](https://www.city.kodaira.tokyo.jp/reiki/reiki_honbun/g135RG00001187.html#e000000339)に次のように規定されている。
 
@@ -567,29 +567,29 @@ const showPDF = (url) => {
 
 普通に考えると、どこかの会場を借り、住民と業者が意見交換できるような場を設けるのだろうと。少なくとも私はそう考えた。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 しかし、実はそういう説明会ではない。今回の最初の開発に関する住民説明報告書を見ると、周辺の115世帯を戸別訪問し、70世帯はお知らせをポストに投函しただけ。60%の世帯にはポスト投函しただけ。しかも業者の自己申告で、115世帯すべてで質疑は一切ないとしている。これで「市民とともにまちづくりを行った」ことになっている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 今こんなに問題になっていることを考えると、住民に対する説明が足りていなかったことは明らかだ。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 住民説明の項についても、見直されてしかるべき箇所だ。大規模開発として認定されていれば、もっと住民の意見を集める機会が得られる仕組みにはなっているが。
 
-</div></div>
+</div>
 
 ##### 条例の目的や理念の軽視（4）消防水利施設の設置に向けた努力の跡がない
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 条例の理念に反すると感じる4つ目は、消防水利施設の件。[小平市開発事業における手続及び基準等に関する条例の第33条](https://www.city.kodaira.tokyo.jp/reiki/reiki_honbun/g135RG00001187.html#e000000579)（[小平市開発事業における手続及び基準等に関する条例施行規則の別表6](https://www.city.kodaira.tokyo.jp/reiki/reiki_honbun/g135RG00001188.html#e000000579)）に次のように書かれている。
 
@@ -605,91 +605,91 @@ const showPDF = (url) => {
 
 としか書かれていない。きちんと協議したのか非常に疑問。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 先日、ほかの議員の質問に対し「小平市内では消防水利の不足地域がある」と答弁していた。そういう状況の中、しかも一体の開発をお願いしますと事前にお願いし、お知らせしている状況にもかかわらず、協議報告書では相手の言うことをすんなり受け入れてしまい、防火水槽は必要ないと同意している。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 実際はもっとやり取りがあったのか。一体の開発をお願いしますという前提のもと、開発業者に消防水利の設置の働きかけは行ったのか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">都市開発部長（村田）<br><div>
+<div class="bln bright" data-speaker="都市開発部長（村田）">
 
 市長の助言では、一体の開発をお願いするということではなく、大規模土地取引行為を行おうとする者に対し、都市計画マスタープランに沿った良好な住環境の形成を目的として、より広い視点での一体性のあるまちづくりへの協力を、ということ。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">都市開発部長（村田）<br><div>
+<div class="bln bright" data-speaker="都市開発部長（村田）">
 
 開発区域を一体でとってほしいということではなく、道路の接続や緑地の配慮など、周辺との調和をとって、全体としてまちづくりを行ってほしいという趣旨でお願いしている。開発区域を全体でとれというようなところではない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">都市開発部長（村田）<br><div>
+<div class="bln bright" data-speaker="都市開発部長（村田）">
 
 防火水槽については、その時点では、全体のまちづくりということだけだったので、協議までには至っていない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 大規模な土地に関しての一体の開発だったのではと思うが、地域として一体の開発であったとしても消防水利は不足している。協議の上、そういったものを設置してくださいという、まちづくりの方向性を反映する必要がある。
 
-</div></div>
+</div>
 
 #### 結局は市長の責任、市長はどう考えるか
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 こうした条例の理念に反することが複数起きている。中規模開発や大規模開発も、ちゃんと理念にのっとって条例を解釈してやっているのか、疑念が湧く。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 ただ、職員の方々は間違いがないよう頑張っている。市民への悪意を持ってしていることではないだろう。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 では、なぜ条例を解釈するとき、目的や理念や市のビジョンを忘れてしまうのかというと、これは市長の仕事だから。会社なら、職場にビジョンを浸透させるのは社長の仕事。（市では）首長たる市長の仕事ではないか。市長はどう考えるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">都市開発部長（村田）<br><div>
+<div class="bln bright" data-speaker="都市開発部長（村田）">
 
 私も担当の課も、条例に基づくビジョンや理念は、忘れているわけではなく、それに基づき指導している。そういう認識で事業者とも住民とも接しているつもり。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林正則）<br><div>
+<div class="bln bright" data-speaker="市長（小林正則）">
 
 私はもともとライフワークが環境問題。その姿勢は変わっていない。今回の問題も、起きた段階で、部長のほうにすぐ来てもらい、役所というのは民民（民事）不介入で、どちら側にもつかないというのが立場だが、我々の仕事は、19万市民のため、いかに安全で安心な町あるいは潤いのある町をつくっていくのかということ。市民の側は、何十年に一回あるかないか、こういったことに巻き込まれるが、ほとんどずぶの素人。条例や法に日々接するわけではない。彼に言ったのは、小平市の目指す方向性に沿って、法を我々は犯すことはできないが、市民の側に立ち、できるだけ力をかしてあげなさいと。役所は市の理念に沿い、できるだけ市民の皆さんの期待に応えられるように努力して指示している。今も頑張っているし、市民の皆さんとの協議もまだ継続中と聞いている。そういう意味ではぜひ御理解いただければと思う。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 市長は、市民が今回何度も市役所へ足を運んで、複数の議員とともに担当課のやり取りを重ねたりとか、開示請求を行っていたりするが、条例違反から始まった今回のケース、市民との対話の現場には出てこないものなのか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">都市開発部長（村田）<br><div>
+<div class="bln bright" data-speaker="都市開発部長（村田）">
 
 基本的には、担当課である都市計画課が誠意を持って対応している。課長を筆頭に、意見交換会にも参加し、話し合いしている。
 
-</div></div>
+</div>
 
 #### 事業者の言いなりでは、理想的なまちづくりはできない
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 業者の立場では、大規模開発となることを避けることで、たとえば次のような大きなメリットがある。
 
@@ -699,69 +699,69 @@ const showPDF = (url) => {
 
 大規模開発を避けたほうがよいというインセンティブが働く。それに対し、市のまちづくりを大規模開発事業に反映させていくには、うまい仕組みや大きなエネルギーが必要。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 
 市長を初め、ビジョンをなし遂げるという情熱を持って取り組み、特に今回の検証、また東京都の言いなりになるんじゃなくて、東京都への働きかけも含め、条例の見直しを早期に実施してほしい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 今回の件はまだ続いている。3社への株主状況の報告依頼も含め、真摯に対応してもらいたい。
 
-</div></div>
+</div>
 
 #### 土地取引行為の届け出が出された際に、市民へ情報提供を
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 また、大規模な土地取引行為が行われたという事実は、その時点で周辺住民や市民がチェックできない。今回も開示請求で初めてわかった。今後同様なことが起きる可能性もある。大規模土地取引が行われたという情報、土地の場所、どの会社に売却されたかを、個人情報は隠しつつでも、公開してほしい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 大規模な土地開発が行われる前兆なので、以降のプロセスで必然的に巻き込まれていくよう、周辺住民の注意喚起にもつながるよいことだと思うがどうか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">都市開発部長（村田）<br><div>
+<div class="bln bright" data-speaker="都市開発部長（村田）">
 
 ある程度商取引等に影響を与えるため、すぐ公開というのは難しいと思うが、その辺の情報提供については、今後研究課題。
 
-</div></div>
+</div>
 
 
 ### 小さな提供公園が増えることについて市はどう考えるか
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 維持管理費用の問題から、市は小さな公園をなるべく増やしたくない動機があると聞く。今後大規模な生産緑地の宅地化が進む過程で、都市計画法の規定による公園等が増え、このままでは維持管理費用が増大する可能性が高い。市はこの問題をどう捉えており、どう対応する予定か。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林正則）（初）<br><div>
+<div class="bln bright" data-speaker="市長（小林正則）（初）">
 
 宅地開発による提供公園が増加していく中で、維持管理費用の増大は課題と捉えており、植生管理費の対策として、比較的成長が緩やかで、巨木化、高木化しない樹木の選定をお願いし、剪定費用の削減に努めている。また、公園ボランティア制度やアダプト制度を活用し、市民との協働を図りながら、公園の美化や維持管理ができるよう進めていく。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 上水南町の旧佐川邸公園の件でも、市からは公園をつくることに対し積極性を感じない。市が市民に「小さい公園はつくりたくない」と伝えたという話も聞いた。提供公園はつくらない方向にバイアスがあったのではないか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 しかし、今回の、合計で500㎡の規模はけっして小さくない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 インターネットを検索すると、政策研究大学院大学の方が書かれた『[開発許可制度における提供公園の影響に関する研究](http://www3.grips.ac.jp/~up/pdf/paper2012/MJU12616chiyotanda.pdf)』が出てくる。川崎市の、1,035個の公園を対象とした検証で、次のような結果。
 
@@ -770,31 +770,31 @@ const showPDF = (url) => {
 
 ある程度の広さの公園であれば、イベントを行うことや、避難場所としての機能、トイレ等の施設の充実等、しっかりした遊具の設備など、周辺環境にプラスの要素を多く有すると書いてある。
 
-</div></div>
+</div>
 
 #### 公園の存在が周辺の地価や人口動態に及ぼす影響は調査しているか
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 公園があることで、周りの地価や人口動態にどう影響を及ぼすかの調査を、小平市でも行っているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">環境部長（岡村）<br><div>
+<div class="bln bright" data-speaker="環境部長（岡村）">
 
 調査は具体的には行っていない。なお、小さな公園を市がつくりたくないということはない。たくさんある公園の維持管理をいかに効率的にやっていくか、常に頭を悩ませているが、公園は、市民のレクリエーション活動、健康運動、文化活動の場となるとともに、大きな環境を守るための貴重な空地。そういったものに対し、必要ないということは考えてはいない。
 
-</div></div>
+</div>
 
 #### 公園数の増加による維持管理費増大に対応する方策は
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 小さな公園をつくりたくないとは、なかなか言えないと思う。しかし実際に財政上は維持管理費がかかる。公園の予算として、維持管理費は全体で約3億円。提供公園が増えるとコストも増える状況。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 自動的に増えても、都市公園法があり、防火水槽があり防災上の理由からも、公園を容易に減らすことはできない。そうすると次のようなことを検討するのではと。
 
@@ -802,62 +802,62 @@ const showPDF = (url) => {
 - 清掃業務等の委託業務費を抑える
 - 公園の用途を変える（自転車駐輪場と併設など）
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 巨木化、高木化しない樹木の選定を業者に依頼する方向は、公園の質を変えることに当たる。ほかにも何かアイデアはあるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">環境部長（岡村）<br><div>
+<div class="bln bright" data-speaker="環境部長（岡村）">
 
 樹木に対する周辺住民の方の苦情が非常に多い。目隠し機能が求められていたとき、そういった形の公園をつくった。そうではなく、シンボルツリーのような形で、真ん中にその機能を持っていくようなことで、維持管理費を抑えることは考えている。
 
-</div></div>
+</div>
 
 ### アダプト制度について
 #### アダプト制度の現状、課題、推進に向けた具体策は
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 住民のためになる公園づくりは住民との協働が不可欠である。協働の代表例として、市におけるアダプト制度の現状、課題、推進に向けた具体的な活動は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林正則）（初）<br><div>
+<div class="bln bright" data-speaker="市長（小林正則）（初）">
 
 公園等アダプト制度は、平成28年度に開始して以降、現在、9団体が7つの公園で活動している。現時点での課題としては、多くの団体において活動の頻度が確保されていないことがある。今後も、ボランティア登録している団体や個人への参加の働きかけのほか、広報などでアダプト制度の浸透を図っていく。
 
-</div></div>
+</div>
 
 #### 報酬を出すことについてはどう考えるか
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 アダプト制度の課題に、活動の頻度が足りていないということがある。これを、たとえば、人数をとにかく増やし、1団体当たりの活動頻度が低くても全体として一定の活動頻度が得られるようにする方法がある。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 報酬を出し、たとえば有料のごみ袋、エコダイラポイントを与える。稲城市でも報酬を与えている。市民活動ポイント制度というもので、ポイントがもらえ、現金に還元できる。小平市でもそういうことをするか。そもそもなぜ無償にしているのか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">環境部長（岡村）<br><div>
+<div class="bln bright" data-speaker="環境部長（岡村）">
 
 アダプト制度は里親ということ。愛着を持ち、その公園を自分たちが自由に管理をするということなので、報酬自体については当市は考えていない。
 
-</div></div>
+</div>
 
 #### アダプト制度の情報提供を
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 稲城市は非常にアダプト制度が進んでいて、現在、71団体ぐらい活動している。ホームページの情報も十分。小平市のホームページにはアダプト制度についての話が詳しく書かれていないが、どう考えているか。
 
-</div></div>
+</div>
 
 <div class="tips" id="稲城市の公園アダプト制度">
 
@@ -868,37 +868,37 @@ const showPDF = (url) => {
 
 </div>
 
-<div class="balloon bl-right">環境部長（岡村）<br><div>
+<div class="bln bright" data-speaker="環境部長（岡村）">
 
 小平市のアダプト制度はまだ生まれたばかりで、これから発展をさせていく。ホームページに載せるべきネタが少ない。昨年4月に市報1面に紹介し、啓発した。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 それ以前の段階で、アダプト制度とはどういうものなのか、参加するとどういったことになるのかという、すでに分かっている情報も載っていない。掲載してもらいたい。
 
-</div></div>
+</div>
 
 #### 『アダプト制度』は分かりにくいので別の名称を公募しては
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 『アダプト制度』は分かりにくいので、別の名称をつけて、その際たとえば懸賞つきの公募をするなどの方法は考えているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">環境部長（岡村）<br><div>
+<div class="bln bright" data-speaker="環境部長（岡村）">
 
 いろんなアイデアはあると思うが、今は活動している9団体が実績を積んいただくことが一番重要。その中で知恵を出し、言われたようなことも検討していきたい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 大規模開発事業が行われる際は、まちづくりの理念がきちんと反映されるよう、市長にビジョンを示してもらい、庁内に浸透させる。条例の解釈において職員が同じ方向を向けるよう、変に解釈上の問題で悩まず仕事ができるよう、全体的な流れの中で、一つ一つの事例にしっかり対応していただきたい。
 
-</div></div>
+</div>
 
 <p style="text-align:right">以上</p>
 

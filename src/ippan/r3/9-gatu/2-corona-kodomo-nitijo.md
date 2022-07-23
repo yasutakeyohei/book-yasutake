@@ -67,207 +67,209 @@ const showPDF = (url) => {
 
 </div>
 
+{{#include ../../../partials/ippan-situgi-note.md}}
+
 ### 今回質問する理由
 
 #### 各国がコロナ規制撤廃を行う中、日本は過剰な対策を続けている
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 国内の新型コロナウイルスワクチン接種がもたらす状況や、各国のワクチン接種の効果などもデータが出そろってきた。厚生労働省が8月18日に国会へ提出した新型コロナウイルス感染症による7月の期間致死率は0.14%であり、インフルエンザ並みとなっている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 8月27日には、デンマークがすべてのコロナ規制撤廃を表明し、コロナパスも9月10日までで終了する。スウェーデンも9月から規制撤廃。それ以外にも、フィンランド、イギリス、米国の各州、ロシア、中国等、他国の例もある。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 さまざまなデータが、日本国内や市内における対応の過剰さを物語っている。世界的な状況は変わっているものの、新型コロナウイルス感染症対策に関する対応は以前より大きく変わることがない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 特に、子どもたちにとっての一日一日はとても貴重だ。私たち大人は、リスクを過剰に恐れて、過剰な対応をすることで、子どもたちからさまざまな経験の場を奪い取ってはならない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 市は、感情や報道によるのではなく、冷静にデータを洗い直し、各国の対応状況も参考にしながら、対応を緩めていくべきである。
 
-</div></div>
+</div>
 
 #### 主要なメディアが、特定の目的を持ち、世の中の空気をつくりだしている
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 私は、今の時代もこれまでも、主要なメディアが、特定の目的を持ち、その目的に沿わない情報は一切報道しなかったり、恐怖心をあおるような報道をしたりして、世の中の空気をつくり出していると思う。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 都合の悪いデータや、外国の状況を正確に伝えない状況がある。または、特定のグループにレッテルを貼るなどして、分断の思想を持ち込むこともよくある。ワクチン派・反ワクチン派というレッテルを貼るなどは最たるもの。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 メディアの多くは、普段は「多様性が重要」と言いながら、一方ではそういうことをしている。これは、第二次世界大戦に日本が参戦することになったころの状況と何も変わっていない。国民・非国民というレッテル貼りと同じこと。
 
-</div></div>
+</div>
 
 #### 子どもたちには情報に関する教育が必要
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 余談だが、子どもたちには、「情報の教育」が必要と思う。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 主要メディアの報道だからといって、それをデータも調べずすぐに信じるようなことのないよう、また、戦前や戦中に新聞やテレビが何を報道してきたのか、今、どれだけ偏った情報を流しているのか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 そういう風に、「メディアが情報をどう扱っているか」といったことも、本当は勉強してもらったほうがよい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 いずれにしろ、特に、私たち政治家は、おかしいことはおかしいと言わなければいけない立場だ。そのために質問している。
 
-</div></div>
+</div>
 
 ### 世界各国でマスクもせず行動制限も特にない事例をどう捉えているか
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 市は、世界各国で、マスクもせず、行動制限も特にないような事例について、どう捉えているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林洋子）（初）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）（初）">
 
 今年に入り、複数の国が制限措置の緩和に取り組んでいるが、その成果はまちまち。たとえばワクチンの接種スピードが速い国では、国民のマスク着用をやめ、店舗やレストラン、ホテル、映画館が完全に営業を再開するなど、以前の日常生活に戻ったが、最近では一部の国において、従来株より感染力の強いデルタ株の拡大により、屋内でのマスク着用の義務化や入国する全員を対象とした隔離措置など、多くの制限が再導入されている状況もある。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林洋子）（初）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）（初）">
 
 各国で状況が異なるため、一方では行動制限等がない国もあるものと捉えている。感染症対策は、国や都道府県が中心となり、広域的な対策、対応および措置を講じていくことが重要と捉えている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林洋子）（初）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）（初）">
 
 市においても、東京都全体で取り組んでいくことが重要と認識しているので、引き続き、新型コロナウイルス感染拡大防止のための東京都における緊急事態措置等に沿った対応をしていく。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 日本の主要メディアがほとんど報道しないが、ちょっと調べると、マスクもせず、人が密集して、コロナ前のような、新型コロナウイルス感染症がなくなったかのような暮らしをしている国や地域がたくさんある。
 
-</div></div>
+</div>
 
 #### 規制がほぼ何もない国々でも、陽性者数や死者数は問題になっていない
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 だからといって、マスクをしっかりし、触ったものを全部アルコールで消毒し、行動を自粛している日本などと比べて、陽性者数や死者数が問題になっているかというと、けっしてそんなことはない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 特にスウェーデンが象徴的。ストックホルムの学校の状況などを見ても、検索するとすぐ画像もいっぱい出てくるが、もう誰もマスクなんてしていない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 スウェーデンはもともとコロナ対策をほとんどしないところで、当初、死者数が増えたりして大失敗だとかさんざん言われていたが、結局その方式が今は成功事例になっている。ほとんどこれも報道されない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 学校の子どもたちは一切マスクもしていないし、ワクチン接種は進んでいるが、自粛の強要やマスクの強要、ワクチンの強要も一切なくやってきて、9月からはコロナ規制がほぼ完全撤廃される。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 私は、これこそ日本がまねするべきケースだと考えている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 ロシアや中国も、一般に思われているよりかなり緩い。ロシアは、マスクしている人なんか全然いない。アメリカも一部の厳しい措置をしている州だけが取り上げられて報道されているが、実際は、多くの州でマスクなしで、スタジアムに人々が殺到したりしている状況もある。
 
-</div></div>
+</div>
 
 #### 対策の程度が高いイスラエルやスコットランドで陽性者数が増えている
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 逆に、最もワクチンの接種が進んでいるイスラエルで、今、非常に陽性者数が増えている。マスク着用が義務化されているスコットランドも、今、陽性者数が増えているといった状況。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 これが、メディアもよく引用するオックスフォードのサイトのデータ。人口100万人当たりの陽性者数。赤で書いたのが、ワクチン接種がかなり進んでいるイスラエル。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 イスラエルの感染者数が非常に増えている。ワクチン接種が進んだイスラエルでこれだけ増えているということは、要は感染予防効果はほとんどないということ。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 下のほうに日本も入っている。マスクをほぼしない、自粛もしない、感染予防の対策などをほとんどしない国々の陽性者数が、日本と同じ、もしくはそれ以下だ。こういうデータを見れば、何が起きているかは分かると思う。
 
-</div></div>
+</div>
 
 ### マスクが感染予防に有効としている根拠は
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 マスクが感染予防に有効としている根拠は何か。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">文化スポーツ担当部長兼健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ担当部長兼健康・保険担当部長（篠宮）">
 
 マスクであったり、手洗いであったり、人との距離というところは今言われている。感染症の歴史からも、さまざま分からないことの中で対策をしているという事実はあると認識をしているところ。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">文化スポーツ担当部長兼健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ担当部長兼健康・保険担当部長（篠宮）">
 
 いずれにしても、今、国においては、研究者等もさまざまなデータを検証していく中で、今後、マスクの対応、そのほかの対策も変わってくるのではないかと認識をしているところだが、現状では、国民全体でマスクをしましょうということになっているので、その対応を市としても進めている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 小平市として単独でなかなか動くことはできないというのは分かっているが、マスクがないと濃厚接触と定義されてしまったりする<sup>*</sup>ので、そういったところがあると思う。東京都にはそういった基準を見直してほしい。
 
-</div></div>
+</div>
 
 <div class="tips" id="マスクを着けていないと濃厚接触者になるのか">
 
@@ -293,43 +295,43 @@ const showPDF = (url) => {
 
 ### 市は、子どもたちの心身健康状態をどう把握しているか
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 国立成育医療研究センターのグループが定期的に行っているアンケート調査等に、コロナ禍での子どもたちや保護者たちの心理的ストレスが表れている。市は子どもたちの心身健康状態をどう把握しているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川正之）（初）<br><div>
+<div class="bln bright" data-speaker="教育長（古川正之）（初）">
 
 定期健康診断や、毎日行っている健康調査のほか、担任、スクールカウンセラーおよび養護教諭等による相談の中で、心身の健康状態の把握に努めている。
 
-</div></div>
+</div>
 
 #### 過剰な対策で負担を強いられている子どもたちがいる
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 心身健康状態に関しては、特に発達障害のあるお子さんの御家庭など、そういったところには、できれば子どもだけではなくて保護者にも、アンケートを取ったり、さまざまなお話を伺ったほうがよい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 学校が休校になった場合は、宿題がいっぱい出たりする。オンラインでやる場合、一日の最初に先生が話し、課題が出る。そういったことを全部家の中でやらなきゃいけない。発達障害の子たちの中にはそれが大変な子たちがいる。
 
-</div></div>
+</div>
 
 #### 夏休み明けに自殺が増えているのは、勉強に追いつけないことが背景でもあるのでは
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 推測だが、夏休み明けに自殺者が増えてくる状況は、「勉強に追いつけていない」ところもひとつあるのでは。夏休みに勉強に追いつこうと思ったけれども追いつけなかったとか、そういうこともあるのではないか。
 
-</div></div>
+</div>
 
 ### 児童・生徒の、心身の健康状態が反映される各種指標に、異常な兆候はないか
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 市内で、
 - 不登校
@@ -341,51 +343,51 @@ const showPDF = (url) => {
 
 など、児童・生徒の心身の健康状態が反映される各種指標に、異常な兆候は表れていないか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川正之）（初）<br><div>
+<div class="bln bright" data-speaker="教育長（古川正之）（初）">
 
 学校生活に関わる問題行動や熱中症の件数に、新型コロナウイルス感染症の拡大以前と以後で特別な変化はない。成績等についても、全国学力調査結果において特別な変化は見られない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川正之）（初）<br><div>
+<div class="bln bright" data-speaker="教育長（古川正之）（初）">
 
 体力調査結果については、本年度の実施結果がこれから示されるため、コロナ禍において運動の機会が減っていることを踏まえ、調査結果を注視していく。
 
-</div></div>
+</div>
 
 ### コロナ禍において、子どもの自殺者数が増えている状況をどう考えるか
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 本年6月25日に開催された児童・生徒の自殺予防に関する調査研究協力者会議などで指摘されているように、児童・生徒（高校生を含む）の自殺者数がコロナ禍において増えている状況について、市はどう考えるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川正之）（初）<br><div>
+<div class="bln bright" data-speaker="教育長（古川正之）（初）">
 
 新型コロナウイルス感染症の拡大の影響で、子どもたちの日常生活や学校生活にこれまでと異なる状況が長期に及んでいることが背景のひとつであると認識している。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川正之）（初）<br><div>
+<div class="bln bright" data-speaker="教育長（古川正之）（初）">
 
 小平市立学校では、子どもたちの大切な命を守るために、長期休業日明けの子どもたちの小さな変化を見逃すことなく、必要なケアを行うとともに、安心して相談できるよう取り組んでいく。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 小・中学生というよりは、データを見ると、実際は高校生の増加が多いと思う。思春期で、今言ったような夏休み明けになかなか勉強に追いつかないとか、そういったことがあるのではないか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 何かあったらすぐ学級閉鎖とか自宅学習とかになってしまうと、学習障害の子どもや、共働きの世帯、社会的に弱い立場にある方々にしわ寄せが来るので、そういったことはなるべくやらないでいただきたい。
 
-</div></div>
+</div>
 
 </div>
 

@@ -64,66 +64,66 @@ const showPDF = (url) => {
 
 ### 今回質問する理由
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 度重なる緊急事態宣言による店舗閉鎖等の影響により、若い世代の就労事情が厳しくなっていることが予想される。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 このコロナ禍において、特に、ひとり親家庭へしわ寄せが来ている可能性もあり、早急に実態を確認する必要があると考えるため、以下質問する。
 
-</div></div>
+</div>
 
 ### ひとり親家庭の悩みごと等は適切に把握できているのか
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 コロナ禍における、ひとり親家庭の就労・経済状況や悩みごとは、適切に把握できているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林洋子）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）">
 
 子育て支援課において常時、ひとり親相談を実施しているほか、毎年度、児童扶養手当の現況届の提出を受ける際、受給資格者の所得や児童の養育の状況等を直接確認しており、あわせてひとり親支援に関する情
 報提供を行うとともに、悩みごとなどを抱えている方の相談に母子・父子自立支援員が応じることで、適切に行っている。
 
-</div></div>
+</div>
 
 #### ひとり親家庭の匿名アンケート実態調査をなぜ行わないのか
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 厚生委員として政策提言でも提案したが、ほかの多くの自治体が定常的に行っている、ひとり親家庭の匿名アンケート実態調査を、市が行わない理由は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林洋子）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）">
 
 国においておおむね5年ごとに、全国の母子世帯、父子世帯及び養育者世帯の生活の実態を把握するため、全国ひとり親世帯等調査が実施されているほか、東京都においても、定期的にひとり親家庭の相談状況等に関する調査や福祉保健基礎調査などが実施されており、これらの調査結果をひとり親世帯の現状や課題の把握に活用している。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林洋子）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）">
 
 また、第1点目で答弁申し上げたとおり、児童扶養手当の現況確認やひとり親相談など、現場での状況把握が十分できることから、市として実態調査を行う必要はないものと考えている。
 
-</div></div>
+</div>
 
 ### コロナ禍の影響を調べるため、臨時的にアンケート実態調査を行ってはどうか
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 コロナ禍での影響を調べるため、臨時的にでも、ひとり親家庭の匿名アンケート実態調査を行ってはどうか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林洋子）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）">
 
 この間の感染症拡大期においても、ひとり親相談を継続して実施するとともに、過去3回の国の特別給付金支給に当たっても、収入減による家計急変の状況確認等を行っていることから、現時点で調査の実施は考えていない。
 
-</div></div>
+</div>
 
 <p style="text-align:right">以上</p>
 

@@ -22,16 +22,16 @@
 
 ---
 
-- 障害者差別解消支援地域協議会の設置検討状況は → 情報収集したが設置検討まだ
-- 設置に向けての課題は → メンバー選定と、どんなことを協議するか
-- 設置しなくても対応できている認識か → すべてではないが一定程度はできている
-- 合理的配慮を進めるための場にしては → 重要な機能。他市の事例も収集している
-- こだいらこれだけはの提供形態は → リーフレット（のA4半分未満）と、学校訪問
-- こだいらこれだけはで、合理的配慮の具体的事項を共有しては → 掲載を検討する
-- 合理的配慮の事例をまとめた冊子のような形で提供しては → 継続し理解していく
-- 別室登校の状況は → 中学校はおおむね設置、小学校は整っているところから設置
-- 別室登校の子に通常学級の授業をオンライン配信しては → 検討進めるべきと認識
-- 自宅からオンライン授業参加を出席と認める取組みを → 一定要件で出席扱い可能
+- 障害者差別解消支援地域協議会の設置検討状況は → [情報収集したが設置検討まだ](#結局設置の検討はしたのかしていないのか)
+- 設置に向けての課題は → [メンバー選定と、どんなことを協議するか](#障害者差別解消支援地域協議会を設置する場合の課題は)
+- 設置しなくても対応できている認識か → [すべてではないが一定程度はできている](#ガイドラインに示された各課題に現状で対応できているのか)
+- 合理的配慮を進めるための場にしては → [重要な機能。他市の事例も収集している](#部署横断的に合理的配慮に関する情報共有等を行う場として活用してはどうか)
+- こだいらこれだけはの提供形態は → [リーフレット（のA4半分未満）と、学校訪問](#こだいらこれだけはの活用状況は)
+- こだいらこれだけはで、合理的配慮の具体的事項を共有しては → [掲載を検討する](#こだいらこれだけはに合理的配慮の具体的事項を載せ学校間で対応の共通化を推進してはどうか)
+- 合理的配慮の事例をまとめた冊子のような形で提供しては → [継続し理解していく](#シンプルに合理的配慮の事例をまとめた冊子のような形で用意しては)
+- 別室登校の状況は → [中学校はおおむね設置、小学校は整っているところから設置](#別室登校の状況は)
+- 別室登校の子に通常学級の授業をオンライン配信しては → [検討進めるべきと認識](#特別支援学級にいながら通常学級の授業にオンライン参加できる取組を小平市も行ってはどうか)
+- 自宅からオンライン授業参加を出席と認める取組みを → [一定要件で出席扱い可能](#一斉休校後に学校に来られなくなった子の自宅と教室をオンラインでつなぎ授業に参加し出席が認められる取組を小平市も行ってはどうか)
 
 </fieldset>
 
@@ -85,171 +85,173 @@ const showPDF = (url) => {
 
 </div>
 
+{{#include ../../../partials/ippan-situgi-note.md}}
+
 ### 今回質問する理由
 
 #### 情緒固定給の設置に向けた請願が採択された
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 さきの9月定例会において、自閉症・情緒障害特別支援学級（情緒固定級）の設置に向けた請願が採択された。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 その後に開催された市教育委員会定例会においても[早期設置を求める意見](https://www.city.kodaira.tokyo.jp/kurashi/files/93625/093625/att_0000005.pdf#page=14)が出ている。市教育委員会としてすでに尽力いただいているものと想像するが、慎重に進めながらも、できるだけ早い対応を願いたい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 特に、通常の学級でサポートを受けながら学ぶことが困難な子どもたちにとって、情緒固定級は学びの場として、ひとつの大きな選択肢になるであろう。
 
-</div></div>
+</div>
 
 #### 今現在、困難を抱えた子どもたちの学ぶ機会を守るために
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 しかし、そうした新しい学びの場ができるまでの間も、困難を抱えた子どもたちの時間は刻一刻と過ぎている。不登校の子どもも含め、そうした子どもたちの学びの機会損失をできる限り減らす手だても同時に進めなければならない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 本年6月には「[障害を理由とする差別の解消の推進に関する法律の一部を改正する法律](https://www8.cao.go.jp/shougai/suishin/sabekai.html#law)」が公布され、事業者による合理的配慮が努力義務から義務へと改められた。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 さらに、障害を理由とする差別を解消するための支援措置の強化も打ち出された。市として合理的配慮の徹底に向けた取組をこれまで以上に加速する必要がある。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 なお、合理的配慮の提供が保障されないことは、教育の機会が保障されないことと同義である。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 市教育委員会には、先進事例の研究やその迅速な導入も含め、子どもたちの学ぶ機会の喪失をできる限りゼロに近づけるため、新しいことにも果敢に挑戦してもらいたく、質問する。
 
-</div></div>
+</div>
 
 ### 合理的配慮の徹底につながる可能性もある障害者差別解消支援地域協議会の設置検討状況は
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 合理的配慮の徹底につながる可能性もある『[障害者差別解消支援地域協議会](https://www8.cao.go.jp/shougai/suishin/sabekai/kihonhoushin/t-b2.html)』の設置検討状況は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林洋子）（初）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）（初）">
 
 現在のところ、協議会の設置については検討はしていないが、障害者に対する差別や合理的配慮については、市の窓口において、相談の受付および対応を図っている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林洋子）（初）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）（初）">
 
 また、相談内容については、必要に応じて[小平市地域自立支援協議会](https://www.city.kodaira.tokyo.jp/kurashi/index03004013.html)に報告しており、関係者間で情報を共有している。
 
-</div></div>
+</div>
 
 #### 検討しますと言いながらしてこなかった理由は
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 障害者差別解消支援地域協議会の設置については、これまで、検討しますという答弁が何度かあったと思う。検討しますと言いながら、ここ数年のスパンで検討していないのはなぜか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康福祉部長（滝澤）<br><div>
+<div class="bln bright" data-speaker="健康福祉部長（滝澤）">
 
 現在、市の窓口で相談を受け、たとえば事業所で配慮がなされていないということであれば、市から対応の改善を求めていく、ということをしている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康福祉部長（滝澤）<br><div>
+<div class="bln bright" data-speaker="健康福祉部長（滝澤）">
 
 また、そういう事例を次の対応に生かすところで、小平市地域自立支援協議会がある。そういうところで情報共有しながら、障害の関係団体とも連携しているので、今、障害者差別解消支援地域協議会のある程度の機能ができているところで、設置には至っていない。
 
-</div></div>
+</div>
 
 #### 結局、設置の検討はしたのかしていないのか
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 市長答弁では「設置の検討はしていない」と言った。しかし、今の話だと、検討したような話。どっちなのか。検討はしたが、設置の検討はしていないということか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康福祉部長（滝澤）<br><div>
+<div class="bln bright" data-speaker="健康福祉部長（滝澤）">
 
 障害者差別解消支援地域協議会の機能について、どういうものが必要かというところは、他市の状況などを見ながら情報収集はした。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康福祉部長（滝澤）<br><div>
+<div class="bln bright" data-speaker="健康福祉部長（滝澤）">
 
 他市の状況なども聞きながら、協議会で検討するような事項が実際に起きているかも調べた。そういったところを踏まえ、現在のところ、まだ設置の検討はしていない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 検討しますと答えていながら検討していなかったとしたら結構な問題では。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康福祉部長（滝澤）<br><div>
+<div class="bln bright" data-speaker="健康福祉部長（滝澤）">
 
 大変申し訳ない。今、過去のものがないので、はっきりとした答えはできないが、9月定例会でもほかの議員からこの障害者差別解消支援地域協議会の質問をいただいたと記憶している。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康福祉部長（滝澤）<br><div>
+<div class="bln bright" data-speaker="健康福祉部長（滝澤）">
 
 そのときも同じような答弁をしたと思っている。今回も同じ方向で答えている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 ここは今回のテーマではないのであれだが、少し前、うちの会派の橋本久雄議員が質問している。そこでは検討しますと言っている。のちほど確認を。
 
-</div></div>
+</div>
 
 #### 障害者差別解消支援地域協議会を設置する場合の課題は
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 全国の市町村を見ると、障害者差別解消支援地域協議会を設置済みの自治体が50％を超えているようだ。設置する場合、どのような課題があるのか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康福祉部長（滝澤）<br><div>
+<div class="bln bright" data-speaker="健康福祉部長（滝澤）">
 
 まずメンバーをどうするか。また、その障害者差別解消支援地域協議会で、どんなことを協議していくかなどが課題。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康福祉部長（滝澤）<br><div>
+<div class="bln bright" data-speaker="健康福祉部長（滝澤）">
 
 また、他市の状況を確認すると、協議会をつくっても、なかなか検討する材料、事例がないという状況を聞く。協議会をつくってもうまく機能していけるかが課題。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 たしかに、各市町村の（障害者差別解消支援地域協議会の）会議録等を見ると、そういうことが書いてある。テーマがなく、差別に関する相談が寄せられない状況なので、開催してもやることがないという話が結構あるようだ。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 平成29年5月に[内閣府](https://www8.cao.go.jp/shougai/suishin/sabekai.html)政策統括官が出した『[障害者差別解消支援地域協議会の設置・運営等に関するガイドライン](https://www8.cao.go.jp/shougai/suishin/secchi/pdf/guideline.pdf)』にも、たとえばアンケート調査をしても、差別を受けたといったネガティブなことはなかなか回答しづらい、といったことが書かれている。
 
@@ -264,27 +266,27 @@ const showPDF = (url) => {
 </blockquote>
 
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 そういう理由で、実際の声が集まりにくいところもある。また、差別に当たるかどうかについての周知啓発も足りていない状況。そういう課題があることについても、ガイドラインに書いてある。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 そのガイドラインには、地域協議会がなぜ必要なのかも書いてある。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 地域で生活する障害者への差別はいろいろあるが、それが行政機関の窓口に相談を行う際、初めから「権限を有する機関を選んで相談すること」は難しい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 このまま手を打たなければ、次のような事態を招くおそれがあると書いてある。
 
@@ -293,55 +295,55 @@ const showPDF = (url) => {
 1. 地域における合理的配慮や建設的対話のレベルが上がらず、関係者の理解がいっこうに進まない
 1. これらの結果として同じような問題が繰り返されてしまう
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 まさに、私がいろいろな方から相談いただくこととして、1から4の問題が指摘されている。
 
-</div></div>
+</div>
 
 #### ガイドラインに示された各課題に、現状で対応できているのか
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 市として「地域協議会を設置しなくても何とかなります」という答弁だが、現状で、上記の課題1から4への対応がしっかりできていると考えているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康福祉部長（滝澤）<br><div>
+<div class="bln bright" data-speaker="健康福祉部長（滝澤）">
 
 そのガイドラインは、主管課としても把握している。設置目的の「同じようなことが起こらないように」といったところが、やはり大きなところとも思っているし、こういった事例をもとに対応を考えていくことも必要と思っている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康福祉部長（滝澤）<br><div>
+<div class="bln bright" data-speaker="健康福祉部長（滝澤）">
 
 そのためのネットワークとしての、障害者差別解消支援地域協議会というところかと思っている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康福祉部長（滝澤）<br><div>
+<div class="bln bright" data-speaker="健康福祉部長（滝澤）">
 
 現在、市のほうで、協議会に代わるというか、障害者の相談については、市のほうで今現在受けている。仮にほかの部署、たとえば店舗だったり交通であったり、そういったところで差別的な対応があったといった場合は、障がい者支援課と一緒になって考え、事業者に対応している。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康福祉部長（滝澤）<br><div>
+<div class="bln bright" data-speaker="健康福祉部長（滝澤）">
 
 すべてできているかといえば、すべてとは言えないところもあるかとは思うが、一定程度の対応はできていると考えている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 ある程度は対応できているということだが、実際いただく相談では、こういったことが本当に問題だと指摘されている。
 
-</div></div>
+</div>
 
 #### 部署横断的に合理的配慮に関する情報共有等を行う場として活用してはどうか
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 先ほどのガイドラインに、地域協議会は何をするかという部分があり、その4に「障害者差別の解消に資する取組の共有・分析」というのがある。私はこれが非常に重要なことと思う。
 
@@ -355,95 +357,95 @@ const showPDF = (url) => {
 
 </blockquote>
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 たとえば後で質問する「こだいらこれだけは」は、合理的配慮等に関する学校間の情報共有ということで設定されている。しかし、市として、部署横断的に、合理的配慮の情報共有を行う場所がない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 小平市地域自立支援協議会は、より広いテーマについて話す場。合理的配慮は具体的な項目が多いため（それに集中すると）、地域自立支援協議会で話すべきほかのテーマが話せなくなる。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 そこで、この障害者差別解消支援地域協議会を活用できるのでは。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 合理的配慮に関する具体的なケースを、部署横断的に情報収集・蓄積し、分類する（逐次更新し、できればインターネット公開も）。そのための場として障害者差別解消支援地域協議会を使えばよい。テーマ切れになることもないと思うが、どうか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康福祉部長（滝澤）<br><div>
+<div class="bln bright" data-speaker="健康福祉部長（滝澤）">
 
 そういう機能も、障害者差別解消支援地域協議会の重要な機能。分析等に合わせ、理解の啓発、周知なども役割として求められていると考えている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康福祉部長（滝澤）<br><div>
+<div class="bln bright" data-speaker="健康福祉部長（滝澤）">
 
 庁内で、たとえば障害者差別解消に関する研修や市民向けの啓発の講演会も行っている。今、いろいろな手法を行い、障害者の差別解消に対する理解の啓発などについても取り組んでいる。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康福祉部長（滝澤）<br><div>
+<div class="bln bright" data-speaker="健康福祉部長（滝澤）">
 
 他市の事例なども収集などして情報を取っている。協議会をつくる、つくらないに限らず、障害者差別を解消につながるような取組については、引き続き実施していきたい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 いろいろな課題があるだろうが、ひとつ場があるというのは重要なこと。検討してもらいたい。
 
-</div></div>
+</div>
 
 ### 「こだいらこれだけは」の活用状況は
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 「こだいらこれだけは」の活用状況は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川正之）（初）<br><div>
+<div class="bln bright" data-speaker="教育長（古川正之）（初）">
 
 児童・生徒が学びやすい学習環境とするために、市内全校で活用している。
 
-</div></div>
+</div>
 
 #### どういう形で提供されているのか
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 どういう形態で提供されているか。冊子等で共有しているのか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育指導担当部長（国冨）<br><div>
+<div class="bln bright" data-speaker="教育指導担当部長（国冨）">
 
 共有の仕方は、大きく2つある。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育指導担当部長（国冨）<br><div>
+<div class="bln bright" data-speaker="教育指導担当部長（国冨）">
 
 1つは「[小平市の特別支援教育](https://www.city.kodaira.tokyo.jp/kurashi/025/025897.html)」というリーフレット。これは、通常の学級の中における取組として、子どもたちが学びやすい環境調整や対応の変更といった、大きな中身として、こだいらこれだけはの教育のユニバーサルデザイン化について、各教員が理解できるようなリーフレットとして共有をしている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育指導担当部長（国冨）<br><div>
+<div class="bln bright" data-speaker="教育指導担当部長（国冨）">
 
 もう1つが、教育委員会での学校訪問。大きくは、教育委員による訪問と、指導課の職員による訪問がある。リーフレットに示されている内容が授業等で取り扱われているか、たとえば「時間の見通しがもてるようなホワイトボードの活用をしているか」だとか、「刺激量が低減できるよう全面をシンプルにしているか」など、そういったことを実際に確認し、できていない場合は、取組を推奨するような形での助言をしている。
 
-</div></div>
+</div>
 
 <div class="tips" id="それだけしかしていないの">
 
@@ -460,27 +462,27 @@ const showPDF = (url) => {
 </div>
 
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 要は、「こだいらこれだけは」という冊子のようなものがあってそこに情報がまとまっているわけではなく、抽象的な形で対応していると。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 冊子のような形で配布されていれば。箇条書でもよいので、「こういうケースにはこう対応すればよい」という具体的な事項を記載して、共有してもらえれば、新任の先生でも、それをパッと見ればすぐ対応できる。
 
-</div></div>
+</div>
 
 ### 「こだいらこれだけは」に合理的配慮の具体的事項を載せ、学校間で対応の共通化を推進してはどうか
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 「こだいらこれだけは」に合理的配慮の具体的事項を載せ、学校間で対応の共通化を推進してはどうか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 たとえば、次のようなことを大枠で守ってもらうようにするなど。
 
@@ -493,236 +495,236 @@ const showPDF = (url) => {
     - 課題なのか宿題か
     - いつの授業に持ってくるか
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川正之）（初）<br><div>
+<div class="bln bright" data-speaker="教育長（古川正之）（初）">
 
 教育的ニーズに応じた合理的配慮を各校で実施できるよう、掲載について検討する。
 
-</div></div>
+</div>
 
 #### シンプルに合理的配慮の事例をまとめた冊子のような形で用意しては
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 [独立行政法人国立特別支援教育総合研究所](https://www.nise.go.jp/nc/)の[インクルDB](http://inclusive.nise.go.jp/)には、インクルーシブ教育のデータベースがあり、合理的配慮のケースがためられている。しかし、ここから自分で探して情報を得るのは大変。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 そうではなく、本当にシンプルなことでよい。先ほど述べた、ルビを振る、フォントサイズに配慮する等を、箇条書でもよいのでまとめた冊子のようなものを用意すればよいと思うが、どうか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育指導担当部長（国冨）<br><div>
+<div class="bln bright" data-speaker="教育指導担当部長（国冨）">
 
 私も同じ問題意識を持っている。昨年度、校長会議の場で、こだいらこれだけはにおける教育のユニバーサルデザイン化については、市内でも共有できるツールがあるが、合理的配慮、個々の子どもたちに応じ、ルビを振ったり、放課後の学習をやったり、逆に学習内容の変更調整で学習時間を短くするとか、そういったことについては共有されていないという状況が市内にあった。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育指導担当部長（国冨）<br><div>
+<div class="bln bright" data-speaker="教育指導担当部長（国冨）">
 
 そこで、大きく6項目16事例について、A4サイズ1枚で、こういったものが学校の中における合理的配慮ですよということを示すものと、また、このプリントを通して校内研修会で共有してください、ここを見ていくと、個別具体でもっと細かく知りたいときに、インクルーシブDBに当たって、より図っていくことができるので、こういうツールを使うことについて促す取組を始めた。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育指導担当部長（国冨）<br><div>
+<div class="bln bright" data-speaker="教育指導担当部長（国冨）">
 
 ただ、これは継続していかなければならないので、今お話しいただいたことを踏まえ、継続して、合理的配慮について理解していく。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育指導担当部長（国冨）<br><div>
+<div class="bln bright" data-speaker="教育指導担当部長（国冨）">
 
 また、教育のユニバーサルデザイン化について理解していき、実際の教育現場で活用できるような取組をしていきたいと考えている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 ぜひお願いする。もし、そういった、例えばA4サイズ1枚でもよいが、順次更新されていき、よいものができることになれば、小平市だけではなく日本全国にも役に立つような資料になるかもしれない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 保護者の方々は、本当によくアイデアを持たれている。次の質問にある具体的な事例も、すべて保護者の方から伺ったこと。そういう保護者の声を何らかの手段で集めることも検討していただきたい。
 
-</div></div>
+</div>
 
 
 ### 保健室登校の児童が各教室の授業にオンライン参加できる取組を小平市も行ってはどうか
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 東京学芸大学附属小金井小学校でおこなっている、[保健室登校の児童が各教室の授業にオンライン参加できる取組](https://www.asahi.com/articles/ASP9W7F6SP9KULZU004.html)を小平市も行ってはどうか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川正之）（初）<br><div>
+<div class="bln bright" data-speaker="教育長（古川正之）（初）">
 
 保健室は主として病気やけがの看護を行う場所であるため、保健室内から授業にオンライン参加できる取組は実施しないが、ほかのスペース等を利用して授業にオンライン参加できる取組を登校支援のひとつとして捉え、研究していく。
 
-</div></div>
+</div>
 
 #### 別室登校の状況は
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 保健室登校は本来の登校形態ではないので、たしかに分かる。小平市では、保健室ではないが、別室登校が中学校で増えていると聞いた。件数などその状況は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育指導担当部長（国冨）<br><div>
+<div class="bln bright" data-speaker="教育指導担当部長（国冨）">
 
 登校している生徒数は詳細には把握していない。趣旨としては、教室の、いわゆる刺激量が多かったり、心理的なバイアスがあるところに通えないものの、学校には安心して通えるスペースというところで、各中学校、また小学校も一部設置している。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育指導担当部長（国冨）<br><div>
+<div class="bln bright" data-speaker="教育指導担当部長（国冨）">
 
 その中で、継続して通えないという子ではなくても、そのときに気持ちとしてはいけないという子たちにも対応できるものとしての設置をしている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 各校というと、全校か。どれぐらいの規模、どれぐらいの数か。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育指導担当部長（国冨）<br><div>
+<div class="bln bright" data-speaker="教育指導担当部長（国冨）">
 
 現在、中学校においては、おおむね設置している。小学校はスペースの関係があることと、教員の見守り体制などがあるので、整っているところから設置している。
 
-</div></div>
+</div>
 
 ### 特別支援学級にいながら、通常学級の授業にオンライン参加できる取組を小平市も行ってはどうか
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 狛江市立狛江第三小学校のように、[特別支援学級にいながら、通常学級の授業にオンライン参加できる取組](https://president.jp/articles/-/46017?page=1)を小平市も行ってはどうか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川正之）（初）<br><div>
+<div class="bln bright" data-speaker="教育長（古川正之）（初）">
 
 現在、市立学校では、交流及び共同学習を基本として学習に参加できるよう進めている。今後、自閉症・情緒障害等特別支援学級の設置を検討する際には、オンラインの活用も研究していく。
 
-</div></div>
+</div>
 
 #### 別室登校の子たちにも有用なはず
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 知的支援学級の場合、カリキュラムが通常学級と違うので、通常学級の授業を映すことには課題がある。そのため「情緒固定級ができてから検討する」という答弁になっているのだろう。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 別室登校は、通常学級の子たちが通っている。そうなると、やはりオンラインで授業を映すというのは、とても意味のあることと思う。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 この一般質問の通告書を出した後、西東京市の情緒固定級を視察した。報道されていないが、西東京市は進んだ取組みをしている。情緒固定級にいる子や、不登校の子もオンラインで授業に参加できたりする。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 不登校の子がオンラインで授業に参加することで、また出席できるようになった、という事例もあるそうだ。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 別室登校の子たちにも役に立つことだと思うので、ぜひ、そういったことをやってほしい。
 
-</div></div>
+</div>
 
 #### 西東京市は、オンライン利用上の課題をクリアしていた
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 以前、オンラインで授業をしたらよいのではと聞いた際、課題として、個人情報の流出の問題や、情報漏えい、個人情報の保護の問題を上げていた。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 西東京市では、校長先生が集まり、子どもたちの学びの機会を失わないよう、なんとか取り組まなくてはということでやった。事前に保護者の方々に紙で了承を取り、そのうえで実施したら、特に問題なくできたということだった。
 
-</div></div>
+</div>
 
 #### まず別室登校の子たちに授業をオンラインで提供しては
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 成功事例がすぐ隣の市にある。まねすればすぐできると思う。以前、小平市で特別支援教育に携わっていた職員の方が、今、西東京市にいる。そういうところで情報をもらいながら、まずは別室登校の子たちに授業をオンラインで流してほしいが、どうか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育指導担当部長（国冨）<br><div>
+<div class="bln bright" data-speaker="教育指導担当部長（国冨）">
 
 西東京市の状況は、詳しく私も情報を得ている。成果も上がっているところもあるし、一方で課題も認識している。こういったことを踏まえ、今後さまざまな課題整理をしながら、おそらくこの先そういうことが必要になってくると思うので、実施できるような検討を進めていくべきと捉えている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 お願いする。
 
-</div></div>
+</div>
 
 #### 自己肯定感を高めることにつながる
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 狛江市の例は、保護者の方から、テレビのニュースで放映されたものを教えてもらったもの。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 映っていた子は「通常のクラスに出ると緊張して気持ち悪くなるが、リモートを使うことで軽減され、本当によいシステムだと思う。これから外国語などもやろうという話で、とても楽しみ」とコメントしていた。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 また、担任の先生も「学ぶ力、学びたい気持ちはあるが、学びの場に行くことにハードルがある子たちが多い。オンラインがあることで、できたという経験が、子どもたちの自信につながっている」とコメントしていた。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 西東京市の指導主事も、田無小学校の校長先生も話していたが、やはり、まずは自信をつけるというところ、自己肯定感を高めて自信をつけていくというところが、とても重要だと思う。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 そういったところでオンラインが役に立つことがあれば、進めてもらいたい。
 
-</div></div>
+</div>
 
 ### 一斉休校後に学校に来られなくなった子の自宅と教室をオンラインでつなぎ授業に参加し、出席が認められる取組を小平市も行ってはどうか
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 狛江市立の小学校の、一斉休校後に学校に来られなくなった子の自宅と教室をオンラインでつなぎ授業に参加し、出席が認められるという取組を小平市も行ってはどうか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川正之）（初）<br><div>
+<div class="bln bright" data-speaker="教育長（古川正之）（初）">
 
 不登校児童・生徒につきましては、自宅等から授業にオンライン参加し、学習を行った場合には、本年2月の文部科学省通知に基づき、一定の要件の下、出席扱いにできるようになっている。
 
-</div></div>
+</div>
 
 </div>
 

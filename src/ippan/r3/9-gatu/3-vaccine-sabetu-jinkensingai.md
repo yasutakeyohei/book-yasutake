@@ -19,9 +19,9 @@
 
 ---
 
-- 人権とは → 幸福な人生のための将来にわたり保障されるべき生まれながらの権利
-- ワクチン非接種者は接種者のリスクになると考えるか → 判断できない
-- 差別や分断を招かぬよう、啓発の推進や相談窓口の設置を → 既存の方法で努める
+- 人権とは → [幸福な人生のための将来にわたり保障されるべき生まれながらの権利](#市が考える人権とは)
+- ワクチン非接種者は接種者のリスクになると考えるか → [判断できない](#新型コロナウイルスワクチンの非接種者が同接種者のリスクになると市は考えるか)
+- 差別や分断を招かぬよう、啓発の推進や相談窓口の設置を → [既存の方法で努める](#接種者と非接種者の差別や分断を招かぬよう啓発を推進し人権の相談窓口を設けるべきでは)
 
 </fieldset>
 
@@ -70,61 +70,63 @@ const showPDF = (url) => {
 
 </div>
 
+{{#include ../../../partials/ippan-situgi-note.md}}
+
 ### 今回質問する理由
 
 #### 新型コロナウイルスワクチンの接種が実質的に強制されている状況がある
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 （すべての）ワクチン接種は、厚生労働省も指摘するように、強制ではない。しかし、職場などでは、同調圧力の下、望まないのに新型コロナウイルスワクチンの接種をせざるを得ないという声を多く耳にする。
 
-</div></div>
+</div>
 
 #### 「未接種者が感染を広げている」という根拠のない話も喧伝されている
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 また、ワクチン未接種者が感染を広げているといった根拠のない話も、さまざまなメディアを通じて喧伝されている。それにより「接種しないのはおかしい」という展開にもなっている。
 
-</div></div>
+</div>
 
 #### 逆に「接種者が感染を広げている」という説もある
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 一方、「ワクチン接種者が感染を広げている」という説もある。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 つまり、感染防止効果がなく、症状を抑えるようなワクチンであれば、その接種者は感染しても、そうとは気付かず、通常の活動をすることになり、知らず知らずのうちに周りの人にうつす状況になっている、という説である。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 ワクチン接種の広がりに合わせて家庭内感染も広がっている理由も、これで説明できるという論もある。
 
-</div></div>
+</div>
 
 #### だから○○がおかしいとするのは人権侵害
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 いずれにしろ、このような接種者、非接種者に対する評価は、すぐに「だから◯◯がおかしい」といった差別につながる。これは重大な人権侵害だ。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 歴史から明らかなように、人々の恐怖に根差した差別は、放置すればすぐに拡大する可能性がある。
 
-</div></div>
+</div>
 
 #### 魔女狩りにつながる非常に危険な流れ
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 特に、
 - ほかの人にうつさないため
@@ -133,45 +135,45 @@ const showPDF = (url) => {
 
 といった「善の意識」を背景に、「だから接種できるのに、しない人はおかしい」という流れができることは非常に危険だ。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 たとえば、今後、仮に致死率が高いと言われるようなウイルスが出現し、世の中がパニックになると、科学的事実や合理的判断はまったく忘れ去られてしまい、中世の魔女狩りのような状況になる可能性もある。
 
-</div></div>
+</div>
 
 #### 人権侵害を防ぐために、市はより一層の対策を講じなければならない
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 人権に関する事業を常に行い、人権擁護を推進している市としては、できる限りそのような状況にならないよう、今この時点でより一層の対策を講じるべきであると考える。そのため、質問する。
 
-</div></div>
+</div>
 
 ### 市が考える人権とは
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 市が考える人権とは。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林洋子）（初）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）（初）">
 
 人が幸福な人生を送るために生まれながらにして持っている権利であり、将来にわたって保障されるべきものと認識している。
 
-</div></div>
+</div>
 
 #### 人権とは、誰もが個人の自由意志で生きられるという権利
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 人権というのは、個人の自由意思で生きられるということ。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 自分の自由意思に基づかずに、
 - 暴行を受けない
@@ -180,65 +182,65 @@ const showPDF = (url) => {
 
 とか、そういったこと。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 人権という考え方は、「対国家権力」に由来していると言う人もいる。有名なのはフランスの人権宣言など。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 つまり、国家というのは、人々の自由を制限したり弾圧するということが往々にしてある。それに対して、人間の自然的な欲求から出てきているもの、それがベースになっている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 今、まさにその人権が侵害されている。ワクチンパスポートなどは最たるもので、国民を差別する思想だ。こういった典型的な人権侵害が起きている、もしくは起きつつあるという状況。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 感染防止効果がないのに、どこをどう考えればワクチンパスポートという発想になるのか。本当にまったく分からないし、私は大反対だ。
 
-</div></div>
+</div>
 
 #### ママエンジェルスの方々からいただいた、人権侵害のさまざまな事例
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 ママエンジェルスというグループの方々から、内閣官房に渡された資料をいただいたので、そこから事例紹介したい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 - 医療職の方が、上司から、新型コロナワクチンの接種に関し「医療職なのに打たないって考えられない、辞めたほうがよいね」と言われた
 - 休日に上司から電話があり「職場で何かあったとき、あなただけ受けていないと疑われるよね」と検査を強要された
 - 誰もが目にできるところに貼ってあるワクチン接種表の、自分の名前の横に「拒否」と書かれた
 - 看護師が接種拒否したら「もし施設で新型コロナウイルス感染症が出たらワクチン接種してなかった人の責任だ」と言われた
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 また、たとえば次のようなことも報道されている。
 - 飲食チェーン店で、社員のネームプレートに、ワクチン接種またはPCR検査したことの表示を検討している
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 こういった行為はすべて「ワクチン接種しなければここでは働いていけない」という空気をつくる。職を失うかもしれないという脅しを与え、または、実際に強要する行為だ。
 
-</div></div>
+</div>
 
 #### 自由意志を無視して医療行為や身体にリスクのあることをさせるのは、暴行罪
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 そういった脅しや強要の下、つまり自由意思ではない状況で
 
@@ -247,31 +249,31 @@ const showPDF = (url) => {
 
 などをさせるのは、暴行罪ではないか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 皆、なんとなく雰囲気でやっていると思うが、こういったことを許していると、なし崩し的に、ほかの多くのことについても、人権の壁というものがどんどん崩壊していってしまう。私は、これは**人権の危機**だと考えている。
 
-</div></div>
+</div>
 
 ### 新型コロナウイルスワクチンを接種しないのではなく、接種できないのはどういう人たちか
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 新型コロナウイルスワクチンを接種しないのではなく、接種できないのは具体的にどういう人たちか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林洋子）（初）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）（初）">
 
 - 明らかに発熱している方
 - 重い急性疾患にかかっている方
 - ワクチンの成分に対し、アナフィラキシーなど重度の過敏症の既往歴のある方等
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林洋子）（初）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）（初）">
 
 また、予防接種を受けるに当たり注意が必要な方として、
 - 抗凝固療法を受けている方
@@ -283,9 +285,9 @@ const showPDF = (url) => {
 - 過去にけいれんを起こしたことがある方
 - ワクチンの成分に対してアレルギーが起こるおそれがある方
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林洋子）（初）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）（初）">
 
 なお、アストラゼネカ社のワクチンの場合は、上記に加え、
 - ワクチン接種後に血小板減少症を伴う静脈もしくは動脈の血栓症を起こしたことがある方
@@ -293,39 +295,39 @@ const showPDF = (url) => {
 
 も、接種できない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 ワクチン接種しないのではない、できない人たち、こういう立場の弱い人たちのことを一番に考え、事業を行っていかなければならない。
 
-</div></div>
+</div>
 
 ### 新型コロナウイルスワクチンの非接種者が同接種者のリスクになると市は考えるか
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 新型コロナウイルスワクチン非接種者がワクチン接種者のリスクになると市は考えるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林洋子）（初）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）（初）">
 
 日本で接種が行われている新型コロナウイルスワクチンは、新型コロナウイルス感染症の発症を予防する高い効果があり、また、重症化を予防する効果が<u>期待されている</u>。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林洋子）（初）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）（初）">
 
 新型コロナウイルス感染症の感染を予防する効果があるかどうかについては、承認前の<u>臨床試験では確認されていない</u>が、現在、多くの国や地域でワクチン接種が進められることでデータが蓄積されてきていると承知している。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林洋子）（初）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）（初）">
 
 これらデータの蓄積を受けて、<u>今後</u>、国から新型コロナウイルスワクチンのさまざまな効果が<u>示されると認識している</u>ので、ワクチン非接種者がワクチン接種者のリスクになるかどうかについては、市では判断できないものと捉えている。
 
-</div></div>
+</div>
 
 <div class="tips">
 
@@ -341,48 +343,48 @@ const showPDF = (url) => {
 
 #### 人にうつさないために新型コロナウイルスワクチンを接種するという認識は（危険な）誤り
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 結局、新型コロナウイルスワクチンを接種するのは、**人にうつさないためではない**。自分の重症化を抑えるために接種するもの<sup>*</sup>。（保険担当部長も）うなずいているので、その認識でよい、ということ。
 
 （<sup>*</sup>さらに、重症化を予防する効果についても、市の答弁によれば、効果が確認されているものではなく「効果が期待されている」ものです）。
 
-</div></div>
+</div>
 
 ### 接種者と非接種者の差別や分断を招かぬよう、啓発を推進し、人権の相談窓口を設けるべきでは
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 市は、ワクチン接種者と非接種者の差別や分断を招かぬよう、より積極的で具体的な啓発を推進したり、市の相談窓口を設け、人権についての相談も受けることを明記したりすべきではないか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林洋子）（初）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）（初）">
 
 
 新型コロナウイルスワクチンの接種に関する差別や偏見、分断等はあってはならないものと考えている。市では、接種券に同封した案内通知や市報、市ホームページにおいて、差別等に関する内容を掲載しており、今後も啓発に努めていく。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林洋子）（初）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）（初）">
 
 また、ワクチン接種に関する人権についての相談窓口については、国においてさまざまな形での相談窓口を設置しており、市ホームページでは、法務省の新型コロナウイルス感染症に関連した差別などの悩みを相談できる窓口を案内している。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林洋子）（初）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）（初）">
 
 市としては、引き続き必要な方に適切に案内ができるよう努めていく。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 小平市は啓発が足りない。他市の事例として、よい例が、埼玉県のホームページに載っている情報。これもママエンジェルスに教えていただいた。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 無意識にこんな行動していませんか、こうした行動はすべてワクチン差別ですよと。
 
@@ -393,86 +395,86 @@ const showPDF = (url) => {
 
 分かりやすく具体的。こういった啓発を行ってほしい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 ほかにも、今日は時間がないので紹介し切れないが、さまざまな市でこういう取組を行っている。小平市もぜひやってほしい。
 
-</div></div>
+</div>
 
 #### 今対策しないなら、普段やっている「人権の啓発活動」の信憑性はなくなり、形骸化する
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 もし、今、こういうことをしないなら、普段やっているような、人権の啓発活動や講演会というのは一体何なのか。今後、そういったことをしても、信憑性がなく、形骸化していくだろうと思う。
 
-</div></div>
+</div>
 
 ### マスク着用の勧奨など、子どもの判断が差別につながるルールづくりはやめるべきでは
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 市教育委員会は、特に社会の成り立ちや人権に関する意識がまだ育っていない状況の小・中学校などでは、マスク着用の勧奨など、個人の判断が差別につながるようなルールづくりはやめるべきではないか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 たとえば発達障害の子どもなどはマスクができない状況もあり、そういった子どもたちにも大きなストレスになる。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川正之）（初）<br><div>
+<div class="bln bright" data-speaker="教育長（古川正之）（初）">
 
 新型コロナウイルス感染症予防のために、適切なマスクの着用、正しい方法と適切なタイミングでの手洗い、身体的距離の確保の3つを基本として、児童・生徒への指導を継続していく。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川正之）（初）<br><div>
+<div class="bln bright" data-speaker="教育長（古川正之）（初）">
 
 一方で、さまざまな事情によりマスクをしていない人への差別や偏見が生じる可能性があることから、市立学校では、新型コロナウイルス感染症に対する不安から陥りやすい偏見や差別意識を解消するための指導を継続していく。
 
-</div></div>
+</div>
 
 
 ### 多様性や人権をないがしろにしないためには、まず見過ごさないこと
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 時間がないのでまとめる。キャッシュレスポイント事業のところでも述べたように、弱者が排除される働きがあるところもそうだが、多様性や人権の尊重の本当の意味を考え、これらがないがしろにされないように事業を行ってもらいたい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 ではどうすればよいかというと、すごく簡単。**見過ごさない**ということ。特に弱い立場にある方々のことを見過ごさないだけでよい。それだけでさまざまなことが解決に向かう。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 なお、SDGsの「誰一人取り残さない」という言葉があるが、私はこの言葉があまり好きではない。温かみを感じない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 英語で言うとNo one will be left behind。Left behindというところに、分断の思想があると感じる。BehindとFront、もしくはBehindとAhead。区別がある。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 日本語で言えば「取り残される場所」と「そうじゃない場所」、そういう区別をする思想を背景に感じる。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 だから、私はこの言葉は一切使わないようにしている。むしろ「誰も見過ごさない」。この精神が最も大切だと思う。
 
-</div></div>
+</div>
 
 </div>
 

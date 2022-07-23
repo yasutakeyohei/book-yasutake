@@ -19,12 +19,12 @@
 
 ---
 
-- いじめが発生してからの対応フローはあるか → ない
-- 重大事態として扱った件数は → 過去5年だと3件
-- 今回の件を重大事態として扱わないのはなぜか → 時間がかかり、対応が遅れる
-- 重大事態とした方が最終的にリソース圧迫もなくなる → 組織的に対応していく
-- 保護者との情報共有は文書ベースで → 必ず行うべきとの考えはない
-- 教育長への手紙を設けて相談を受け付けては → 教育行政相談窓口で対応している
+- いじめが発生してからの対応フローはあるか → [ない](#いじめ発生から解決に至るまでの具体的な対応フローはあるか)
+- 重大事態として扱った件数は → [過去5年だと3件](#これまでに重大事態として扱ってきたいじめの件数は)
+- 今回の事案を重大事態として扱わないのはなぜか → [時間がかかり、対応が遅れる](#今回の背景となる事例はなぜ重大事態ではないと判断したのか)
+- 重大事態とした方が最終的にリソース圧迫もなくなる → [組織的に対応していく](#ほとんどのケースを重大事態として扱った方が最終的に教育委員会のリソースを圧迫しないのでは)
+- 保護者との情報共有は文書ベースで → [必ず行うべきとの考えはない](#いじめ被害者家族との情報共有は文書ベースで行うべきでは)
+- 教育長への手紙を設けて相談を受け付けては → [教育行政相談窓口で対応している](#市長への手紙のように教育長への手紙を設けその制度を通じて相談も受けてはどうか)
 
 </fieldset>
 
@@ -73,22 +73,23 @@ const showPDF = (url) => {
 
 </div>
 
+{{#include ../../../partials/ippan-situgi-note.md}}
 
 ### 今回質問する理由
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 いじめに関して、市教育委員会による一連の対応を見ていると、すぐに改善しなければならない点が多くあると感じる。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 状況に応じて対応を変える必要もあるが、共通する手法も多いため、できる限り対応策をまとめてガイドライン等で共有した方がよい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 たとえば、いじめの調査においては、まず本質的原因を多面的な切り口で分析すること。そのために、たとえば
 - 子どもの特性
@@ -99,9 +100,9 @@ const showPDF = (url) => {
 
 など、具体的な切り口でそれぞれ要因を深掘りし、それぞれに対して対策を立てること。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 また、被害側家族との情報共有について
 - 方法
@@ -112,61 +113,61 @@ const showPDF = (url) => {
 
 特に、情報共有の際は口頭ベースだと誤解が生じ易く、網羅的になりにくいなどの問題があるため、必ず文書ベースで行うこと。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 また、個人情報の取り扱いも、過剰な対応にならないためにも、例示的なケースをまとめておくこと、などである。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 こうした共通の手法や指針がなければ、その都度、現場の判断で対応することになる。するとリスクを避ける心理が働くため、対応の質は低くなり、全体的な改善にもつながっていかない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 いじめの本質的な解決事例を全体として積み重ねていくことは、当事者である子どもや家族の苦しみをなくしたり軽減したりすることに役立つだけではない。校長、教員、そして教育委員会にとっても、これまでずっと続いているであろう困難な状況を軽減することにもつながる。そのためにも、少なくとも上記のような見直しを行っていただきたく、質問する。
 
-</div></div>
+</div>
 
 ### 映画「夢みる小学校」に、ひとつの理想形が描かれている
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 余談として、先日、[夢みる小学校](https://www.dreaming-school.com/)という映画を観た。これからの学校の在り方として理想的な形がひとつ表されていると感じた。教育委員会や教育関係者には観ていただきたい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 この学校では、児童・生徒を最大限信頼し、子どもたちの自主性や自発性に任せるところが特徴的。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 映画が終わってから、白梅学園大学の名誉学長である汐見先生のトークショーがあった。[請願第12号](https://kodaira-kodomo.com/keii/)の委員会審査資料の中でも、記事を紹介した方。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 汐見先生のお話が興味深かった。「不登校」は以前は「登校拒否」としていた。「不登校」というと悪いことをしているような印象。「登校拒否」は、自ら選択して行かない印象。だから「登校拒否児」や「登校拒否」という表現のほうが好ましいと思っている、という趣旨の話。なるほどと思った。
 
-</div></div>
+</div>
 
 ### いじめ発生から解決に至るまでの具体的な対応フローはあるか
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 [小平市いじめ防止基本方針](https://www.city.kodaira.tokyo.jp/kurashi/061/061064.html)には見あたらないが、いじめ発生から解決に至るまでの、関係者との情報のやりとりも含めた、指針となる具体的な対応フローはあるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川正之）（初）<br><div>
+<div class="bln bright" data-speaker="教育長（古川正之）（初）">
 
 小平市いじめ防止基本方針において、いじめの解消に向けた取組を
 - **被害** 児童・生徒への対応
@@ -176,35 +177,35 @@ const showPDF = (url) => {
 
 の4つに分け、取り組むべき内容を示している。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 今回、やり取りの中で、フロー（図）の必要性を強く感じた。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 フローがないと、解決に当たる人たちだけではなく、当の子ども本人も、保護者も、どういうふうに解決に至っていくかの全体像がなかなか見えない。その場その場で対応されているのではという不信感につながるところがある。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 フローをつくるなら、最初に来るのは「いじめの認知」かと。周りの人たちがいじめを認知するところから始まる。次のステップは、そのいじめが「重大事態か」の判断だろう。
 
 <img src="./images/ijime-flow.svg" alt="いじめの対応フロー（最初のステップ）"  data-zoomable="" style="z-index:999;margin-top:2rem;">
 
-</div></div>
+</div>
 
 #### 重大事態の扱いが重要
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 調べたところ、この重大事態に当たるかどうかの判断が重要だと気付いた。多くのいじめは重大事態として扱うべきではないか。
 
-</div></div>
+</div>
 
 <div class="tips" id="重大事態とは">
 
@@ -221,17 +222,17 @@ const showPDF = (url) => {
 
 </div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 「いじめにより発生した」ことが条件ではあるものの、ひとつのポイントは「疑いがある」という文言。いじめの発生が疑いにすぎなくとも、重大被害が発生したと疑われるときには、この要件が満たされる。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 また、特に重要なところは、児童・生徒や保護者から申立てがあったときには、疑いが生じたものと解して、重大事態に該当すると判断を下す必要があるとされているところ。
 
-</div></div>
+</div>
 
 <div class="tips" id="重大事態の個別要件">
 
@@ -262,21 +263,21 @@ const showPDF = (url) => {
 
 </div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 精神被害は、いじめを苦にした結果、精神性の疾患を新たに発症し、または従前からの精神性疾患が一層悪化した場合。これは医師の診断に基づき判断する必要があるとされているが、たとえばPTSDも医師の診断が出る部分だろう。
 
-</div></div>
+</div>
 
 #### 市長報告の内容
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 重大事態が発生したら、公立学校は、当該学校を設置する地方公共団体の教育委員会を経由して当該地方公共団体の長へまず報告する必要がある。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 つまり市長に報告が上がる。その際の報告内容は次のようなもの（[不登校重大事態に係る調査の指針](https://www.mext.go.jp/a_menu/shotou/seitoshidou/__icsFiles/afieldfile/2016/07/14/1368460_1.pdf)より）。
 - 学校名
@@ -288,218 +289,218 @@ const showPDF = (url) => {
 
 この報告は、重大事態が発生したと判断した後、ただちに行うものとされている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 さらに、学校もしくは学校の設置者（市教育委員会）の下に組織を設けて、そこで調査を行う。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 重大事態に認定されると、情報共有をしっかりしなければならない。各教育委員に説明したり、総合教育会議でも話し合ったほうがよい、とされている。
 
-</div></div>
+</div>
 
 #### 重大事態なら組織で対応することになる
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 重大事態と認められた場合には、組織的に対応しなければならない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 今回やり取りしていても、（先生や）教育委員会の困難・苦難が伝わってくる。調査を担当する担任の先生や、教育委員会の職員も、普段の職務に加えて個人で対応することになれば、ストレスがかかる。最悪の場合、担当できなくなる恐れもある。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 先生や職員の個々人に委ねてしまうと限界がある。そのため、重大事態と認定されたときには、組織的に対応しましょう、という仕組み。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 担任の先生が熱心であればあるほど、自分の中で抱え込んだり、自分が解決しなければならない、迷惑はかけられない、そういうことを思われる。それを組織で共有していきましょうということ。これが重大事態というもので、ちゃんと組織をつくって調査を進めていかなければならない。
 
-</div></div>
+</div>
 
 #### これまでに重大事態として扱ってきたいじめの件数は
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 これまでに教育委員会として重大事態として扱ってきたいじめの件数は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育指導担当部長（国富）<br><div>
+<div class="bln bright" data-speaker="教育指導担当部長（国富）">
 
 5年以上さかのぼっての過去は分からないが、5年以内では2件。
 
-</div></div>
+</div>
 
 #### 今回の背景となる事例は、なぜ重大事態ではないと判断したのか
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 今回の背景になっている事例は、重大事態に該当すると思うが、重大事態としては扱っていない。重大事態ではないと判断する理由は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育指導担当部長（国富）<br><div>
+<div class="bln bright" data-speaker="教育指導担当部長（国富）">
 
 先ほど議員が述べた3件の重大事態の要件がまずひとつの判断。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育指導担当部長（国富）<br><div>
+<div class="bln bright" data-speaker="教育指導担当部長（国富）">
 
 また、我々が対応している中で実際に感じている問題点として、いじめの対応は、重大事態であるか否かによって変わるべきものではない。重大事態等をいじめ防止対策推進法において行っていくことで生じる課題もある。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育指導担当部長（国富）<br><div>
+<div class="bln bright" data-speaker="教育指導担当部長（国富）">
 
 議員の指摘と同様だが、現場においては、子どもたちに実際に対応する時間等が必要。しかし、その時間が、報告書の作成や、さまざまな情報交換等で奪われてしまうということも、事実としてある。膨大な時間がかかる。その中で、いじめへの対応が実際は遅れてしまうこともあるので、これはケースによって判断すべきものと考えている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 対応が遅れてしまうというのは、やはり組織的な問題だと思う。リソースが足りていないことも大きな問題。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 そのリソースが足りていないところを、どう改善していけばよいかというと、ひとつは教育長の判断。人を追加するところもある。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 また、教育委員会の中でリソースが足りていないんだったら、市長のほうで、市も協力しますよという話が出てこなくてはならない。重大事態はそのための仕組み。
 
-</div></div>
+</div>
 
 #### ほとんどのケースを重大事態として扱った方が、最終的に教育委員会のリソースを圧迫しないのでは
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 つまり、ほとんどのケースは重大事態として扱ったほうが、最終的に教育委員会のリソースを圧迫しないことになる。教育長の認識は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育部長（川上）<br><div>
+<div class="bln bright" data-speaker="教育部長（川上）">
 
 いじめ問題の解決に向けては、ものすごく調査の時間を要し、正確性も求められる。また、報告書にまとめるに当たり、委員会の中で、さまざまな関係各位からの意見をいただいた中で報告書をまとめていく。事務局として当然関わってくるものが多くなってくる。言い訳じみた話になってしまうが、昨今のコロナ禍において陽性報告があり、その報告を第一に受ける部署と、いじめ問題の対応をする部署が同じところ。そういったところの業務逼迫というのは、たしかにある。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left thought"><br><div>
+<div class="bln bleft thought">
 
 それならば、早急に人を追加するか、担当部署を替えるべきです。
 
 「コロナ対応が多忙だからいじめ対応できない」など言語道断です。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育部長（川上）<br><div>
+<div class="bln bright" data-speaker="教育部長（川上）">
 
 今現在、そういったことにも対処すべく、どういうふうにマンパワーを振り分けていくかというところで、組織的な対応を図っている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left thought"><br><div>
+<div class="bln bleft thought">
 
 どんな対応か、次の一般質問で確認します。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 その組織的な問題は、市長も含めて考えなくてはならないし、教育長に先導してやってもらわないといけない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 [Protect Children（プロテクトチルドレン）](https://protectchildren-eternity.jimdofree.com/)というNPOの方を御存じと思うが、この方は、保護者の味方や教育委員会の味方という立場ではなく、子どもの味方として、子どものことを第一に考え、重大事態等の話も詳しくしていただけるようだ。そういった方と一度話す機会も設けていただきたい。
 
-</div></div>
+</div>
 
 #### 重大事態ではないと判断したのは、教育委員会の都合か、法に照らしてか
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 ひとつ、今回のことが重大事態に本当に該当していないのかはすごく疑問。（年間で）30日間、不登校と言える状態があったら、重大事態に認めなくてはならない。そのあたり大丈夫か。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 いじめ防止対策推進法に違反して、つまり重大事態として扱わなければならないのに扱わず対応していた場合、当事者だけではなく先生方からも訴訟を起こされる可能性もあるが、大丈夫か。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 教育委員会の都合上、重大事態ではないと認めたのか、それとも法に照らして重大事態ではないと認識したのか、確認する。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育指導担当部長（国富）<br><div>
+<div class="bln bright" data-speaker="教育指導担当部長（国富）">
 
 個別具体の事例についてここでは述べられないが、基本的な対応としては、やはり法に基づいて行うべきもの。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育指導担当部長（国富）<br><div>
+<div class="bln bright" data-speaker="教育指導担当部長（国富）">
 
 その中で、まず前提として、法の立てつけ（枠組み）を考えなくてはいけないのが、そもそもいじめの対応は、教育の場において、教育的な対応における方針を策定するところであって、責任追及の場ではないということ。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育指導担当部長（国富）<br><div>
+<div class="bln bright" data-speaker="教育指導担当部長（国富）">
 
 対応の中で責任追及が主眼になっていき、重大事態の対応が非常に困難になっていくという経験則がある。ここも踏まえて、事案に対応するのに何が適切なのかということは判断すべきと考えている。
 
-</div></div>
+</div>
 
 #### 重大事態について誤解があるようだ
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 このあたり、Protect Childrenの方によると、かなり誤解が多いところ。今後、またこれでやり取りする。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 いじめは市全体の問題でもある。今回の件ということではないが、コロナ禍で鼻マスクをしているだけでもいじめの原因になる。以前から総務部にも言っているように、市全体で、差別などが起こらないよう、周知をしっかりしなさいと言っているが（やらないので）、結果として子どもたちにいじめの発生のきっかけを与えるようなことになっている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 市全体として共有してもらうためにも、重大事態という仕組みはちゃんと考えられた仕組みだと思うので、ちゃんと向き合ってもらいたい。
 
-</div></div>
+</div>
 
 
 ### いじめの本質的原因を見つけるために、どのような切り口で調査分析しているか
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 いじめの本質的原因を見つける際、どのような切り口で調査分析しているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川正之）（初）<br><div>
+<div class="bln bright" data-speaker="教育長（古川正之）（初）">
 
 学校がいじめを認知した際には、いじめの行為をすぐにやめさせた上で、把握した事実関係をもとに、背景と考えられる
 - 児童・生徒の心理面や発達課題
@@ -509,73 +510,73 @@ const showPDF = (url) => {
 
 等の視点で原因を調査分析し、解決策を探って対応する。
 
-</div></div>
+</div>
 
 ### いじめ被害者家族との情報共有は文書ベースで行うべきでは
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 特にいじめ被害側家族との情報共有は、口頭ではなく文書ベースで行うべきと考えるが、どうか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川正之）（初）<br><div>
+<div class="bln bright" data-speaker="教育長（古川正之）（初）">
 
 いじめを認知した際には、学校が加害児童・生徒や関係児童・生徒への聞き取り等による事実確認を迅速かつ丁寧に行い、被害児童・生徒の保護者に確認した状況等をお伝えすることが必要。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川正之）（初）<br><div>
+<div class="bln bright" data-speaker="教育長（古川正之）（初）">
 
 継続して対応することを要する場合などには、状況等に応じて報告の仕方を選ぶ必要があると捉えており、保護者との情報共有を必ず文書で行うべきとの考えはない。
 
-</div></div>
+</div>
 
 ### 過剰な個人情報の保護が、原因究明や共通認識の形成に壁となっていないか
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 校長や教員の個人情報保護に対する認識が過剰なため、原因追究や共通認識の形成に不可欠な情報が被害側家族との間で共有されないケースもあると考えられるが、どう考えるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川正之）（初）<br><div>
+<div class="bln bright" data-speaker="教育長（古川正之）（初）">
 
 いじめの問題の解決に向けて、被害児童・生徒保護者と情報共有することは重要だが、個人情報に配慮することも必要と考えている。
 
-</div></div>
+</div>
 
 ### 市長への手紙のように、教育長への手紙を設け、その制度を通じて相談も受けてはどうか
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 いじめ問題では、教育委員会や学校組織が抱える構造的問題が本質的原因の一端であるケースも多いのではないか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 そういった問題等に関し、担当者とのやり取りでは状況の改善につながらないため、教育長に直接相談できる仕組みが欲しいという声が多い。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 市長への手紙のように、教育長への手紙を設け、その制度を通じて相談も受けてはどうか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川正之）（初）<br><div>
+<div class="bln bright" data-speaker="教育長（古川正之）（初）">
 
 現在、法の規定に基づき、教育総務課に、教育行政に関する事務の全般に関する意見や要望を受け付ける教育行政相談窓口を設けており、それぞれの相談等の内容に応じて窓口で対応するほか、必要に応じて担当の部署を御案内している。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川正之）（初）<br><div>
+<div class="bln bright" data-speaker="教育長（古川正之）（初）">
 
 今後も、市民の皆様からの意見、御相談を丁寧にお伺いし、教育行政の推進を図っていく。
 
-</div></div>
+</div>
 
 
 </div>

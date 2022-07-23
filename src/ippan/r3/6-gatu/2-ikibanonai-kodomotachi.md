@@ -99,7 +99,7 @@ const showPDF = (url) => {
 
 （なるべく分かりやすくするため、ここでは、慣例的に使用されている用語・略称を一部で用いました。次の表に示すように、別の表記もあります）
 
-<div class="table-wrapper" style="margin-bottom:4rem">
+<div class="table-wrapper" style="white-space:nowrap;margin-bottom:4rem">
 <table class="slim bordered">
 <thead>
 <tr><th>ここでの表記</th><th>→</th><th>別の表記</th><th>メモ</th></tr>
@@ -116,55 +116,55 @@ const showPDF = (url) => {
 
 ### 今回質問する理由
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 一般質問等でこれまで幾度かテーマとして取り上げる中で、ディスレクシアについての社会的な認知不足を痛感した。そこで、私なりにできることを考え、ディスレクシアの周知と議員活動レポートを兼ねたパンフレットを作成し、市民の方にもご協力いただきながら市内を配り歩いている。これまでに4万部強を配り、ご覧になった複数の保護者からご相談いただいている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left bl-tips"><div>
+<div class="bln bleft smile">
 
 『[ディスレクシアまとめサイト](https://yasutakeyohei.com/books/dyslexia/)』をつくっています。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 ご相談いただく中で、現状の学校の仕組みの中では行き場がなく、学校生活が嫌になってしまう子どもが想像以上にいることが分かってきた。主な原因は、学習の機会が極端に限られてしまうこと、周りから正しく理解が得られていないことであり、また、教員との関係が破綻するケースもある。パンフレットをご覧になり、勇気をもって直接ご相談いただくに至る確率を考えれば、私に届く複数の声は氷山の一角だ。誰一人取り残さないという約束もしているのであるから、いますぐに対応が必要な子どもたちの存在を、けっして見過ごすことがあってはならない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 市長は87の政策第40項で「障がいのある子もない子も共に学ぶインクルーシブ教育を推進します」とし、同第41項で「精神疾患の正しい知識や情報について、本人や家族の生きやすさにつながるよう、学校教育の中で伝える場を作ります」としているため、期待を込めて、市の特別支援教育のあり方について問う。
 
-</div></div>
+</div>
 
 ### 就学相談員の問題について
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 「二度と相談したく**なくなる**ような対応だった」という声が複数あるが、就学相談員はどういう基準で選定され、具体的に何をするか、またサービス改善の対象ではないのか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川正之）<br><div>
+<div class="bln bright" data-speaker="教育長（古川正之）">
 
 就学相談員は、臨床心理士の資格を有し発達検査の実施および報告書の作成が可能な方、または教育管理職経験者。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川正之）<br><div>
+<div class="bln bright" data-speaker="教育長（古川正之）">
 
 主な業務は、幼児、児童・生徒の就学および転学等に関する相談や、就学支援委員会に関わる資料作成等。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川正之）<br><div>
+<div class="bln bright" data-speaker="教育長（古川正之）">
 
 就学相談に際しては、児童・生徒の可能性を最大限に伸長する教育の場への就学に向けて、保護者の意見を十分に聞き取れる体制づくりが重要であると認識している。
 
-</div></div>
+</div>
 
 <div class="tips" id="就学相談員の任用に関する規則がない">
 
@@ -194,28 +194,28 @@ const showPDF = (url) => {
 
 </div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 通告書に「二度と相談したくなくなるような」と書くか迷った。しかし、複数の方から、怒りにも、恨みにも似た声があったので書いた。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 入学の際などは、就学・転学相談を受けなければならない。しかし、相談員にやる気を感じられず、本当にここに相談してよいのか、という声をいただいている。
 
 そういった声は把握しているか。
 
-</div></div>
+</div>
 
 
-<div class="balloon bl-right">教育指導担当部長（国富）<br><div>
+<div class="bln bright" data-speaker="教育指導担当部長（国富）">
 
 これまでそういった声があることは把握していなかった。すぐに改善すべきものだと考える。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 ここは相談の入り口。保護者の方は次のようなことが気になるため、なかなか問題を指摘できないところがある。
 
@@ -224,7 +224,7 @@ const showPDF = (url) => {
 
 ぜひそういったこと（保護者の立場）にも配慮してほしい。
 
-</div></div>
+</div>
 
 <div class="tips" id="電話対応はすぐに改善してくれたようです">
 
@@ -240,41 +240,41 @@ const showPDF = (url) => {
 
 ### 医師診察記録を出せる医師を把握し、紹介できているか
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 市は、特別支援教室（以下、通級と呼ぶ）申し込みの際に必要な「医師診察記録」の作成が可能な医療機関や医師を、児童・生徒の状況に応じて適切に把握し、紹介できているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川正之）<br><div>
+<div class="bln bright" data-speaker="教育長（古川正之）">
 
 必要に応じて嘱託医または近隣の外部医療機関を紹介している。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 学習障害の方も同じか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育指導担当部長（国富）<br><div>
+<div class="bln bright" data-speaker="教育指導担当部長（国富）">
 
 学習障害者についても同様。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 特に学習障害の場合、医療機関や専門医が少なく、医師診察記録がなかなか取れないという声もある。そのために通級の申込みができない人がいるかもしれない。そういったところの制度に余裕を設けたほうがよいと思うが、どうか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育指導担当部長（国富）<br><div>
+<div class="bln bright" data-speaker="教育指導担当部長（国富）">
 
 たしかに専門的な医師は多くないが、たとえばST（言語聴覚士）の助力をいただくなど工夫の余地はあると思うので研究していく。
 
-</div></div>
+</div>
 
 <div class="tips" id="なぜ医師診察記録が必須とされているのか">
 
@@ -310,13 +310,13 @@ const showPDF = (url) => {
 
 #### 通級指導が途中から不適当と判断された人数、理由、行き先は
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 平成30年度からの3年度それぞれで、本人や保護者が通級の利用を希望しながら、通級の指導を受けることが適当ではないと判断された児童・生徒数と、その主な判断理由、その後の行き先は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川正之）<br><div>
+<div class="bln bright" data-speaker="教育長（古川正之）">
 
 児童・生徒数は、
 
@@ -324,25 +324,25 @@ const showPDF = (url) => {
 - 令和元年度：6人
 - 令和2年度：5人
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川正之）<br><div>
+<div class="bln bright" data-speaker="教育長（古川正之）">
 
 主な理由は、
 
 - 特別支援教室において特別な指導を行っても通常の学級における学習が困難である場合
 - 特別支援教室への継続的な通室が困難である場合
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川正之）<br><div>
+<div class="bln bright" data-speaker="教育長（古川正之）">
 
 行き先は、
 
 - 特別支援学級への入級
 - 通常の学級における個別支援
 
-</div></div>
+</div>
 
 <div class="tips" id="通級による指導が不適当とされる理由">
 
@@ -472,13 +472,13 @@ const showPDF = (url) => {
 
 </div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 「通級の指導を受けることが適当ではない（通級指導が不適当）」と判断する際の客観性はどう確保しているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川正之）<br><div>
+<div class="bln bright" data-speaker="教育長（古川正之）">
 
 各学校の校内委員会において検討した後、
 
@@ -494,80 +494,80 @@ const showPDF = (url) => {
 
 をもとに多面的な視点から総合的に検討することで、客観性を確保している。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 説明を受けても、なぜ自分の子どもが不適当になったのかよく分からなかったという方もいる。要は、説明が不十分だったのでは。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 そもそも客観性の確保は「保護者の方がその説明で納得できる」ことを目指しているのか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育指導担当部長（国冨） <br><div>
+<div class="bln bright" data-speaker="教育指導担当部長（国冨） ">
 
 発達の可能性をもたせる一番の学びの場、ということを説明するので、やはり納得いただくことが目標と考えている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 そうすると、せっかくやっていることでも、「納得できなかった」となれば、もったいない。
 
 たとえば、「分からないことがあれば、どんな小さいことでもご相談ください」などを伝えてもらいたい。
 
-</div></div>
+</div>
 
 #### 通級指導が不適当と判断され、特別な配慮を受けながら通常学級に通っている人数は
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 通級での指導が不適当と判断され、特別に配慮をしてもらいながら通常学級に通っている児童・生徒数は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川正之）<br><div>
+<div class="bln bright" data-speaker="教育長（古川正之）">
 
 平成30年度から令和2年度までの3年間では12人。
 
-</div></div>
+</div>
 
 ### 特別支援学級やチャレンジ校を選ぶ場合
 
 #### 特別支援学級に通うと、通常学級や特別支援教室へは移行できないのか
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 これまでのたとえば10年間で、特別支援学級（以下、支援級と呼ぶ）に通っていた児童・生徒が、通常学級や通級での指導に移行を希望した累計数と、実際に移行した児童・生徒の累計数は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川正之）<br><div>
+<div class="bln bright" data-speaker="教育長（古川正之）">
 
 文書が保存されている過去5年間で、
 
 - 希望者累計数：8人
 - 通室決定者累計数：8人
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 要は、希望した児童・生徒は全員が通級に移動できているということか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right"><br><div>
+<div class="bln bright" data-speaker="">
 
 答弁のとおり。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 ここも誤解が生じ、ご相談があったところ。そのあたりの説明も、もっと必要。つまり、
 
@@ -576,7 +576,7 @@ const showPDF = (url) => {
 
 と思われている方々がいらっしゃる。周知等をお願いしたい。
 
-</div></div>
+</div>
 
 <div class="tips" id="就学指導から教育支援に">
 
@@ -595,41 +595,41 @@ const showPDF = (url) => {
 
 #### チャレンジ校やエンカレッジ校に通えるのは不登校児だけなのか
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 支援級や通級で指導を受け、不登校ではなかった生徒が、チャレンジ校やエンカレッジ校に進学するケースはあるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川正之）<br><div>
+<div class="bln bright" data-speaker="教育長（古川正之）">
 
 過去3年間、毎年進学している。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 不登校の児童・生徒しかチャレンジ校に行けないと考えている保護者の方がいらっしゃる。そうではない、ということでよいか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 要は、チャレンジ校というのは、不登校の児童・生徒ではない子もちゃんと受け入れている学校だということでよいか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育指導担当部長（国富）<br><div>
+<div class="bln bright" data-speaker="教育指導担当部長（国富）">
 
 チャレンジ校は、主に不登校を含めた適応に関する生徒が対象、主にではあるが、その目的に合っていれば大丈夫だと思う。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 そういったことも、もっと具体的に伝えていただきたい。ホームページも情報を充実してほしい。
 
-</div></div>
+</div>
 
 <div class="tips" id="チャレンジスクールとは">
 
@@ -663,7 +663,7 @@ const showPDF = (url) => {
 >
 > <p class="ref"><a href="https://www.metro.ed.jp/oedo-he/our_school/message.html">東京都立大江戸高等学校・学校からのメッセージ</a></p>
 
-<div class="table-wrapper">
+<div class="table-wrapper" style="white-space:nowrap">
 <table class="slim bordered">
 <caption>東京都のチャレンジスクール一覧（都立高）</caption>
 <thead>
@@ -685,7 +685,7 @@ const showPDF = (url) => {
 
 また、東京都立八王子拓真高校には、チャレンジスクールではないものの、同じ流れを汲んだ「チャレンジ枠」という枠が用意されています。
 
-<div class="table-wrapper">
+<div class="table-wrapper" style="white-space:nowrap">
 <table class="slim bordered">
 <caption>チャレンジ枠を設けている都立高</caption>
 <thead>
@@ -700,7 +700,7 @@ const showPDF = (url) => {
 
 チャレンジスクールとチャレンジ枠の違いは次のようなものです。
 
-<div class="table-wrapper">
+<div class="table-wrapper" style="white-space:nowrap">
 <table class="slim bordered">
 <caption>チャレンジスクールとチャレンジ枠の違い（<a href="http://www.hachioji-takushin-h.metro.tokyo.jp/pc/challenge.html">参考サイト</a>）</caption>
 <thead>
@@ -738,7 +738,7 @@ const showPDF = (url) => {
 
 ＊上記レポートには、これ以外にも、エンカレッジスクールの日々の状況が描かれています。
 
-<div class="table-wrapper">
+<div class="table-wrapper" style="white-space:nowrap">
 <table class="slim bordered">
 <caption>東京都のエンカレッジスクール一覧（都立高）</caption>
 <thead>
@@ -758,7 +758,7 @@ const showPDF = (url) => {
 
 チャレンジスクールとエンカレッジスクールの違いは次のようなものです。
 
-<div class="table-wrapper">
+<div class="table-wrapper" style="white-space:nowrap">
 <table class="slim bordered">
 <caption>チャレンジスクールとエンカレッジスクールの違い</caption>
 <thead>
@@ -802,89 +802,89 @@ const showPDF = (url) => {
 
 #### 特別支援学級に通うと、卒業後の進路が限られるのか
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 中学校の支援級は、卒業後の進路が限られるのではないかと心配する声がある。「[小平市の特別支援学級のご案内](https://www.city.kodaira.tokyo.jp/kurashi/files/147/000147/att_0000002.pdf)」に書かれているように、卒業後の進路は特別支援学校に限られるのか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川正之）<br><div>
+<div class="bln bright" data-speaker="教育長（古川正之）">
 
 特別支援学校に限られるものではない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 「小平市の特別支援学級のご案内」にはそう書かれている。進学実績で書いてあると聞いたが、これももっと具体的に「特別支援学校に限られるものではない」ということを書いてはどうか。
 
 どういう学校に進学しているのか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育指導担当部長（国冨）<br><div>
+<div class="bln bright" data-speaker="教育指導担当部長（国冨）">
 
 都立の学校や私立の高等学校にも進学している。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 選択肢は結構広い、あると言えばある、といったところも、説明を充実していただきたい。
 
-</div></div>
+</div>
 
 ### 自閉症・情緒障がい特別支援学級（情緒固定級）をすぐに設置しない理由は
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 [小平市特別支援教育総合推進計画（第二期）前期計画](https://www.city.kodaira.tokyo.jp/kurashi/088/088635.html)や、過去の答弁等において、市は、「自閉症・情緒障がい特別支援学級（情緒固定級）の設置については、他自治体の実践例等の研究を進める」としている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 すべての隣接市がすでに小・中学校のどちらか、もしくは両方に情緒固定級を設けている中、小平市がこれをすぐに設置しない理由は
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川正之）<br><div>
+<div class="bln bright" data-speaker="教育長（古川正之）">
 
 自閉症、情緒障害等の児童・生徒が自校内で指導を受けられる体制として、本年度からすべての市立小・中学校に特別支援教室を開設した。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川正之）<br><div>
+<div class="bln bright" data-speaker="教育長（古川正之）">
 
 特別支援教室の全校実施の状況を踏まえつつ、多様な学びの場の充実に向けて、他自治体の実践例等の研究を進めていく。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 いつも思うが、小平市は「ほかの市がやっていることを勉強する」ということがよくある。ほかの市を真似するということは、ほかの市が率先してリスクを負っていることの恩恵を受けている、ということになる。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 前の企画政策部長は、ふるさと納税に関し、「ほかの市から財源を奪うことになるので、（ふるさと納税制度は積極的に活用したくない）」といった趣旨のことを述べていた。ほかの自治体に負担をかけたくないなら、（さまざまな先駆的な事業の取組みを）もっと前のめりでやってもよいのではないか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 情緒固定級に関して、現状で、設置した場合の課題をどう把握しているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育指導担当部長（国富）<br><div>
+<div class="bln bright" data-speaker="教育指導担当部長（国富）">
 
 一番は、指導の適切さというところで、情緒固定の子どもたちに対してきちんと指導ができる教員の確保。もうひとつは、通学するのにどこが利便性があるのかということ。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育指導担当部長（国富）<br><div>
+<div class="bln bright" data-speaker="教育指導担当部長（国富）">
 
 一方で、指導の多層構造と言うものがある。
 
@@ -894,13 +894,13 @@ const showPDF = (url) => {
 
 この中での効果を図っていく必要がある。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育指導担当部長（国富）<br><div>
+<div class="bln bright" data-speaker="教育指導担当部長（国富）">
 
 平成29年度に情緒固定学級の視察に行ったのは、そういったことの効果を図ってのことで、他地区の状況を見てからということではない。
 
-</div></div>
+</div>
 
 
 <div class="tips" id="自閉症情緒障害特別支援学級情緒固定級とは">
@@ -958,7 +958,7 @@ const showPDF = (url) => {
 
 とされています。また、医学的な診断をつける際の基準となるICD-10では、次のように分類されている、としてます。
 
-<div class="table-wrapper">
+<div class="table-wrapper" style="white-space:nowrap">
 <table class="slim bordered">
 <thead>
 <tr><th>ICD-10での分類</th><th>専門用語</th><th>通称など</th></tr>
@@ -2418,41 +2418,41 @@ const showPDF = (url) => {
 
 ### 長期欠席児童・生徒支援シートの内容は
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 文部科学省が活用を依頼している「児童生徒理解・支援シート」を小平市は活用しているか。していないなら、理由は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川正之）<br><div>
+<div class="bln bright" data-speaker="教育長（古川正之）">
 
 教育委員会では、東京都の様式を小平市版として改良した学校生活支援シートを活用している。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 これは、不登校のお子さんがいる保護者の方から相談があったので質問している。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 不登校の子について、小平市は「長期欠席児童・生徒支援シート」を使い、欠席理由のところは、「病欠」、「家庭の事情」、「慶弔」の3種類からしか選べないため、不登校の子は、全員、理由不明の病気や家庭の事情にされているのではないか、と。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 平場（非公式の話し合い）で聞いたところ、そういうことではない、もっと細分化されているということだった。どういう項目で把握しているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育指導担当部長（国富）<br><div>
+<div class="bln bright" data-speaker="教育指導担当部長（国富）">
 
 簡潔に言うと、子どもたち自身の状況、家庭の状況、あるいはほかの状況なども含め、細かく分かれている。
 
-</div></div>
+</div>
 
 <div class="tips" id="長期欠席児童生徒支援シートについて">
 
@@ -2484,31 +2484,31 @@ const showPDF = (url) => {
 
 #### 支援級や通級に通いながら、教室の後部座席でも自由に授業を受けられるようにしては
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 令和2年度小平市特別支援教育専門家委員会の複数委員も指摘しているように、特にグレーゾーンや知的ボーダーに区分されるような児童・生徒は、知的障害の支援級では学力差が大きく、一方、通級では学ぶ機会が限定的になることから、行き場のない状況がある。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 対策として、情緒固定級の設置はひとつのアイデアではあるが、いま困っている児童・生徒には遅すぎる。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 そこで、すぐに開始できるであろうひとつのアイデアとして、支援級に通いながら、通常学級で行われる授業のうち受けたいものを選び、授業開始時に最後部の席に座って授業を受けるというものがあるが、どう考えるか 
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川正之）<br><div>
+<div class="bln bright" data-speaker="教育長（古川正之）">
 
 一人一人の状況や保護者や本人の希望を踏まえながら、特別支援学級設置校において、経験を深め、社会性を養い、豊かな人間性を育むとともに、互いを尊重し合う大切さを学ぶ機会として、交流および共同学習で通常の学級の授業の参加を推進している。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 教育委員会の定例会で、令和2年度特別支援教育取組状況に係る調査結果が示された。交流学習について、
 
@@ -2520,39 +2520,39 @@ const showPDF = (url) => {
 
 たとえば情緒固定級という選択肢をひとつ増やしていただきたい（し、それまでの間、こういう提案の実現も考えてほしい）。
 
-</div></div>
+</div>
 
 #### 不登校の子や、支援級や通級に通う子のために、通常学級授業のライブ配信や録画配信を行っては
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 また、別のアイデアとして、インターネットで、通常学級の授業のライブ配信や録画配信を行い、支援級や通級の児童・生徒や不登校児が視聴できるようにするというものがあるがどうか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川正之）<br><div>
+<div class="bln bright" data-speaker="教育長（古川正之）">
 
 今後、実施について研究していく。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 コロナ禍で共同学習の機会が減っていることからも、新型コロナウイルス感染症対応地方創生臨時交付金が財源として活用できるはずだが、どう考えるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川正之）<br><div>
+<div class="bln bright" data-speaker="教育長（古川正之）">
 
 新型コロナウイルス感染症対応地方創生臨時交付金は、財源として活用可能であると認識しているが、交付金は単年度の対応となることから、ICT環境整備への活用は想定していない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 また平場のほうでも提案等させてもらう。
 
-</div></div>
+</div>
 
 <div class="tips" id="動画配信に関する課題について">
 
@@ -2575,27 +2575,27 @@ const showPDF = (url) => {
 
 #### それ以外に、行き場のない子が、現状で学ぶ機会を失わないようにするアイデアはあるか
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 上のアイデア以外に、グレーゾーンや知的ボーダーに区分されるような、行き場のない児童・生徒が、現状で学ぶ機会を失わないようにする仕組みとしてはどういったことが考えられるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育長（古川正之）<br><div>
+<div class="bln bright" data-speaker="教育長（古川正之）">
 
 教職員が教育のユニバーサルデザイン化や合理的配慮についての理解を深められるよう努めるとともに、より充実した仕組みができるよう、人的支援や環境整備に向けた支援を国や東京都に働きかけていく。
 
-</div></div>
+</div>
 
 #### すぐにできることがある、こだいらこれだけはの活用も
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 たとえば、デイスレクシアの子に向けたテストを行ってはどうかという提案がある。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 1日に3から4教科のテスト（試験）を立て続けに受けると、とても疲れて集中できなくなる。時間の延長も許可されない。
 
@@ -2605,18 +2605,18 @@ const showPDF = (url) => {
 - 休憩を挟んで2時間まで延長する
 - タブレットで読み上げや回答ができるようにする
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 また、少なくとも、次は実施してほしいという意見がある。
 
 - プリントをデータでもらえるようにする
 - プリントにルビを振ったりフォントサイズで配慮してもらう
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 また、家に持って帰ったプリントが、どこでもらったか分からないので、次のような見出しをつけてほしいという意見もある。
 
@@ -2624,19 +2624,19 @@ const showPDF = (url) => {
 - 教科名
 - 課題／まとめ／次回の授業で使うもの、などの見出しをつける
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 こういったことを「こだいらこれだけは」に含め、全校共通のルールとして浸透させればよいのではないかと思うが、どうか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">副議長（山岸真知子）<br><div>
+<div class="bln bright" data-speaker="副議長（山岸真知子）">
 
 時間ですので。
 
-</div></div>
+</div>
 
 <div class="tips" id="答弁を待たずに終了するのはどうなのか">
 

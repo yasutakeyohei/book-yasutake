@@ -23,9 +23,9 @@
 
 ---
 
-- TOKYOワクションに対し、小平市は → 協力依頼が来ているが現在対応の予定なし
-- ワクチン接種・非接種の差別禁止にもっと周知啓発を → 今後も啓発に努める
-- 差別禁止条例の制定予定は → 国と都の状況を見極めるが、都が制定する必要あり
+- TOKYOワクションに対し、小平市は → [協力依頼が来ているが現在対応の予定なし](#人権侵害の流れをつくり情報セキュリティー上も重大な問題があるtokyoワクションに小平市はどう関与するか)
+- ワクチン接種・非接種の差別禁止にもっと周知啓発を → [今後も啓発に努める](#ワクチン接種非接種での差別を禁止するよう市はもっと周知啓発を徹底すべきでは)
+- 差別禁止条例の制定予定は → [国と都の状況を見極めるが、都が制定する必要あり](#市としてワクチン接種に関する差別を禁止する条例を制定する考えはあるか)
 
 </fieldset>
 
@@ -76,51 +76,53 @@ const showPDF = (url) => {
 
 </div>
 
+{{#include ../../../partials/ippan-situgi-note.md}}
+
 ### 今回質問する理由
 
 #### TOKYOワクションは憲法違反行為であり、やってはいけないこと
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 本年11月1日に東京都がTOKYOワクションアプリの運用を開始した。これはLINEを利用して新型コロナワクチン接種者に優遇措置を行うものだ。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 つまり、**ワクチン接種の有無で待遇上の差別を行うことを東京都として許容し推進するもの**である。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 [9月定例会で指摘した](https://yasutakeyohei.com/books/yasutake/ippan/r3/9-gatu/3-vaccine-sabetu-jinkensingai.html)ように、ワクチン接種有無での差別は基本的人権の侵害であり、許してはならない。よって、この事業は即刻中止すべきものである。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 国が今後進めるとしているワクチン接種証明書（ワクチンパスポート）も同様。**こうした行いはすべて憲法違反であり、やってはいけないこと**である。
 
-</div></div>
+</div>
 
 #### 情報セキュリティ上の重大な問題も指摘されている
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 また、別の問題として、LINEを使ったシステムには、情報セキュリティ上の重大な問題があり、政府のLINE利用に関するガイドラインに違反し、さらに東京都個人情報の保護に関する条例にも違反しているという指摘がある（たとえば[コチラのブログ記事](https://www.naka2656-b.site/archives/31016041.html)でも詳しく解説されています）。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 LINE社は、もともと韓国のオンラインゲーム会社がライブドア社を買収し、その後、ソフトバンクグループと経営統合してできた。
 
-</div></div>
+</div>
 
 ##### 『LINEの個人情報管理に不備』のスクープ記事
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 今年の3月に朝日新聞がスクープした記事で、LINE社の、次ような大問題が発覚した。
 - 日本のLINEユーザーの個人データへのアクセス権を、中国の関連会社に付与していた
@@ -128,13 +130,13 @@ LINE社は、もともと韓国のオンラインゲーム会社がライブド�
 
 [朝日新聞：LINEの個人情報管理に不備　中国の委託先が接続可能（令和3年3月17日）](https://www.asahi.com/articles/ASP3J7K5DP3JUHBI03T.html)
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 議員研修会のときに、そんなことないみたいな話があったと思うが、私が聞いていた話とずいぶん違う。
 
-</div></div>
+</div>
 
 <div class="tips" id="令和元年度議員研修で聞いた話とずいぶん違う">
 
@@ -146,7 +148,7 @@ LINE社は、もともと韓国のオンラインゲーム会社がライブド�
 
 </div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 これは、
 - [個人情報の保護に関する法律第23条の安全管理措置](https://elaws.e-gov.go.jp/document?lawid=415AC0000000057#Mp-At_23)の違反
@@ -155,7 +157,7 @@ LINE社は、もともと韓国のオンラインゲーム会社がライブド�
 
 とされている。経済安全保障という概念とともに、大きな社会問題になった。
 
-</div></div>
+</div>
 
 <div class="tips" id="経済安全保障とは">
 
@@ -167,102 +169,102 @@ LINE社は、もともと韓国のオンラインゲーム会社がライブド�
 
 </div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 この事件を受け、[個人情報保護委員会](https://www.ppc.go.jp/)と総務省が、4月にLINE社に対して行政指導を実施した。
 
-</div></div>
+</div>
 
 ##### 国がLINEサービス等利用のガイドラインを制定
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 また同年の4月30日付で、内閣官房、個人情報保護委員会、金融庁、総務省が『[政府機関・地方公共団体等における業務でのLINE利用状況調査を踏まえた今後のLINEサービス等の利用の際の考え方（ガイドライン）](https://www.fsa.go.jp/news/r2/sonota/20210430-3/20210430-3.html)』を制定。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 このガイドラインを読むと、LINEでは、原則として機密性を有する情報、住民等の個人情報を扱ってはならないとされている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 また、公式アカウントを利用した相談業務等においては、LINE社とは別の委託先に、適切にセキュリティが確保されたシステムを構築する必要があるとされている。
 
-</div></div>
+</div>
 
 ##### 小平市のLINEを使った相談事業等はガイドライン違反では
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 小平市は大丈夫か。通告外だから今回は聞かないが、LINEを活用した相談を行っていることはガイドライン違反にならないのか。
 
-</div></div>
+</div>
 
 ##### TOKYOワクションはガイドライン違反
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 TOKYOワクションは、LINEを使って接種情報のやり取りする。LINE社とは別の委託先も用意していない状況なので、このガイドラインに違反しているという指摘がある。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 また、[東京都個人情報の保護に関する条例第4条](https://www.waterworks.metro.tokyo.lg.jp/reiki_int/reiki_honbun/g171RG00000221.html#e000000159)には、「思想、信教及び信条に関する個人情報並びに社会的差別の原因となる個人情報については、収集してはならない」とある。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 まさにこのワクチン接種、非接種の情報というのは、社会的差別の原因となる個人情報だ。それを収集している時点で条例違反であると、そういったことが指摘されている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 それ以外も問題は多岐にわたる。ぜひ[こちらのブログ記事](https://www.naka2656-b.site/archives/31016041.html)を読んでいただきたい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 そういった情報セキュリティ上の問題がある。
 
-</div></div>
+</div>
 
 
 #### 基本的人権の侵害
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 基本的人権のひとつ重要なことは、「自らの身体、健康、生命等に関する重要な判断は、自らの自由意志に基づいて行える」というものである。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 私がここで述べているのは、自由意志に基づいた判断ができなくなる差別や同調圧力を、国や東京都が容認・放任したり推進したりしてはならないということだ。
 
-</div></div>
+</div>
 
 #### 同じことが、埼玉弁護士会の声明で法律的に詳しく指摘されている
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 埼玉弁護士会が同10月に出した声明（「[ワクチンパスポート制度によるワクチン接種の事実上の強制及びワクチン非接種者に対する差別的取扱いに反対する会長声明](https://www.saiben.or.jp/proclamation/001042.html)」）にも同様のことが詳しく書かれているので抜粋する。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 > このワクチン接種証明書の国内利用は、新型コロナウイルスの感染拡大を防止しつつ、国内の経済活動を回復させるという狙いがあるが、単なる公的証明という域を超えて、接種証明の提示を公営施設や公共交通機関の利用の条件とし、あるいは、民間の宿泊施設や飲食店の利用、旅行・イベント等への参加等の条件とすることを積極的に推奨するのであれば、市民は、社会生活のあらゆる場面で接種証明書の取得と提示が求められることになり、その結果、これまでワクチンの接種を望まなかった者も接種を強いられることになる。このことは、<u>ワクチン接種を余儀なくされる者の自己決定権（憲法第13条）を侵害するものであり、他方、それでも接種しないとした者の幸福追求権（憲法第13条）や移動の自由（憲法第13条、第22条第1項）を不当に制約するもの</u>である。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 > また、ワクチン接種後においても新型コロナウイルスに感染する場合が報告されている状況の下、接種証明の有無によって施設の利用等に差異が生じさせることは、ワクチンの接種者と非接種者とを正当な理由なくして差別するものであって、<u>平等権を保障した憲法第14条にも違反する。</u>
 
@@ -274,260 +276,260 @@ TOKYOワクションは、LINEを使って接種情報のやり取りする。LI
 
 > よって当会は、ワクチンパスポート制度により、ワクチン接種の事実上の強制やワクチン非接種者に対する差別的な取扱いが招来されることを強く懸念し、このような制度の実施に強く反対する
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 私はこの声明にとても同意する。職員も同意する方がかなり多いのではないか。普段から人権の大切さを訴えている人も、ぜひこれは読んでもらいたい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 兵庫県の弁護士会からも、[同様の趣旨の会長声明](https://www.hyogoben.or.jp/news/iken/12573/)が11月9日に出されている。
 
-</div></div>
+</div>
 
 #### 本来、国や都がやるべきなのは、情報提供と周知徹底
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 本来、国や自治体がやらなくてはならないことは、次のことだ。
 
 - 人々が自由な意志で判断が行えるよう、必要十分な情報を分かりやすく提供すること
 - 自由意志の制限につながる差別や同調圧力が起こらないよう周知啓発等を徹底すること
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 東京都は、こうした原則に著しく反しており、国もその誤りを犯そうとしている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 人権については（この声明文と）通告書に書いたことが中心。今までも述べているので、これ以上は述べないが、すでにこれだけでTOKYOワクションは即刻中止すべき事業ということが分かる。
 
-</div></div>
+</div>
 
 #### 事業者が顧客の状態に応じたサービスを提供することと混同してはならない
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 なお、事業者が、顧客の年齢や喫煙状態等に対応して個別のサービスを提供することは、多くの場合、人権侵害には当たらない。自由意志が影響を受けるようなものではないからだ。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 こうした事業者が行う顧客に応じたサービスと、多大な権力を有する国や東京都が行うワクチン接種者優遇策を、混同してはならない。
 
-</div></div>
+</div>
 
 #### 東京都は機能不全を呈している
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 以上のように、TOKYOワクションは本当に問題が多い。こういったものを推進する東京都は最近おかしい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 [9月定例会で一般質問した](http://localhost:3000/ippan/r3/9-gatu/1-cashless-point-gamble.html)ように、東京都はQRコード決済のポイント付与事業についても、ギャンブル性のあることを自治体にさせている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 そのせいで小平市は1.4億円も予算超過している。その問題の原因となっている事業者は、奇しくも母体が同じ企業だ。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 仮に、企業のロビー活動が盛んで、それが功を奏したことで市民の福祉が第一優先に考えられていない状況になり、そういう状況の中で東京都が事業を実施しているようなことがあれば、本当によくないことだ。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 東京都が機能不全に陥っている理由は分からないが、東京都の事業に乗せられることなく、小平市はとにかく市民の福祉向上を第一優先で考えて市政を運営していただきたい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 市民の福祉向上を第一優先で考えれば、TOKYOワクションなんて発想は出てこない。
 
-</div></div>
+</div>
 
 #### 地獄への道は善意で敷き詰められている
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 歴史が示すように、私たち人類はすぐに他人を差別してしまう生き物だ。そして最も注意すべきは、歴史的に残酷な差別や迫害の場面では、必ず「身近な人たちを守りたい」といった善意の言葉が語られていることだ。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 つまり、いつの時代も、善意によって差別や迫害行為が正当化されている。「地獄への道は善意で敷き詰められている」ということわざのとおりだ。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 TOKYOワクションのキャッチコピーは「新型コロナから、自分と自分の大切な人を守るために」だ。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 このようにあいまいで不正確な表現を用いて、人々の善意を利用し、その裏で人権侵害の流れをつくることは、けっして許してはならないことだ。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 小平市がこの流れにくみすることのないよう、質問する。
 
-</div></div>
+</div>
 
 ### 人権侵害の流れをつくり、情報セキュリティー上も重大な問題があるTOKYOワクションに小平市はどう関与するか
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 人権侵害の流れをつくり、情報セキュリティー上も重大な問題があるTOKYOワクションに小平市はどう関与するか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林洋子）（初）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）（初）">
 
 TOKYOワクションは、東京都が実施している新型コロナウイルスワクチン接種促進キャンペーン。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林洋子）（初）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）（初）">
 
 ワクチン接種を進めるため、ためらっている方が接種について検討できる環境を用意し、希望する方の接種につながるよう、各種広報媒体を活用し、ワクチンの有効性や安全性など正しい知識の広報や接種の呼びかけを実施するとともに、スマートフォンアプリLINEを活用し、接種記録を登録、表示することで、ワクチンを2回接種した方に協賛企業等による各種特典を付与するもの。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林洋子）（初）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）（初）">
 
 キャンペーンの広報やTOKYOワクションに賛同し、特典を提供する企業、団体の募集等については、東京都がホームページ等で行っているものと認識している。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林洋子）（初）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）（初）">
 
 なお、11月16日付で、特典の提供について、東京都から各区市町村長に協力依頼が来ているが、現在のところ対応の予定はない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 ぜひ対応しないでいただきたい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 ワクチンの有効性や安全性の正しい周知を行っていると言うが、一方に偏った情報しかない。根拠のない情報も含まれている。果たして市民が正しい判断をできるかというと、多分できないと思う。
 
-</div></div>
+</div>
 
 ### ワクチン接種・非接種での差別を禁止するよう、市はもっと周知啓発を徹底すべきでは
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 ワクチン接種・非接種での差別を禁止するよう、市はもっと周知啓発を徹底すべきではないか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林洋子）（初）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）（初）">
 
 新型コロナワクチンの接種に関する差別や偏見等はあってはならないもの。市では、接種券に同封した案内通知や市報、市ホームページにおいて、差別等に関する内容を掲載しており、今後も啓発に努める。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 小平市は足りていない。接種券に同封の案内通知など見たが、表現がすごく消極的。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 過去数十年を見て、人権の侵害や憲法違反になるような事例が、こんなに明確な事例が出ている。そうしたことに対し、小平市が積極的に注意啓発や周知啓発を徹底しないのであれば、今後、小平市が行う人権侵害等のセミナー事業等は偽善なのだなと、私はそういうふうに今後判断し、事あるごとに指摘する。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 10月27日時点で、日本の中で8県（石川県、長野県、岐阜県、三重県、和歌山県、鳥取県、徳島県、高知県）と3市（那須塩原市、大府市、明石市）で、新型コロナウイルス感染症に係るワクチン接種に関する差別を禁止する条例を制定している。小平市もそういうことをしてほしい。
 
-</div></div>
+</div>
 
 ### 市として、ワクチン接種に関する差別を禁止する条例を制定する考えはあるか
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 一応聞くが、そういった条例を、小平市でも制定する考えはあるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">文化スポーツ担当部長兼健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ担当部長兼健康・保険担当部長（篠宮）">
 
 各自治体の条例については、私どもも認識している。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">文化スポーツ担当部長兼健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ担当部長兼健康・保険担当部長（篠宮）">
 
 北日本新聞でも大きく取り上げられ、都道府県単位できちんと対応していく必要があるという記載もある。そのうえで、国に、どのような行為が差別に当たるかより具体的に示してほしいなどという要望もしているというところは、確認している。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">文化スポーツ担当部長兼健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ担当部長兼健康・保険担当部長（篠宮）">
 
 小平市においては、この辺の状況を見極めながら考えていきたい。広い視点で考えれば、都道府県単位ということで、東京都が条例をきちんと制定をしていく必要があると認識している。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 東京都の問題を今指摘したのに、東京都にしたがってやりますというのは、私が言ったことが伝わっていない。
 
-</div></div>
+</div>
 
 ### 機能不全の東京都に盲従するのではなく、小平市民の福祉向上を第一優先に考えよ
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 東京都はいくつかの点で機能不全に陥っている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 それをちゃんと認識し、小平市は小平市の市民の福祉の向上を第一優先に考え、東京都の意向等にもし間違いがあるのであれば指摘したり、全然違うことをやらなくてはならない。自治体として。それを認識しているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 東京都もすべておかしいわけではないが、そういう気概を持って取り組んでもらいたい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 さもなければ、職員も、職員として仕事をしている上でのやりがいや達成感、心意気のようなところが侵食される。ぜひ抗ってもらいたいと私は思う。
 
-</div></div>
+</div>
 
 
 </div>

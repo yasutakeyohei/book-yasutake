@@ -19,15 +19,15 @@
 
 ---
 
-- 特定事業者の決済を推進する意図は → 地域限定キャンペーンができ、手数料安価
-- 前回と今回で参加店舗の増加数は →  865店舗から75増えて940店舗に
-- 電子決済は手数料分が市外に流出し市税のマイナス要因だが → やむを得ない
-- QRコード決済の多くの問題を認識しているか → 使わない人がいることも認識
-- 決済手数料以外に決済事業者に払った金額は → 前回約430万円、今回約970万円
-- 前回の事業評価で何を検証したか → 決済額と、一部利用事業者から寄せられた声
-- 教育費約8千万円を流用した穴埋めについては → 予算超過しないよう努める
-- 同様な事態が起きないためには → 付与ポイント調整。上限を定めたいができない
-- ポイント付与の打切りをしない理由は → 決済事業者側の都合
+- 特定事業者の決済を推進する意図は → [地域限定キャンペーンができ、手数料安価](#多用な電子決済が普及している中特定事業者のqrコード決済を市として推進する意図は)
+- 前回と今回で参加店舗の増加数は → [865店舗から75増えて940店舗に](##キャッシュレスポイント事業への参加店舗数と市内全事業者数は)
+- 電子決済は手数料分が市外に流出し市税のマイナス要因だが → [やむを得ない](#電子決済は手数料分が市外に流出し市税にマイナスの影響があることを市はどう考えるか)
+- QRコード決済の多くの問題を認識しているか → [使わない人がいることも認識](#これだけ多くの問題があることを認識しているか)
+- 決済手数料以外に決済事業者に払った金額は → [前回約430万円、今回約970万円](#キャッシュレスポイント事業で決済手数料以外に決済事業者に支払われる金額は)
+- 前回の事業評価で何を検証したか → [決済額と、一部利用事業者から寄せられた声](#前回のキャッシュレスポイント事業評価のため具体的に何を検証したか)
+- 教育費約8千万円を流用した穴埋めについては → [予算超過しないよう努める](#教育費約8千万円の余り分をキャッシュレスポイント事業の穴埋めに流用せざるを得なかった状況をどう認識しているか)
+- 同様な事態が起きないためには → [付与ポイント調整。上限を定めたいができない](#今後同様なキャッシュレスポイント事業を行う場合予算超過しない方法は)
+- ポイント付与の打切りをしない理由は → [決済事業者側の都合](#予算到達でポイント付与の打切りをしない理由は)
 
 </fieldset>
 
@@ -89,17 +89,19 @@ const showPDF = (url) => {
 
 </div>
 
+{{#include ../../../partials/ippan-situgi-note.md}}
+
 ### 今回質問する理由
 
 #### キャッシュレスポイント事業は基本的なことが不明
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 前回、令和2年10月から令和3年1月までのキャッシュレスポイント事業については、参加したうち、かなりの市内飲食店から、過去最高の売上げにつながったという声が寄せられていたことが4月臨時会で示された。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 経済活性化の効果はたしかにあるものの、たとえば
 - そういった飲食店以外の場で、本当にコロナ禍で苦しんでいる人々のためになったのか
@@ -107,80 +109,80 @@ const showPDF = (url) => {
 
 などの基本的な事項はまったく不明なままだ。
 
-</div></div>
+</div>
 
 #### 巨費を投じているのに検証が甘すぎる
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 このように費用対効果が漠然としている事業に、巨費を投じ、継続して行うのであれば、当然ながら、事業の検証をできる限り詳しく行うべきだ。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 しかし、市は、前回明らかになった問題を、今回9月からの事業でも繰り返しており、検証が甘いと言わざるを得ない。
 
-</div></div>
+</div>
 
 #### キャッシュレスポイント事業で予算超過したうち8千万円分を教育費で穴埋めする大失態
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 問題は、予算に達した時点でキャンペーンを打ち切らなかったことに起因する。そのため、前回は予算を約1.4億円超過し、令和2年度一般会計補正予算（第8号）で穴埋めがなされた。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 穴埋め分として、一般財源からはGIGAスクールの残余分2,722万円と財政調整基金600万円等が充てられ、地方創生臨時交付金からはGIGAスクールの残余分約5,242万円が充てられた。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 つまり、**教育費として予定されていた分の合計約8,000万円がキャッシュレス事業の穴埋めに使われた**ことになる。穴埋めがなければ、教育費の残余分は教育費内で流用できていたのではないか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 普段から不足している教育費は、本年度の予算で一律6%シーリングの厳しい措置の対象にもなっている。その一方で、効果が不明な事業の穴埋めに約8,000万円が流用される事態には驚かされる。
 
-</div></div> 
+</div> 
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 予算超過は事前に想定できたはずだ。超過分の予算枠を事前に設定せず、議会が同意せざるを得ないような補正予算に持ち込むことで、費目をまたいで巨額の予算を移動させるようなやり方は、到底許されることではない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 そうした背景に基づき、質問する
 
-</div></div>
+</div>
 
 
 ### 多用な電子決済が普及している中、特定事業者のQRコード決済を市として推進する意図は
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 さまざまな電子決済がすでに普及する中、特定事業者のQRコード決済を市として推進する意図は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林洋子）（初）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）（初）">
 
 QRコード決済は、次の理由などから、経済対策のひとつとして実施している。
 - 地域を限定したキャンペーンを実施できる
 - 手数料が、デジタル地域通貨やプレミアム付商品券等と比較して安価
 
-</div></div>
+</div>
 
 #### 中国でQRコード決済が広まった背景
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 日本の（株）デンソーが開発したQRコードを利用した決済は、主に中国で使われている。なぜ中国で広まったか、その（表向きの）理由として一般的には次のようなことが言われている。
 - SNSアプリのWeChatが普及している
@@ -190,83 +192,83 @@ QRコード決済は、次の理由などから、経済対策のひとつとし
 - Suicaやクレカ等の電子決済が、まだそこまで普及していなかった
 - 送金が容易
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 そういう背景があるため、これから述べるさまざまな問題点がありながらも、QRコード決済が普及していったのでは、と言われている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 一方、日本はすでにネットワークが整備され、Suicaやクレジットカードなどの最も利便性が高い電子決済が普及している。かなり状況が異なる。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 日本人は、新しいものをすぐ取り入れるよい面がある。しかし、自治体は、新しい仕組みを導入する場合には、それが市民の福祉につながるか、よく考えなければならない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 そういう観点から、次に、私がQRコード決済について考えている特徴や問題点を述べる。
 
-</div></div>
+</div>
 
 #### QRコード決済の特徴と問題点
 
 ##### 問題点1：セキュリティ（詐欺行為への耐性）が甘い
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 QRコード決済は仕組みが非常に簡単なゆえに、詐欺もしやすい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 バーコードリーダーでQRコードやバーコードを読んで決済する場合もあるが、そうでない場合は、画面上で人間が金額を確認するだけで決済が終わる。偽のアプリをつくり、金額が出るようなアプリをつくって詐欺が行える。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 さまざまな決済がある中で、QRコード決済は、詐欺が最もやりやすいと思う。
 
-</div></div>
+</div>
 
 ##### QRコード決済に絡んで詐欺が起きた事例を把握しているか
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 QRコード決済について、今まで、全国的にでも、偽のアプリを使うなど、そういった詐欺が起きた事例を把握しているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">地域振興部長（余語）<br><div>
+<div class="bln bright" data-speaker="地域振興部長（余語）">
 
 私の知るところでは、そういったものは把握できていない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 詐欺が起きたことをどう気付くかという問題もある。バーコードリーダーがない店舗では、QRコード決済すると同時に、売上を別のところで取っておかないと詐欺を把握できない。売上とデータを突き合わせて初めて詐欺があったかを確認できる。
 
-</div></div>
+</div>
 
 ##### 問題点2：利便性があるとは言い切れない
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 また、利便性があるとよく喧伝されるが、いつも疑問に思う。利便性があるとは言い切れない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 たとえば決済の手間について考えれば、バーコードリーダーがない場所では次の手順が一般的に必要になる。
 
@@ -280,75 +282,75 @@ QRコード決済について、今まで、全国的にでも、偽のアプリ
 1. 決済ボタンを押す
 1. 決済が終わったことを店員と一緒に確認する
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 必要なステップが大量にある。ネットワークが遅かったり、操作の慣れにも依存するが、現金決済と比べても必要なステップ数はそれほど変わらない。そういった利便性では、Suicaなどのタッチ決済が最も優秀な決済手段。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 また、現金を持ち歩かなくてよい利便性も喧伝されているが、QRコード決済が使えないところも多いため、普通は現金も持ち歩く。実質的にその利便性はほとんどない。
 
-</div></div>
+</div>
 
 ##### 問題点3：高齢者、障害者、経済的困窮者を排除する作用がある
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 これが一番の問題。QRコード決済は、高齢者、障害者、それから経済的困窮者などの社会的弱者を排除する作用がある。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 スマートフォンを持っていない人はもちろんのことだが、多くの高齢者や一部の障害者は、QRコード決済を容易に使えない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 スマートフォンの画面を動かす必要があるので、特に視覚障害の方は使えない。また、指が自由に動かず、スマートフォンの操作が非常に時間がかかるといった方もほぼ使えないだろう。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 また、お金がなくてスマートフォンが買えないとか、契約ができない方もいる。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 それに対し、たとえばSuicaなどのタッチ決済というのは非常に優秀。スマートフォンの契約等も要らないし、ぱっと出せばよいだけ。
 
-</div></div>
+</div>
 
 ##### 現金決済はとても利便性が高い
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 また、現金決済も本当に優秀。現金は高齢者でもほとんどの人が使える。視覚障害の方も使える。指が自由に動かずにスマートフォンの操作が大変な方であっても、現金のやり取りはできるという方は結構いる。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 また、スマートフォン等の契約がなくても使える。こういう方々を排除しないという観点から考えても、現金決済というのは非常に利便性が高い。
 
-</div></div>
+</div>
 
 #### キャッシュレスポイント事業への参加店舗数と市内全事業者数は
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 キャッシュレスポイント事業の前回参加店舗数と今回参加店舗数、それから市内の全事業者数は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">地域振興部長（余語）<br><div>
+<div class="bln bright" data-speaker="地域振興部長（余語）">
 
 前回令和3年1月、一番多くのお店が登録していただいた時期、PayPayしか公表されていないが、約865店舗。
 
@@ -356,100 +358,100 @@ QRコード決済について、今まで、全国的にでも、偽のアプリ
 
 市内の事業者数は、かなり古いデータになるが、過去の経済センサスの直近のもので4,600店舗前後。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 そうすると、865店舗から940店舗なので、75店舗しか増えていない。4,600店舗ある中で。前回大成功したと言っているが、ほとんど増えていない。果たして事業者から本当に要望されているのかと思う。
 
-</div></div>
+</div>
 
 ##### 問題点4：小規模店舗を淘汰して大規模店舗の寡占につながる作用がある
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 QRコード決済に限らず、キャッシュレス決済全般の問題として、小規模店舗を淘汰して大規模店舗の寡占につながる作用がある。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 QRコード決済も10月から手数料がかかってくる。一般的にクレジットカードもそうだが、手数料率は店舗の規模によって変わる。個人商店などは通常手数料率が高い。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 QRコード決済に限らず、電子決済が普及すると、一番割を食うのはどこか。バーコードがついた専用レジを入れられず、手数料率が高くなる小規模店舗だ。手数料が1%違うだけでも、損益にじわじわ効いてくる。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 つまり、キャッシュレス決済というのは、小規模店舗を淘汰するような圧力、作用、働きがある。
 
-</div></div>
+</div>
 
 ### 電子決済は手数料分が市外に流出し、市税にマイナスの影響があることを市はどう考えるか
 #### 問題点5：市税にマイナスの影響がある
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 すべての電子決済は手数料分が市外に流出し、市税にマイナスの影響があることを市はどう考えるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林洋子）（初）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）（初）">
 
 市内にはキャッシュレス決済に対応できる事業者がない中で、市外事業者に業務委託を行う必要があるため、事業実施に当たり、やむを得ないものと捉えている。
 
-</div></div>
+</div>
 
 #### 問題点6：利用者と事業者にとって税金的な側面がある
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 （決済のたびに手数料が取られるということは）、利用者と事業者にとって、税金的な側面があるということ。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 市は、気付かないところで支払わされるコストに、もっと目を向ける必要がある。市民の生活に係る費用に対し、そういった数%の手数料が上乗せされ持っていかれることは、市民の生活にも市税にも直結する。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 私は[3月の一般質問](https://yasutakeyohei.com/books/yasutake/ippan/r3/3-gatu/1-carbon-neutral-giman.html)で、再生可能エネルギーのFIT制度による「発電促進賦課金」の話をした。これは、太陽光発電をしている業者に対し、太陽光発電をしていない人たちが払わなくてはいけないお金のことだ。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 ほとんどの人が、知らないうちに、電気代に10%ぐらい上乗せされている。今後それがもっと上がっていく。これは実質的に増税のような効果がありますよ、という話をした。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 消費税が仮に1%上がると大きく騒がれるが、こういった実質的に増税と同じような再生エネルギーの賦課金などについては、ほぼまったく問題にされていない。そういったことが許されていくと、どんどん経済格差が広がり、多くの人の豊かさが失われていく。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 （なお、私は何度も主張しているように、家庭用の太陽光発電は、現状では環境改善に貢献するものではないと思っている）。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 よく考えてもらいたいが、9月まではQRコード決済の手数料は無料だが、10月からは手数料がかかる。すると、市の財源で行う30%のポイント付与分は、10月以降に使われることになるので、それについては手数料が持っていかれる。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 以上、まとめると次のようになる。
 - 特にバーコードリーダーが置けない小規模な店舗でセキュリティ（詐欺行為に対する耐性）に大きな懸念がある
@@ -459,31 +461,31 @@ QRコード決済に限らず、電子決済が普及すると、一番割を食
 - 利用者と事業者にとって税金的な側面がある
 - 市税にマイナスの影響がある
 
-</div></div>
+</div>
 
 ### これだけ多くの問題があることを認識しているか
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 これだけ多くの問題があるが、認識しているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">地域振興部長（余語）<br><div>
+<div class="bln bright" data-speaker="地域振興部長（余語）">
 
 たしかに、キャッシュレス決済を使わない方も多くることも認識している。しかし、9月までは店舗に対する手数料等はかからないので、店舗に対しては金銭面の負担がないということで、このキャッシュレス決済ポイント付与事業は有効と考えている。また、スマートフォン等を使われ方には紙媒体での支援をしていきたい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 9月までの売上げに関しては問題ないが、市の財源を投じた30%の分については手数料を持っていかれる。
 
-</div></div>
+</div>
 
 #### 新たな施策の検討時には、現状・将来・長期的に及ぼす影響をそれぞれよく考えよ
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 私は、市が、たとえばこういった特定の決済手段を、市の事業として推進しようとか、そういう検討をする場合は、それが市民や事業者に対して、
 - 現状でどういう影響を及ぼすか
@@ -492,117 +494,117 @@ QRコード決済に限らず、電子決済が普及すると、一番割を食
 
 を、よく考えないといけないと思う。
 
-</div></div>
+</div>
 
 #### 現状のキャッシュレスポイント事業は禁断の果実、市として手を出さない判断を
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 今回、東京都の補助が4分の3出るが、これから市民の福祉にじわじわと与える影響をよく考えると、私はこれは禁断の果実だと思う。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 市としてはそういったものには手を出さない、そういう判断が出てもよい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 このキャッシュレスポイント事業については、経済波及効果もよく分からないと私は何度も言ってきた。
 
-</div></div>
+</div>
 
 #### むしろ商工会の方々がやってくださるような事業に投資すべき
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 むしろ、小平商工会の方々が自発的に行ってくださるクーポンや商品券的なものを介し、ほぼすべての投じたお金が市内にちゃんと落ちていく、そういう事業に大半を投じてほしいと考えている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 お年玉キャンペーンも、参加店舗はすごく多い。1,000店舗近くあるということ。そういったことをどんどん拡大していってほしい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 さらに言えば、クーポンの何がよいかというと、コンビニエンスストアなどで無言でピッとやるより、クーポンの受渡しをすることで、会話が発生したりする。「もうこれでクーポンは最後なのよ」のような。そういうコミュニケーションを促進するやり方でもあると思う。
 
-</div></div>
+</div>
 
 ### 市内で現金決済に限定した大型店舗が活気付いている状況を市はどう見ているか
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 キャッシュレス決済を推進する立場からして、市内で現金決済に限定した大型店舗が活気付いている状況を市はどう見ているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林洋子）（初）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）（初）">
 
 大型店舗は商品の種類や量が多く、利益率を抑えた薄利多売を行っている店舗もあるため、キャッシュレス決済ではなく、現金決済に限定した場合でも多くの方に利用されているものと捉えている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 どういう理由でキャッシュレス決済を入れていないのかは、聞いてみないと分からないが、高齢者でも障害者でも経済的困窮者であっても使える、たとえば本当の多様性、そういったことを考えている事業者であれば、私はそういう会社を応援したい。
 
-</div></div>
+</div>
 
 ### キャッシュレスポイント事業で、決済手数料以外に決済事業者に支払われる金額は
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 前回と今回のキャッシュレスポイント事業で、決済手数料以外に決済事業者に支払われる金額は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林洋子）（初）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）（初）">
 
 委託料のうち、前回は2ヵ月、合計で約430万円、今回は約970万円。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 1点目の質問で、手数料が安価と答弁していたことと齟齬があると思う。手数料に関しては重要な事項。直接、市民に還元される部分ではないので。
 
-</div></div>
+</div>
 
 #### 今後同様な事業を行うなら、予算書に手数料の記載をしてほしいがどうか
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 これ以降、もし仮に、私は実施してほしくはないが、もし今後、仮に同様なことを行うとしたら、予算書にもその内訳を記載してほしいと思うが、それについてはどうか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">地域振興部長（余語）<br><div>
+<div class="bln bright" data-speaker="地域振興部長（余語）">
 
 この場で、予算書にそれを記載できるかどうかというのはお答えできないが、委員会等、説明する場面で、手数料の内訳等も説明できたらと考えている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 お願いする。
 
-</div></div>
+</div>
 
 ### 前回のキャッシュレスポイント事業評価のため、具体的に何を検証したか
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 前回のキャッシュレスポイント事業評価のため、具体的に何を検証したか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林洋子）（初）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）（初）">
 
 PayPayを利用した決済額は、
 - キャンペーンを中小規模の事業者に限定して実施した昨年11月は約3億円
@@ -611,158 +613,158 @@ PayPayを利用した決済額は、
 
 となっており、対象とする店舗等により、大幅に影響を受けることが確認された。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林洋子）（初）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）（初）">
 
 事業者からは肯定的な反響が大きく、また、コロナ禍で暗い気持ちになっている中、買い物を心から楽しめたという市民の声も多数いただいており、市民、事業者双方に喜んでいただける事業であると捉えている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 私が述べたさまざまな問題点を検証するような観点から、いろいろなやり方があると思うので、アンケートを取ったりとかもそうだが、ぜひ検証してもらいたい。
 
-</div></div>
+</div>
 
 #### 事業を計画する段階で、本当に市で行うべき事業か、チェック表で確認を
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 もっと言えば、こういった事業を行う前、事業計画の段階で、できればチェック表みたいなものをつくってほしい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 チェック表は何かというと、たとえば事業者、利用者、高齢者、障害者、経済的困窮者など、いろんな列があり、それぞれに現状と今後のような行があり、それぞれ〇や×や△をつけていく。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 たとえばQRコード決済を導入しようかという検討の段階になったら、現金決済とかほかの決済との比較表をつくる。QRコード決済のほうの表には、たとえば高齢者、障害者、経済的困窮者などの欄には×や△が入ってくる。現金決済のほうはそれらはすべて〇になると思うが。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 それから、たとえば、QRコード決済の事業者の欄には、小規模な事業者にとっては長期的に負担になり、大規模事業者に有利な働きがあるとか、そういったことを書いていくと。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 また、たとえば市民の欄には、QRコード決済は税金的側面があるとか、そういったことを書いていくとよい。そうすると全体像が見えてきて、果たしてそれを本当に市で行ってよいものかどうか分かる。また、議会にも説明しやすい。そういうことをしてはどうかということで、これは提案。
 
-</div></div>
+</div>
 
 ### 教育費約8千万円の余り分をキャッシュレスポイント事業の穴埋めに流用せざるを得なかった状況をどう認識しているか
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 市は、教育費約8,000万円の余り分をキャッシュレスポイント事業の穴埋めに流用せざるを得なかった状況をどう認識しているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林洋子）（初）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）（初）">
 
 コロナ禍という未曽有の状況の中で初めて実施した事業であったこともあり、当初に想定した予算額を大幅に超えることになったが、これまでの実績や他自治体の状況等を踏まえ、委託事業者と連携し、予算を超過しないような事業積算に努めていく。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 これは通告書にも書いてあるが、本当に問題だと思う。穴埋めに使う分がなければ、教育費内で消化できたはず。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 教育費が本当に足りていないと感じるときがよくある。たとえば、ひとつのクラスでWi-Fiが一度に10人しかつながらない。10人使ったら次の10人みたいなやり方をしているような。今はもう直っているかもしれないが、そういったところの改善にも使えるお金だったのではないかなと。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 もしくは、私が以前から何度も指摘しているような、不登校の子や、支援級に通いながら学習の機会を逃している子どもたちに、オンラインで授業を届けるとか。そういったところにお金を使えたのではないか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 もしくは、コロナ禍でしわ寄せが来ているような、特別支援が必要な子どもたちに支援員を緊急で増やしたり。手当てを厚くするとか、そういったことに使ってほしい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 そういったことではなく、効果がよく分からない事業の、しかも穴埋めに、教育費の残った分を回さなければならない状況は、信じられないこと。
 
-</div></div>
+</div>
 
 ### 今後、同様なキャッシュレスポイント事業を行う場合、予算超過しない方法は
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 一応質問するが、仮に、今後、同様なキャッシュレスポイント事業を行うとなった場合、そういった予算超過しない、こういう事態にならないよう、どういうやり方が考えられるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">地域振興部長（余語）<br><div>
+<div class="bln bright" data-speaker="地域振興部長（余語）">
 
 ひとつは、町田市の例がある。6月いっぱいで、町田市が、小平市と似たようなスキームでキャッシュレス決済ポイントについて5億円のポイント付与決済額が出た。7月になってからそういったデータを把握した。市のほうでも1ヵ月の上限額を5,000円から3,000円、1回当たりも2,000円から1,000円というような形で、スキームの変更というか、考え方を変えた。他市の状況なども把握しながらやっていくということがひとつあるかと思う。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">地域振興部長（余語）<br><div>
+<div class="bln bright" data-speaker="地域振興部長（余語）">
 
 もうひとつは、これは最も課題と捉えているが、ポイント付与の上限を定め、その上限で打切りができる、そういったことができれば、こういった補正予算をお願いするようなことはないと認識している。しかし、事業者のほうでそういったことはなかなかできないという現状がある。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 結局、一番の原因は打切りができないこと。今言われたように、事業者から「対応できません。3週間ぐらいかかります」みたいなことを言われているから。
 
-</div></div>
+</div>
 
 ### 予算到達でポイント付与の打切りをしない理由は
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 予算到達でポイント付与の打切りをしない理由は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林洋子）（初）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）（初）">
 
 事業者のシステム上、打切りを行うには決定から実行まで3週間程度の期間を要するため。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 私は、打切りは、決済事業者がやろうと思えばできると思う。たとえば、決済するとすぐに「いくらのポイントがつきます」の表示が出る。会社としてはすぐできるはず。1日か2日かかるかもしれないが、それでもまだよい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 事業者ができないと言っている理由が、もし仮に、利益を得るためにできないと言っているのだとすれば、私は本当に非常に問題だと思う。そんなところと事業を一緒にやってはいけない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 また、打切りができないということは、町田市もそうだが、同様な問題が、ほかの同じ事業をしている自治体で発生していることになる。ということは、これを推進している東京都の判断が非常に問題。打ち切りできないのなら、こういった事業はやるべきではない。これはギャンブルだ。
 
-</div></div>
+</div>
 
 
 ### まとめ：禁断の果実に手を出すな
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 繰り返すが、QRコード決済には、次のような数多くの問題があると考える。
 - セキュリティ（詐欺行為への耐性）の懸念
@@ -773,13 +775,13 @@ PayPayを利用した決済額は、
 - 自治体の税収にマイナスに働く問題
 - 打切りができずギャンブル性を有することで、自治体のほかの事業が侵食されてしまう問題
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 こういった問題が解消されない限り、市がやるべき事業ではない。やらないという判断をしなくてはならない。私は、これは禁断の果実だと捉えている。
 
-</div></div>
+</div>
 
 </div>
 

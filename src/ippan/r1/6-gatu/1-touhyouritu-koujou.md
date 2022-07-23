@@ -76,7 +76,7 @@ const showPDF = (url) => {
 
 ### 今回質問する理由
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 本年4月に行われた小平市議会議員選挙の投票率は44.2%で、毎回最低値を更新している。各種アンケート結果をまとめると、投票に行かない理由は大きく分けて次の2ケースに分類される。
 
@@ -91,39 +91,39 @@ const showPDF = (url) => {
     - 体調不良
     - 体が不自由
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 自分の意志で投票に行かないケースでも「必要な情報が手元にあれば投票に行きたい」という方が多くいる。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 市の選挙管理委員会は投票率の向上を目指している。そのためには上記それぞれのケースに適応した対策を打つことが重要。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 選挙戦が終わり、記憶が新鮮なうちに質問している。投票率は50％を割りさらに低下中。『民主主義の学校』と言われる地方政治の投票率で、特に若年層の投票率が低いことが問題と考える。
 
-</div></div>
+</div>
 
 ### そもそも投票率の向上を目指す理由は？
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 投票率の向上が必要だと考える根拠は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">選挙管理委員会事務局長<br><div>
+<div class="bln bright" data-speaker="選挙管理委員会事務局長">
 
 選挙は、国民が主権者として、その意思を政治に反映させることのできる最も重要かつ基本的な機会。そのため、公職選挙法第6条では、選挙に関する啓発、周知等を行うことを定めており、選挙人の意識の向上に努めることを通じて、投票率の向上を目指していると考えている。
 
-</div></div>
+</div>
 
 
 <div class="tips" id="「投票率を向上をせよ」とはどこにも書かれていない">
@@ -144,37 +144,37 @@ const showPDF = (url) => {
 
 </div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 公職選挙法には、投票率の向上を目指すことは一切書かれていない。選挙管理委員会で考え方を持っているのか。明文化されているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">選挙管理委員会事務局長<br><div>
+<div class="bln bright" data-speaker="選挙管理委員会事務局長">
 
 これまで取り組んできたが、指摘のとおり公職選挙法には何も書かれていない。こちらで明文化もしていない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 明文化の予定はあるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">選挙管理委員会事務局長<br><div>
+<div class="bln bright" data-speaker="選挙管理委員会事務局長">
 
 当然のこととして取り組んできた。タイミングが想定しづらく、明文化は考えていない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 選挙人の意識の向上とは。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">選挙管理委員会事務局長<br><div>
+<div class="bln bright" data-speaker="選挙管理委員会事務局長">
 
 今回の質問内容についていろいろ勉強した中で、公職選挙法第6条第1項の中では、たとえば：
 
@@ -184,37 +184,37 @@ const showPDF = (url) => {
 
 ということが選挙管理委員会の責務であると書かれている。総じて、選挙人の意識の向上ということに言いかえた。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 意識の向上を行った結果、投票率が上がるという考えは分かる。しかし、ここにはひとつ抜けている視点がある。たとえ意識が向上した人であっても、たとえば身体が不自由なために投票に行けない方たちについての視点がない。公職選挙法第1条には『この法律は、選挙が選挙人の自由に表明せる意思によって公明かつ適正に行われることを確保し』とある。この確保しという部分がまさに、身体が不自由な方々、投票に行けない方々に対応する根拠になるのではないか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">選挙管理委員会事務局長<br><div>
+<div class="bln bright" data-speaker="選挙管理委員会事務局長">
 
 利便性の向上や選挙人の意識の向上ということの根拠として、第1条は公職選挙法の一番初めに記載されている。法律全体を総じ、理念、考え方を示している条項だと思うため、そこに根拠を求めることも可能。
 
-</div></div>
+</div>
 
 #### 小平市の投票率は
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 今回統一地方選挙が行われた多摩地域の他市と比べて、小平市の投票率はどうか。市としてどう捉えているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">選挙管理委員会事務局長<br><div>
+<div class="bln bright" data-speaker="選挙管理委員会事務局長">
 
 今回の統一地方選挙で市議会議員選挙が行われた多摩地域の20市中の本市の順位は18番目。この20市のうち、小平市を含む17市は投票率が前回より下がっているが、小平市の下げ幅は0.2ポイントと、わずかな下げ幅にとどめることができたと捉えている。
 
-</div></div>
+</div>
 
 ### 投票率を上げるために<br>（1）周知啓発の徹底を
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 「必要な情報が得られていれば投票に行きたい」ケースに対し、選管では
 
@@ -224,56 +224,56 @@ const showPDF = (url) => {
 
 として学生に対する常時啓発を行っているが、これらの学生と接点のない市民に対する常時啓発について、市はどのように考えているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">選挙管理委員会事務局長<br><div>
+<div class="bln bright" data-speaker="選挙管理委員会事務局長">
 
 日ごろからの啓発活動は重要であることから、選挙啓発を担う団体である[明るい選挙推進協議会](http://www.akaruisenkyo.or.jp/)と連携して、政治教養講座などの事業について、引き続き積極的に取り組む。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 有権者数に比べて、常時啓発に接触する人の絶対数が少ない。ひとつのアイデアとして、学生たちを対象に行っている模擬投票授業、選挙ワンポイント講座、選挙K発プロジェクト等をまとめたものを、市報やホームページで公開することで、授業に参加していない方々に訴求していくことは可能だが、これについてどう考えるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">選挙管理委員会事務局長<br><div>
+<div class="bln bright" data-speaker="選挙管理委員会事務局長">
 
 学校等で行っている授業について、その結果をお知らせする発想が欠けていた。明るい選挙推進協議会で発行の機関紙「しろばら」では若干御紹介しているが、発行部数が少ない。今後、いまいただいた御意見も踏まえ、公表の方法は研究してまいりたい。
 
-</div></div>
+</div>
 
 #### アンケート等で実態調査を
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 投票率向上を目指す取り組みの中で啓発活動などを行う際、効果検証として直接的なフィードバックがあれば、より洗練された啓発活動が行える。ひとつの手段としてアンケート調査が考えられる。たとえば投票を終えた人に投票に来た理由等のアンケートを行うことは可能か。これまで行ったことはあるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">選挙管理委員会事務局長<br><div>
+<div class="bln bright" data-speaker="選挙管理委員会事務局長">
 
 特に禁止する法律はないと考えており、アンケート自体をすることは可能。これまで小平市では行ったことはない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 今後、市のホームページ等でもよいが、アンケートを行う予定はあるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">選挙管理委員会事務局長<br><div>
+<div class="bln bright" data-speaker="選挙管理委員会事務局長">
 
 特に、選挙にあたっての予定はない。世論調査的な形での調査方法はとれる気がする。選挙時におけるアンケートを、たとえば投票所の近くでやることは個人的には若干違和感がある。この辺については、法律をもう少し調べる、もしくは他市の事例等も調べるということで、研究してまいりたい。
 
-</div></div>
+</div>
 
 
 ### 投票率を上げるために<br>（2）投票に行きたくても行けない人をゼロに
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 郵便投票による不在者投票の
 
@@ -283,9 +283,9 @@ const showPDF = (url) => {
 
 はどうか。他市と比べてどうか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">選挙管理委員会事務局長<br><div>
+<div class="bln bright" data-speaker="選挙管理委員会事務局長">
 
 - 対象者数：77人
 - 投票者数：54人
@@ -293,45 +293,45 @@ const showPDF = (url) => {
 
 この数値は近隣市とおおむね同様の実施状況。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 身体が不自由なため投票したくても投票所に行けないという声が多数ある。「郵便投票による不在者投票」の、要介護状態区分や障害程度の対象範囲を拡大することについて、市としてはどう考えているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">選挙管理委員会事務局長<br><div>
+<div class="bln bright" data-speaker="選挙管理委員会事務局長">
 
 平成29年6月に総務省が設置した有識者研究会の提言である対象範囲を要介護3まで拡大する内容について、法改正に取り組むと聞いていたが、その後、国会で審議されていないようだ。この改正内容は、選挙人の利便性を向上し、より選挙に参加しやすい環境が整うものであると認識している。
 
-</div></div>
+</div>
 
 ### 投票率を上げるために<br>（3）期日前投票の拡充は慎重に
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 期日前投票の拡充は、候補者に関する迅速かつ十分な情報の提供が前提に必要だ。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 現状、選挙公報が有権者の手元に届くより前に期日前投票が可能であり、有権者は候補者に関する十分な判断材料がないまま投票を迫られる。また候補者にとっても、一週間設けられているはずの周知機会を奪われることになるため、特に知名度の低い新人候補者には不利に働く仕組みである。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 よって期日前投票の拡充は、告示日直後の選挙公報配布等が前提になると考えるが、市としてはどう考えているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">選挙管理委員会事務局長<br><div>
+<div class="bln bright" data-speaker="選挙管理委員会事務局長">
 
 選挙公報の原稿は、立候補受け付けを行う告示日当日の午後5時まで差しかえが認められている。提出後は速やかに印刷し、できるだけ早く市民の皆様にお渡しできるよう最善を尽くしている。一方、期日前投票は、選挙当日に投票に行くことができない方のための制度であるため、当日投票と同条件で投票ができるという前提を公職選挙法においては想定していないものと捉えている。そのため、選挙公報の配布と期日前投票の拡充については、切り離して考えることが適当と考えている。
 
-</div></div>
+</div>
 
 <div class="tips" id="政治の新陳代謝を促すには新人にも十分なアピールの機会を">
 
@@ -343,28 +343,28 @@ const showPDF = (url) => {
 
 </div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 期日前投票の割合は12％ぐらい、かなり多くの方が使われている。その中で、選挙当日には投票に行けない方が期日前投票に行っているとしても、その中には以下2種類いる。
 
 - 選挙開始前から、誰に投票するかが決まっている方
 - まだ誰に投票するかが決まっていない方
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 投票可能な日付がどんどん早くなればなるほど、誰に投票するかがすでに決まっている人にとっては、手元に情報がなくても決断できるという意味で、有利なことになる。こういう状況は、有権者と候補者双方にとって不公平な状況になると考えるため、一刻も早く選挙公報等が開示されることが必要。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 そこで、市のホームページにも選挙公報は掲載されているため、それを徹底して周知すれば良い。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 たとえば、
 
@@ -373,51 +373,51 @@ const showPDF = (url) => {
 
 にリンクアドレス、QRコードを掲載するといった方法が考えられるが、どうか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">選挙管理委員会事務局長<br><div>
+<div class="bln bright" data-speaker="選挙管理委員会事務局長">
 
 啓発物にQRコードの印刷は、技術的には可能。ただ、選挙の種類によっては、たとえば市議会議員選挙だと、告示日の午後5時までに（候補者の資料を）預かり、それをすぐ、夜中に印刷会社に回して印刷し、各家庭に配布しと、それが火曜日ぐらいになってしまうタイムラグが生じることが問題。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">選挙管理委員会事務局長<br><div>
+<div class="bln bright" data-speaker="選挙管理委員会事務局長">
 
 国政選挙や東京都の選挙では、もうちょっとタイムラグが長くなり、さらに、国や東京都のホームページのアドレスがどの段階で決まるのか、それをどの段階で啓発物にQRコードを印刷できるのかという、このさらにタイミングが非常に難しい。というのは、啓発物は、日にちが決まればすぐ作り出してしまう。その後にホームページにアップされ、そのアドレスが決まるということになると、うまく説明できないが、QRコードを印刷できるのが大分後になる、つまり啓発物を作るタイミングとうまく合わないというところがひとつネックになるかと考える。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">選挙管理委員会事務局長<br><div>
+<div class="bln bright" data-speaker="選挙管理委員会事務局長">
 
 ただ、いまご指摘いただいた件については、可能な限り検討してみたい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 アドレスの問題については、もうすでに決まっているアドレスを作っておいて、選挙告示日になったら、そのアドレスが指している先を変えればよいだけ（リダイレクト処理）。ぜひそういうことを検討していただきたい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 私も、選挙中大変お世話になった選挙管理委員会の方々は、公職選挙法の縛りがある中、予算も人数も限られる。全国的に投票率も下がる状況の中、なかなか自分がしている仕事が成果につながっているのかと感じられるところがあると思う。大変なこともあるが、それでも諦めず、投票率を上げることが住民の福祉に欠かせないという、そういった情熱を持って日々できることをしていただきたい。
 
-</div></div>
+</div>
 
 ### 投票率を上げるために<br>（4）市長が特定の議員を推薦することは、政治不信につながる
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 市民が政治に興味を失う原因は私たち政治家にも責任があり、一例として、不透明政治は不信感につながる。今回の市議会議員選挙において、市長が議員を推薦する場面があったが、二元代表制という仕組みの中で、監視される立場としての市長が、監視する立場としての議員を推薦するという行為は、見えないところでのつながりを連想させ、政治の透明性が損なわれるものと考えるが、市はどう考えるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">選挙管理委員会事務局長<br><div>
+<div class="bln bright" data-speaker="選挙管理委員会事務局長">
 
 市の行政に関する内容ではないことから、市として答えられない。
 
-</div></div>
+</div>
 
 <div class="tips" id="議会事務局に原稿を修正するよう言われた部分でした">
 
@@ -429,17 +429,17 @@ const showPDF = (url) => {
 
 </div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 市長が特定の議員を推薦することは、私も以前は「スムーズな行政運営につながることで、よいこと」かと思っていた。しかし、勉強しているうち、地方議会は二元代表制であり『首長と議員は一定の緊張関係になければならない』と分かった。小平市に限らないが、志を持っている議員の方でも、首長との関係等があることで自由な意思で採決に参加できないといった話も聞いている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（再）<br><div>
+<div class="bln bleft" data-speaker="安竹（再）">
 
 そういったことが、気付かないところで政治の停滞につながる。結果として投票率も下がっていく。市長という立場で推薦しているので今回質問したが、答弁もらえず残念。そのあたりは市長に考え直していただきたい。
 
-</div></div>
+</div>
 
 <p style="text-align:right">以上</p>
 

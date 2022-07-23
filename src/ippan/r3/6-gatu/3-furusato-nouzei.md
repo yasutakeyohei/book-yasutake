@@ -53,81 +53,81 @@ const showPDF = (url) => {
 
 ### 今回質問する理由
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 市長の87の政策84項には「ふるさと納税やガバメントクラウドファンディングで市内企業やNPO等のプロジェクトを応援できる仕組みを検討します」とある。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 また、第１期小平市経営方針推進プログラム（素案）には、現状の課題に「限られた財源においても、公共サービスを維持・充実させていくためには、ふるさと納税制度による税の流出を防ぐとともに、新たな手法により市民が市政に参加するきっかけづくりが必要です」とあり、検討の方向性に「市の持つ魅力を存分にいかし、これまで進めてきた「ふるさと納税」を更に充実させるとともに、クラウドファンディングの可能性についての検討を進めます」と記されている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 さらに、3月定例会では、ふるさと納税活用について、市民から具体的な提案も記載された請願第5号が採択されている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 こうした背景から、新市長のもと、ふるさと納税制度の活用が進むものと期待し、以下質問する。
 
-</div></div>
+</div>
 
 ### ふるさと納税の流出をどう防ぎ、どう流入を増やすか
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 明らかな限界が見えているこれまでの手法以外に、どうやってふるさと納税制度による税の流出を防ぎ、また、流入を増やしていくか
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林洋子）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）">
 
 ふるさと納税制度については、制度上の課題があると認識しているが、市としては、ふるさと納税の趣旨を踏まえ、節度ある範囲で、一定の寄附に対して返礼品を送付するとともに、事業の内容によって幅広く財源を集めることが期待できるものなどにおいては、クラウドファンデイングによる寄附を募るなど活用してきた。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林洋子）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）">
 
 今後は、返礼品の拡充や使途の設定方法、分かりやすい情報発信など、市の魅力を生かしたふるさと納税をさらに充実させるため、引き続き検討していく。
 
-</div></div>
+</div>
 
 ### FC東京の選手からプライベートレッスンを受けられる権利を返礼品にしてはどうか
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 市のもつ魅力を生かすという観点で考えれば、たとえばFC東京に協力していただく方法もある。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 市民の方から、「FC東京の選手からプライベートレッスンを受けられる権利」を返礼品にしてはどうかというアイデアがある。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">安竹（初）<br><div>
+<div class="bln bleft" data-speaker="安竹（初）">
 
 市へのふるさと納税を増やすという視点を含めて、市長の考えやアイデアをお聞かせ願いたい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林洋子）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）">
 
 FC東京練習試合用ユニフォーム型オリジナルリバーシブルトートバッグを返礼品にするとともに、クラウドファンディングにより、FC東京のチームマスコットと小平市のシンボルキャラクターがコラボレーションしたモニュメントを小平駅南口に設置するなど、これまでも御協力をいただいている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林洋子）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）">
 
 選手に御協力いただくことについては、厳しい試合日程の中、大変難しいものと考えているが、小平市にFC東京の練習場があるというかけがえのない地域資源を生かした連携については、引き続き検討していく。
 
-</div></div>
+</div>
 
 
 ### 冒頭で述べる予定だった御礼
