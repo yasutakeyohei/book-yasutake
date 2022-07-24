@@ -83,7 +83,13 @@ main h6 { font-size:  calc(var(--font-size)*1.5); }
 .ippan-situgi h5+h6,
 .ippan-situgi h3+p,
 .ippan-situgi h4+p,
-.ippan-situgi h5+p { margin-top: calc(var(--font-size)*-4); }
+.ippan-situgi h5+p,
+.ippan-situgi h3+ul,
+.ippan-situgi h4+ul,
+.ippan-situgi h5+ul, 
+.ippan-situgi h3+div,
+.ippan-situgi h4+div,
+.ippan-situgi h5+div { margin-top: calc(var(--font-size)*-4); }
 
 .ippan-situgi div.bln+h3,
 .ippan-situgi div.bln+h4,
@@ -1019,10 +1025,20 @@ blockquote > h2 {
 }
 
 blockquote p.ref {
-  text-align: right;
+  border-top: 1px dashed var(--fg);
+  font-size: calc(var(--font-size)*1.5);
+  border-top: 1px dashed var(--fg);
+  margin-top: calc(var(--font-size));
+  padding-top: calc(var(--font-size)*0.3);
   margin-bottom: 0;
-  font-size: 0.8em;
 }
+
+
+div.ref li {
+  margin-bottom: calc(var(--font-size)*0.5);
+  font-size: calc(var(--font-size)*1.5);
+}
+
 
 /* custom fonts */
 @font-face {
@@ -1522,7 +1538,11 @@ div.recent-updated ul li {
   padding: 0 1rem 0 2rem;
 }
 .toc li, .toc ul, .toc ul li{
-  margin-bottom:1rem;
+  margin-bottom:calc(var(--font-size)*0.75);
+}
+.toc li strong {
+  margin-bottom:calc(var(--font-size)*0.9);
+ 
 }
 .toc li.hitori,
 .toc li.tips {
