@@ -16,6 +16,7 @@
 .line-height-2 { --line-height: 3.9rem; --line-height-chapter: 3.9rem; }
 .line-height-3 { --line-height: 4.9rem; --line-height-chapter: 4.9rem; }
 .line-height-4 { --line-height: 5.9rem; --line-height-chapter: 5.9rem; }
+.letter-spacing-0 { --letter-spacing: 0.02rem; }
 @media only screen and (min-width: 680px) {
   .font-size-0 { --font-size: 0.9rem; }
   .font-size-1 { --font-size: 1.1rem; }
@@ -39,10 +40,9 @@
   .line-height-2 { --line-height: 4.5rem; --line-height-chapter: 4.5rem; }
   .line-height-3 { --line-height: 5.5rem; --line-height-chapter: 5.5rem; }
   .line-height-4 { --line-height: 6.5rem; --line-height-chapter: 6.5rem; }
+  .letter-spacing-0 { --letter-spacing: 0; }
 }
 
-.letter-spacing-0 { --letter-spacing: 0.02rem; }
-.letter-spacing-1 { --letter-spacing: 0.2rem; }
 .letter-spacing-2 { --letter-spacing: 0.4rem; }
 .letter-spacing-3 { --letter-spacing: 0.6rem; }
 .letter-spacing-4 { --letter-spacing: 1rem; }
