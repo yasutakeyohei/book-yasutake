@@ -46,16 +46,29 @@
 	},
 	"thoughtタグ": {
 		"scope": "markdown",
-		"prefix": "tips",
+		"prefix": "thought",
 		"body": [
 			"<div class=\"bln bleft thought\">",
 			"",
-			"🕵 $1",
+			"$1",
 			"",
-			"$2",
-			"",
-			"</div>$3"
+			"</div>$2"
 		],
 	},
+	"引用タグ": {
+		"scope": "markdown",
+		"prefix": "quote",
+		"body": [
+			"<blockquote>",
+			"",
+			"$1",
+			"",
+			"<p class=\"ref\"><a href=\"\"></a></p>",
+			"",
+			"</blockquote>"
+		],
+
+
+	}
 
 }
