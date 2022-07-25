@@ -117,7 +117,7 @@
     --theme-hover: #e6e6e6;
 
     --quote-bg: hsl(197, 37%, 96%);
-    --quote-border: hsl(197, 37%, 91%);
+    --quote-border: #007bac;
 
     --table-border-color: hsl(0, 0%, 95%);
     --table-header-bg: hsl(0, 0%, 80%);
