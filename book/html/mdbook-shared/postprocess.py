@@ -17,6 +17,13 @@ def getMatched(match):
     matchedStr = match.groups()[0]
     return ""
 
+# 目次のtips用に、attr(data-icon, dafault）のdefault（フォールバック）がまだ使えないため、data-iconが無かった場合はデフォルトのドットスタイルを適用する
+def replace_func(m):
+    data_icon = f' data-icon="💬"'
+    if m.group(2) != "" :
+        data_icon = f' data-icon="{m.group(2)}"'
+    return f'<li class="{m.group(1)}"{data_icon}>{m.group(3)}{m.group(4)}'
+
 # パンくずリスト生成
 def makeBreadcrumbs(fp, fileName, heading, onlyJson):
     pathDir = "/" + re.sub(r"(/?[^/]*\.md)", "", fp) # /, /test1/test2
@@ -235,7 +242,8 @@ for filePath in glob.iglob('../../book/**/*.html', recursive=True):
         s = s.replace("<!-- recent updates -->", recentUpdateHtml, 1)
 
     #<li>hitori:～</li>を<li class="hitori">～</li>に変換、tips, good, badも同様
-    s = re.sub(r"<li>(hitori|tips|good|ng|bad|chk)\:(.*?)(</li>|<ul>)", '<li class="\\1">\\2\\3', s, flags=re.DOTALL)
+#    s = re.sub(r"<li>(hitori|tips|good|ng|bad|chk)(.*?)\:(.*?)(</li>|<ul>)", '<li class="\\1" data-icon="\\2">\\3\\4', s, flags=re.DOTALL)
+    s = re.sub(r"<li>(hitori|tips|good|ng|bad|chk)(.*?)\:(.*?)(</li>|<ul>)", replace_func, s, flags=re.DOTALL)
 
     matchedStr = ""
     s = re.sub(r"<p>.*{{description:(.*)}}.*</p>", getMatched, s, 0)

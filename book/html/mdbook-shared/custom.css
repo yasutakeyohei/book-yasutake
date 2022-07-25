@@ -719,7 +719,11 @@ p.img-wrapper {
 }
 
 /* 吹き出し内部 */
-.bln p {
+.bln>p:not(:last-child) {
+  margin-bottom:calc(var(--font-size)*1.5);
+  margin-top: 0;
+}
+.bln>p:last-child {
   margin: 0;
 }
 
@@ -1030,8 +1034,11 @@ blockquote p.ref {
 
 
 div.ref li {
-  margin-bottom: calc(var(--font-size)*0.5);
-  font-size: calc(var(--font-size)*1.5);
+  padding-bottom: calc(var(--font-size)*0.8) !important;
+  font-size: calc(var(--font-size)*1.6);
+}
+div.ref li p {
+  margin:0;
 }
 
 
@@ -1265,6 +1272,9 @@ li:last-child {
   border-style: none;
   border-bottom-style: dotted;
   border-radius:0;
+}
+.ippan-situgi li:not(:last-child) {
+  padding-bottom: calc(var(--font-size)*1.5);
 }
 
 /* 通常の質疑（本会議、委員会で分けているため、一段下げる） */
@@ -1532,15 +1542,20 @@ div.recent-updated ul li {
 .toc>ul {
   padding: 0 1rem 0 2rem;
 }
-.toc li, .toc ul, .toc ul li{
-  margin-bottom:calc(var(--font-size)*0.75);
+.toc li:not(:last-child),
+.toc ul:not(:last-child),
+.toc ul li:not(:last-child) {
+  padding-bottom:calc(var(--font-size)*0.75);
 }
 .toc li strong {
-  margin-bottom:calc(var(--font-size)*0.9);
+  padding-bottom:calc(var(--font-size)*0.9);
  
 }
+.toc li p:last-child {
+  margin-bottom:0;
+}
 .toc li.hitori,
-.toc li.tips {
+li.tips {
   list-style: none;
 }
 .toc li.hitori::before {
@@ -1551,12 +1566,11 @@ div.recent-updated ul li {
   font-size: 1.2rem;
   color: royalblue;
 }
-.toc li.tips::before {
-  content: "\f06a";
+li.tips::before {
+  content: attr(data-icon);
   font-family: FontAwesome;
   margin-right: 1rem;
   margin-left: -2.2rem;
-  color: royalblue;
 }
 .toc hr {
   border: 1px dotted;
