@@ -4,7 +4,7 @@
 
 # （1）市民のため、そして職員のためにも、自らを律する仕組みを
 
-<p id="read-kaigiroku"><a href="">📄会議録を見る（まだ公開されていません）</a></p>
+<p id="read-kaigiroku"><a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1302&schedule_id=6&minute_id=60&is_search=true">📄会議録を見る</a></p>
 
 <fieldset class="pnt">
 <legend><h2> まとめ </h2></legend>
