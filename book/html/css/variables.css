@@ -13,6 +13,7 @@
 .ayu {
     --bg: hsl(210, 25%, 8%);
     --fg: #c5c5c5;
+    --strong: #ff0;
 
     --sidebar-bg: #14191f;
     --sidebar-fg: #c8c9db;
@@ -54,6 +55,7 @@
 .coal {
     --bg: hsl(200, 7%, 8%);
     --fg: #98a3ad;
+    --strong: #ff0;
 
     --sidebar-bg: #292c2f;
     --sidebar-fg: #a1adb8;
@@ -95,6 +97,7 @@
 .light {
     --bg: hsl(0, 0%, 100%);
     --fg: #333333;
+    --strong: #f00;
 
     --sidebar-bg: #fafafa;
     --sidebar-fg: #364149;
@@ -136,6 +139,7 @@
 .navy {
     --bg: hsl(226, 23%, 11%);
     --fg: #bcbdd0;
+    --strong: #ff0;
 
     --sidebar-bg: #282d3f;
     --sidebar-fg: #c8c9db;
@@ -148,7 +152,7 @@
     --icons: #737480;
     --icons-hover: #b7b9cc;
 
-    --links: #2b79a2;
+    --links: #8fbfff;
     --pnt-li-a-links: #8fbfff;
 
     --inline-code-color: #c5c8c6;;
@@ -177,6 +181,7 @@
 .rust {
     --bg: hsl(60, 9%, 87%);
     --fg: #262625;
+    --strong: #f00;
 
     --sidebar-bg: #3b2e2a;
     --sidebar-fg: #c8c9db;

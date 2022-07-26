@@ -92,8 +92,7 @@ main h6 { font-size:  calc(var(--font-size)*1.5); }
 .ippan-situgi h5+div { margin-top: calc(var(--font-size)*-4); }
 
 .ippan-situgi div.bln+h3,
-.ippan-situgi div.bln+h4,
-{
+.ippan-situgi div.bln+h4　{
   margin-top: calc(var(--font-size));
 }
 
@@ -114,14 +113,14 @@ button {
   } 
 }
 
-.content p {
-  line-height: var(--line-height);
-}
-.content ol {
-  line-height: var(--line-height);
-}
+.content p,
+.content ol,
 .content ul {
   line-height: var(--line-height);
+}
+
+.content span.strong {
+  color: var(--strong);
 }
 
 div.back-to-main-site {
@@ -749,6 +748,7 @@ p.img-wrapper {
     left: -3rem;
   }
 }
+
 
 
 .balloon {
