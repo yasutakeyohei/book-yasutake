@@ -121,6 +121,7 @@ button {
 
 .content span.strong {
   color: var(--strong);
+  font-weight:bold;
 }
 
 div.back-to-main-site {
