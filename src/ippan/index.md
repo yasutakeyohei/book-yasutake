@@ -2,6 +2,8 @@
 
 {{description:小平市議会議員 安竹洋平のこれまでの一般質問をまとめています}}
 
+{{og-image:https://yasutakeyohei.com/books/yasutake/ippan/ippan-situmon-w-title.png, 300, 299}}
+
 # 小平市議会 安竹洋平の一般質問 まとめ
 
 <figure>
