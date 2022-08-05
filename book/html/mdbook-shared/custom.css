@@ -951,14 +951,14 @@ td.aright {
 
 /* dyslexia CUSTOM */
 figure {
-  margin: 3rem 0;
+  margin: 2rem 0;
   text-align: center;
   padding: 1rem;
 }
 figure figcaption {
   padding: 1rem;
-  font-size: calc(var(--font-size) * 0.8);
-  line-height: calc(var(--line-height) * 0.8);
+  font-size: calc(var(--font-size) * 1.5);
+  padding:0;
   text-align: center;
 }
 figure.bordered {
