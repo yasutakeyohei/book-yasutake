@@ -68,8 +68,26 @@
 			"",
 			"</blockquote>"
 		],
-
-
+	},
+	"imgタグ": {
+		"scope": "markdown",
+		"prefix": "image",
+		"body": [
+			"<img src=\"./images/$1\" alt=\"$2\"  data-zoomable=\"\" style=\"z-index:999;margin-top:2rem;\">",
+		],
+	},
+	"imgタグ Caption付き": {
+		"scope": "markdown",
+		"prefix": "image with caption",
+		"body": [
+			"<figure>",
+			"<img src=\"./images/$1\" alt=\"$2\"  data-zoomable=\"\" style=\"z-index:999;margin-top:2rem;\">",
+			"<figcaption>",
+			"</figcaption>",
+			"</figure>",
+		],
 	}
+
+
 
 }
