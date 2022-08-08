@@ -1,0 +1,894 @@
+<mxfile host="65bd71144e">
+    <diagram id="l96cSE0MkJBUikiaBPxF" name="ページ1">
+        <mxGraphModel dx="1893" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="77" value="実行者" style="" parent="0"/>
+                <mxCell id="394" value="調査委員会" style="text;html=1;strokeColor=#6F0000;fillColor=#a20025;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="77" vertex="1">
+                    <mxGeometry x="240.16" y="4850" width="100" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="78" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="77" vertex="1">
+                    <mxGeometry y="180" width="220" height="450" as="geometry"/>
+                </mxCell>
+                <mxCell id="79" value="常設対策委員会" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="77" vertex="1">
+                    <mxGeometry x="60" y="170" width="100" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="102" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="77" vertex="1">
+                    <mxGeometry y="910" width="220" height="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="103" value="担任教諭等" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="77" vertex="1">
+                    <mxGeometry x="75" y="900" width="70" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="104" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="77" vertex="1">
+                    <mxGeometry y="1280" width="220" height="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="105" value="常設対策委員会" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="77" vertex="1">
+                    <mxGeometry x="60" y="1270" width="100" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="125" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="77" vertex="1">
+                    <mxGeometry y="1750" width="220" height="700" as="geometry"/>
+                </mxCell>
+                <mxCell id="146" value="常設対策委員会" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="77" vertex="1">
+                    <mxGeometry x="60" y="1740" width="100" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="210" value="被害本人とその保護者" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="77" vertex="1">
+                    <mxGeometry x="40" y="2980" width="140" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="211" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="77" vertex="1">
+                    <mxGeometry y="3680" width="380" height="1120" as="geometry"/>
+                </mxCell>
+                <mxCell id="332" value="市長" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="77" vertex="1">
+                    <mxGeometry x="260" y="3060" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="337" value="被害側本人またはその保護者" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="77" vertex="1">
+                    <mxGeometry x="20" y="1159" width="180" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="340" value="教育委員会" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="77" vertex="1">
+                    <mxGeometry x="70" y="2680" width="80" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="341" value="市長" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="77" vertex="1">
+                    <mxGeometry x="70" y="2770" width="80" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="372" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="77" vertex="1">
+                    <mxGeometry y="3440" width="380" height="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="373" value="常設対策委員会" style="text;html=1;strokeColor=#B09500;fillColor=#e3c800;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="77" vertex="1">
+                    <mxGeometry x="40" y="3430" width="100" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="375" value="対策委員会" style="text;html=1;strokeColor=#B09500;fillColor=#e3c800;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="77" vertex="1">
+                    <mxGeometry x="40" y="3670" width="100" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="377" value="市長部局" style="text;html=1;strokeColor=#6F0000;fillColor=#a20025;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="77" vertex="1">
+                    <mxGeometry x="230" y="3430" width="100" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="378" value="調査委員会" style="text;html=1;strokeColor=#6F0000;fillColor=#a20025;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="77" vertex="1">
+                    <mxGeometry x="230" y="3670" width="100" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="399" value="対策委員会" style="text;html=1;strokeColor=#B09500;fillColor=#e3c800;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="77" vertex="1">
+                    <mxGeometry x="40.16" y="4850" width="100" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="400" value="教育委員会" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="77" vertex="1">
+                    <mxGeometry x="40.16" y="4880" width="100" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="403" value="教育委員会" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="77" vertex="1">
+                    <mxGeometry x="50" y="5210" width="80" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="469" value="教育委員会" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="77" vertex="1">
+                    <mxGeometry x="50.16" y="4940" width="80" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="470" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;endSize=6;strokeWidth=1;" parent="77" source="379" target="469" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="475" value="教育委員会／市長部局" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="77" vertex="1">
+                    <mxGeometry x="110" y="5310" width="150" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="479" value="市長" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="77" vertex="1">
+                    <mxGeometry x="50.00000000000003" y="5030" width="80" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="482" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="77" vertex="1">
+                    <mxGeometry x="420" y="3440" width="220" height="490" as="geometry"/>
+                </mxCell>
+                <mxCell id="483" style="edgeStyle=none;html=1;endArrow=classic;endFill=1;endSize=6;strokeWidth=1;" parent="77" source="199" target="200" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="484" style="edgeStyle=none;html=1;endArrow=classic;endFill=1;endSize=6;strokeWidth=1;" parent="77" source="200" target="202" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="485" style="edgeStyle=none;html=1;endArrow=open;endFill=0;endSize=12;strokeWidth=2;dashed=1;dashPattern=1 1;strokeColor=#FF0000;" parent="77" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="210" y="2920" as="targetPoint"/>
+                        <mxPoint x="240" y="2950" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="486" value="対策委員会・教育委員会・学校" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="77" vertex="1">
+                    <mxGeometry x="440" y="3430" width="180" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="1" style="" parent="0"/>
+                <mxCell id="8" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6" target="63" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="560" y="480" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="527" y="480"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="57" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6" target="56" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="重大事態に該当？" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
+                    <mxGeometry x="250" y="450" width="180" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="180" y="550" width="30" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="610" width="20" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="67" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="12" target="64" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="アンケート、相談、申告、&lt;br&gt;通報、発見等による、いじめと&lt;br&gt;疑われる事案の認知" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
+                    <mxGeometry x="20" width="180" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;" parent="1" source="13" target="119" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="被害側の本人及び保護者に&lt;br&gt;当フローを説明する" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="1000" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="校長、教職員&lt;br&gt;教育委員会等" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="210" y="20" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="16" target="13" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="被害側本人の意向を&lt;br&gt;確認しながら保護者にも連絡" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="930" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="19" target="20" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="いじめ問題対策委員会の&lt;br&gt;緊急開催" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="20.32" y="1300" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="20" target="35" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="いじめの疑いに関する情報の&lt;br&gt;収集・記録" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="1370" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="21" target="26" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="110" y="290" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="65" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="21" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="240" y="400" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="240" y="230"/>
+                            <mxPoint x="240" y="400"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="21" value="被害側本人から&lt;br&gt;いじめの訴えがある？" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="190" width="180" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="23" target="24" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="本人と保護者に報告" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="460" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="24" target="60" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="120" y="650" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="59" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="24" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="240" y="400" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="240" y="570"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="24" value="被害側本人から&lt;br&gt;いじめの訴えがある？" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="530" width="180" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="26" target="36" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="総合的な判断" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="300" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="131" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;fontSize=12;" parent="1" source="27" target="118" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="児童・生徒への聴取、&lt;br&gt;情報収集、記録" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="1771" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="133" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="28" target="29" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="関係児童・生徒へのケア" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="1909" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="134" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="29" target="30" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="被害本人とその保護者への&lt;br&gt;定期的報告" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="1979" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="135" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="30" target="31" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="管理職・担任教諭による&lt;br&gt;対応案の作成" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="2049" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="136" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;fontSize=12;" parent="1" source="31" target="139" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="被害本人とその保護者と&lt;br&gt;対応を調整" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="2119" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="137" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="32" target="33" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="対応案にもとづく措置・対応" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="2260" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="措置・対応の検証" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="2330" width="180" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="114" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="35" target="113" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="すべての記録物を&lt;br&gt;当事者とその保護者に共有" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="20.32" y="1440" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="52" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="36" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="110" y="460" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="312" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="36" target="326" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="210" y="410" as="sourcePoint"/>
+                        <mxPoint x="340" y="420" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="340" y="400"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="36" value="いじめと判断？" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="370" width="180" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="対策委員会主導の&lt;br&gt;いじめ対応" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
+                    <mxGeometry x="250" y="660" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="&lt;span&gt;対応は終了するものの&lt;/span&gt;&lt;br&gt;&lt;span&gt;定期的に当事者へ状況を確認&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="660" width="180" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" value="担任教諭等" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="130" y="710" width="70" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="63" value="重大事態の対応" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
+                    <mxGeometry x="437" y="510" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="66" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="64" target="79" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="64" value="初期対応" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="100" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="84" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="180" y="380" width="30" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="85" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="180" y="210" width="30" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="88" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="430" width="20" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="89" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="270" width="20" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="90" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="430" y="470" width="30" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="91" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="350" y="510" width="20" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="95" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="97" target="103" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="120" y="870" as="sourcePoint"/>
+                        <mxPoint x="110" y="890" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="97" value="開始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
+                    <mxGeometry x="70" y="850" width="80" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="101" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;" parent="1" source="99" target="105" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="111" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="99" target="110" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="99" value="重大事態を申立て？" style="rhombus;whiteSpace=wrap;html=1;spacingTop=0;" parent="1" vertex="1">
+                    <mxGeometry x="20.32" y="1180" width="180" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="108" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="170" y="1230" width="20" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="109" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="1190" width="30" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="110" value="重大事態の対応" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="1240" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="113" value="終了" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
+                    <mxGeometry x="70.32" y="1530" width="80" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="115" value="開始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
+                    <mxGeometry x="70" y="1690" width="80" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="116" value="終了" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
+                    <mxGeometry x="70" y="2472" width="80" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="132" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="118" target="28" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="118" value="すべての記録物を&lt;br&gt;当事者とその保護者に共有" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="1841" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="120" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="119" target="337" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="119" value="担任教諭による対応" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="1069" width="180" height="41" as="geometry"/>
+                </mxCell>
+                <mxCell id="130" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" parent="1" target="146" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="110" y="1710" as="sourcePoint"/>
+                        <mxPoint x="110" y="1771" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="139" value="中学校卒業まで or&lt;br&gt;客観的に明確な問題解決まで" style="shape=loopLimit;whiteSpace=wrap;html=1;fontSize=12;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="2190" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="145" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;fontSize=12;" parent="1" source="140" target="116" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="140" value="繰り返す" style="shape=loopLimit;whiteSpace=wrap;html=1;fontSize=12;fillColor=default;direction=west;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="2390" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="141" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="139" target="32" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="120" y="2310" as="sourcePoint"/>
+                        <mxPoint x="110" y="2250" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="143" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="33" target="140" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="110" y="2370" as="sourcePoint"/>
+                        <mxPoint x="120" y="2340" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="216" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;" parent="1" target="215" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="110" y="2700" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="148" value="開始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
+                    <mxGeometry x="70" y="2630" width="80" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="190" value="並行して実施" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="500" y="2800" width="90" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="205" style="edgeStyle=orthogonalEdgeStyle;html=1;" parent="1" source="193" target="195" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="193" value="当事者へのケア" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="440" y="3460" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="194" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="195" target="197" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="195" value="対策委員会・管理職・担任教諭による、いじめ対応案の作成" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="440" y="3530" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="196" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;fontSize=12;" parent="1" source="197" target="201" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="197" value="被害本人とその保護者と&lt;br&gt;対応を調整" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="440" y="3600" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="199" value="対応案、報告書にもとづく&lt;br&gt;措置・対応" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="440" y="3741" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="200" value="措置・対応の検証" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="440" y="3811" width="180" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="201" value="中学校卒業まで" style="shape=loopLimit;whiteSpace=wrap;html=1;fontSize=12;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="440" y="3671" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="202" value="繰り返す" style="shape=loopLimit;whiteSpace=wrap;html=1;fontSize=12;fillColor=default;direction=west;" parent="1" vertex="1">
+                    <mxGeometry x="440" y="3871" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="203" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="201" target="199" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="540" y="3791" as="sourcePoint"/>
+                        <mxPoint x="530" y="3731" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="214" style="html=1;endArrow=open;endFill=0;strokeWidth=2;endSize=12;" parent="1" source="213" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="390" y="440" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="213" value="&lt;h1&gt;重大事態の判断&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;span&gt;当該学校に在籍する児童・生徒について、いじめにより、次の3つのうちいずれかの要件を満たした場合、重大事態と判断する。&lt;/span&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;生命、心身又は財産に重大な被害が生じた疑いがあると認めるとき&lt;/li&gt;&lt;li&gt;相当の期間学校を欠席することを余儀なくされている疑いがあると認めるとき&lt;/li&gt;&lt;li&gt;被害児童生徒や保護者から「いじめにより重大な被害が生じた」という申立てがあったとき&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=default;spacing=19;spacingTop=-28;whiteSpace=wrap;overflow=hidden;rounded=1;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;arcSize=13;strokeWidth=2;" parent="1" vertex="1">
+                    <mxGeometry x="300" y="140" width="330" height="230" as="geometry"/>
+                </mxCell>
+                <mxCell id="215" value="市長へ重大事態の発生を報告" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="2700" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="317" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="220" target="247" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="550" y="2820"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="318" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="220" target="291" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="370" y="2820"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="220" value="市長附属機関&lt;br&gt;での調査が必要と&lt;br&gt;判断？" style="rhombus;whiteSpace=wrap;html=1;spacingTop=7;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="2790" width="180" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="246" value="小平市の場合は教育委員会？" style="text;html=1;strokeColor=#FF0000;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;arcSize=50;strokeWidth=2;dashed=1;dashPattern=1 1;" parent="1" vertex="1">
+                    <mxGeometry x="234" y="2950" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="247" value="市長の附属機関&lt;br&gt;による調査等" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="460" y="2880" width="179.68" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="248" value="教育委員会／学校が設置&lt;br&gt;する組織による調査等" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="2880" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="249" style="edgeStyle=none;html=1;" parent="1" source="250" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="189.70999999999998" y="3600" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="250" value="対策／調査委員（案）名簿を&lt;br&gt;被害本人とその保護者へ通知" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="99.71000000000001" y="3530" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="252" value="被害本人とその保護者から異議がなくなるまで委員を調整" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="100.03" y="3600" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="253" style="edgeStyle=none;html=1;" parent="1" source="254" target="260" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="254" value="調査の実施" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="100.03" y="3911" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="255" style="edgeStyle=none;html=1;" parent="1" source="256" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="190" y="3770" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="256" value="報告書案の完成まで" style="shape=loopLimit;whiteSpace=wrap;html=1;fontSize=12;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="100.03" y="3700" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="257" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="258" target="268" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="258" value="繰り返す" style="shape=loopLimit;whiteSpace=wrap;html=1;fontSize=12;fillColor=default;direction=west;" parent="1" vertex="1">
+                    <mxGeometry x="100.03" y="4191" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="259" style="edgeStyle=none;html=1;" parent="1" source="260" target="262" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="260" value="データを得るごとに、被害本人とその保護者へ情報提供" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="100.03" y="3981" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="261" style="edgeStyle=none;html=1;" parent="1" source="262" target="264" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="262" value="被害本人とその保護者から&lt;br&gt;の所見を調査に反映する" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="100.03" y="4051" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="263" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="264" target="258" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="264" value="当事者への対応を検討し実施" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="100.03" y="4121" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="265" style="edgeStyle=none;html=1;" parent="1" source="266" target="250" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="266" value="事案により所轄警察署へ通報" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="99.71000000000001" y="3460" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="267" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="268" target="270" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="268" value="報告書案を&lt;br&gt;被害本人とその保護者に報告" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="100.03" y="4261" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="269" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="270" target="275" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="270" value="被害本人とその保護者からの&lt;br&gt;所見を得て報告書を修正する" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="100.03" y="4331" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="271" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="282" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="189.69499999999965" y="4801" as="sourcePoint"/>
+                        <mxPoint x="90" y="4851" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="190" y="4831"/>
+                            <mxPoint x="90" y="4831"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="391" style="edgeStyle=none;html=1;endArrow=classic;endFill=1;endSize=6;strokeWidth=1;" parent="1" source="273" target="277" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="273" value="報告書の完成" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="100.03" y="4471" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="274" style="edgeStyle=none;html=1;" parent="1" source="275" target="273" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="275" value="被害本人とその保護者からの&lt;br&gt;所見を報告書に追記する" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="100.03" y="4401" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="276" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="277" target="280" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="277" value="報告書は原則公開であることを&lt;br&gt;被害本人と保護者に通知する" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="99.71000000000001" y="4541" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="382" style="edgeStyle=none;html=1;endArrow=classic;endFill=1;endSize=6;strokeWidth=1;" parent="1" source="280" target="282" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="384" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;endSize=6;strokeWidth=1;" parent="1" source="280" target="383" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="480" y="4661"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="280" value="被害本人または&lt;br&gt;その保護者が報告書の&lt;br&gt;非公開を希望か" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="99.71000000000001" y="4611" width="180" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="282" value="報告書の一般公開へ&lt;br&gt;個人情報につながる部分は匿名" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="99.71" y="4741" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="283" value="報告書の提言を全校で共有し&lt;br&gt;再発防止に活用する" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry y="5230" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="284" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="194.70999999999998" y="4711" width="30" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="285" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="269.7099999999999" y="4641" width="30" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="291" value="教育委員会／学校が設置&lt;br&gt;する組織による調査等" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="2880" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="293" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="2810" width="30" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="295" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="115" y="2850" width="20" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="307" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="296" target="306" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="110.05996002664892" y="3080.0000133244503" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="296" value="調査に漏れや不備が&lt;br&gt;あると判断？" style="rhombus;whiteSpace=wrap;html=1;spacingTop=6;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="3000" width="180" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="300" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="3020" width="30" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="309" style="edgeStyle=none;html=1;" parent="1" source="301" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="110" y="3170.02" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="280" y="3170.02"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="321" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;endSize=6;strokeWidth=1;" parent="1" source="301" target="320" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="440" y="3110"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="301" value="市長が&lt;br&gt;附属機関での再調査が&lt;br&gt;必要と判断？" style="rhombus;whiteSpace=wrap;html=1;spacingTop=-4;" parent="1" vertex="1">
+                    <mxGeometry x="190" y="3080.02" width="180" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="303" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="370" y="3100.02" width="30" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="305" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="115" y="3080.02" width="20" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="306" value="終了" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
+                    <mxGeometry x="70.32" y="3200.02" width="80" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="310" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="3140.02" width="20" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="320" value="市長の附属機関&lt;br&gt;による調査等" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="3150" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="326" value="教育委員会" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="300" y="430" width="80" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="343" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="110" y="2740" as="sourcePoint"/>
+                        <mxPoint x="110" y="2770" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="344" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="110.15722485650099" y="2849.9475917144996" as="sourcePoint"/>
+                        <mxPoint x="110.31500000000005" y="2880" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="346" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;endSize=6;strokeWidth=1;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="110" y="2650" as="sourcePoint"/>
+                        <mxPoint x="110" y="2680" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="348" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="280" y="3060" as="targetPoint"/>
+                        <mxPoint x="200" y="3030" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="280" y="3030"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="357" value="市長の附属機関&lt;br&gt;による調査等" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="3300" width="179.68" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="358" value="教育委員会が設置する&lt;br&gt;組織による調査等" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry y="3300" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="359" value="開始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
+                    <mxGeometry x="149.99999999999997" y="3370" width="80" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="360" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="110.18899999999985" y="2920" as="sourcePoint"/>
+                        <mxPoint x="110" y="2980" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="361" value="調査結果を受けて" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="50" y="2940" width="120" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="362" value="被害本人とその保護者&lt;br&gt;が納得しない結果に" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="180" y="3180" width="130" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="370" value="委員が利害関係者の疑いがある場合、時間をかけて調査しても、納得が得られない。" style="text;html=1;strokeColor=#FF0000;fillColor=default;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;arcSize=50;perimeterSpacing=0;spacing=23;strokeWidth=2;dashed=1;dashPattern=1 1;" parent="1" vertex="1">
+                    <mxGeometry x="404" y="3981" width="226" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="386" style="edgeStyle=none;html=1;endArrow=classic;endFill=1;endSize=6;strokeWidth=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="379" target="400" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="100.16" y="4870" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="379" value="教育委員会へ報告" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1.3322676295501878e-14" y="4871" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="385" style="edgeStyle=none;html=1;endArrow=classic;endFill=1;endSize=6;strokeWidth=1;" parent="1" source="380" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="90" y="5180" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="290" y="5020"/>
+                            <mxPoint x="410" y="5020"/>
+                            <mxPoint x="410" y="5180"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="380" value="議会へ報告" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="200.31999999999994" y="4871" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="387" style="edgeStyle=none;html=1;endArrow=classic;endFill=1;endSize=6;strokeWidth=1;" parent="1" source="383" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="190" y="4811" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="480" y="4811"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="383" value="報告書を非公開情報として扱う" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="390" y="4741" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="393" style="edgeStyle=none;html=1;endArrow=classic;endFill=1;endSize=6;strokeWidth=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="190.01999999999998" y="3640" as="sourcePoint"/>
+                        <mxPoint x="190" y="3680" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="397" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;endSize=6;strokeWidth=1;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="189.7928571428572" y="4781" as="sourcePoint"/>
+                        <mxPoint x="290.0000000000002" y="4851" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="190" y="4831"/>
+                            <mxPoint x="290" y="4831"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="402" style="edgeStyle=none;html=1;endArrow=classic;endFill=1;endSize=6;strokeWidth=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="486" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="190" y="3390" as="sourcePoint"/>
+                        <mxPoint x="580" y="3410" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="190" y="3410"/>
+                            <mxPoint x="530" y="3410"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="405" value="市長の附属機関&lt;br&gt;による調査等" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="200.64000000000001" y="5110" width="179.68" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="408" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="330.16" y="5080" as="sourcePoint"/>
+                        <mxPoint x="330.1600000000001" y="5080" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="471" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;endSize=6;strokeWidth=1;" parent="1" source="410" target="405" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="290" y="5080"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="472" style="edgeStyle=none;html=1;endArrow=classic;endFill=1;endSize=6;strokeWidth=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="410" target="403" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="90" y="5200" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="410" value="再調査が必要と&lt;br&gt;判断？" style="rhombus;whiteSpace=wrap;html=1;spacingTop=7;" parent="1" vertex="1">
+                    <mxGeometry y="5050" width="180" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="411" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="180.00000000000003" y="5050" width="30" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="412" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="95.00000000000003" y="5110" width="20" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="413" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="467" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="90.00000000000003" y="5000" as="sourcePoint"/>
+                        <mxPoint x="90.00000000000003" y="5030" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="465" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;endSize=6;strokeWidth=1;" parent="1" source="414" target="464" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="414" value="調査方法と情報提供の詳細を&lt;br&gt;被害本人とその保護者へ説明" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="100.19" y="3771" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="466" style="edgeStyle=none;html=1;endArrow=classic;endFill=1;endSize=6;strokeWidth=1;" parent="1" source="464" target="254" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="464" value="被害本人とその保護者から要望があれば可能な限り反映" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="99.71" y="3840" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="467" value="市長へ報告" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1.4210854715202004e-14" y="4960" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="473" value="必要な措置を講ずる" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="100.19" y="5330" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="490" style="edgeStyle=none;html=1;dashed=1;dashPattern=1 1;endArrow=open;endFill=0;endSize=12;strokeColor=#FF0000;strokeWidth=2;" parent="1" source="477" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="290" y="5340" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="477" value="適正に措置が講じられているか&lt;br&gt;定期的にチェックする仕組みが必要" style="text;html=1;strokeColor=#FF0000;fillColor=default;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;arcSize=50;spacing=20;strokeWidth=2;dashed=1;dashPattern=1 1;" parent="1" vertex="1">
+                    <mxGeometry x="310" y="5250" width="230" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="478" style="edgeStyle=none;html=1;endArrow=classic;endFill=1;endSize=6;strokeWidth=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="90" y="5270" as="sourcePoint"/>
+                        <mxPoint x="185" y="5310" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="90" y="5290"/>
+                            <mxPoint x="185" y="5290"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="480" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;endSize=6;strokeWidth=1;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="189.91666666666674" y="3390" as="sourcePoint"/>
+                        <mxPoint x="189.49999999999977" y="3440" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="489" style="edgeStyle=none;html=1;dashed=1;dashPattern=1 1;endArrow=open;endFill=0;endSize=12;strokeWidth=2;exitX=0.018;exitY=0.15;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#FF0000;" parent="1" source="370" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="300" y="3630" as="targetPoint"/>
+                        <mxPoint x="482.57142857142844" y="3400" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="390" y="3640"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="491" value="初期対応" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+                    <mxGeometry x="20.64" y="780" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="493" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="491">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="380" y="940" as="sourcePoint"/>
+                        <mxPoint x="640" y="800" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="494" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="491">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="0.6400000000001" y="799.58" as="sourcePoint"/>
+                        <mxPoint x="20" y="800" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="495" value="対策委員会主導の&lt;br&gt;いじめ対応" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+                    <mxGeometry x="20.64" y="1620" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="496" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="495">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="210" y="1639.83" as="sourcePoint"/>
+                        <mxPoint x="649.36" y="1639.83" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="497" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="495">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="0.6399999999999864" y="1639.79" as="sourcePoint"/>
+                        <mxPoint x="20.639999999999986" y="1640.21" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="498" value="重大事態の対応" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+                    <mxGeometry x="19.999999999999986" y="2560" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="499" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="200" y="2579.5" as="sourcePoint"/>
+                        <mxPoint x="639.3600000000001" y="2579.5" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="500" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="498">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint y="2580" as="sourcePoint"/>
+                        <mxPoint x="50" y="2540.0516554959786" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="501" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="380.32" y="3319.9999999999995" as="sourcePoint"/>
+                        <mxPoint x="640" y="3320" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="502" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="179.71" y="3319.76" as="sourcePoint"/>
+                        <mxPoint x="200" y="3320" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
