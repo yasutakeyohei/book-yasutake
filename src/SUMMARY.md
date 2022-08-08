@@ -52,6 +52,8 @@
       1. [（1）市議会議員選挙の投票率向上に向けて](./ippan/r1/6-gatu/1-touhyouritu-koujou.md)
       1. [（2）小平市の顔ともいえるホームページで市民参加・協働の推進を](./ippan/r1/6-gatu/2-homepage-siminsanka.md)
 - [その他](./sonota/index.md)
+  - [いじめ問題](./sonota/ijime/index.md)
+    - [いじめ重大事態フロー図](./sonota/ijime/ijime-judai-jitai-flow.md)
   - [まちづくり（都市計画とは）](./sonota/machizukuri/index.md)
   - [厚生委員会](./sonota/kousei/index.md)
     - [令和2年度](./sonota/kousei/r2/index.md)
