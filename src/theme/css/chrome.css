@@ -36,7 +36,7 @@ a > .hljs {
 }
 #menu-bar.sticky,
 .js #menu-bar-hover-placeholder:hover + #menu-bar,
-.js #menu-bar:hover {
+.js #menu-bar:hover { /* 上スクロールした際に初めてメニューバーが表示されるように .js.sidebar-visible #menu-bar を削除*/
     position: -webkit-sticky;
     position: sticky;
     top: 0 !important;
