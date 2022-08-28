@@ -139,7 +139,9 @@ const showPDF = (url) => {
 
 </div>
 
-### 映画「夢みる小学校」に、ひとつの理想形が描かれている
+<div class="next-no-q-mark"></div>
+
+#### 映画「夢みる小学校」に、ひとつの理想形が描かれている
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -165,7 +167,7 @@ const showPDF = (url) => {
 
 </div>
 
-### いじめ発生から解決に至るまでの具体的な対応フローはあるか
+#### いじめ発生から解決に至るまでの具体的な対応フローはあるか
 
 <div class="bln bleft" data-speaker="安竹（初）">
 
@@ -205,7 +207,10 @@ const showPDF = (url) => {
 
 </div>
 
-#### 重大事態の扱いが重要
+<div class="next-no-q-mark"></div>
+
+
+##### 重大事態の扱いが重要
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -275,7 +280,9 @@ const showPDF = (url) => {
 
 </div>
 
-#### 市長報告の内容
+<div class="next-no-q-mark"></div>
+
+##### 市長報告の内容
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -309,7 +316,9 @@ const showPDF = (url) => {
 
 </div>
 
-#### 重大事態なら組織で対応することになる
+<div class="next-no-q-mark"></div>
+
+##### 重大事態なら組織で対応することになる
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -335,7 +344,7 @@ const showPDF = (url) => {
 
 </div>
 
-#### これまでに重大事態として扱ってきたいじめの件数は
+##### これまでに重大事態として扱ってきたいじめの件数は
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -349,7 +358,7 @@ const showPDF = (url) => {
 
 </div>
 
-#### 今回の背景となる事例は、なぜ重大事態ではないと判断したのか
+##### 今回の背景となる事例は、なぜ重大事態ではないと判断したのか
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -393,7 +402,7 @@ const showPDF = (url) => {
 
 </div>
 
-#### ほとんどのケースを重大事態として扱った方が、最終的に教育委員会のリソースを圧迫しないのでは
+##### ほとんどのケースを重大事態として扱った方が、最終的に教育委員会のリソースを圧迫しないのでは
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -439,7 +448,7 @@ const showPDF = (url) => {
 
 </div>
 
-#### 重大事態ではないと判断したのは、教育委員会の都合か、法に照らしてか
+##### 重大事態ではないと判断したのは、教育委員会の都合か、法に照らしてか
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -477,7 +486,9 @@ const showPDF = (url) => {
 
 </div>
 
-#### 重大事態について誤解があるようだ
+<div class="next-no-q-mark"></div>
+
+##### 重大事態について誤解があるようだ
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -498,7 +509,7 @@ const showPDF = (url) => {
 </div>
 
 
-### いじめの本質的原因を見つけるために、どのような切り口で調査分析しているか
+#### いじめの本質的原因を見つけるために、どのような切り口で調査分析しているか
 
 <div class="bln bleft" data-speaker="安竹（初）">
 
@@ -518,7 +529,7 @@ const showPDF = (url) => {
 
 </div>
 
-### いじめ被害者家族との情報共有は文書ベースで行うべきでは
+#### いじめ被害者家族との情報共有は文書ベースで行うべきでは
 
 <div class="bln bleft" data-speaker="安竹（初）">
 
@@ -538,7 +549,7 @@ const showPDF = (url) => {
 
 </div>
 
-### 過剰な個人情報の保護が、原因究明や共通認識の形成に壁となっていないか
+#### 過剰な個人情報の保護が、原因究明や共通認識の形成に壁となっていないか
 
 <div class="bln bleft" data-speaker="安竹（初）">
 
@@ -552,7 +563,7 @@ const showPDF = (url) => {
 
 </div>
 
-### 市長への手紙のように、教育長への手紙を設け、その制度を通じて相談も受けてはどうか
+#### 市長への手紙のように、教育長への手紙を設け、その制度を通じて相談も受けてはどうか
 
 <div class="bln bleft" data-speaker="安竹（初）">
 
@@ -584,12 +595,10 @@ const showPDF = (url) => {
 
 </div>
 
+### 参考資料
 
-</div>
+<div class="ref">
 
-<p style="text-align:right">以上</p>
-
-## 参考資料
 - [いじめ防止対策推進法](https://elaws.e-gov.go.jp/document?lawid=425AC1000000071)
 - [平成29年3月16日「いじめの防止等のための基本的な方針」の改定及び「いじめの重大事態の調査に関するガイドライン」の策定について（通知）](https://www.mext.go.jp/a_menu/shotou/seitoshidou/1400142.htm)
   - [いじめの重大事態の調査に関するガイドライン（平成29年3月・文部科学省）](https://www.mext.go.jp/component/a_menu/education/detail/__icsFiles/afieldfile/2019/06/26/1400030_009.pdf)
@@ -605,4 +614,8 @@ const showPDF = (url) => {
   - [小平市いじめ防止基本方針](https://www.city.kodaira.tokyo.jp/kurashi/061/061064.html)
   - [小平市いじめ問題対策連絡協議会等条例](https://www.city.kodaira.tokyo.jp/reiki/reiki_honbun/g135RG00001133.html)
 
+</div>
 
+</div>
+
+<p style="text-align:right">以上</p>

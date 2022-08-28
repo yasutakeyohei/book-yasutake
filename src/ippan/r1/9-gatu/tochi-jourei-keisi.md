@@ -87,6 +87,10 @@ const showPDF = (url) => {
 
 ### 今回質問する理由
 
+<div class="group no-q-mark" style="--group-title:'今回質問する理由';">
+
+#### まちづくりの根幹が崩れる
+
 <div class="bln bleft" data-speaker="安竹（初）">
 
 回田町218番地周辺で行われている宅地開発に関し、大規模な開発にもかかわらず公園が設置されないことや、一連の取引、開発に関する説明が十分になされていないことなどから、周辺住民の間で市に対する不信、不満の声が上がっている。特に、若い家族世帯が多く移り住んでいる状況で、子どもたちが遊ぶ公園が近隣にないことや、緑が減ることについて心配する声が大きい。
@@ -117,7 +121,11 @@ const showPDF = (url) => {
 
 </div>
 
+</div>
+
 ### 大規模土地取引の届け出に関する条例違反について
+
+<div class="group" style="--group-title:'大規模土地取引の届け出に関する条例違反について';">
 
 #### 経緯、原因、対処、再発防止策は
 
@@ -164,7 +172,6 @@ const showPDF = (url) => {
 ご披瀝のとおり、大規模土地取引行為は契約の3ヵ月前までに市に届け出ることが条例で義務づけられている。それが出ていなかった。条例は守られていなかった。
 
 </div>
-
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -368,9 +375,13 @@ const showPDF = (url) => {
 
 </div>
 
+</div>
 
-#### 小平市土地利用審議会について
-##### メンバー構成は
+### 小平市土地利用審議会について
+
+<div class="group" style="--group-title:'小平市土地利用審議会について';">
+
+#### メンバー構成は
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -390,7 +401,7 @@ const showPDF = (url) => {
 
 </div>
 
-##### 最近はいつ開催され、どういう助言が行われたか
+#### 最近はいつ開催され、どういう助言が行われたか
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -415,7 +426,13 @@ const showPDF = (url) => {
 
 </div>
 
-#### 条例の目的や理念が軽視されている
+</div>
+
+### 条例の目的や理念が軽視されている
+
+<div class="group no-q-mark" style="--group-title:'条例の目的や理念が軽視されている';">
+
+#### 条例の成り立ちについて
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -469,7 +486,7 @@ const showPDF = (url) => {
 
 </div>
 
-##### 条例の目的や理念の軽視（1）条例違反
+#### 条例の目的や理念の軽視（1）条例違反
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -477,7 +494,7 @@ const showPDF = (url) => {
 
 </div>
 
-##### 条例の目的や理念の軽視（2）3社に分割して販売された状況を看過
+#### 条例の目的や理念の軽視（2）3社に分割して販売された状況を看過
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -547,7 +564,7 @@ const showPDF = (url) => {
 
 </div>
 
-##### 条例の目的や理念の軽視（3）「市民とともにまちづくり」がされていない
+#### 条例の目的や理念の軽視（3）「市民とともにまちづくり」がされていない
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -587,7 +604,7 @@ const showPDF = (url) => {
 
 </div>
 
-##### 条例の目的や理念の軽視（4）消防水利施設の設置に向けた努力の跡がない
+#### 条例の目的や理念の軽視（4）消防水利施設の設置に向けた努力の跡がない
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -643,6 +660,8 @@ const showPDF = (url) => {
 
 </div>
 
+</div>
+
 #### 結局は市長の責任、市長はどう考えるか
 
 <div class="bln bleft" data-speaker="安竹（再）">
@@ -686,6 +705,8 @@ const showPDF = (url) => {
 基本的には、担当課である都市計画課が誠意を持って対応している。課長を筆頭に、意見交換会にも参加し、話し合いしている。
 
 </div>
+
+<div class="group no-q-mark" style="--group-title:'';">
 
 #### 事業者の言いなりでは、理想的なまちづくりはできない
 
@@ -734,8 +755,9 @@ const showPDF = (url) => {
 
 </div>
 
+</div>
 
-### 小さな提供公園が増えることについて市はどう考えるか
+#### 小さな提供公園が増えることについて市はどう考えるか
 
 <div class="bln bleft" data-speaker="安竹（初）">
 
@@ -817,6 +839,9 @@ const showPDF = (url) => {
 </div>
 
 ### アダプト制度について
+
+<div class="group" style="--group-title:'アダプト制度について';">
+
 #### アダプト制度の現状、課題、推進に向けた具体策は
 
 <div class="bln bleft" data-speaker="安竹（初）">
@@ -897,6 +922,8 @@ const showPDF = (url) => {
 <div class="bln bleft" data-speaker="安竹（再）">
 
 大規模開発事業が行われる際は、まちづくりの理念がきちんと反映されるよう、市長にビジョンを示してもらい、庁内に浸透させる。条例の解釈において職員が同じ方向を向けるよう、変に解釈上の問題で悩まず仕事ができるよう、全体的な流れの中で、一つ一つの事例にしっかり対応していただきたい。
+
+</div>
 
 </div>
 

@@ -95,6 +95,8 @@ const showPDF = (url) => {
 
 ### 今回質問する理由
 
+<div class="group no-q-mark" style="--group-title:'今回質問する理由';">
+
 #### 情緒固定給の設置に向けた請願が採択された
 
 <div class="bln bleft" data-speaker="安竹（初）">
@@ -147,7 +149,9 @@ const showPDF = (url) => {
 
 </div>
 
-### 合理的配慮の徹底につながる可能性もある障害者差別解消支援地域協議会の設置検討状況は
+</div>
+
+#### 合理的配慮の徹底につながる可能性もある障害者差別解消支援地域協議会の設置検討状況は
 
 <div class="bln bleft" data-speaker="安竹（初）">
 
@@ -167,7 +171,7 @@ const showPDF = (url) => {
 
 </div>
 
-#### 検討しますと言いながらしてこなかった理由は
+##### 検討しますと言いながらしてこなかった理由は
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -187,7 +191,7 @@ const showPDF = (url) => {
 
 </div>
 
-#### 結局、設置の検討はしたのかしていないのか
+##### 結局、設置の検討はしたのかしていないのか
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -231,7 +235,7 @@ const showPDF = (url) => {
 
 </div>
 
-#### 障害者差別解消支援地域協議会を設置する場合の課題は
+##### 障害者差別解消支援地域協議会を設置する場合の課題は
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -309,7 +313,7 @@ const showPDF = (url) => {
 
 </div>
 
-#### ガイドラインに示された各課題に、現状で対応できているのか
+##### ガイドラインに示された各課題に、現状で対応できているのか
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -347,7 +351,7 @@ const showPDF = (url) => {
 
 </div>
 
-#### 部署横断的に合理的配慮に関する情報共有等を行う場として活用してはどうか
+##### 部署横断的に合理的配慮に関する情報共有等を行う場として活用してはどうか
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -413,7 +417,7 @@ const showPDF = (url) => {
 
 </div>
 
-### 「こだいらこれだけは」の活用状況は
+#### 「こだいらこれだけは」の活用状況は
 
 <div class="bln bleft" data-speaker="安竹（初）">
 
@@ -427,7 +431,7 @@ const showPDF = (url) => {
 
 </div>
 
-#### どういう形で提供されているのか
+##### どういう形で提供されているのか
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -480,7 +484,7 @@ const showPDF = (url) => {
 
 </div>
 
-### 「こだいらこれだけは」に合理的配慮の具体的事項を載せ、学校間で対応の共通化を推進してはどうか
+#### 「こだいらこれだけは」に合理的配慮の具体的事項を載せ、学校間で対応の共通化を推進してはどうか
 
 <div class="bln bleft" data-speaker="安竹（初）">
 
@@ -509,7 +513,7 @@ const showPDF = (url) => {
 
 </div>
 
-#### シンプルに合理的配慮の事例をまとめた冊子のような形で用意しては
+##### シンプルに合理的配慮の事例をまとめた冊子のような形で用意しては
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -560,7 +564,7 @@ const showPDF = (url) => {
 </div>
 
 
-### 保健室登校の児童が各教室の授業にオンライン参加できる取組を小平市も行ってはどうか
+#### 保健室登校の児童が各教室の授業にオンライン参加できる取組を小平市も行ってはどうか
 
 <div class="bln bleft" data-speaker="安竹（初）">
 
@@ -574,7 +578,7 @@ const showPDF = (url) => {
 
 </div>
 
-#### 別室登校の状況は
+##### 別室登校の状況は
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -606,7 +610,7 @@ const showPDF = (url) => {
 
 </div>
 
-### 特別支援学級にいながら、通常学級の授業にオンライン参加できる取組を小平市も行ってはどうか
+#### 特別支援学級にいながら、通常学級の授業にオンライン参加できる取組を小平市も行ってはどうか
 
 <div class="bln bleft" data-speaker="安竹（初）">
 
@@ -620,7 +624,9 @@ const showPDF = (url) => {
 
 </div>
 
-#### 別室登校の子たちにも有用なはず
+<div class="next-no-q-mark"></div>
+
+##### 別室登校の子たちにも有用なはず
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -652,7 +658,9 @@ const showPDF = (url) => {
 
 </div>
 
-#### 西東京市は、オンライン利用上の課題をクリアしていた
+<div class="next-no-q-mark"></div>
+
+##### 西東京市は、オンライン利用上の課題をクリアしていた
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -666,7 +674,7 @@ const showPDF = (url) => {
 
 </div>
 
-#### まず別室登校の子たちに授業をオンラインで提供しては
+##### まず別室登校の子たちに授業をオンラインで提供しては
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -686,7 +694,9 @@ const showPDF = (url) => {
 
 </div>
 
-#### 自己肯定感を高めることにつながる
+<div class="next-no-q-mark"></div>
+
+##### 自己肯定感を高めることにつながる
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -718,7 +728,7 @@ const showPDF = (url) => {
 
 </div>
 
-### 一斉休校後に学校に来られなくなった子の自宅と教室をオンラインでつなぎ授業に参加し、出席が認められる取組を小平市も行ってはどうか
+#### 一斉休校後に学校に来られなくなった子の自宅と教室をオンラインでつなぎ授業に参加し、出席が認められる取組を小平市も行ってはどうか
 
 <div class="bln bleft" data-speaker="安竹（初）">
 

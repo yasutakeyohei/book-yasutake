@@ -82,6 +82,8 @@ const showPDF = (url) => {
 
 ### 今回質問する理由
 
+<div class="group no-q-mark" style="--group-title:'今回質問する理由';">
+
 #### ふるさと納税本来の主旨
 
 <div class="bln bleft" data-speaker="安竹（初）">
@@ -177,7 +179,6 @@ const showPDF = (url) => {
 - 市政に参加できるきっかけになる
 - 寄附文化の醸成につなげられる
 
-
 </div>
 
 #### 日本は寄附文化が育っていない
@@ -223,7 +224,9 @@ const showPDF = (url) => {
 
 </div>
 
-### ふるさと納税の大幅な損失とその増大を市はどう捉え、対策しているか
+</div>
+
+#### ふるさと納税の大幅な損失とその増大を市はどう捉え、対策しているか
 
 <div class="bln bleft" data-speaker="安竹（初）">
 
@@ -261,7 +264,7 @@ const showPDF = (url) => {
 
 </div>
 
-### 東京都市長会に制度の変更を要望している内容は
+#### 東京都市長会に制度の変更を要望している内容は
 
 <div class="bln bleft" data-speaker="安竹（初）">
 
@@ -288,6 +291,9 @@ const showPDF = (url) => {
 </div>
 
 ### ふるさと納税について詳しく
+
+<div class="group" style="--group-title:'ふるさと納税について詳しく';">
+
 #### 控除額と上限額について
 
 <div class="bln bleft" data-speaker="安竹（再）">
@@ -544,7 +550,9 @@ const showPDF = (url) => {
 
 </div>
 
-### 寄附の使途は7つの基金以外に用意されているか
+</div>
+
+#### 寄附の使途は7つの基金以外に用意されているか
 
 <div class="bln bleft" data-speaker="安竹（初）">
 
@@ -570,7 +578,7 @@ const showPDF = (url) => {
 
 </div>
 
-### 寄附金の使途を限定するなりして、寄附を戸惑う人の懸念をなくしてはどうか
+#### 寄附金の使途を限定するなりして、寄附を戸惑う人の懸念をなくしてはどうか
 
 <div class="bln bleft" data-speaker="安竹（初）">
 
@@ -658,6 +666,8 @@ NPOに寄附すると多くの団体は詳細なレポートを定期的に送�
 </div>
 
 ### 旧佐川邸公園はふるさと納税が活用できる絶好の機会、寄附を受け入れるための制度整備を
+
+<div class="group no-q-mark" style="--group-title:'旧佐川邸公園に寄附を受け入れる制度整備を';">
 
 #### 旧佐川邸公園について
 
@@ -812,6 +822,9 @@ NPOに寄附すると多くの団体は詳細なレポートを定期的に送�
 大口の寄附が見込めるものに限ってもよいと思うが、使途の限定といった寄附制度の拡充と、寄附金の使い道の詳細を、見た人が寄附したくなるような形で情報提供してほしい。
 
 </div>
+
+</div>
+
 
 <p style="text-align:right">以上</p>
 

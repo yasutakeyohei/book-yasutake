@@ -79,6 +79,8 @@ const showPDF = (url) => {
 
 ### 今回質問する理由
 
+<div class="group no-q-mark" style="--group-title:'今回質問する理由';">
+
 #### 新型コロナウイルスワクチンの接種が実質的に強制されている状況がある
 
 <div class="bln bleft" data-speaker="安竹（初）">
@@ -156,7 +158,9 @@ const showPDF = (url) => {
 
 </div>
 
-### 市が考える人権とは
+</div>
+
+#### 市が考える人権とは
 
 <div class="bln bleft" data-speaker="安竹（初）">
 
@@ -170,7 +174,9 @@ const showPDF = (url) => {
 
 </div>
 
-#### 人権とは、誰もが個人の自由意志で生きられるという権利
+<div class="group no-q-mark" style="--group-title:'';">
+
+##### 人権とは、誰もが個人の自由意志で生きられるという権利
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -213,7 +219,7 @@ const showPDF = (url) => {
 
 </div>
 
-#### ママエンジェルスの方々からいただいた、人権侵害のさまざまな事例
+##### ママエンジェルスの方々からいただいた、人権侵害のさまざまな事例
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -243,7 +249,7 @@ const showPDF = (url) => {
 
 </div>
 
-#### 自由意志を無視して医療行為や身体にリスクのあることをさせるのは、暴行罪
+##### 自由意志を無視して医療行為や身体にリスクのあることをさせるのは、暴行罪
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -262,7 +268,9 @@ const showPDF = (url) => {
 
 </div>
 
-### 新型コロナウイルスワクチンを接種しないのではなく、接種できないのはどういう人たちか
+</div>
+
+#### 新型コロナウイルスワクチンを接種しないのではなく、接種できないのはどういう人たちか
 
 <div class="bln bleft" data-speaker="安竹（初）">
 
@@ -308,7 +316,7 @@ const showPDF = (url) => {
 
 </div>
 
-### 新型コロナウイルスワクチンの非接種者が同接種者のリスクになると市は考えるか
+#### 新型コロナウイルスワクチンの非接種者が同接種者のリスクになると市は考えるか
 
 <div class="bln bleft" data-speaker="安竹（初）">
 
@@ -346,7 +354,9 @@ const showPDF = (url) => {
 
 </div>
 
-#### 人にうつさないために新型コロナウイルスワクチンを接種するという認識は（危険な）誤り
+<div class="next-no-q-mark"></div>
+
+##### 人にうつさないために新型コロナウイルスワクチンを接種するという認識は（危険な）誤り
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -356,7 +366,7 @@ const showPDF = (url) => {
 
 </div>
 
-### 接種者と非接種者の差別や分断を招かぬよう、啓発を推進し、人権の相談窓口を設けるべきでは
+#### 接種者と非接種者の差別や分断を招かぬよう、啓発を推進し、人権の相談窓口を設けるべきでは
 
 <div class="bln bleft" data-speaker="安竹（初）">
 
@@ -408,7 +418,9 @@ const showPDF = (url) => {
 
 </div>
 
-#### 今対策しないなら、普段やっている「人権の啓発活動」の信憑性はなくなり、形骸化する
+<div class="next-no-q-mark"></div>
+
+##### 今対策しないなら、普段やっている「人権の啓発活動」の信憑性はなくなり、形骸化する
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -416,7 +428,7 @@ const showPDF = (url) => {
 
 </div>
 
-### マスク着用の勧奨など、子どもの判断が差別につながるルールづくりはやめるべきでは
+#### マスク着用の勧奨など、子どもの判断が差別につながるルールづくりはやめるべきでは
 
 <div class="bln bleft" data-speaker="安竹（初）">
 
@@ -442,8 +454,9 @@ const showPDF = (url) => {
 
 </div>
 
+<div class="next-no-q-mark"></div>
 
-### 多様性や人権をないがしろにしないためには、まず見過ごさないこと
+##### 多様性や人権をないがしろにしないためには、まず見過ごさないこと
 
 <div class="bln bleft" data-speaker="安竹（再）">
 

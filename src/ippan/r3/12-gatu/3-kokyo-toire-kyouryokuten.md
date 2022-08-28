@@ -75,6 +75,8 @@ const showPDF = (url) => {
 
 ### 今回質問する理由
 
+<div class="group no-q-mark" style="--group-title:'今回質問する理由';">
+
 #### 玉川上水沿いには公共トイレの空白地帯がある
 
 <div class="bln bleft" data-speaker="安竹（初）">
@@ -166,7 +168,9 @@ const showPDF = (url) => {
 
 </div>
 
-### まちづくりを計画する際、高齢者の歩行速度まで想定しているか
+</div>
+
+#### まちづくりを計画する際、高齢者の歩行速度まで想定しているか
 
 <div class="bln bleft" data-speaker="安竹（初）">
 
@@ -186,7 +190,7 @@ const showPDF = (url) => {
 
 </div>
 
-### 配布物におけるユニバーサルデザインをどう捉え、委託先と共有しているか
+#### 配布物におけるユニバーサルデザインをどう捉え、委託先と共有しているか
 
 <div class="bln bleft" data-speaker="安竹（初）">
 
@@ -236,7 +240,7 @@ const showPDF = (url) => {
 
 </div>
 
-### 小平市防災マップアプリに公共トイレの場所も入れてはどうか
+#### 小平市防災マップアプリに公共トイレの場所も入れてはどうか
 
 <div class="bln bleft" data-speaker="安竹（初）">
 
@@ -256,7 +260,9 @@ const showPDF = (url) => {
 
 </div>
 
-#### 災害時に公共トイレが使えなくなる可能性について
+<div class="next-no-q-mark"></div>
+
+##### 災害時に公共トイレが使えなくなる可能性について
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -264,7 +270,9 @@ const showPDF = (url) => {
 
 </div>
 
-#### 地図情報まちだのような地図情報を集約したアプリをつくる方法もある
+<div class="next-no-q-mark"></div>
+
+##### 地図情報まちだのような地図情報を集約したアプリをつくる方法もある
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -284,7 +292,7 @@ const showPDF = (url) => {
 
 </div>
 
-### 町田市、国立市が行っているような公共トイレ協力店事業を検討してはどうか
+#### 町田市、国立市が行っているような公共トイレ協力店事業を検討してはどうか
 
 <div class="bln bleft" data-speaker="安竹（初）">
 
@@ -304,7 +312,7 @@ const showPDF = (url) => {
 
 </div>
 
-#### 補助金を出すわけではなく、ステッカーと地図上への掲載のみといったやり方だが、どうか
+##### 補助金を出すわけではなく、ステッカーと地図上への掲載のみといったやり方だが、どうか
 
 <div class="bln bleft" data-speaker="安竹（再）">
 

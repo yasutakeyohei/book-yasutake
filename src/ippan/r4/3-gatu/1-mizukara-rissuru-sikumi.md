@@ -81,6 +81,8 @@ const showPDF = (url) => {
 
 ### 今回質問する理由
 
+<div class="group no-q-mark" style="--group-title:'今回質問する理由';">
+
 #### 緊急質問を受けて調査が行われ、報告書がつくられた
 
 <div class="bln bleft" data-speaker="安竹（初）">
@@ -267,7 +269,9 @@ const showPDF = (url) => {
 
 </div>
 
-### 市や市教委の、第三者委員会や内部統制の導入検討状況は
+</div>
+
+#### 市や市教委の、第三者委員会や内部統制の導入検討状況は
 
 <div class="bln bleft" data-speaker="安竹（初）">
 
@@ -305,7 +309,7 @@ const showPDF = (url) => {
 
 </div>
 
-#### 小平市が現在検討している内部統制について説明を
+##### 小平市が現在検討している内部統制について説明を
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -337,7 +341,7 @@ const showPDF = (url) => {
 
 </div>
 
-#### 今回の事案は、内部統制検討の流れの中で捉えているか
+##### 今回の事案は、内部統制検討の流れの中で捉えているか
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -351,7 +355,7 @@ const showPDF = (url) => {
 
 </div>
 
-#### 今回のような事案が起きたとき、内部統制にどう組み込まれていくか
+##### 今回のような事案が起きたとき、内部統制にどう組み込まれていくか
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -365,7 +369,7 @@ const showPDF = (url) => {
 
 </div>
 
-#### 総務省が求めている、議会に対する適切な報告は、今回しないのか
+##### 総務省が求めている、議会に対する適切な報告は、今回しないのか
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -409,7 +413,7 @@ const showPDF = (url) => {
 
 </div>
 
-#### 今回の事案を、会議録に残らない形の報告で終わらせるのは、内部統制をつくる姿勢として間違えている
+##### 今回の事案を、会議録に残らない形の報告で終わらせるのは、内部統制をつくる姿勢として間違えている
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -447,7 +451,7 @@ const showPDF = (url) => {
 
 </div>
 
-#### 今回のように市民の相談が軽視されたことも内部統制の対象になるか
+##### 今回のように市民の相談が軽視されたことも内部統制の対象になるか
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -467,7 +471,7 @@ const showPDF = (url) => {
 
 </div>
 
-### 対外的文書のあり方を、市と市教育委員会はどう捉えているか
+#### 対外的文書のあり方を、市と市教育委員会はどう捉えているか
 
 <div class="bln bleft" data-speaker="安竹（初）">
 
@@ -524,7 +528,9 @@ const showPDF = (url) => {
 
 </div>
 
-#### よく使われる「誤解を招く表現だった」は、「私は間違えていません」という意味にもなる
+<div class="next-no-q-mark"></div>
+
+##### よく使われる「誤解を招く表現だった」は、「私は間違えていません」という意味にもなる
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -544,7 +550,9 @@ const showPDF = (url) => {
 
 </div>
 
-#### 調査報告書には当事者の意見も付けるよう検討を
+<div class="next-no-q-mark"></div>
+
+##### 調査報告書には当事者の意見も付けるよう検討を
 
 <div class="bln bleft" data-speaker="安竹（再）">
 

@@ -168,6 +168,9 @@ const showPDF = (url) => {
 {{#include ../../../partials/ippan-situgi-note.md}}
 
 ### 今回質問する理由
+
+<div class="group no-q-mark" style="--group-title:'';">
+
 #### 前回に引き続いての質問
 
 <div class="bln bleft" data-speaker="安竹（初）">
@@ -182,8 +185,10 @@ const showPDF = (url) => {
 
 </div>
 
+</div>
 
-### 重大事態への対処についてどう捉えているか
+
+#### 重大事態への対処についてどう捉えているか
 
 <div class="bln bleft" data-speaker="安竹（初）">
 
@@ -203,7 +208,7 @@ const showPDF = (url) => {
 
 </div>
 
-#### 重大事態という仕組みを肯定的に捉えているのか、否定的に捉えているのか
+##### 重大事態という仕組みを肯定的に捉えているのか、否定的に捉えているのか
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -235,7 +240,7 @@ const showPDF = (url) => {
 
 </div>
 
-#### 重大事態として扱うべきものを扱わなかったら法律違反、判例あり
+##### 重大事態として扱うべきものを扱わなかったら法律違反、判例あり
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -278,7 +283,7 @@ const showPDF = (url) => {
 
 </div>
 
-#### 先生が教育委員会を訴える可能性も
+##### 先生が教育委員会を訴える可能性も
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -292,7 +297,7 @@ const showPDF = (url) => {
 
 </div>
 
-#### 法的な枠組みの中で、いかに子ども中心にできるか
+##### 法的な枠組みの中で、いかに子ども中心にできるか
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -300,7 +305,7 @@ const showPDF = (url) => {
 
 </div>
 
-### 市独自の判断によって重大事態にならないのはどういうケースか
+#### 市独自の判断によって重大事態にならないのはどういうケースか
 
 <div class="bln bleft" data-speaker="安竹（初）">
 
@@ -346,7 +351,7 @@ const showPDF = (url) => {
 </div>
 
 
-#### 3月定例会での答弁は間違えていたということでよいか
+##### 3月定例会での答弁は間違えていたということでよいか
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -394,7 +399,7 @@ const showPDF = (url) => {
 
 </div>
 
-#### 教育委員会の勝手な判断で重大事態として扱うか否かを決めてよいのか
+##### 教育委員会の勝手な判断で重大事態として扱うか否かを決めてよいのか
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -414,7 +419,7 @@ const showPDF = (url) => {
 
 </div>
 
-#### 時間がかかるなら、これまでの対応と並行して重大事態の対応をすればよいのでは
+##### 時間がかかるなら、これまでの対応と並行して重大事態の対応をすればよいのでは
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -458,7 +463,7 @@ const showPDF = (url) => {
 
 </div>
 
-### 重大事態という扱いがあることについて、周知はどう行っているか
+#### 重大事態という扱いがあることについて、周知はどう行っているか
 
 <div class="bln bleft" data-speaker="安竹（初）">
 
@@ -478,7 +483,7 @@ const showPDF = (url) => {
 
 </div>
 
-#### 重大事態についての記載がほぼ皆無な資料を持ち出して、周知を図っているとは何か
+##### 重大事態についての記載がほぼ皆無な資料を持ち出して、周知を図っているとは何か
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -492,7 +497,7 @@ const showPDF = (url) => {
 
 </div>
 
-#### 現状の学校いじめ防止基本方針では、重大事態の周知はできない
+##### 現状の学校いじめ防止基本方針では、重大事態の周知はできない
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -528,7 +533,7 @@ const showPDF = (url) => {
 
 </div>
 
-#### 欠席日数に関する記述にも誤りがある
+##### 欠席日数に関する記述にも誤りがある
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -582,7 +587,6 @@ const showPDF = (url) => {
 
 </div>
 
-
 <div class="bln bright" data-speaker="教育指導担当部長（岡崎）">
 
 あと、意図的に隠したいのかというところについては、けっしてそのような意図はない。
@@ -607,7 +611,7 @@ const showPDF = (url) => {
 
 </div>
 
-#### きちんと載せていると強弁するが、すべての学校ではない、ということでよいか
+##### きちんと載せていると強弁するが、すべての学校ではない、ということでよいか
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -639,7 +643,7 @@ const showPDF = (url) => {
 
 </div>
 
-#### 改めて聞くが、重大事態の3要件について記載があるのは、すべての学校ではない、でよいか
+##### 改めて聞くが、重大事態の3要件について記載があるのは、すべての学校ではない、でよいか
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -655,7 +659,9 @@ const showPDF = (url) => {
 
 </div>
 
-#### 虚偽の答弁
+<div class="next-no-q-mark"></div>
+
+##### 虚偽の答弁
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -699,7 +705,7 @@ const showPDF = (url) => {
 
 </div>
 
-#### 保護者会で、重大事態のことは説明しているか
+##### 保護者会で、重大事態のことは説明しているか
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -743,7 +749,7 @@ const showPDF = (url) => {
 
 </div>
 
-#### 教職員の研修会でも、重大事態のことを正確に理解できるようちゃんと説明をしているのか
+##### 教職員の研修会でも、重大事態のことを正確に理解できるようちゃんと説明をしているのか
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -775,7 +781,9 @@ const showPDF = (url) => {
 
 </div>
 
-#### 重大事態への認識が、市として間違えている
+<div class="next-no-q-mark"></div>
+
+##### 重大事態への認識が、市として間違えている
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -801,7 +809,9 @@ const showPDF = (url) => {
 
 </div>
 
-#### 国からも、重大事態についてしっかり周知するよう通知が出ている
+<div class="next-no-q-mark"></div>
+
+##### 国からも、重大事態についてしっかり周知するよう通知が出ている
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -819,7 +829,7 @@ const showPDF = (url) => {
 
 </div>
 
-#### 入学時や、各年度の開始時に、児童・生徒、保護者、関係機関等に重大事態の説明をすることは守られているか
+##### 入学時や、各年度の開始時に、児童・生徒、保護者、関係機関等に重大事態の説明をすることは守られているか
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -847,7 +857,7 @@ const showPDF = (url) => {
 
 </div>
 
-#### 守っているのに、なぜ重大事態ということを知らない保護者がいるのか
+##### 守っているのに、なぜ重大事態ということを知らない保護者がいるのか
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -873,7 +883,9 @@ const showPDF = (url) => {
 
 </div>
 
-#### 市には、重大事態のことを保護者に知らせたくないバイアスがある
+<div class="next-no-q-mark"></div>
+
+##### 市には、重大事態のことを保護者に知らせたくないバイアスがある
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -881,7 +893,7 @@ const showPDF = (url) => {
 
 </div>
 
-#### 重要なことは守らないのに、制限は拡大解釈して過剰にするのはなぜか
+##### 重要なことは守らないのに、制限は拡大解釈して過剰にするのはなぜか
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -895,7 +907,7 @@ const showPDF = (url) => {
 
 </div>
 
-### これまで重大事態として扱ったいじめの累計件数と、それぞれの詳細は
+#### これまで重大事態として扱ったいじめの累計件数と、それぞれの詳細は
 
 <div class="bln bleft" data-speaker="安竹（初）">
 
@@ -909,7 +921,7 @@ const showPDF = (url) => {
 
 </div>
 
-#### 重大事態としての対応期間が分かると、なぜ個別事案の特定につながるのか
+##### 重大事態としての対応期間が分かると、なぜ個別事案の特定につながるのか
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -929,7 +941,7 @@ const showPDF = (url) => {
 
 </div>
 
-#### 個別事案が特定されると何が問題か
+##### 個別事案が特定されると何が問題か
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -943,7 +955,7 @@ const showPDF = (url) => {
 
 </div>
 
-#### 可能な限り調査結果を共有することとの整合性は
+##### 可能な限り調査結果を共有することとの整合性は
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -1005,7 +1017,7 @@ const showPDF = (url) => {
 
 </div>
 
-### 重大事態の調査結果は公開されるか。非公開なら理由は
+#### 重大事態の調査結果は公開されるか。非公開なら理由は
 
 <div class="bln bleft" data-speaker="安竹（初）">
 
@@ -1019,7 +1031,7 @@ const showPDF = (url) => {
 
 </div>
 
-#### 被害者本人が報告書の開示を拒んだ場合でも情報開示請求すれば公開されるか
+##### 被害者本人が報告書の開示を拒んだ場合でも情報開示請求すれば公開されるか
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -1110,7 +1122,7 @@ const showPDF = (url) => {
 
 </div>
 
-#### 国のガイドラインにあるように、調査結果を公表することが望ましいと考えているか
+##### 国のガイドラインにあるように、調査結果を公表することが望ましいと考えているか
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -1143,7 +1155,7 @@ const showPDF = (url) => {
 
 </div>
 
-### これまで、要件を満たしながら、または重大事態として扱うよう専門家等から助言を受けながら、重大事態として扱わなかった事例の件数は
+#### これまで、要件を満たしながら、または重大事態として扱うよう専門家等から助言を受けながら、重大事態として扱わなかった事例の件数は
 
 <div class="bln bleft" data-speaker="安竹（初）">
 
@@ -1180,7 +1192,7 @@ const showPDF = (url) => {
 
 </div>
 
-### 専門家等から重要な助言が得られる会議の会議録を作成していない理由は
+#### 専門家等から重要な助言が得られる会議の会議録を作成していない理由は
 
 <div class="bln bleft" data-speaker="安竹（初）">
 
@@ -1202,7 +1214,7 @@ const showPDF = (url) => {
 
 </div>
 
-#### 会議録等の「等」とは何か
+##### 会議録等の「等」とは何か
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -1222,7 +1234,7 @@ const showPDF = (url) => {
 
 </div>
 
-#### 会議録、議事録、要旨の定義を細かく分けているか
+##### 会議録、議事録、要旨の定義を細かく分けているか
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -1304,7 +1316,7 @@ const showPDF = (url) => {
 </div>
 
 
-#### 誰が何を話したかという記録は非常に重要
+##### 誰が何を話したかという記録は非常に重要
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -1324,7 +1336,7 @@ const showPDF = (url) => {
 
 </div>
 
-#### この会議は要旨でよい、この会議は会議録が必要など、記録方式はどういう基準に基づいているのか
+##### この会議は要旨でよい、この会議は会議録が必要など、記録方式はどういう基準に基づいているのか
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -1356,7 +1368,7 @@ const showPDF = (url) => {
 
 </div>
 
-### 小平市いじめ問題対策連絡協議会や、小平市教育委員会いじめ問題対策委員会の委員名簿を積極的に公開していない理由は
+#### 小平市いじめ問題対策連絡協議会や、小平市教育委員会いじめ問題対策委員会の委員名簿を積極的に公開していない理由は
 
 <div class="bln bleft" data-speaker="安竹（初）">
 
@@ -1376,7 +1388,7 @@ const showPDF = (url) => {
 
 </div>
 
-### 協議会や対策委員会の会議録は作成しているか
+#### 協議会や対策委員会の会議録は作成しているか
 
 <div class="bln bleft" data-speaker="安竹（初）">
 
@@ -1390,7 +1402,7 @@ const showPDF = (url) => {
 
 </div>
 
-### 市のいじめ対策に当たる各組織の委員も、職能団体の推薦による選任にすべきでは
+#### 市のいじめ対策に当たる各組織の委員も、職能団体の推薦による選任にすべきでは
 
 <div class="bln bleft" data-speaker="安竹（初）">
 
@@ -1410,7 +1422,7 @@ const showPDF = (url) => {
 
 </div>
 
-### いじめ事案への対応フロー図をつくり、周知活用してはどうか
+#### いじめ事案への対応フロー図をつくり、周知活用してはどうか
 
 <div class="bln bleft" data-speaker="安竹（初）">
 
@@ -1477,7 +1489,7 @@ const showPDF = (url) => {
 </div>
 
 
-### 重大事態の最終的な検証結果と提言は、誰の責任において、どのような方法で教育行政に反映するか
+#### 重大事態の最終的な検証結果と提言は、誰の責任において、どのような方法で教育行政に反映するか
 
 <div class="bln bleft" data-speaker="安竹（初）">
 
@@ -1491,7 +1503,7 @@ const showPDF = (url) => {
 
 </div>
 
-### リソースの問題について、どうマンパワーを振り分けるか組織的な対応を図っているとした対応の具体的内容は
+#### リソースの問題について、どうマンパワーを振り分けるか組織的な対応を図っているとした対応の具体的内容は
 
 <div class="bln bleft" data-speaker="安竹（初）">
 
@@ -1513,8 +1525,6 @@ const showPDF = (url) => {
 
 ### 参考資料
 
-<div class="ref">
-
 - [文科省：いじめの問題に対する施策](https://www.mext.go.jp/a_menu/shotou/seitoshidou/1302904.htm)
     - [いじめの防止等のための基本的な方針](https://www.mext.go.jp/a_menu/shotou/seitoshidou/__icsFiles/afieldfile/2018/01/04/1400142_001.pdf)
     - [児童生徒の問題行動・不登校等生徒指導上の諸課題に関する調査（文科省）](https://www.mext.go.jp/a_menu/shotou/seitoshidou/1302902.htm)
@@ -1527,19 +1537,11 @@ const showPDF = (url) => {
     - [公文書管理運用ガイドライン](https://www.city.kodaira.tokyo.jp/kurashi/095/095838.html)
     - [小平市教育委員会公文書管理規程](https://www.city.kodaira.tokyo.jp/reiki/reiki_honbun/g135RG00000405.html)
     - [小平市教育委員会公文書管理規則](https://www.city.kodaira.tokyo.jp/reiki/reiki_honbun/g135RG00001319.html)
-
 - [川口市に55万円支払い命じる　元市立中男子生徒のいじめ裁判でさいたま地裁判決（東京新聞）](https://www.tokyo-np.co.jp/article/148994)
-
 - [いじめ対策、遅い原因の3割は「余裕のなさ」埼玉の教育現場を調査（朝日新聞デジタル ）](https://news.livedoor.com/article/detail/22532423/)
-
 - [「いじめの重大事態の調査に関するガイドライン」の遵守必要性（関西大学法学部・永田憲史研究室）](https://penology.jimdofree.com/%E3%81%84%E3%81%98%E3%82%81%E9%98%B2%E6%AD%A2%E5%AF%BE%E7%AD%96%E6%8E%A8%E9%80%B2%E6%B3%95%E7%A0%94%E7%A9%B6/%E3%81%84%E3%81%98%E3%82%81%E3%81%AE%E9%87%8D%E5%A4%A7%E4%BA%8B%E6%85%8B%E3%81%AE%E8%AA%BF%E6%9F%BB%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3-%E3%81%AE%E9%81%B5%E5%AE%88%E5%BF%85%E8%A6%81%E6%80%A7/)
-
 - [Protect Children（プロテクトチルドレン）](https://protectchildren-eternity.jimdofree.com/)
-
 - [平成30年（ワ）第1465号の損害賠償請求事件・判決文](https://www.courts.go.jp/app/files/hanrei_jp/831/090831_hanrei.pdf)
-
-</div>
-
 
 </div>
 

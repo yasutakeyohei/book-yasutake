@@ -63,7 +63,7 @@ const showPDF = (url) => {
 
 </div>
 
-### 血管年齢などを検診項目に入れたりセルフ測定できるようにしては
+#### 血管年齢などを検診項目に入れたりセルフ測定できるようにしては
 
 <div class="bln bleft" data-speaker="安竹（初）">
 
@@ -90,7 +90,7 @@ const showPDF = (url) => {
 
 </div>
 
-### 医学的に正確な血管年齢検査（CABIやABIなど）を健診項目に含めるのはどうか
+#### 医学的に正確な血管年齢検査（CABIやABIなど）を健診項目に含めるのはどうか
 
 <div class="bln bleft" data-speaker="安竹（初）">
 

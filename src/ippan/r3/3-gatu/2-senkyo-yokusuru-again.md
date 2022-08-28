@@ -69,7 +69,7 @@ const showPDF = (url) => {
 
 </div>
 
-### 選挙公報サイトの周知を早めることについて検討状況は
+#### 選挙公報サイトの周知を早めることについて検討状況は
 
 <div class="bln bleft" data-speaker="安竹（初）">
 
@@ -95,7 +95,7 @@ const showPDF = (url) => {
 
 </div>
 
-### 郵便投票による不在者投票の対象範囲拡大についての進捗は
+#### 郵便投票による不在者投票の対象範囲拡大についての進捗は
 
 <div class="bln bleft" data-speaker="安竹（初）">
 
@@ -115,7 +115,7 @@ const showPDF = (url) => {
 
 </div>
 
-### 投票所でアンケート調査を行う提案についての調査結果は
+#### 投票所でアンケート調査を行う提案についての調査結果は
 
 <div class="bln bleft" data-speaker="安竹（初）">
 
@@ -141,7 +141,7 @@ const showPDF = (url) => {
 
 </div>
 
-### 選挙をよくするために、歴戦の市長として持論は
+##### 選挙をよくするために、歴戦の市長として持論は
 
 <div class="bln bleft" data-speaker="安竹（再）">
 

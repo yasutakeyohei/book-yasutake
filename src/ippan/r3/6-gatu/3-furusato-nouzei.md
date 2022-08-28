@@ -80,7 +80,7 @@ const showPDF = (url) => {
 
 </div>
 
-### ふるさと納税の流出をどう防ぎ、どう流入を増やすか
+#### ふるさと納税の流出をどう防ぎ、どう流入を増やすか
 
 <div class="bln bleft" data-speaker="安竹（初）">
 
@@ -100,7 +100,7 @@ const showPDF = (url) => {
 
 </div>
 
-### FC東京の選手からプライベートレッスンを受けられる権利を返礼品にしてはどうか
+#### FC東京の選手からプライベートレッスンを受けられる権利を返礼品にしてはどうか
 
 <div class="bln bleft" data-speaker="安竹（初）">
 

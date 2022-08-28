@@ -64,6 +64,9 @@ const showPDF = (url) => {
 {{#include ../../../partials/ippan-situgi-note.md}}
 
 ### 今回質問する理由
+
+<div class="group no-q-mark" style="--group-title:'今回質問する理由';">
+
 #### 巨額な事業にもかかわらず公開されている情報があまりにも少ない
 
 <div class="bln bleft" data-speaker="安竹（初）">
@@ -90,7 +93,9 @@ const showPDF = (url) => {
 
 </div>
 
-### 新ごみ処理施設事業の入札で、約468億円の予定価格を事前公表している理由は
+</div>
+
+#### 新ごみ処理施設事業の入札で、約468億円の予定価格を事前公表している理由は
 
 <div class="bln bleft" data-speaker="安竹（初）">
 
@@ -109,7 +114,7 @@ const showPDF = (url) => {
 
 </div>
 
-### 予定価格との差し引き175億円が、委託約20年間分の運営費か
+#### 予定価格との差し引き175億円が、委託約20年間分の運営費か
 
 <div class="bln bleft" data-speaker="安竹（初）">
 
@@ -133,7 +138,7 @@ const showPDF = (url) => {
 
 </div>
 
-### 組合が担う3つのごみ処理施設事業について、費用など詳しく
+#### 組合が担う3つのごみ処理施設事業について、費用など詳しく
 
 <div class="bln bleft" data-speaker="安竹（初）">
 
@@ -156,7 +161,7 @@ const showPDF = (url) => {
 
 </div>
 
-#### 年間費用が数%変動しただけで市歳出へのインパクトが大きい。財務関係資料をしっかり出して
+##### 年間費用が数%変動しただけで市歳出へのインパクトが大きい。財務関係資料をしっかり出して
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
@@ -164,7 +169,7 @@ const showPDF = (url) => {
 
 </div>
 
-### 運営事業者を新施設稼働から2年経た後に変更する理由は
+#### 運営事業者を新施設稼働から2年経た後に変更する理由は
 
 <div class="bln bleft" data-speaker="安竹（初）">
 
@@ -178,7 +183,7 @@ const showPDF = (url) => {
 
 </div>
 
-### 組合や市のホームページに財務資料の掲載を
+#### 組合や市のホームページに財務資料の掲載を
 
 <div class="bln bleft" data-speaker="安竹（初）">
 
@@ -213,7 +218,7 @@ const showPDF = (url) => {
 
 </div>
 
-#### 組合のサイトを見ると、市民から多額のお金を預かり事業を行っている意識が非常に低いと感じる
+##### 組合のサイトを見ると、市民から多額のお金を預かり事業を行っている意識が非常に低いと感じる
 
 <div class="bln bleft" data-speaker="安竹（再）">
 
