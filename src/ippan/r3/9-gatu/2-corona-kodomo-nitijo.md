@@ -76,7 +76,7 @@ const showPDF = (url) => {
 
 ### 今回質問する理由
 
-<div class="group" style="--group-title:'今回質問する理由';">
+<div class="group no-q-mark" style="--group-title:'今回質問する理由';">
 
 #### 各国がコロナ規制撤廃を行う中、日本は過剰な対策を続けている
 
