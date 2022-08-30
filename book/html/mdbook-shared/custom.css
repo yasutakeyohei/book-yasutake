@@ -5,7 +5,6 @@
 .font-family-mincho { font-family: "Times New Roman", "YuMincho", "Hiragino Mincho ProN", "Yu Mincho", "MS PMincho", "serif"; }
 .font-family-uiprop { font-family: "Meiryo UI", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic UI", "MS PGothic", "sans-serif"; }
 
-
 .font-size-0 { --font-size: 0.85rem; }
 .font-size-1 { --font-size: 1rem; }
 .font-size-2 { --font-size: 1.2rem; }
@@ -823,7 +822,35 @@ p.img-wrapper {
   }
 }
 
+.resetCSS h1 {
+  font-size:revert;
+  margin: revert;
+  line-height: revert;
+}
+.resetCSS h1 a {
+  text-decoration: revert;
+  color: revert;
+}
+.resetCSS p {
+  line-height: revert;
+}
+.resetCSS ol,
+.resetCSS ol li {
+  line-height: revert;
+}
 
+.page-wrapper {
+  page-break-after: always;
+  page-break-inside: avoid;
+}
+.svg-wrapper {
+  max-width: 100%;
+  border: 1px solid var(--fg);
+  padding: 2rem;
+  box-shadow: 2px 2px 2px var(--fg);
+  margin-bottom: 3rem;
+  text-align:center;
+}
 
 .balloon {
   font-size: calc(var(--font-size)*0.77);
@@ -1789,3 +1816,11 @@ li.tips::before {
 .frac span.symbol {
   display: none;
 } 
+
+/* 印刷時は＜、＞を非表示にする */
+@media print {
+  a[rel="prev"],
+  a[rel="next"] {
+    display: none;
+  }
+}
