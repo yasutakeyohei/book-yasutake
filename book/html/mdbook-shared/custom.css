@@ -839,7 +839,7 @@ p.img-wrapper {
   line-height: revert;
 }
 
-.page-wrapper {
+.print-page-wrapper {
   page-break-after: always;
   page-break-inside: avoid;
 }
