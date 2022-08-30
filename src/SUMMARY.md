@@ -52,15 +52,21 @@
       1. [（1）市議会議員選挙の投票率向上に向けて](./ippan/r1/6-gatu/1-touhyouritu-koujou.md)
       1. [（2）小平市の顔ともいえるホームページで市民参加・協働の推進を](./ippan/r1/6-gatu/2-homepage-siminsanka.md)
 - [その他](./sonota/index.md)
+  - [委員](./sonota/iin/index.md)
+    - [政策課題調査（令和2年度・厚生委員会）ひとり親家庭について　～実態調査とホームページの充実を～](./sonota/iin/r2-hitorioya.md)
   - [いじめ問題](./sonota/ijime/index.md)
     - [いじめ重大事態フロー図](./sonota/ijime/ijime-judai-jitai-flow.md)
   - [まちづくり（都市計画とは）](./sonota/machizukuri/index.md)
-  - [厚生委員会](./sonota/kousei/index.md)
-    - [令和2年度](./sonota/kousei/r2/index.md)
-      - [ひとり親家庭の実態調査を](./sonota/kousei/r2/hitorioya.md)
-      - [小平市で独自に子ども条例を制定することに反対](./sonota/kousei/r2/kodomojorei-hantai.md)
-  - [広聴広報委員会]()
-    - [令和2年度 提案]()
 - [スタンス]()
 - [小平市の問題点一覧]()
 - [このサイトのアクセシビリティツールについて](./about-a11y.md)
+
+<!--
+  - [厚生委員会](./sonota/kousei/index.md)
+    - [令和2年度](./sonota/kousei/r2/index.md)
+      - [ひとり親家庭の実態調査を](./sonota/kousei/r2/hitorioya.md)
+  - [広聴広報委員会]()
+    - [令和2年度 提案]()
+
+-->
+      <!--[小平市で独自に子ども条例を制定することに反対](./sonota/kousei/r2/kodomojorei-hantai.md) -->
