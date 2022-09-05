@@ -77,9 +77,6 @@ main h4 { font-size: calc(var(--font-size)*1.7); }
 main h5 { font-size: calc(var(--font-size)*1.6); }
 main h6 { font-size:  calc(var(--font-size)*1.5); }
 
-h4[id=""] {
-  display:none;
-}
 
 h2#提案理由の説明,
 h2#提出者代表議員の説明,
@@ -359,7 +356,7 @@ fieldset.nittei {
 
 #read-kaigiroku {
   position: relative;
-  top:0.5rem;
+  top:0;
   font-size: calc(var(--font-size)*1.2);
   text-align: right;
   margin: -1rem 0 0 0;
@@ -1093,6 +1090,16 @@ table.th-wrap th {
   white-space: initial;
 }
 
+div.nowrap table th,
+div.nowrap table td {
+  white-space: nowrap;
+}
+div.table-wrapper th {
+  white-space: nowrap;
+}
+div.table-wrapper td {
+  white-space: initial;
+}
 div.table-wrapper+h2,
 div.table-wrapper+h3,
 div.table-wrapper+h4 {
