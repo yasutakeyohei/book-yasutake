@@ -16,7 +16,9 @@
 
 <div class="print-page-wrapper">
 
-現時点で、私（安竹）が妥当と考えるフロー図です。小平市がこのフロー図のとおりに対応しているわけではありません。
+このフロー図は、[いじめの問題に対する施策（文科省サイト）](https://www.mext.go.jp/a_menu/shotou/seitoshidou/1302904.htm)にまとめられている、さまざまな資料に基づいて作成した、現時点で私（安竹）が最適と考える、公立学校におけるいじめ対応のフロー図です。小平市がこのフロー図のとおりに対応しているわけではありません。
+
+[MITライセンス](https://github.com/yasutakeyohei/book-yasutake/blob/master/LICENSE)で[Draw.ioファイルも公開しています](https://github.com/yasutakeyohei/book-yasutake/tree/master/src/sonota/ijime/images)ので、もしお役に立てるようでしたら、ご自由にお使いください。
 
 ## スタート
 
