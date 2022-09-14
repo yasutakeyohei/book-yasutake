@@ -1,0 +1,36 @@
+.ayu {
+    --strong: #ff0;
+    --pnt-li-a-links: #8fbfff;
+    --strong: #ff0;
+    --pnt-li-a-links: #8fbfff;
+}
+
+.light {
+    --fg: #333333;
+    --strong: #f00;
+    --sidebar-fg: #364149;
+    --sidebar-active: #008cff;
+    --scrollbar: #cccccc;
+    --icons: #cccccc;
+    --icons-hover: #333333;
+    --links: #4183c4;
+    --pnt-li-a-links: #5058cc;
+    --inline-code-color: #6e6b5e;
+    --quote-border: #007bac;
+}
+
+.navy {
+    --strong: #ff0;
+    --links: #8fbfff;
+    --pnt-li-a-links: #8fbfff;
+}
+.rust {
+    --strong: #f00;
+    --pnt-li-a-links: #5058cc;
+}
+
+@media (prefers-color-scheme: dark) {
+    .light.no-js {
+        --pnt-li-a-links: #5058cc;
+    }
+}
