@@ -6,7 +6,7 @@
 
 ～ いじめ被害者のみならず、多くの関係者のためになるよう、重大事態のスムーズな運用を ～
 
-<p id="read-kaigiroku"><a href="">📄会議録はまだ公開されていません</a></p>
+<p id="read-kaigiroku"><a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1321&schedule_id=5&minute_id=82&is_search=true">📄会議録</a></p>
 
 <fieldset class="pnt">
 <legend><h2> まとめ </h2></legend>
@@ -66,7 +66,6 @@
 - リソースの問題で組織的対応図るとした内容は → [外部委託できる業務は検討する](#リソースの問題についてどうマンパワーを振り分けるか組織的な対応を図っているとした対応の具体的内容は)
 
 ❌をつけたものは、事実に反する虚偽の答弁です。それ以外も、事実に基づかずに答弁した疑いがあります。追求します。
-
 
 </fieldset>
 

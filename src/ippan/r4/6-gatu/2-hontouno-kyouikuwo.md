@@ -4,7 +4,7 @@
 
 # （2）管理を容易にするための制限強化ではなく、本当の教育を
 
-<p id="read-kaigiroku"><a href="">📄会議録を見る（まだ公開されていません）</a></p>
+<p id="read-kaigiroku"><a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1321&schedule_id=5&minute_id=82&is_search=true">📄会議録を見る</a></p>
 
 <fieldset class="pnt">
 <legend><h2> まとめ </h2></legend>
