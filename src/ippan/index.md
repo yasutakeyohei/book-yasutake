@@ -10,7 +10,7 @@
 <img src="./ippan-situmon.png" alt="一般質問しているイラスト">
 </figure>
 
-令和元年6月定例会から令和4年6月定例会までで、合計32件の質問を行っています。
+令和元年6月定例会から令和4年6月定例会までで、合計37件の質問を行っています。
 
 <div class="acd-wrapper">
   <!-- Main -->
@@ -18,6 +18,20 @@
     <input type="checkbox" name="tab" id="tab-4" checked>
     <label for="tab-4" class="tab-4"><span><a href="./r4/index.md">令和4年</a></span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
     <div class="acd-content">
+      <!-- Sub -->
+      <div class="child-tab">
+        <input type="checkbox" name="sub-tab" id="tab-4-9" checked>
+        <label for="tab-4-9"><span><a href="./r4/9-gatu/index.md">9月定例会（5件）</a></span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
+        <div class="acd-sub-content">
+          <ol>
+            <li><a href="./r4/9-gatu/1-judai-hitai-kyogi-toben.md">いじめ重大事態に関しての、事実に反する答弁について</a></li>
+            <li><a href="./r4/9-gatu/2-tokyo-saresio-kaihatu.md">東京サレジオ学園北側の大規模開発について</a></li>
+            <li><a href="./r4/9-gatu/3-joutyo-kotei-school-bus.md">第四小学校に設置する自閉症・情緒障害特別支援学級に関して、特に全学年で通学バスを</a></li>
+            <li><a href="./r4/9-gatu/4-daisy-ikkatu-fukudokuhon.md">デイジー教科書の一括申請と、社会科副読本のデイジー化を</a></li>
+            <li><a href="./r4/9-gatu/5-guideline-syusei-mokusyoku-owari.md">誤りのあるガイドライン修正と、福岡市に倣い黙食を終わりに</a></li>
+          </ol>
+        </div>
+      </div>
       <!-- Sub -->
       <div class="child-tab">
         <input type="checkbox" name="sub-tab" id="tab-4-6" checked>
