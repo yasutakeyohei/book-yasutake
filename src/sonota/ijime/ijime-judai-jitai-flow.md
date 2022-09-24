@@ -75,3 +75,14 @@
 </div>
 
 </div>
+
+## 画像版
+
+上図をPNG形式の画像ファイルにしたものはこちらです。
+
+- [いじめ対応フロー図・全体](./images/ijime-taisaku-judai-jitai-flow.png)
+- [いじめ対応フロー図・スタート](./images/ijime-taisaku-judai-jitai-flow-start.png)
+- [いじめ対応フロー図・初期対応](./images/ijime-taisaku-judai-jitai-flow-syoki.png)
+- [いじめ対応フロー図・対策委員会主導のいじめ対応](./images/ijime-taisaku-judai-jitai-flow-taisaku-iinkai.png)
+- [いじめ対応フロー図・重大事態の対応](./images/ijime-taisaku-judai-jitai-flow-judai-jitai-taiou.png)
+- [いじめ対応フロー図・重大事態の調査](./images/ijime-taisaku-judai-jitai-flow-judai-jitai-tyousa.png)
