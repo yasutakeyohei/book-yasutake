@@ -301,6 +301,10 @@ fieldset.summary {
   content: "❌";
   margin-right: 1rem;
 }
+.pnt li.question::before {
+  content: "？";
+  margin-right: 1rem;
+}
 
 .summary li::before {
   content: "\f135 ";
