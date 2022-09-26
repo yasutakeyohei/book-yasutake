@@ -248,16 +248,18 @@ fieldset.summary {
   list-style: none;
   padding: 0 1rem;
 }
-
 .summary li {
   color: var(--point-fg);
   text-indent: -2.5rem;
   padding-left: 4rem;
 }
-.pnt li {
+.pnt ul>li {
   text-indent: -2.0rem;
   padding-left: 1.5rem;
   padding-bottom: calc(var(--font-size)*1.5);
+}
+.pnt ol>li {
+  margin-bottom:1rem;
 }
 .pnt li a:link,
 .pnt li a:visited {
@@ -272,6 +274,22 @@ fieldset.summary {
 .sanpi li:not([class]) {
   text-indent: 0;
   padding: 1rem 1.5rem;
+}
+
+.pnt .quote {
+  border:1px dashed var(--fg);
+  padding:1rem 1rem 0 1rem;
+  background-color:var(--quote-bg);
+  margin-bottom:1rem;
+}
+
+.pnt .quote ul>li,
+.pnt .quote ol>li {
+  padding-bottom: calc(var(--font-size)*0.8);
+  margin-bottom:0;
+}
+.pnt .quote li>ul {
+  margin-left:-2rem;
 }
 
 .sanpi li.chk::before,
@@ -305,7 +323,19 @@ fieldset.summary {
   content: "？";
   margin-right: 1rem;
 }
-
+.pnt li.pointer::before {
+  content: "👉";
+  margin-right: 1rem;
+}
+.pnt li.book::before {
+  content: "📘";
+  margin-right: 1rem;
+}
+.pnt ol>li::before,
+.pnt li.null::before {
+  content: "";
+  margin-right:0;
+}
 .summary li::before {
   content: "\f135 ";
   font-family: FontAwesome;
