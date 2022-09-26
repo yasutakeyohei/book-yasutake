@@ -17,9 +17,11 @@
 
 教育委員会全体として、重大事態の重要性を認識していないことが分かる答弁でした。継続して取り上げます。
 
+- pointer:[令和4年6月定例会で、引き続き追求しました](https://yasutakeyohei.com/books/yasutake/ippan/r4/6-gatu/1-judai-jitai-kodomo-chusin.html)
+
 また、重大事態も含めたいじめ対応について、インターネットを検索しても、よいフロー図が見つからなかったので、つくりました。
 
-[重大事態を含むいじめ対応のフロー図](https://yasutakeyohei.com/books/yasutake/sonota/ijime/ijime-judai-jitai-flow.html)
+- book:[重大事態を含むいじめ対応のフロー図](https://yasutakeyohei.com/books/yasutake/sonota/ijime/ijime-judai-jitai-flow.html)
 
 ---
 

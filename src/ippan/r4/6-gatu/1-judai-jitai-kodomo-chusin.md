@@ -35,9 +35,11 @@
 
 次回以降もこの問題を追求し、別のアプローチで周知もしていきます。
 
+- pointer:[令和4年9月定例会で、引き続き追求しました](https://yasutakeyohei.com/books/yasutake/ippan/r4/9-gatu/1-judai-hitai-kyogi-toben.html)
+
 また、重大事態も含めたいじめ対応について、インターネットを検索しても、よいフロー図が見つからなかったので、つくりました。
 
-[重大事態を含むいじめ対応のフロー図](https://yasutakeyohei.com/books/yasutake/sonota/ijime/ijime-judai-jitai-flow.html)
+- book:[重大事態を含むいじめ対応のフロー図](https://yasutakeyohei.com/books/yasutake/sonota/ijime/ijime-judai-jitai-flow.html)
 
 ---
 
