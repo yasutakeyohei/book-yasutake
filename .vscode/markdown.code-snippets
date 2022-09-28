@@ -104,8 +104,12 @@
 			"</figcaption>",
 			"</figure>",
 		],
-	}
-
-
-
+	},
+	"白倉": {
+		"scope": "markdown",
+		"prefix": "shirakura",
+		"body": [
+			"教育部長（白倉）"
+		]
+	},
 }
