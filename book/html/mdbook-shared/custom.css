@@ -817,7 +817,8 @@ p.img-wrapper {
 .bln.bleft.smile,
 .bln.bleft.weary,
 .bln.bleft.anger,
-.bln.bleft.sorry {
+.bln.bleft.sorry,
+.bln.bleft.search {
   border: 6px dotted var(--situgi-q-bg-dark);
   background-color:unset;
 }
@@ -825,7 +826,8 @@ p.img-wrapper {
 .bln.bleft.smile::before,
 .bln.bleft.weary::before,
 .bln.bleft.anger::before,
-.bln.bleft.sorry::before {
+.bln.bleft.sorry::before,
+.bln.bleft.search::before {
   border-width: 0;
   content: "🤔";
   left: -2.5rem;
@@ -843,12 +845,17 @@ p.img-wrapper {
 .bln.bleft.sorry::before {
   content: "🙏";
 }
+.bln.bleft.search::before {
+  content: "🔍";
+}
 
 @media only screen and (min-width: 800px) {
   .bln.bleft.thought::before,
   .bln.bleft.smile::before,
   .bln.bleft.weary::before,
-  .bln.bleft.anger::before {
+  .bln.bleft.anger::before,
+  .bln.bleft.sorry::before,  
+  .bln.bleft.search::before {
       left: -3rem;
   }
 }
