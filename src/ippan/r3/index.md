@@ -9,7 +9,7 @@
 1. [公共トイレの重要性を認識し、協力店事業を行ってはどうか](./12-gatu/3-kokyo-toire-kyouryokuten.md)
 
 ### [9月定例会](./9-gatu/index.md)
-1. [防災に対し、市長は本気で取り組むのか](./9-gatu/1-cashless-point-gamble.md)
+1. [キャッシュレスポイント事業に不確実性を持たせるな](./9-gatu/1-cashless-point-gamble.md)
 1. [データに基づき、コロナ禍の子どもたちを日常生活に](./9-gatu/2-corona-kodomo-nitijo.md)
 1. [ワクチン接種・非接種での差別は人権侵害である](./9-gatu/3-vaccine-sabetu-jinkensingai.md)
 
