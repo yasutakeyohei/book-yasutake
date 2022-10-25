@@ -114,7 +114,7 @@ const showPDF = (url) => {
 
 <div class="bln bleft search">
 
-<img src="./images/saresio.jpg" alt="東京サレジオ学園北側売却地"  data-zoomable="" style="z-index:999;width:530px;height:502x;">
+<img src="./images/saresio.jpg" alt="東京サレジオ学園北側売却地"  data-zoomable="" style="z-index:999;">
 
 黄色で囲んだあたりが売却地です。
 
@@ -144,7 +144,7 @@ const showPDF = (url) => {
 
 一般質問を行った令和4年9月9日時点での大規模開発手続きの進捗状況は、次の開発の手続きフロー図で「次ココ」と書いてある手前です（クリック／タップで拡大します）。
 
-<img src="./images/daikibo-kaihatu-flow.png" alt="一般質問を行った時点での大規模開発手続きの進捗状況"  data-zoomable="" style="z-index:999;width:530px;height:502x;">
+<img src="./images/daikibo-kaihatu-flow.png" alt="一般質問を行った時点での大規模開発手続きの進捗状況"  data-zoomable="" style="z-index:999;">
 
 
 なお、フロー図を見ると調整会の後に開催されるように見える土地利用審議会は、今回、調整会より前に行われました。住民からの意見書を受領した後の8月9日に開催されています。
@@ -228,9 +228,9 @@ const showPDF = (url) => {
 
 </div>
 
-<img src="./images/IMG_8494.png" alt=""  data-zoomable="" style="z-index:999;margin-bottom:3rem;width:605px;height:454x;">
+<img src="./images/IMG_8494.png" alt=""  data-zoomable="" style="z-index:999;margin-bottom:3rem;">
 
-<img src="./images/IMG_8495.jpg" alt=""  data-zoomable="" style="z-index:999;margin-bottom:5rem;width:454px;height:605x;">
+<img src="./images/IMG_8495.jpg" alt=""  data-zoomable="" style="z-index:999;margin-bottom:5rem;">
 
 #### 東京サレジオ学園が北側の土地を売却することになった理由
 
@@ -757,7 +757,7 @@ L<sub>1</sub>：60m 以上 ①：5.5m 以上 32.5m 以内
 
 残念ながら、法に違反していなければ、審査基準を満たさなくとも許される場合があるようです。
 
-❓：32.5m以内という基準を満たしていなくとも許可が出るのか。
+❓ 32.5m以内という基準を満たしていなくとも許可が出るのか。
 
 - 当該の開発については、審査の手続きで調整中。案件について、結論がどうなのかはお答えできない
 - 指摘の、審査基準マニュアルP51については、P50に記載の「都市計画法施行規則第 24条第5号」が法律。そのほかの数字は、こちらでの基準。
@@ -766,7 +766,7 @@ L<sub>1</sub>：60m 以上 ①：5.5m 以上 32.5m 以内
 - 書かれているとおりにしてくださいと言う場合もあるが、そうではない場合もある。
 - 事業者に伝えていることではないが、最終的には、法律に抵触していないものであれば、我々としては許可せざるを得ないところがある。
 
-❓：5.5m以上、32.5m以内としているが、この数字の根拠は。
+❓ 5.5m以上、32.5m以内としているが、この数字の根拠は。
 
 - P51に記載されている5.5mや32.5mといった数字の根拠については、明確に書いているものがない。
 - 5.5mの方は、同P53に示されているように、切り返しができるように5.5mになっていると思われる。
