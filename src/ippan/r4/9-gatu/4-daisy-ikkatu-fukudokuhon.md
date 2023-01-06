@@ -4,7 +4,7 @@
 
 # デイジー教科書の一括申請と、社会科副読本のデイジー化を
 
-<p id="read-kaigiroku"><a href="">📄会議録を見る（まだ公開されていません）</a></p>
+<p id="read-kaigiroku"><a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1337&schedule_id=5&minute_id=31&is_search=true">📄会議録を見る</a></p>
 
 <fieldset class="pnt">
 <legend><h2> まとめ </h2></legend>

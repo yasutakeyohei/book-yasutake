@@ -6,7 +6,7 @@
 
 ～まちづくりには事業主と周辺住民との充分な話し合いが不可欠～
 
-<p id="read-kaigiroku"><a href="">📄会議録を見る（まだ公開されていません）</a></p>
+<p id="read-kaigiroku"><a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1337&schedule_id=5&minute_id=31&is_search=true">📄会議録を見る</a></p>
 
 <fieldset class="pnt">
 <legend><h2> まとめ </h2></legend>
@@ -365,6 +365,8 @@ const showPDF = (url) => {
 その後、9月下旬に事業者から新たな構想が提出されています。
 
 </div>
+
+<a id="jisyu-kyougi"></a>
 
 #### 条例第5条の事業主の責務について、具体的にどうすれば、市民とともにまちづくりを行ったことになるか
 
