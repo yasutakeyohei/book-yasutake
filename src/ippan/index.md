@@ -10,14 +10,25 @@
 <img src="./ippan-situmon.png" alt="一般質問しているイラスト">
 </figure>
 
-令和元年6月定例会から令和4年6月定例会までで、合計37件の質問を行っています。
+令和元年6月定例会から令和4年12月定例会までで、合計39件の質問を行っています。
 
 <div class="acd-wrapper">
   <!-- Main -->
   <div class="parent-tab tab-4">
     <input type="checkbox" name="tab" id="tab-4" checked>
-    <label for="tab-4" class="tab-4"><span><a href="./r4/index.md">令和4年</a></span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
+    <label for="tab-4" class="tab-4"><span><a href="./r4/index.md">令和4年（12件）</a></span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
     <div class="acd-content">
+      <!-- Sub -->
+      <div class="child-tab">
+        <input type="checkbox" name="sub-tab" id="tab-4-12" checked>
+        <label for="tab-4-12"><span><a href="./r4/12-gatu/index.md">12月定例会（2件）</a></span><div class="icon"><i class="fa fa-plus" aria-hidden="true"></i></div></label>
+        <div class="acd-sub-content">
+          <ol>
+            <li><a href="./r4/12-gatu/1-simin-machizukuri-jourei.md">市民とともにまちづくりを行う条例を運用に耐えうるものに</a></li>
+            <li><a href="./r4/12-gatu/2-stop-cashless-jirihin.md">市をじり貧にさせるキャッシュレス決済の推進を止めよ</a></li>
+          </ol>
+        </div>
+      </div>
       <!-- Sub -->
       <div class="child-tab">
         <input type="checkbox" name="sub-tab" id="tab-4-9" checked>

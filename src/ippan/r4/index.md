@@ -2,6 +2,10 @@
 
 # 令和4年
 
+### [12月定例会](./12-gatu/index.md)
+1. [市民とともにまちづくりを行う条例を運用に耐えうるものに](./12-gatu/1-simin-machizukuri-jourei.md)
+1. [市をじり貧にさせるキャッシュレス決済の推進を止めよ](./12-gatu/2-stop-cashless-jirihin.md)
+
 ### [9月定例会](./9-gatu/index.md)
 1. [いじめ重大事態に関しての、事実に反する答弁について](./9-gatu/1-judai-hitai-kyogi-toben.md)
 1. [東京サレジオ学園北側の大規模開発について](./9-gatu/2-tokyo-saresio-kaihatu.md)
