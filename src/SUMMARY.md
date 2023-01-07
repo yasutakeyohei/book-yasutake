@@ -60,6 +60,8 @@
     - [6月定例会](./ippan/r1/6-gatu/index.md)
       1. [（1）市議会議員選挙の投票率向上に向けて](./ippan/r1/6-gatu/1-touhyouritu-koujou.md)
       1. [（2）小平市の顔ともいえるホームページで市民参加・協働の推進を](./ippan/r1/6-gatu/2-homepage-siminsanka.md)
+- [ふらっとレポート](./flat-report/index.md)
+  - [令和4年度秋冬号](./flat-report/r4d-fw.md)
 - [その他](./sonota/index.md)
   - [委員](./sonota/iin/index.md)
     - [政策課題調査（令和2年度・厚生委員会）ひとり親家庭について　～実態調査とホームページの充実を～](./sonota/iin/r2-hitorioya.md)
