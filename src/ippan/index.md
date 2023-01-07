@@ -1,6 +1,6 @@
 {{first:2020-12-09}}
 
-{{description:小平市議会議員 安竹洋平のこれまでの一般質問をまとめています}}
+{{description:小平市議会議員 安竹洋平がこれまでに行った一般質問の件名一覧（全件）です}}
 
 {{og-image:https://yasutakeyohei.com/books/yasutake/ippan/ippan-situmon-w-title.png, 300, 299}}
 
