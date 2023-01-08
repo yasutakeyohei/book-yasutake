@@ -13,6 +13,8 @@
 
 **[一般質問](./ippan/index.md)**
 
+**[ふらっとレポート](./flat-report/index.md)**
+
 **[その他](./sonota/index.md)**
 
 
