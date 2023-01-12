@@ -21,8 +21,8 @@
 **令和4年**
 
 **12月（2件）**
-1. [市民とともにまちづくりを行う条例を運用に耐えうるものに](./r4/12-gatu/1-simin-machizukuri-jourei.md)
-1. [市をじり貧にさせるキャッシュレス決済の推進を止めよ](./r4/12-gatu/2-stop-cashless-jirihin.md)
+1. [市民とともにまちづくりを行う条例を運用に耐えうるものに](./r4/12-gatu/1-simin-machizukuri-jourei.md) <sup style="color:red;">新着</sup>
+1. [市をじり貧にさせるキャッシュレス決済の推進を止めよ](./r4/12-gatu/2-stop-cashless-jirihin.md) <sup style="color:red;">新着</sup>
 
 **9月（5件）**
 1. [いじめ重大事態に関しての、事実に反する答弁について](./r4/9-gatu/1-judai-hitai-kyogi-toben.md)
