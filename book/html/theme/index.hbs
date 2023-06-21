@@ -72,332 +72,331 @@
 
         {{#if mathjax_support}}
         <!-- MathJax -->
-        <script async type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+        <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
         {{/if}}
 
         <!-- typesquare -->
         <!--
-        <script type="text/javascript" src="//typesquare.com/3/tsst/script/ja/typesquare.js?60267d718df44b799ec17594ac1e02e5" charset="utf-8" defer></script>
+        <script src="//typesquare.com/3/tsst/script/ja/typesquare.js?60267d718df44b799ec17594ac1e02e5" defer></script>
         -->
 
     </head>
     <body>
-        <!-- Provide site root to javascript -->
-        <script type="text/javascript">
-            var path_to_root = "{{ path_to_root }}";
-            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "{{ preferred_dark_theme }}" : "{{ default_theme }}";
-        </script>
+        <div id="body-container">
+            <!-- Provide site root to javascript -->
+            <script>
+                var path_to_root = "{{ path_to_root }}";
+                var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "{{ preferred_dark_theme }}" : "{{ default_theme }}";
+            </script>
 
-        <!-- Work around some values being stored in localStorage wrapped in quotes -->
-        <script type="text/javascript">
-            try {
-                var theme = localStorage.getItem('mdbook-theme');
-                var sidebar = localStorage.getItem('mdbook-sidebar');
+            <!-- Work around some values being stored in localStorage wrapped in quotes -->
+            <script>
+                try {
+                    var theme = localStorage.getItem('mdbook-theme');
+                    var sidebar = localStorage.getItem('mdbook-sidebar');
 
-                if (theme.startsWith('"') && theme.endsWith('"')) {
-                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                    if (theme.startsWith('"') && theme.endsWith('"')) {
+                        localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                    }
+
+                    if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                        localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                    }
+                } catch (e) { }
+            </script>
+
+            <!-- Set the theme before any content is loaded, prevents flash -->
+            <script>
+                var theme;
+                try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+                if (theme === null || theme === undefined) { theme = default_theme; }
+                var html = document.querySelector('html');
+                html.classList.remove('no-js')
+                html.classList.remove('{{ default_theme }}')
+                html.classList.add(theme);
+                html.classList.add('js');
+            </script>
+
+            <!-- Hide / unhide sidebar before it is displayed -->
+            <script>
+                var html = document.querySelector('html');
+                var sidebar = null;
+                if (document.body.clientWidth >= 1080) {
+                    try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                    sidebar = sidebar || 'visible';
+                } else {
+                    sidebar = 'hidden';   
                 }
+                html.classList.remove('sidebar-visible');
+                html.classList.add("sidebar-" + sidebar);
+            </script>
 
-                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
-                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
-                }
-            } catch (e) { }
-        </script>
-
-        <!-- Set the theme before any content is loaded, prevents flash -->
-        <script type="text/javascript">
-            var theme;
-            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
-            if (theme === null || theme === undefined) { theme = default_theme; }
-            var html = document.querySelector('html');
-            html.classList.remove('no-js')
-            html.classList.remove('{{ default_theme }}')
-            html.classList.add(theme);
-            html.classList.add('js');
-        </script>
-
-        <!-- Hide / unhide sidebar before it is displayed -->
-        <script type="text/javascript">
-            var html = document.querySelector('html');
-            var sidebar = 'hidden';
-            if (document.body.clientWidth >= 1080) {
-                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
-                sidebar = sidebar || 'visible';
-            }
-            html.classList.remove('sidebar-visible');
-            html.classList.add("sidebar-" + sidebar);
-        </script>
-
-        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
-            <div class="sidebar-scrollbox">
-                <div class="back-to-main-site"><a href="https://yasutakeyohei.com/books/"><i class="fa fa-chevron-left" aria-hidden="true"></i> 小平市議 安竹洋平 Official Site</a></div>
-                {{#toc}}{{/toc}}
-                <p><a href="https://github.com/yasutakeyohei" style="text-decoration: none;"><i class="fa fa-github-alt" aria-hidden="true"></i> GitHub</a></p>
-            </div>
-            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
-        </nav>
-
-        <div id="page-wrapper" class="page-wrapper">
-
-            <div class="page">
-                {{> header}}
-                <div id="menu-bar-hover-placeholder"></div>
-                <div id="menu-bar" class="menu-bar sticky bordered">
-                    <div class="left-buttons">
-
-                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
-                            <i class="fa fa-chevron-circle-right" aria-hidden="true" id="sidebar-toggle-icon"></i><!-- CUSTOM アイコンを変更 -->
-                        </button>
-
-                        <!-- CUSTOM: このボタンとリストは非表示に。消すとbook.jsでエラーが出る。-->
-                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list" style="display:none;">
-                            <i class="fa fa-paint-brush"></i>
-                        </button>
-                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
-                            <li role="none"><button role="menuitem" class="theme" id="light">{{ theme_option "Light" }}</button></li>
-                            <li role="none"><button role="menuitem" class="theme" id="rust">{{ theme_option "Rust" }}</button></li>
-                            <li role="none"><button role="menuitem" class="theme" id="coal">{{ theme_option "Coal" }}</button></li>
-                            <li role="none"><button role="menuitem" class="theme" id="navy">{{ theme_option "Navy" }}</button></li>
-                            <li role="none"><button role="menuitem" class="theme" id="ayu">{{ theme_option "Ayu" }}</button></li>
-                        </ul>
-
-                        <!-- CUSTOM: 次を追加-->
-                        <button id="a11y-toggle" class="icon-button a11y" type="button" title="Change theme"
-                            aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
-                            <i class="fa fa-universal-access" aria-hidden="true"></i> <!-- CUSTOM: idを追加 -->
-                        </button>
-                        <div id="a11y-list" class="a11y-popup-div" aria-label="Accessibility Tools" role="menu">
-                            <div><i class="icon-invert_colors_on label" aria-hidden="true"></i><span class="screen-reader-only">テーマ</span></div>
-                            <div><button role="menuitem" data-key="theme" data-val="light" data-default="true">1</button></div>
-                            <div><button role="menuitem" data-key="theme" data-val="rust">2</button></div>
-                            <div><button role="menuitem" data-key="theme" data-val="coal">3</button></div>
-                            <div><button role="menuitem" data-key="theme" data-val="navy">4</button></div>
-                            <div><button role="menuitem" data-key="theme" data-val="ayu">5</button></div>
-                            <div class="font-icon"><div><i class="icon-font label" aria-hidden="true"></i><span class="screen-reader-only">フォント</span></div></div>
-                            <div><button role="menuitem" data-key="fontFamily" data-val="font-family-ud1" data-default="true">UD1</button></div>
-                            <div><button role="menuitem" data-key="fontFamily" data-val="font-family-ud2">UD2</button></div>
-                            <div><button role="menuitem" data-key="fontFamily" data-val="font-family-gothic">ゴ</button></div>
-                            <div><button role="menuitem" data-key="fontFamily" data-val="font-family-mincho">明</button></div>
-                            <div><button role="menuitem" data-key="fontFamily" data-val="font-family-uiprop">P</button></div>
-                            <div class="font-family"><div><input type="text" role="menuitem" id="a11y-font-family-name" data-key="fontFamily" data-val="font-family-input" placeholder="フォント名を指定できます"></div></div>
-                            <div><i class="icon-format_line_spacing label" aria-hidden="true"></i><span class="screen-reader-only">行間隔</span></div>
-                            <div><button role="menuitem" data-key="lineHeight" data-val="line-height-0" data-default="true">0</button></div>
-                            <div><button role="menuitem" data-key="lineHeight" data-val="line-height-1">1</button></div>
-                            <div><button role="menuitem" data-key="lineHeight" data-val="line-height-2">2</button></div>
-                            <div><button role="menuitem" data-key="lineHeight" data-val="line-height-3">3</button></div>
-                            <div><button role="menuitem" data-key="lineHeight" data-val="line-height-4">4</button></div>
-                            <div><i class="fa fa-arrows-h label" aria-hidden="true"></i><span class="screen-reader-only">文字間隔</span></div>
-                            <div><button role="menuitem" data-key="letterSpacing" data-val="letter-spacing-0" data-default="true">0</button></div>
-                            <div><button role="menuitem" data-key="letterSpacing" data-val="letter-spacing-1">1</button></div>
-                            <div><button role="menuitem" data-key="letterSpacing" data-val="letter-spacing-2">2</button></div>
-                            <div><button role="menuitem" data-key="letterSpacing" data-val="letter-spacing-3">3</button></div>
-                            <div><button role="menuitem" data-key="letterSpacing" data-val="letter-spacing-4">4</button></div>
-                            <div><i class="icon-text_fields label" aria-hidden="true"></i><span class="screen-reader-only">文字サイズ</span></div>
-                            <div><button role="menuitem" data-key="fontSize" data-val="font-size-0" data-default="true">0</button></div>
-                            <div><button role="menuitem" data-key="fontSize" data-val="font-size-1">1</button></div>
-                            <div><button role="menuitem" data-key="fontSize" data-val="font-size-2">2</button></div>
-                            <div><button role="menuitem" data-key="fontSize" data-val="font-size-3">3</button></div>
-                            <div><button role="menuitem" data-key="fontSize" data-val="font-size-4">4</button></div>
-                            <div><i class="fa fa-cc" aria-hidden="true"></i><span class="screen-reader-only">ルビ</span></div>
-                            <div class="ruby-on">
-                                <button role="menuitem" data-key="ruby" data-val="ruby-on" disabled="disabled">（ON）</button>
-                            </div>
-                            <div class="ruby-off">
-                                <button role="menuitem" data-key="ruby" data-val="ruby-off" data-default="true" disabled="disabled">（OFF）</button>
-                            </div>
-                            <div></div>
-                            <div class="reset">
-                                <button role="menuitem" data-key="reset" data-val="action"><i class="fa fa-refresh" aria-hidden="true"></i>リセット</button>
-                            </div>
-                            <div></div>
-                            <div class="help">
-                                <button role="menuitem" data-key="help" data-val="action"><i class="fa fa-question-circle-o" aria-hidden="true"></i><span class="screen-reader-only">使い方</span></button>
-                            </div>
-                        </div>
-
-
-                        {{#if search_enabled}}
-                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
-                            <i class="fa fa-search"></i>
-                        </button>
-                        {{/if}}
-                    </div>
-
-                    <h1 class="menu-title">{{ book_title }}</h1>
-
-                    <div class="right-buttons">
-                        {{#if print_enable}}
-                        <a href="{{ path_to_root }}print.html" title="Print this book" aria-label="Print this book">
-                            <i id="print-button" class="fa fa-print"></i>
-                        </a>
-                        {{/if}}
-                        {{#if git_repository_url}}
-                        <a href="{{git_repository_url}}" title="Git repository" aria-label="Git repository">
-                            <i id="git-repository-button" class="fa {{git_repository_icon}}"></i>
-                        </a>
-                        {{/if}}
-                    </div>
+            <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+                <div class="sidebar-scrollbox">
+                    <div class="back-to-main-site"><a href="https://yasutakeyohei.com/books/"><i class="fa fa-chevron-left" aria-hidden="true"></i> 小平市議 安竹洋平 Official Site</a></div>
+                    {{#toc}}{{/toc}}
+                    <p><a href="https://github.com/yasutakeyohei" style="text-decoration: none;"><i class="fa fa-github-alt" aria-hidden="true"></i> GitHub</a></p>
                 </div>
-
-                {{#if search_enabled}}
-                <div id="search-wrapper" class="hidden">
-                    <form id="searchbar-outer" class="searchbar-outer">
-                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
-                    </form>
-                    <div id="searchresults-outer" class="searchresults-outer hidden">
-                        <div id="searchresults-header" class="searchresults-header"></div>
-                        <ul id="searchresults">
-                        </ul>
-                    </div>
-                </div>
-                {{/if}}
-
-                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
-                <script type="text/javascript">
-                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
-                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
-                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
-                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
-                    });
-                </script>
-
-                <div id="content" class="content">
-                    <main>
-                        <!-- breadcrumbs -->
-                        {{{ content }}}
-                    </main>
-
-                    <nav class="nav-wrapper" aria-label="Page navigation">
-                        <!-- Mobile navigation buttons -->
-                        {{#previous}}
-                            <a rel="prev" href="{{ path_to_root }}{{link}}" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
-                                <i class="fa fa-angle-left"></i>
-                            </a>
-                        {{/previous}}
-
-                        {{#next}}
-                            <a rel="next" href="{{ path_to_root }}{{link}}" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
-                                <i class="fa fa-angle-right"></i>
-                            </a>
-                        {{/next}}
-
-                        <div style="clear: both"></div>
-                    </nav>
-                </div>
-            </div>
-
-            <nav class="nav-wide-wrapper" aria-label="Page navigation">
-                {{#previous}}
-                    <a rel="prev" href="{{ path_to_root }}{{link}}" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
-                        <i class="fa fa-angle-left"></i>
-                    </a>
-                {{/previous}}
-
-                {{#next}}
-                    <a rel="next" href="{{ path_to_root }}{{link}}" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
-                        <i class="fa fa-angle-right"></i>
-                    </a>
-                {{/next}}
+                <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
             </nav>
 
-        </div>
+            <div id="page-wrapper" class="page-wrapper">
 
-        {{#if livereload}}
-        <!-- Livereload script (if served using the cli tool) -->
-        <script type="text/javascript">
-            var socket = new WebSocket("{{{livereload}}}");
-            socket.onmessage = function (event) {
-                if (event.data === "reload") {
+                <div class="page">
+                    {{> header}}
+                    <div id="menu-bar-hover-placeholder"></div>
+                    <div id="menu-bar" class="menu-bar sticky bordered">
+                        <div class="left-buttons">
+
+                            <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                                <i class="fa fa-chevron-circle-right" aria-hidden="true" id="sidebar-toggle-icon"></i><!-- CUSTOM アイコンを変更 -->
+                            </button>
+
+                            <!-- CUSTOM: このボタンとリストは非表示に。消すとbook.jsでエラーが出る。-->
+                            <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list" style="display:none;">
+                                <i class="fa fa-paint-brush"></i>
+                            </button>
+                            <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                                <li role="none"><button role="menuitem" class="theme" id="light">{{ theme_option "Light" }}</button></li>
+                                <li role="none"><button role="menuitem" class="theme" id="rust">{{ theme_option "Rust" }}</button></li>
+                                <li role="none"><button role="menuitem" class="theme" id="coal">{{ theme_option "Coal" }}</button></li>
+                                <li role="none"><button role="menuitem" class="theme" id="navy">{{ theme_option "Navy" }}</button></li>
+                                <li role="none"><button role="menuitem" class="theme" id="ayu">{{ theme_option "Ayu" }}</button></li>
+                            </ul>
+
+                            <!-- CUSTOM: 次を追加-->
+                            <button id="a11y-toggle" class="icon-button a11y" type="button" title="Change theme"
+                                aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                                <i class="fa fa-universal-access" aria-hidden="true"></i> <!-- CUSTOM: idを追加 -->
+                            </button>
+                            <div id="a11y-list" class="a11y-popup-div" aria-label="Accessibility Tools" role="menu">
+                                <div><i class="icon-invert_colors_on label" aria-hidden="true"></i><span class="screen-reader-only">テーマ</span></div>
+                                <div><button role="menuitem" data-key="theme" data-val="light" data-default="true">1</button></div>
+                                <div><button role="menuitem" data-key="theme" data-val="rust">2</button></div>
+                                <div><button role="menuitem" data-key="theme" data-val="coal">3</button></div>
+                                <div><button role="menuitem" data-key="theme" data-val="navy">4</button></div>
+                                <div><button role="menuitem" data-key="theme" data-val="ayu">5</button></div>
+                                <div class="font-icon"><div><i class="icon-font label" aria-hidden="true"></i><span class="screen-reader-only">フォント</span></div></div>
+                                <div><button role="menuitem" data-key="fontFamily" data-val="font-family-ud1" data-default="true">UD1</button></div>
+                                <div><button role="menuitem" data-key="fontFamily" data-val="font-family-ud2">UD2</button></div>
+                                <div><button role="menuitem" data-key="fontFamily" data-val="font-family-gothic">ゴ</button></div>
+                                <div><button role="menuitem" data-key="fontFamily" data-val="font-family-mincho">明</button></div>
+                                <div><button role="menuitem" data-key="fontFamily" data-val="font-family-uiprop">P</button></div>
+                                <div class="font-family"><div><input type="text" role="menuitem" id="a11y-font-family-name" data-key="fontFamily" data-val="font-family-input" placeholder="フォント名を指定できます"></div></div>
+                                <div><i class="icon-format_line_spacing label" aria-hidden="true"></i><span class="screen-reader-only">行間隔</span></div>
+                                <div><button role="menuitem" data-key="lineHeight" data-val="line-height-0" data-default="true">0</button></div>
+                                <div><button role="menuitem" data-key="lineHeight" data-val="line-height-1">1</button></div>
+                                <div><button role="menuitem" data-key="lineHeight" data-val="line-height-2">2</button></div>
+                                <div><button role="menuitem" data-key="lineHeight" data-val="line-height-3">3</button></div>
+                                <div><button role="menuitem" data-key="lineHeight" data-val="line-height-4">4</button></div>
+                                <div><i class="fa fa-arrows-h label" aria-hidden="true"></i><span class="screen-reader-only">文字間隔</span></div>
+                                <div><button role="menuitem" data-key="letterSpacing" data-val="letter-spacing-0" data-default="true">0</button></div>
+                                <div><button role="menuitem" data-key="letterSpacing" data-val="letter-spacing-1">1</button></div>
+                                <div><button role="menuitem" data-key="letterSpacing" data-val="letter-spacing-2">2</button></div>
+                                <div><button role="menuitem" data-key="letterSpacing" data-val="letter-spacing-3">3</button></div>
+                                <div><button role="menuitem" data-key="letterSpacing" data-val="letter-spacing-4">4</button></div>
+                                <div><i class="icon-text_fields label" aria-hidden="true"></i><span class="screen-reader-only">文字サイズ</span></div>
+                                <div><button role="menuitem" data-key="fontSize" data-val="font-size-0" data-default="true">0</button></div>
+                                <div><button role="menuitem" data-key="fontSize" data-val="font-size-1">1</button></div>
+                                <div><button role="menuitem" data-key="fontSize" data-val="font-size-2">2</button></div>
+                                <div><button role="menuitem" data-key="fontSize" data-val="font-size-3">3</button></div>
+                                <div><button role="menuitem" data-key="fontSize" data-val="font-size-4">4</button></div>
+                                <div><i class="fa fa-cc" aria-hidden="true"></i><span class="screen-reader-only">ルビ</span></div>
+                                <div class="ruby-on">
+                                    <button role="menuitem" data-key="ruby" data-val="ruby-on" disabled="disabled">（ON）</button>
+                                </div>
+                                <div class="ruby-off">
+                                    <button role="menuitem" data-key="ruby" data-val="ruby-off" data-default="true" disabled="disabled">（OFF）</button>
+                                </div>
+                                <div></div>
+                                <div class="reset">
+                                    <button role="menuitem" data-key="reset" data-val="action"><i class="fa fa-refresh" aria-hidden="true"></i>リセット</button>
+                                </div>
+                                <div></div>
+                                <div class="help">
+                                    <button role="menuitem" data-key="help" data-val="action"><i class="fa fa-question-circle-o" aria-hidden="true"></i><span class="screen-reader-only">使い方</span></button>
+                                </div>
+                            </div>
+
+
+                            {{#if search_enabled}}
+                            <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                                <i class="fa fa-search"></i>
+                            </button>
+                            {{/if}}
+                        </div>
+
+                        <h1 class="menu-title">{{ book_title }}</h1>
+
+                        <div class="right-buttons">
+                            {{#if print_enable}}
+                            <a href="{{ path_to_root }}print.html" title="Print this book" aria-label="Print this book">
+                                <i id="print-button" class="fa fa-print"></i>
+                            </a>
+                            {{/if}}
+                            {{#if git_repository_url}}
+                            <a href="{{git_repository_url}}" title="Git repository" aria-label="Git repository">
+                                <i id="git-repository-button" class="fa {{git_repository_icon}}"></i>
+                            </a>
+                            {{/if}}
+                        </div>
+                    </div>
+
+                    {{#if search_enabled}}
+                    <div id="search-wrapper" class="hidden">
+                        <form id="searchbar-outer" class="searchbar-outer">
+                            <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                        </form>
+                        <div id="searchresults-outer" class="searchresults-outer hidden">
+                            <div id="searchresults-header" class="searchresults-header"></div>
+                            <ul id="searchresults">
+                            </ul>
+                        </div>
+                    </div>
+                    {{/if}}
+
+                    <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                    <script>
+                        document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                        document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                        Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                            link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                        });
+                    </script>
+
+                    <div id="content" class="content">
+                        <main>
+                            <!-- breadcrumbs -->
+                            {{{ content }}}
+                        </main>
+
+                        <nav class="nav-wrapper" aria-label="Page navigation">
+                            <!-- Mobile navigation buttons -->
+                            {{#previous}}
+                                <a rel="prev" href="{{ path_to_root }}{{link}}" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                    <i class="fa fa-angle-left"></i>
+                                </a>
+                            {{/previous}}
+
+                            {{#next}}
+                                <a rel="next" href="{{ path_to_root }}{{link}}" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                    <i class="fa fa-angle-right"></i>
+                                </a>
+                            {{/next}}
+
+                            <div style="clear: both"></div>
+                        </nav>
+                    </div>
+                </div>
+
+                <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    {{#previous}}
+                        <a rel="prev" href="{{ path_to_root }}{{link}}" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                            <i class="fa fa-angle-left"></i>
+                        </a>
+                    {{/previous}}
+
+                    {{#next}}
+                        <a rel="next" href="{{ path_to_root }}{{link}}" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                            <i class="fa fa-angle-right"></i>
+                        </a>
+                    {{/next}}
+                </nav>
+
+            </div>
+
+            {{#if livereload_endpoint}}
+            <!-- Livereload script (if served using the cli tool) -->
+            <script>
+                const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
+                const wsAddress = wsProtocol + "//" + location.host + "/" + "{{{live_reload_endpoint}}}";
+                const socket = new WebSocket(wsAddress);
+                socket.onmessage = function (event) {
+                    if (event.data === "reload") {
+                        socket.close();
+                        location.reload();
+                    }
+                };
+
+                window.onbeforeunload = function() {
                     socket.close();
-                    location.reload();
                 }
-            };
+            </script>
+            {{/if}}
 
-            window.onbeforeunload = function() {
-                socket.close();
-            }
-        </script>
-        {{/if}}
+            {{#if google_analytics}}
+            <!-- Google Analytics Tag -->
+                <!-- Google tag (gtag.js) -->
+                <script async src="https://www.googletagmanager.com/gtag/js?id=G-BW8GDNFVG1"></script>
+                <script>
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('js', new Date());
 
-        {{#if google_analytics}}
-        <!-- Google Analytics Tag -->
-        <script type="text/javascript">
-            var localAddrs = ["localhost", "127.0.0.1", ""];
+                gtag('config', 'G-BW8GDNFVG1');
+                </script>
+            {{/if}}
 
-            // make sure we don't activate google analytics if the developer is
-            // inspecting the book locally...
-            if (localAddrs.indexOf(document.location.hostname) === -1) {
-                (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-                })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+            {{#if playground_line_numbers}}
+            <script>
+                window.playground_line_numbers = true;
+            </script>
+            {{/if}}
 
-                ga('create', '{{google_analytics}}', 'auto');
-                ga('send', 'pageview');
-            }
-        </script>
-        {{/if}}
+            {{#if playground_copyable}}
+            <script>
+                window.playground_copyable = true;
+            </script>
+            {{/if}}
 
-        {{#if playground_line_numbers}}
-        <script type="text/javascript">
-            window.playground_line_numbers = true;
-        </script>
-        {{/if}}
+            {{#if playground_js}}
+            <script src="{{ path_to_root }}ace.js"></script>
+            <script src="{{ path_to_root }}editor.js"></script>
+            <script src="{{ path_to_root }}mode-rust.js"></script>
+            <script src="{{ path_to_root }}theme-dawn.js"></script>
+            <script src="{{ path_to_root }}theme-tomorrow_night.js"></script>
+            {{/if}}
 
-        {{#if playground_copyable}}
-        <script type="text/javascript">
-            window.playground_copyable = true;
-        </script>
-        {{/if}}
+            {{#if search_js}}
+            <script src="{{ path_to_root }}elasticlunr.min.js"></script>
+            <script src="{{ path_to_root }}mark.min.js"></script>
+            <script src="{{ path_to_root }}searcher.js"></script>
+            {{/if}}
 
-        {{#if playground_js}}
-        <script src="{{ path_to_root }}ace.js" type="text/javascript" charset="utf-8"></script>
-        <script src="{{ path_to_root }}editor.js" type="text/javascript" charset="utf-8"></script>
-        <script src="{{ path_to_root }}mode-rust.js" type="text/javascript" charset="utf-8"></script>
-        <script src="{{ path_to_root }}theme-dawn.js" type="text/javascript" charset="utf-8"></script>
-        <script src="{{ path_to_root }}theme-tomorrow_night.js" type="text/javascript" charset="utf-8"></script>
-        {{/if}}
+            <script src="{{ path_to_root }}clipboard.min.js"></script>
+            <script src="{{ path_to_root }}highlight.js"></script>
+            <script src="{{ path_to_root }}book.js"></script>
 
-        {{#if search_js}}
-        <script src="{{ path_to_root }}elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="{{ path_to_root }}mark.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="{{ path_to_root }}searcher.js" type="text/javascript" charset="utf-8"></script>
-        {{/if}}
+            <!-- Custom JS scripts -->
+            {{#each additional_js}}
+            <script src="{{ ../path_to_root }}{{this}}"></script>
+            {{/each}}
 
-        <script src="{{ path_to_root }}clipboard.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="{{ path_to_root }}highlight.js" type="text/javascript" charset="utf-8"></script>
-        <script src="{{ path_to_root }}book.js" type="text/javascript" charset="utf-8"></script>
+            <!-- CUSTOM: JSの読み込み（直書き） -->
+            <script src="{{ ../path_to_root }}mdbook-shared/medium-zoom.js"></script>
+            <script src="{{ ../path_to_root }}mdbook-shared/a11y.js"></script>
 
-        <!-- Custom JS scripts -->
-        {{#each additional_js}}
-        <script type="text/javascript" src="{{ ../path_to_root }}{{this}}"></script>
-        {{/each}}
+            <script>
+                mediumZoom('[data-zoomable]');
+            </script>
 
-        <!-- CUSTOM: JSの読み込み（直書き） -->
-        <script type="text/javascript" src="{{ ../path_to_root }}mdbook-shared/medium-zoom.js"></script>
-        <script type="text/javascript" src="{{ ../path_to_root }}mdbook-shared/a11y.js"></script>
-
-        <script type="text/javascript">
-            mediumZoom('[data-zoomable]');
-        </script>
-
-        {{#if is_print}}
-        {{#if mathjax_support}}
-        <script type="text/javascript">
-        window.addEventListener('load', function() {
-            MathJax.Hub.Register.StartupHook('End', function() {
+            {{#if is_print}}
+            {{#if mathjax_support}}
+            <script>
+            window.addEventListener('load', function() {
+                MathJax.Hub.Register.StartupHook('End', function() {
+                    window.setTimeout(window.print, 100);
+                });
+            });
+            </script>
+            {{else}}
+            <script>
+            window.addEventListener('load', function() {
                 window.setTimeout(window.print, 100);
             });
-        });
-        </script>
-        {{else}}
-        <script type="text/javascript">
-        window.addEventListener('load', function() {
-            window.setTimeout(window.print, 100);
-        });
-        </script>
-        {{/if}}
-        {{/if}}
-
+            </script>
+            {{/if}}
+            {{/if}}
+        </div>
     </body>
 </html>
