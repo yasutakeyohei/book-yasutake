@@ -4,7 +4,7 @@
 
 # ふらっとレポート令和5年春号
 
-ご覧くださりありがとうございます。拡大ボタンで全画面表示になります。
+ご覧いただきありがとうございます。拡大ボタンで全画面表示になります。
 
 <div id="adobe-dc-view" style="height: 500px; width: 100%; margin-bottom:3rem;"></div>
 <script src="https://documentcloud.adobe.com/view-sdk/viewer.js" defer></script>
@@ -24,6 +24,14 @@
 		}, previewConfig);
 	});
 </script>
+
+PCでご覧の場合、フルスクリーンモードのボタンを押してから次のように選んでいただくと見やすくなります。
+
+- 「見開きページ表示」にチェック
+- 「表紙を表示」をオン
+
+![表示設定](./viewmode.png)
+
 
 
 ## 関連リンク
