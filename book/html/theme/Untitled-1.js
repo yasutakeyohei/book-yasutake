@@ -555,10 +555,8 @@ function playground_text(playground, hidden = true) {
     // Scroll sidebar to current active section
     var activeSection = document.getElementById("sidebar").querySelector(".active");
     if (activeSection) {
-        if(activeSection.querySelector('strong')) {
         // https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollIntoView
-            activeSection.querySelector('strong').scrollIntoView({ block: 'center', inline: 'center' });
-        }
+        activeSection.scrollIntoView({ block: 'center' });
     }
 })();
 
