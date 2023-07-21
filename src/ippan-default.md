@@ -4,6 +4,8 @@
 
 # （1）xx
 
+<p id="play-chukei"><a href="https://smart.discussvision.net/smart/tenant/kodaira/WebView/rd/speech.html?council_id=30&schedule_id=4&playlist_id=6&speaker_id=37&target_year=2022">🎞️動画を見る（令和5年2月末頃まで）</a></p>
+
 <p id="read-kaigiroku"><a href="">📄会議録を見る（まだ公開されていません）</a></p>
 
 <fieldset class="pnt">
