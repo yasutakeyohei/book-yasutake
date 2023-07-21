@@ -1,5 +1,10 @@
 /,小平市議 安竹の主張等
 /ippan,一般質問
+/ippan/r5/12-gatu,<strong>12月定例会</strong>
+/ippan/r5/9-gatu,<strong>9月定例会</strong>
+/ippan/r5/6-gatu,<strong>6月定例会</strong>
+/ippan/r5/3-gatu,<strong>3月定例会</strong>
+/ippan/r4/12-gatu,<strong>12月定例会</strong>
 /ippan/r4/9-gatu,<strong>9月定例会</strong>
 /ippan/r4/6-gatu,<strong>6月定例会</strong>
 /ippan/r4/3-gatu,<strong>3月定例会</strong>
@@ -14,10 +19,12 @@
 /ippan/r1/12-gatu,<strong>12月定例会</strong>
 /ippan/r1/9-gatu,<strong>9月定例会</strong>
 /ippan/r1/6-gatu,<strong>6月定例会</strong>
+/ippan/r5,<strong>令和5年</strong>
 /ippan/r4,<strong>令和4年</strong>
 /ippan/r3,<strong>令和3年</strong>
 /ippan/r2,<strong>令和2年</strong>
 /ippan/r1,<strong>令和元年</strong>
+/flat-report,ふらっとレポート
 /sonota,その他
 /sonota/kousei,厚生委員会
 /sonota/kousei/r2,令和2年
