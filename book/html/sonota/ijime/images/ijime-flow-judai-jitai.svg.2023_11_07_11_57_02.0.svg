@@ -1,0 +1,840 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="621px"
+   height="622px"
+   viewBox="-0.5 -0.5 621 622"
+   style="background-color: rgb(255, 255, 255);"
+   id="svg45"
+   sodipodi:docname="ijime-flow-judai-jitai.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview45"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.866671"
+     inkscape:cx="244.0173"
+     inkscape:cy="172.76746"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg45"
+     inkscape:connector-spacing="3"
+     showgrid="true">
+    <inkscape:grid
+       id="grid54"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="20"
+       spacingy="20"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="0"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <rect
+       x="380"
+       y="253.39227"
+       width="100"
+       height="13.392275"
+       id="rect66" />
+    <rect
+       x="360.65"
+       y="454.60245"
+       width="170.92424"
+       height="41.233245"
+       id="rect59" />
+    <marker
+       style="overflow:visible"
+       id="marker58"
+       refX="3"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="2"
+       markerHeight="2"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path58" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="3"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="2"
+       markerHeight="2"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect52"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <rect
+       x="194.70646"
+       y="33.334957"
+       width="49.244825"
+       height="17.425091"
+       id="rect47" />
+    <rect
+       x="115.91474"
+       y="222.73812"
+       width="158.46806"
+       height="37.238868"
+       id="rect46" />
+    <rect
+       x="201.52497"
+       y="109.09622"
+       width="49.623628"
+       height="26.137637"
+       id="rect45" />
+    <rect
+       x="201.52496"
+       y="109.09622"
+       width="121.86811"
+       height="14.78353"
+       id="rect45-3" />
+    <rect
+       x="115.91474"
+       y="222.73811"
+       width="159.55275"
+       height="59.2742"
+       id="rect46-1" />
+    <rect
+       x="194.70647"
+       y="33.334957"
+       width="49.244823"
+       height="17.425091"
+       id="rect47-8" />
+    <rect
+       x="201.52496"
+       y="109.09622"
+       width="121.86811"
+       height="14.78353"
+       id="rect45-3-2" />
+    <rect
+       x="201.52496"
+       y="109.09622"
+       width="72.244478"
+       height="29.2697"
+       id="rect45-3-2-8" />
+  </defs>
+  <rect
+     x="10.908648"
+     y="619.40558"
+     width="140"
+     height="20"
+     fill="none"
+     stroke="none"
+     pointer-events="all"
+     id="rect1" />
+  <text
+     x="80.408646"
+     y="632.90558"
+     fill="#000000"
+     font-family="Helvetica"
+     font-size="12px"
+     text-anchor="middle"
+     id="text1">被害本人とその保護者</text>
+  <rect
+     x="230.90865"
+     y="699.40558"
+     width="40"
+     height="20"
+     fill="none"
+     stroke="none"
+     pointer-events="all"
+     id="rect2" />
+  <text
+     x="250.40865"
+     y="712.90558"
+     fill="#000000"
+     font-family="Helvetica"
+     font-size="12px"
+     text-anchor="middle"
+     id="text2">市長</text>
+  <text
+     x="389.875"
+     y="653"
+     fill="#000000"
+     font-family="Helvetica"
+     font-size="12px"
+     text-anchor="middle"
+     id="text3">公立学校から教育委員会を通じて</text>
+  <path
+     d="m 210.90865,589.4056 -26.84,-26.84"
+     fill="none"
+     stroke="#ff0000"
+     stroke-width="2"
+     stroke-miterlimit="10"
+     stroke-dasharray="2, 2"
+     pointer-events="stroke"
+     id="path4" />
+  <path
+     d="m 197.33865,565.9356 -14.85,-4.95 4.95,14.85"
+     fill="none"
+     stroke="#ff0000"
+     stroke-width="2"
+     stroke-miterlimit="10"
+     pointer-events="all"
+     id="path5" />
+  <rect
+     x="99.984772"
+     y="39.984764"
+     width="79.030464"
+     height="19.030466"
+     rx="9.8788071"
+     ry="9.515233"
+     fill="#ffffff"
+     stroke="#000000"
+     pointer-events="all"
+     id="rect5"
+     style="stroke-width:0.969532" />
+  <text
+     x="139.26562"
+     y="53.812496"
+     fill="#000000"
+     font-family="Helvetica"
+     font-size="12px"
+     text-anchor="middle"
+     id="text5">開始</text>
+  <rect
+     x="299.5"
+     y="659.5"
+     width="180"
+     height="40"
+     fill="#ffffff"
+     stroke="#000000"
+     pointer-events="all"
+     id="rect7" />
+  <rect
+     x="40.136581"
+     y="199.5853"
+     width="198.72684"
+     height="58.726841"
+     fill="#ffffff"
+     stroke="#000000"
+     pointer-events="all"
+     id="rect7-4"
+     style="stroke-width:1.27316" />
+  <rect
+     x="40.236584"
+     y="280.71664"
+     width="198.52684"
+     height="98.783379"
+     fill="#ffffff"
+     stroke="#000000"
+     pointer-events="all"
+     id="rect7-4-0"
+     style="stroke-width:1.6504;stroke-dasharray:9.90239, 1.6504;stroke-dashoffset:0" />
+  <rect
+     x="260.13635"
+     y="199.58507"
+     width="198.72729"
+     height="58.726833"
+     fill="#ffffff"
+     stroke="#000000"
+     pointer-events="all"
+     id="rect7-4-2"
+     style="stroke-width:1.27316" />
+  <text
+     x="389"
+     y="683"
+     fill="#000000"
+     font-family="Helvetica"
+     font-size="12px"
+     text-anchor="middle"
+     id="text7">市長へ重大事態の発生を報告</text>
+  <rect
+     x="204.90865"
+     y="589.40558"
+     width="180"
+     height="40"
+     rx="20"
+     ry="20"
+     fill="#ffffff"
+     stroke="#ff0000"
+     stroke-width="2"
+     stroke-dasharray="2, 2"
+     pointer-events="all"
+     id="rect11" />
+  <text
+     x="294.40866"
+     y="612.90558"
+     fill="#000000"
+     font-family="Helvetica"
+     font-size="12px"
+     text-anchor="middle"
+     id="text12">小平市の場合は教育委員会？</text>
+  <text
+     x="128.25"
+     y="289.10938"
+     fill="#000000"
+     font-family="Helvetica"
+     font-size="12px"
+     text-anchor="middle"
+     id="text12-6"
+     style="line-height:18px;white-space:pre;inline-size:160.422"
+     transform="translate(11.179691,16.845242)"><tspan
+       x="128.25"
+       y="289.10938"
+       id="tspan61"
+       style="line-height:18px">小平市の現状では、市教育委員会の下に設けられた常設の『<tspan
+   style="fill:#0000ff"
+   id="tspan64">小平市教育委員会いじめ問題対策委員会</tspan>』が当該の組織</tspan></text>
+  <path
+     d="m 8.908648,519.4056 v 40 m 144.000002,-40 v 40"
+     fill="none"
+     stroke="#b09500"
+     stroke-miterlimit="10"
+     pointer-events="all"
+     id="path13" />
+  <text
+     x="440.44708"
+     y="730.19946"
+     fill="#000000"
+     font-family="Helvetica"
+     font-size="12px"
+     text-anchor="middle"
+     id="text14">教育委員会／学校が設置する組織による調査等</text>
+  <path
+     d="m 80.908648,699.4056 0.29,133.65"
+     fill="none"
+     stroke="#000000"
+     stroke-miterlimit="10"
+     pointer-events="stroke"
+     id="path17" />
+  <path
+     d="m 81.208648,838.3056 -3.52,-6.99 3.51,1.74 3.49,-1.76 z"
+     fill="#000000"
+     stroke="#000000"
+     stroke-miterlimit="10"
+     pointer-events="all"
+     id="path18" />
+  <path
+     d="m 80.908648,639.4056 90.000002,30 -90.000002,30 -90,-30 z"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-miterlimit="10"
+     pointer-events="all"
+     id="path19" />
+  <text
+     x="80.408646"
+     y="675.90558"
+     fill="#000000"
+     font-family="Helvetica"
+     font-size="12px"
+     text-anchor="middle"
+     id="text19">調査に漏れや不備があると判断？</text>
+  <path
+     d="m 250.90865,779.4256 v 20 q 0,10 -10,10 H 87.278648"
+     fill="none"
+     stroke="#000000"
+     stroke-miterlimit="10"
+     pointer-events="stroke"
+     id="path20" />
+  <path
+     d="m 82.028648,809.4256 7,-3.5 -1.75,3.5 1.75,3.5 z"
+     fill="#000000"
+     stroke="#000000"
+     stroke-miterlimit="10"
+     pointer-events="all"
+     id="path21" />
+  <path
+     d="m 340.87865,749.4156 60.03,-0.01 q 10,0 10,10 v 23.63"
+     fill="none"
+     stroke="#000000"
+     stroke-miterlimit="10"
+     pointer-events="stroke"
+     id="path22" />
+  <path
+     d="m 410.90865,788.2856 -3.5,-7 3.5,1.75 3.5,-1.75 z"
+     fill="#000000"
+     stroke="#000000"
+     stroke-miterlimit="10"
+     pointer-events="all"
+     id="path23" />
+  <path
+     d="m 250.90865,719.4256 90,30 -90,30 -90,-30 z"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-miterlimit="10"
+     pointer-events="all"
+     id="path24" />
+  <text
+     x="250.40865"
+     y="750.90558"
+     fill="#000000"
+     font-family="Helvetica"
+     font-size="12px"
+     text-anchor="middle"
+     id="text24">市長が附属機関での再調査が必要と判断？...</text>
+  <rect
+     x="340.90866"
+     y="739.4256"
+     width="30"
+     height="10"
+     fill="none"
+     stroke="none"
+     pointer-events="all"
+     id="rect24" />
+  <text
+     x="342.40866"
+     y="747.90558"
+     fill="#000000"
+     font-family="Helvetica"
+     font-size="12px"
+     id="text25">YES</text>
+  <rect
+     x="85.908646"
+     y="719.4256"
+     width="20"
+     height="10"
+     fill="none"
+     stroke="none"
+     pointer-events="all"
+     id="rect25" />
+  <text
+     x="95.408646"
+     y="727.90558"
+     fill="#000000"
+     font-family="Helvetica"
+     font-size="12px"
+     text-anchor="middle"
+     id="text26">NO</text>
+  <text
+     x="469.14386"
+     y="419.26309"
+     fill="#000000"
+     font-family="Helvetica"
+     font-size="12px"
+     text-anchor="middle"
+     id="text1-0">被害本人とその保護者</text>
+  <path
+     d="M 139.5,79.5 237.69611,108.95975 139.5,138.41949 41.303883,108.95975 Z"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-miterlimit="10"
+     pointer-events="all"
+     id="path19-4"
+     style="stroke-width:1.03509" />
+  <text
+     x="144.12149"
+     y="102.67394"
+     fill="#000000"
+     font-family="Helvetica"
+     font-size="12px"
+     text-anchor="middle"
+     id="text19-1"
+     style="white-space:pre;inline-size:209.435;display:inline"
+     transform="translate(-3.0908177,11.544806)">調査主体は？</text>
+  <text
+     x="239.21335"
+     y="79.195114"
+     fill="#000000"
+     font-family="Helvetica"
+     font-size="12px"
+     id="text20-3"
+     style="line-height:18px"><tspan
+       sodipodi:role="line"
+       id="tspan51"
+       x="239.21335"
+       y="79.195114"
+       style="line-height:18px">当該学校の設置者が</tspan><tspan
+       sodipodi:role="line"
+       id="tspan52"
+       x="239.21335"
+       y="98.156967"
+       style="line-height:18px">設置する学校</tspan></text>
+  <text
+     x="192.15625"
+     y="149.25"
+     fill="#000000"
+     font-family="Helvetica"
+     font-size="12px"
+     text-anchor="middle"
+     id="text26-3"><tspan
+       sodipodi:role="line"
+       id="tspan50"
+       x="192.15625"
+       y="149.25">当該学校の設置者</tspan></text>
+  <rect
+     x="41.228649"
+     y="839.4256"
+     width="80"
+     height="20"
+     rx="10"
+     ry="10"
+     fill="#ffffff"
+     stroke="#000000"
+     pointer-events="all"
+     id="rect26" />
+  <text
+     x="80.408646"
+     y="852.90558"
+     fill="#000000"
+     font-family="Helvetica"
+     font-size="12px"
+     text-anchor="middle"
+     id="text27">終了</text>
+  <rect
+     x="250.90865"
+     y="779.4256"
+     width="20"
+     height="10"
+     fill="none"
+     stroke="none"
+     pointer-events="all"
+     id="rect27" />
+  <text
+     x="260.40866"
+     y="787.90558"
+     fill="#000000"
+     font-family="Helvetica"
+     font-size="12px"
+     text-anchor="middle"
+     id="text28">NO</text>
+  <rect
+     x="330.90866"
+     y="789.40558"
+     width="160"
+     height="40"
+     fill="#a20025"
+     stroke="#6f0000"
+     pointer-events="all"
+     id="rect28" />
+  <path
+     d="m 346.90865,789.4056 v 40 m 128,-40 v 40"
+     fill="none"
+     stroke="#6f0000"
+     stroke-miterlimit="10"
+     pointer-events="all"
+     id="path28" />
+  <text
+     x="410.40866"
+     y="812.90558"
+     fill="#ffffff"
+     font-family="Helvetica"
+     font-size="12px"
+     text-anchor="middle"
+     id="text29">市長の附属機関による調査等</text>
+  <g
+     id="g52"
+     transform="translate(272.22594,257.21256)">
+    <path
+       d="m 117.27406,442.28745 v 23.63"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path29" />
+    <path
+       d="m 117.27406,471.16745 -3.5,-7 3.5,1.75 3.5,-1.75 z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path30" />
+  </g>
+  <g
+     id="g48">
+    <rect
+       x="170.90865"
+       y="659.40558"
+       width="30"
+       height="10"
+       fill="none"
+       stroke="none"
+       pointer-events="all"
+       id="rect19" />
+    <text
+       x="172.40865"
+       y="667.90558"
+       fill="#000000"
+       font-family="Helvetica"
+       font-size="12px"
+       id="text20">YES</text>
+    <path
+       d="m 170.90865,669.4056 h 70 q 10,0 10,10 v 13.63"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path35" />
+    <path
+       d="m 250.90865,698.2856 -3.5,-7 3.5,1.75 3.5,-1.75 z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path36" />
+  </g>
+  <path
+     d="m 81.098648,559.4056 -0.17,53.63"
+     fill="none"
+     stroke="#000000"
+     stroke-miterlimit="10"
+     pointer-events="stroke"
+     id="path37" />
+  <path
+     d="m 80.908648,618.2856 -3.47,-7.01 3.49,1.76 3.51,-1.74 z"
+     fill="#000000"
+     stroke="#000000"
+     stroke-miterlimit="10"
+     pointer-events="all"
+     id="path38" />
+  <rect
+     x="20.908648"
+     y="579.40558"
+     width="120"
+     height="20"
+     fill="#ffffff"
+     stroke="none"
+     pointer-events="all"
+     id="rect38" />
+  <text
+     x="80.408646"
+     y="592.90558"
+     fill="#000000"
+     font-family="Helvetica"
+     font-size="12px"
+     text-anchor="middle"
+     id="text38">調査結果を受けて</text>
+  <text
+     x="215.40865"
+     y="837.90558"
+     fill="#000000"
+     font-family="Helvetica"
+     font-size="12px"
+     text-anchor="middle"
+     id="text39"
+     style="display:inline">被害本人とその保護者が納得しない結果に</text>
+  <rect
+     style="background-color:rgb(255, 255, 255);fill:#e3c800;stroke:#b09500;stroke-width:2.41188;stroke-miterlimit:2.8;stroke-dasharray:none;stroke-dashoffset:0;paint-order:normal"
+     id="rect65-8"
+     width="157.5881"
+     height="17.58812"
+     x="60.705948"
+     y="0.39829335" />
+  <rect
+     style="fill:#e3c800;stroke:#b09500;stroke-width:2.1043;stroke-miterlimit:2.8;stroke-dasharray:none;stroke-dashoffset:0;paint-order:normal"
+     id="rect65-8-7"
+     width="117.89571"
+     height="17.8957"
+     x="80.552139"
+     y="0.24450287" />
+  <g
+     id="g68"
+     transform="translate(-221.05214,-60)">
+    <rect
+       style="fill:#e3c800;stroke:#b09500;stroke-width:2.41188;stroke-miterlimit:2.8;stroke-dasharray:none;stroke-dashoffset:0;paint-order:normal"
+       id="rect65-8-4"
+       width="157.5881"
+       height="17.58812"
+       x="261.75809"
+       y="481.75809" />
+    <rect
+       style="fill:#e3c800;stroke:#b09500;stroke-width:2.1043;stroke-miterlimit:2.8;stroke-dasharray:none;stroke-dashoffset:0;paint-order:normal"
+       id="rect65-8-7-7"
+       width="117.89571"
+       height="17.8957"
+       x="281.60428"
+       y="481.60431" />
+  </g>
+  <text
+     x="139.47656"
+     y="13.575166"
+     fill="#000000"
+     font-family="Helvetica"
+     font-size="12px"
+     text-anchor="middle"
+     id="text40">重大事態の対応</text>
+  <a
+     xlink:href="#重大事態の調査"
+     id="a41"
+     transform="translate(-9.091352,239.4056)">
+    <rect
+       x="0"
+       y="280"
+       width="180"
+       height="40"
+       fill="none"
+       stroke="none"
+       pointer-events="all"
+       id="rect41" />
+  </a>
+  <a
+     xlink:href="#重大事態の調査"
+     id="a44"
+     transform="translate(-9.091352,239.4056)">
+    <rect
+       x="340"
+       y="550"
+       width="160"
+       height="40"
+       fill="none"
+       stroke="none"
+       pointer-events="all"
+       id="rect44" />
+  </a>
+  <a
+     id="a45"
+     xlink:href="https://elaws.e-gov.go.jp/document?lawid=425AC1000000071_20221001_503AC0000000027#Mp-At_30"
+     transform="translate(299.5,559.50001)">
+    <text
+       xml:space="preserve"
+       transform="translate(-18.682705,-2.0152253)"
+       id="text45"
+       style="font-size:10px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect45);display:inline;fill:#0000ff"><tspan
+         sodipodi:role="line"
+         id="tspan45"
+         style="font-size:10px;fill:#0000ff">第30条1項&#10;義務</tspan></text>
+  </a>
+  <a
+     id="a48"
+     xlink:href="https://elaws.e-gov.go.jp/document?lawid=425AC1000000071_20221001_503AC0000000027#Mp-At_28"
+     transform="translate(146.63778,165.23297)"
+     style="background-color:rgb(255, 255, 255)">
+    <text
+       xml:space="preserve"
+       transform="translate(-198.45223,-16.141173)"
+       id="text45-6"
+       style="font-size:8px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect45-3);display:inline;fill:#0000ff"><tspan
+         x="201.52539"
+         y="118.93945"
+         id="tspan1"
+         style="font-size:8px">第28条1項（ソフト義務）</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="translate(21.547769,-16.141173)"
+       id="text45-6-2"
+       style="font-size:8px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect45-3-2);display:inline;fill:#0000ff"><tspan
+         x="201.52539"
+         y="116.9707"
+         id="tspan2-1">第28条1項（ソフト義務）</tspan></text>
+  </a>
+  <text
+     xml:space="preserve"
+     transform="translate(268.20978,107.12928)"
+     id="text45-6-2-4"
+     style="font-size:10px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect45-3-2-8);display:inline;fill:#000000"><tspan
+       x="201.52539"
+       y="116.9707"
+       id="tspan1-3"
+       style="font-size:10px;fill:#000000">学校≠当該学校でもよい？</tspan></text>
+  <text
+     xml:space="preserve"
+     transform="translate(-54.882812,-9.1983929)"
+     id="text46"
+     style="font-size:12px;line-height:16px;font-family:sans-serif;text-align:center;text-anchor:middle;white-space:pre;shape-inside:url(#rect46);display:inline"
+     x="23.882812"
+     y="0"><tspan
+       style="line-height:16px;text-align:justify;text-anchor:start"
+       id="tspan66">当該学校の設置者の下に調査を行うための組織を設ける</tspan></text>
+  <text
+     xml:space="preserve"
+     transform="translate(165.89062,-10.198626)"
+     id="text46-5"
+     style="font-size:12px;line-height:16px;font-family:sans-serif;white-space:pre;shape-inside:url(#rect46-1);display:inline"
+     x="701.03906"
+     y="0"><tspan
+       style="line-height:16px;text-align:justify;text-anchor:start"
+       sodipodi:role="line"
+       id="tspan68">学校の下に調査を行うための組織を設ける</tspan></text>
+  <text
+     xml:space="preserve"
+     transform="translate(-78.925781,148.80664)"
+     id="text47"
+     style="font-size:12px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect47);display:inline">速やかに</text>
+  <text
+     xml:space="preserve"
+     transform="translate(141.07422,149.06982)"
+     id="text47-1"
+     style="font-size:12px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect47-8);display:inline"><tspan
+       x="194.70703"
+       y="45.146484"
+       id="tspan1-6">速やかに</tspan></text>
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 139.5,59.01523 139.5,79.5"
+     id="path55"
+     inkscape:connector-type="polyline"
+     inkscape:connector-curvature="0"
+     inkscape:connection-start="#rect5"
+     inkscape:connection-end="#path19-4" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.819975px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Triangle)"
+     d="M 139.5,138.41949 V 179.5"
+     id="path56"
+     inkscape:connector-type="polyline"
+     inkscape:connector-curvature="0" />
+  <rect
+     style="fill:#0000ff;stroke:#27407a;stroke-width:1.3;stroke-miterlimit:2.8;stroke-dasharray:none;paint-order:normal"
+     id="rect56"
+     width="20"
+     height="20"
+     x="426.62546"
+     y="98.459747" />
+  <path
+     style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker58)"
+     d="M 237.69611,108.95975 H 319.5 c 20,0 40,20 40,40 V 179.5"
+     id="path57"
+     inkscape:connector-type="orthogonal"
+     inkscape:connector-curvature="40" />
+  <text
+     xml:space="preserve"
+     transform="translate(-246.85489,-29.399152)"
+     id="text59"
+     style="font-size:12px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect59)">教育委員会／学校が設置する組織による調査等</text>
+  <text
+     xml:space="preserve"
+     transform="translate(-0.5,-0.5)"
+     id="text66"
+     style="line-height:1.25;font-family:sans-serif;font-size:8px;white-space:pre;shape-inside:url(#rect66)"><tspan
+       sodipodi:role="line"
+       id="tspan67"></tspan></text>
+</svg>

@@ -899,6 +899,7 @@ p.img-wrapper {
   box-shadow: 2px 2px 2px var(--fg);
   margin-bottom: 3rem;
   text-align:center;
+  overflow:auto;
 }
 
 .balloon {
